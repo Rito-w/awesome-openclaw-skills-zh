@@ -1,33 +1,24 @@
 #!/usr/bin/env python3
 """
-auto-dispatch.py - 自动派发翻译任务
+auto-dispatch.py - 翻译任务派发助手
 
-使用 sessions_spawn 批量派发翻译任务给子代理。
-支持：
-- 批量派发所有待翻译文件
-- 并发控制（避免同时运行太多任务）
-- 任务状态追踪
-- 断点续传
+由于 sessions_spawn 必须在 OpenClaw 会话内运行，
+此脚本生成所有待翻译任务的提示词，方便你复制使用。
 
 用法:
-    python auto-dispatch.py --all           # 派发所有待翻译任务
-    python auto-dispatch.py --status        # 查看翻译状态
-    python auto-dispatch.py --dispatch 5    # 派发 5 个任务
-    python auto-dispatch.py --sync          # 同步上游更新并派发新任务
+    python3 scripts/auto-dispatch.py --status     # 查看翻译状态
+    python3 scripts/auto-dispatch.py --next 3     # 生成接下来 3 个任务的提示词
+    python3 scripts/auto-dispatch.py --all        # 生成所有待翻译任务的提示词
 """
 
 import json
-import subprocess
 import sys
-import os
 from pathlib import Path
 from datetime import datetime
-from typing import List, Dict
 
 PROJECT_DIR = Path(__file__).parent.parent
 UPSTREAM_DIR = Path("/Volumes/myDisk/workplace/awesome-openclaw-skills")
 SCRIPT_DIR = Path(__file__).parent
-TASKS_DIR = SCRIPT_DIR / "tasks"
 STATE_FILE = SCRIPT_DIR / "dispatch-state.json"
 
 CATEGORIES = [
@@ -44,40 +35,43 @@ CATEGORIES = [
     "web-and-frontend-development",
 ]
 
-# 已完成的分类（硬编码，避免重复）
-COMPLETED = {"git-and-github", "ai-and-llms"}
-
 
 def load_state():
-    """加载状态"""
     if STATE_FILE.exists():
         with open(STATE_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
-    return {"dispatched": [], "completed": list(COMPLETED), "last_update": None}
+    return {"completed": ["git-and-github", "ai-and-llms"]}
 
 
 def save_state(state):
-    """保存状态"""
     state["last_update"] = datetime.now().isoformat()
     with open(STATE_FILE, 'w', encoding='utf-8') as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-def get_pending_categories(state) -> List[str]:
-    """获取待翻译的分类列表"""
+def get_pending():
+    state = load_state()
+    completed = set(state.get("completed", []))
+    
     pending = []
     for cat in CATEGORIES:
         output_file = PROJECT_DIR / "categories" / f"{cat}.zh.md"
-        if cat in state.get("completed", []) and output_file.exists():
-            continue
-        if cat in COMPLETED and output_file.exists():
-            continue
-        pending.append(cat)
+        if cat not in completed or not output_file.exists():
+            pending.append(cat)
+    
     return pending
 
 
-def create_translation_prompt(category: str) -> str:
-    """创建翻译提示词"""
+def mark_completed(category):
+    state = load_state()
+    if "completed" not in state:
+        state["completed"] = []
+    if category not in state["completed"]:
+        state["completed"].append(category)
+    save_state(state)
+
+
+def create_prompt(category):
     input_file = UPSTREAM_DIR / "categories" / f"{category}.md"
     output_file = PROJECT_DIR / "categories" / f"{category}.zh.md"
     date_str = datetime.now().strftime('%Y-%m-%d')
@@ -103,169 +97,50 @@ def create_translation_prompt(category: str) -> str:
 请读取输入文件，翻译后写入输出文件。完成后回复"✅ 完成：{category}.zh.md"。"""
 
 
-def dispatch_task(category: str) -> Dict:
-    """派发单个翻译任务"""
-    prompt = create_translation_prompt(category)
-    
-    print(f"  🚀 派发任务：{category}")
-    
-    # 使用 sessions_spawn 派发
-    result = subprocess.run(
-        ['openclaw', 'sessions_spawn', '--mode', 'run', '--label', f'translate-{category}', '--task', prompt],
-        capture_output=True,
-        text=True,
-        cwd=str(PROJECT_DIR)
-    )
-    
-    if result.returncode == 0:
-        # 解析输出获取 session key
-        try:
-            output = json.loads(result.stdout)
-            session_key = output.get('childSessionKey', 'unknown')
-            return {
-                'status': 'dispatched',
-                'session_key': session_key,
-                'category': category,
-                'timestamp': datetime.now().isoformat()
-            }
-        except:
-            return {
-                'status': 'dispatched',
-                'session_key': 'unknown',
-                'category': category,
-                'timestamp': datetime.now().isoformat()
-            }
-    else:
-        print(f"    ❌ 失败：{result.stderr[:100]}")
-        return {
-            'status': 'failed',
-            'error': result.stderr[:200],
-            'category': category,
-            'timestamp': datetime.now().isoformat()
-        }
-
-
-def dispatch_all(limit: int = None):
-    """批量派发翻译任务"""
-    state = load_state()
-    pending = get_pending_categories(state)
-    
-    if not pending:
-        print("✅ 所有分类已翻译完成！")
-        return
-    
-    if limit:
-        pending = pending[:limit]
-        print(f"=== 派发 {len(pending)} 个翻译任务 ===\n")
-    else:
-        print(f"=== 派发所有 {len(pending)} 个待翻译任务 ===\n")
-    
-    dispatched = 0
-    failed = 0
-    
-    for category in pending:
-        result = dispatch_task(category)
-        
-        if result['status'] == 'dispatched':
-            state["dispatched"].append(result)
-            dispatched += 1
-            print(f"    ✅ {category} -> {result['session_key']}")
-        else:
-            failed += 1
-        
-        # 保存状态
-        save_state(state)
-        
-        # 小延迟避免过快
-        import time
-        time.sleep(1)
-    
-    print(f"\n=== 派发完成 ===")
-    print(f"成功：{dispatched}")
-    print(f"失败：{failed}")
-    print(f"\n💡 任务正在后台运行，完成后会自动通知")
-
-
 def show_status():
-    """显示翻译状态"""
     state = load_state()
+    completed = set(state.get("completed", []))
     
     print("\n=== 翻译状态 ===\n")
     
-    completed = 0
+    done = 0
     pending = 0
-    in_progress = 0
     
     for cat in CATEGORIES:
         output_file = PROJECT_DIR / "categories" / f"{cat}.zh.md"
-        if output_file.exists():
+        if cat in completed and output_file.exists():
             print(f"✅ {cat}.zh.md")
-            completed += 1
-        elif cat in [d['category'] for d in state.get('dispatched', [])]:
-            print(f"🔄 {cat}.zh.md (翻译中)")
-            in_progress += 1
+            done += 1
         else:
             print(f"⏳ {cat}.zh.md")
             pending += 1
     
-    print(f"\n总计：{len(CATEGORIES)} | 已完成：{completed} | 翻译中：{in_progress} | 待翻译：{pending}")
-    print(f"最后更新：{state.get('last_update', '无')}")
+    print(f"\n总计：{len(CATEGORIES)} | 已完成：{done} | 待翻译：{pending}")
+    print(f"\n💡 使用 `python3 scripts/auto-dispatch.py --next 5` 生成接下来 5 个任务的提示词")
 
 
-def sync_from_upstream():
-    """同步上游更新并派发新任务"""
-    print("=== 同步上游更新 ===\n")
+def generate_tasks(limit=None):
+    pending = get_pending()
     
-    # 获取上游变更
-    result = subprocess.run(
-        ['git', 'diff', '--name-only', 'origin/main', 'main'],
-        cwd=str(UPSTREAM_DIR),
-        capture_output=True,
-        text=True
-    )
+    if limit:
+        pending = pending[:limit]
     
-    if result.returncode != 0:
-        print("⚠️  无法获取上游变更，尝试直接拉取...")
-        subprocess.run(['git', 'fetch', 'origin', 'main'], cwd=str(UPSTREAM_DIR))
-    
-    changed_files = result.stdout.strip().split('\n') if result.stdout.strip() else []
-    
-    # 筛选分类文件
-    categories_to_update = []
-    for f in changed_files:
-        if f.startswith('categories/') and f.endswith('.md'):
-            cat_name = f.split('/')[-1].replace('.md', '')
-            if not cat_name.endswith('.zh'):
-                categories_to_update.append(cat_name)
-    
-    if not categories_to_update:
-        print("✅ 上游无更新")
+    if not pending:
+        print("✅ 所有文件已翻译完成！")
         return
     
-    print(f"📝 发现 {len(categories_to_update)} 个分类有更新:")
-    for cat in categories_to_update:
-        print(f"  - {cat}.md")
+    print(f"\n=== 待翻译任务：{len(pending)} 个 ===")
+    print(f"\n💡 使用方法：")
+    print(f"1. 复制下面的提示词")
+    print(f"2. 在 OpenClaw 会话中运行：sessions_spawn(task=\"\"\"...提示词...\"\"\")")
+    print(f"3. 子代理完成后会自动通知你")
+    print(f"\n{'='*70}")
     
-    # 重新翻译这些分类
-    print(f"\n🔄 重新翻译这些分类...")
-    
-    state = load_state()
-    for cat in categories_to_update:
-        # 删除旧版本
-        output_file = PROJECT_DIR / "categories" / f"{cat}.zh.md"
-        if output_file.exists():
-            output_file.unlink()
-            print(f"  🗑️  删除旧版：{cat}.zh.md")
-        
-        # 从 completed 中移除
-        if cat in state.get("completed", []):
-            state["completed"].remove(cat)
-        
-        # 派发新任务
-        dispatch_task(cat)
-        save_state(state)
-    
-    print(f"\n✅ 同步完成，已派发重新翻译任务")
+    for i, cat in enumerate(pending, 1):
+        print(f"\n### 任务 {i}/{len(pending)}: {cat}")
+        print(f"{'='*70}")
+        print(create_prompt(cat))
+        print(f"\n--- 任务 {i} 结束 ---\n")
 
 
 def main():
@@ -277,17 +152,14 @@ def main():
     
     if arg == '--status':
         show_status()
+    elif arg == '--next' and len(sys.argv) > 2:
+        count = int(sys.argv[2])
+        generate_tasks(limit=count)
     elif arg == '--all':
-        dispatch_all()
-    elif arg == '--sync':
-        sync_from_upstream()
-        dispatch_all()
-    elif arg.isdigit():
-        dispatch_all(limit=int(arg))
+        generate_tasks()
     else:
         print(f"未知参数：{arg}")
         print(__doc__)
-        sys.exit(1)
 
 
 if __name__ == '__main__':
