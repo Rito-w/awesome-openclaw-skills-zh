@@ -1,0 +1,17 @@
+# Scripts internal
+scripts/pending-translate.txt
+scripts/sync-report.md
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
