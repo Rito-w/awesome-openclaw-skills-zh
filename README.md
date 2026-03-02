@@ -167,6 +167,34 @@ OpenClaw 代理的设置、托管和部署提供商。
 
 欢迎提交 Issue 和 Pull Request 来改进翻译质量或添加新的分类翻译！
 
+## 自动化翻译 🤖
+
+本项目使用 Claude Code 自动翻译。当上游仓库有更新时：
+
+```bash
+# 1. 同步上游变更
+./scripts/sync-from-upstream.sh
+
+# 2. 使用 Claude Code 翻译新增/修改的文件
+python3 scripts/auto-translate.py categories/
+
+# 3. 提交翻译结果
+git add -A && git commit -m "feat: 翻译新增内容" && git push
+```
+
+### 翻译命令
+
+```bash
+# 查看翻译状态
+python3 scripts/auto-translate.py --status
+
+# 翻译单个分类
+python3 scripts/auto-translate.py categories/git-and-github.md
+
+# 翻译所有待翻译文件
+python3 scripts/auto-translate.py --all
+```
+
 ---
 
 *本中文版由社区维护，旨在帮助中文用户发现和使用 OpenClaw 技能。*

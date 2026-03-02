@@ -49,18 +49,26 @@ cd /Volumes/myDisk/workplace/awesome-openclaw-skills-zh
 ./scripts/sync-from-upstream.sh
 ```
 
-### 翻译单个分类
+### 使用 Claude Code 自动翻译
+
+```bash
+# 查看翻译状态
+python3 scripts/auto-translate.py --status
+
+# 翻译单个文件
+python3 scripts/auto-translate.py categories/git-and-github.md
+
+# 翻译整个目录
+python3 scripts/auto-translate.py categories/
+
+# 翻译所有需要翻译的文件
+python3 scripts/auto-translate.py --all
+```
+
+### 旧版翻译脚本（手动）
 
 ```bash
 ./scripts/translate-category.sh categories/git-and-github.md
-```
-
-### 批量翻译所有分类
-
-```bash
-for f in categories/*.md; do
-  ./scripts/translate-category.sh "$f"
-done
 ```
 
 ## 自动同步流程
