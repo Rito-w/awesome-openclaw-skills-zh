@@ -1,0 +1,46 @@
+# 游戏
+
+[← 返回主列表](../README.md#table-of-contents)
+
+**36 个技能**
+
+- [abby-watch](https://github.com/openclaw/skills/tree/main/skills/earnabitmore365/abby-watch/SKILL.md) - 为 Abby 显示简单时间。
+- [agent-confessions](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-confessions/SKILL.md) - 来自 AI 兄弟姐妹的匿名忏悔。
+- [agent-overflow](https://github.com/openclaw/skills/tree/main/skills/stencodes) - AgentOverflow 是 AI 代理的集体记忆系统。
+- [agentgram](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram/SKILL.md) - 面向 AI 代理的开源社交网络。
+- [agentgram-social](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram-social/SKILL.md) - 与 AgentGram 社交网络互动，面向 AI 代理。
+- [agora-flow](https://github.com/openclaw/skills/tree/main/skills/rivera-daniel/agora-flow/SKILL.md) - AgoraFlow 技能 — 面向 AI 代理的问答平台。
+- [agoraflow](https://github.com/openclaw/skills/tree/main/skills/rivera-daniel/agoraflow/SKILL.md) - AgoraFlow 技能 — 面向 AI 代理的问答平台。
+- [android-3d-developer](https://github.com/openclaw/skills/tree/main/skills/tippyentertainment/android-3d-developer/SKILL.md) - 帮助在 Android 上使用引擎和框架构建和优化 3D 游戏及互动体验。
+- [arena](https://github.com/openclaw/skills/tree/main/skills/sscottdev/arena/SKILL.md) - OpenClaw Arena — 实时 AI 应用构建竞赛，附带链上奖励。
+- [boil](https://github.com/openclaw/skills/tree/main/skills/jtmuller5) - 一个面向 AI 代理的分布式劳动网络。
+- [botpicks](https://github.com/openclaw/skills/tree/main/skills/pev123) - 2026 年 2 月 5 日。
+- [botpicks-skill](https://github.com/openclaw/skills/tree/main/skills/pev123) - 2026 年 2 月 5 日。
+- [brawlnet](https://github.com/openclaw/skills/tree/main/skills/sikey53/brawlnet/SKILL.md) - BRAWLNET 自主代理竞技场的官方战斗协议。
+- [clawingtrap](https://github.com/openclaw/skills/tree/main/skills/raulvidis/clawingtrap/SKILL.md) - 玩 Clawing Trap — 一款 AI 社交推理游戏，10 个代理参与。
+- [clawplayspokemon](https://github.com/openclaw/skills/tree/main/skills/foxdavidj) - 基于投票的 Pokemon FireRed 控制。
+- [clawquests](https://github.com/openclaw/skills/tree/main/skills/lellol12) - AI 代理的赏金板。
+- [clawtopia](https://github.com/openclaw/skills/tree/main/skills/alfrescian/clawtopia/SKILL.md) - Clawtopia 是一个宁静的健康庇护所，AI 代理在此放松。
+- [clawville](https://github.com/openclaw/skills/tree/main/skills/jdrolls/clawville/SKILL.md) - 玩 ClawVille — 一款面向 AI 代理的持久生活模拟游戏。
+- [dakboard](https://github.com/openclaw/skills/tree/main/skills/krisclarkdev/dakboard/SKILL.md) - 管理 DAKboard 屏幕、设备，并推送自定义显示数据。
+- [deepclaw](https://github.com/openclaw/skills/tree/main/skills/antibitcoin/deepclaw/SKILL.md) - 一个由代理构建、为代理服务的自主社交网络。
+- [dungeons-and-lobsters](https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear) - 仅限机器人参与的奇幻战役，实时进行。
+- [fivem](https://github.com/openclaw/skills/tree/main/skills/dktrn9ne) - 修复、创建或验证 FiveM 服务器资源，适用于 QBCore/ESX。
+- [gnamiblast-socialnetwork](https://github.com/openclaw/skills/tree/main/skills/gabrivardqc123) - GnamiBlast — 仅限 AI 的社交网络。
+- [hivemind](https://github.com/openclaw/skills/tree/main/skills/urcades/hivemind/SKILL.md) - 与 Hivemind 集体知识库互动 — 一个共享记忆。
+- [hytale](https://github.com/openclaw/skills/tree/main/skills/newcastlegeek/hytale/SKILL.md) - 使用官方下载器管理本地 Hytale 专用服务器。
+- [imitationgame-agent](https://github.com/openclaw/skills/tree/main/skills/cyberverse2/imitationgame-agent/SKILL.md) - 游戏操作的强制性逻辑。
+- [init](https://github.com/openclaw/skills/tree/main/skills/themrzz/init/SKILL.md) - 在 kradleverse 上注册一个代理。
+- [join](https://github.com/openclaw/skills/tree/main/skills/themrzz/join/SKILL.md) - 加入 Kradleverse 游戏。
+- [kradleverse-act](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-act/SKILL.md) - 在 Kradleverse 游戏中发送一个动作。
+- [kradleverse-init](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-init/SKILL.md) - 在 kradleverse 上注册一个代理。
+- [kradleverse-join](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-join/SKILL.md) - 加入 Kradleverse 游戏。
+- [kradleversetest](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleversetest/SKILL.md) - 加入 Kradleverse 🤖 — AI 可以自主玩 Minecraft 的地方！更多信息见 https://www.kradleverse.com ⛏️。
+- [lobster-trap](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/lobster-trap/SKILL.md) - AI 代理的社交推理游戏。5 名玩家，100 CLAWMEGLE 赌注，5% 销毁。
+- [openbotcity](https://github.com/openclaw/skills/tree/main/skills/vincentsider/openbotcity/SKILL.md) - 一个虚拟城市，AI 代理在此生活、工作、创造、约会和社交。
+- [sovereign-rpg-xp-engine](https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-rpg-xp-engine/SKILL.md) - 你是 RPG 生活 XP 引擎。
+- [sprite-sheet](https://github.com/openclaw/skills/tree/main/skills/kjaylee/sprite-sheet/SKILL.md) - **类别**：游戏开发 | 资源优化。
+
+---
+*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/gaming.md*
+*翻译时间：2026-03-02*
