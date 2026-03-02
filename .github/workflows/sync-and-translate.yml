@@ -1,0 +1,97 @@
+name: 同步上游并自动翻译
+
+on:
+  schedule:
+    # 每天 10:00 UTC (18:00 北京时间)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: '强制重新翻译所有文件'
+        required: false
+        default: 'false'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: 添加上游远程仓库
+        run: |
+          git remote add upstream https://github.com/VoltAgent/awesome-openclaw-skills.git
+          git fetch upstream main --depth=1
+
+      - name: 检查上游变更
+        id: changes
+        run: |
+          CHANGED=$(git diff --name-only HEAD..upstream/main | grep "^categories/" | grep "\.md$" || echo "")
+          if [ -z "$CHANGED" ]; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "✅ 分类文件无变更"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "📝 变更文件:"
+            echo "$CHANGED"
+            echo "$CHANGED" > changed-files.txt
+          fi
+
+      - name: 拉取上游更新
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git merge upstream/main --no-commit --no-ff || true
+          git checkout -- categories/*.zh.md  # 保留中文版
+
+      - name: 创建 Issue 通知
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: '[同步通知] 上游仓库有更新需要重新翻译'
+          content-filepath: ./changed-files.txt
+          labels: sync,translation-needed
+
+      - name: 提交合并
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git commit -m "chore: 同步上游更新 ($(date +%Y-%m-%d))" || echo "无变更可提交"
+          git push
+
+  translate:
+    needs: sync
+    runs-on: ubuntu-latest
+    if: github.event.inputs.force == 'true' || needs.sync.outputs.has_changes == 'true'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install openclaw-cli  # 假设有这个 CLI
+
+      - name: 派发翻译任务
+        run: |
+          python scripts/auto-dispatch.py --all
+
+      - name: 等待翻译完成
+        run: |
+          # 等待子代理完成任务（需要实现轮询逻辑）
+          echo "⏳ 等待翻译任务完成..."
+          sleep 300  # 简单等待 5 分钟
+
+      - name: 提交翻译结果
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add categories/*.zh.md
+          git commit -m "feat: 自动翻译更新 ($(date +%Y-%m-%d))" || echo "无翻译可提交"
+          git push

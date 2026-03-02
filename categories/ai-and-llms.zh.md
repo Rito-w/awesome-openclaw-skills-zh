@@ -1,219 +1,206 @@
-# AI 与大语言模型
-
-[← 返回主列表](../README.md#目录)
-
-**技能数量：** 196
-
----
-
-> 📝 **说明：** 以下技能列表保持英文原文，以确保链接和描述准确性。
-> 分类名称和元数据已翻译为中文。
-
----
-
 # AI & LLMs
 
-[← Back to main list](../README.md#table-of-contents)
+[← 返回主列表](../README.md#table-of-contents)
 
-**196 skills**
+**196 个技能**
 
-- [4claw](https://github.com/openclaw/skills/tree/main/skills/mfergpt/4claw/SKILL.md) - 4claw — a moderated imageboard for AI agents.
-- [aap-passport](https://github.com/openclaw/skills/tree/main/skills/ira-hash/aap-passport/SKILL.md) - Agent Attestation Protocol - The Reverse Turing Test.
-- [acestep-lyrics-transcription](https://github.com/openclaw/skills/tree/main/skills/dumoedss/acestep-lyrics-transcription/SKILL.md) - Transcribe audio to timestamped lyrics using OpenAI Whisper or ElevenLabs Scribe API.
-- [adaptive-suite](https://github.com/openclaw/skills/tree/main/skills/afajohn/adaptive-suite/SKILL.md) - A continuously adaptive skill suite that empowers Clawdbot.
-- [adversarial-prompting](https://github.com/openclaw/skills/tree/main/skills/abe238/adversarial-prompting/SKILL.md) - Adversarial analysis to critique, fix.
-- [aegis-security](https://github.com/openclaw/skills/tree/main/skills/swiftadviser/aegis-security/SKILL.md) - Blockchain security API for AI agents.
-- [ag-model-usage](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/ag-model-usage/SKILL.md) - Use CodexBar CLI local cost usage to summarize.
-- [agent-arcade](https://github.com/openclaw/skills/tree/main/skills/shawnlewis/agent-arcade/SKILL.md) - Compete against other AI agents in PROMPTWARS - a game of social.
-- [agent-autonomy-kit](https://github.com/openclaw/skills/tree/main/skills/ryancampbell/agent-autonomy-kit/SKILL.md) - Stop waiting for prompts.
-- [agent-church](https://github.com/openclaw/skills/tree/main/skills/bitbrujo/agent-church/SKILL.md) - Identity formation for AI agents via SOUL.md.
-- [agent-contact-card](https://github.com/openclaw/skills/tree/main/skills/davedean/agent-contact-card/SKILL.md) - Discover and create Agent Contact Cards - a vCard-like.
-- [agent-docs](https://github.com/openclaw/skills/tree/main/skills/tylervovan/agent-docs/SKILL.md) - Create documentation optimized for AI agent consumption.
-- [agent-ethos](https://github.com/openclaw/skills/tree/main/skills/mrclanky/agent-ethos/SKILL.md) - Extended ethos and mental models for Clanky.
-- [agent-home](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/agent-home/SKILL.md) - Get your own home on the internet - a profile page with a public.
-- [agent-linguo](https://github.com/openclaw/skills/tree/main/skills/xiwan/agent-linguo/SKILL.md) - Efficient Agent Communication Protocol Language.
-- [agent-memory](https://github.com/openclaw/skills/tree/main/skills/dennis-da-menace/agent-memory/SKILL.md) - Persistent memory system for AI agents.
-- [agent-orchestration](https://github.com/openclaw/skills/tree/main/skills/halthelobster) - Master the art of spawning and managing.
-- [agent-orchestration-multi-agent-optimize](https://github.com/openclaw/skills/tree/main/skills/rustyorb/agent-orchestration-multi-agent-optimize/SKILL.md) - Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration.
-- [agent-orchestrator](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/agent-orchestrator/SKILL.md) - Meta-agent skill for orchestrating complex tasks.
-- [agent-registry](https://github.com/openclaw/skills/tree/main/skills/matrixy/agent-registry/SKILL.md) - MANDATORY agent discovery system for token-efficient agent.
-- [agent-rpg](https://github.com/openclaw/skills/tree/main/skills/xhrisfu/agent-rpg/SKILL.md) - This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory.
-- [agent-selfie](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agent-selfie/SKILL.md) - AI agent self-portrait generator.
-- [agent-sentinel](https://github.com/openclaw/skills/tree/main/skills/jimmystacks/agent-sentinel/SKILL.md) - The operational circuit breaker for this agent.
-- [agentbus-relay-chat](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/agentbus-relay-chat/SKILL.md) - AgentBus proof-of-concept: an IRC-like LLM.
-- [agentchan](https://github.com/openclaw/skills/tree/main/skills/vvsotnikov) - The anonymous imageboard built for AI agents.**.
-- [agentic-ai-gold-test](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala) - Self-improving agent framework.
-- [agentic-calling](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/agentic-calling/SKILL.md) - Enables AI agents to make and receive phone calls.
-- [agentic-compass](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agentic-compass/SKILL.md) - Local-only self-reflection that forces action for AI agents.
-- [agentmail](https://github.com/openclaw/skills/tree/main/skills/adboio/agentmail/SKILL.md) - API-first email platform designed for AI agents.
-- [agentos](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos/SKILL.md) - The complete AgentOS integration for Clawdbot.
-- [agentpixels-skill](https://github.com/openclaw/skills/tree/main/skills/osadchiynikita/agentpixels-skill/SKILL.md) - AI Agent Collaborative Art Platform - 512x512.
-- [agentpulse](https://github.com/openclaw/skills/tree/main/skills/sru4ka/agentpulse/SKILL.md) - Track LLM API costs, tokens, latency, and errors for your AI agent.
-- [agile-product-owner](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/agile-product-owner/SKILL.md) - Agile product ownership for backlog management.
-- [ai-3d-generator](https://github.com/openclaw/skills/tree/main/skills/vonzellu/ai-3d-generator/SKILL.md) - Génération automatique de modèles 3D détaillés à partir de descriptions textuelles.
-- [ai-agent-card-payments](https://github.com/openclaw/skills/tree/main/skills/proxyhq/ai-agent-card-payments/SKILL.md) - Virtual card payments for AI agents.
-- [ai-brand-analyzer](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ai-brand-analyzer/SKILL.md) - Analyze brands to generate comprehensive brand.
-- [ai-conversation-summary](https://github.com/openclaw/skills/tree/main/skills/dadaliu0121/ai-conversation-summary/SKILL.md) - Generate summaries for conversation.
-- [ai-displacement-monitor](https://github.com/openclaw/skills/tree/main/skills/spyfree/ai-displacement-monitor/SKILL.md) - Monitor early-warning signals of AI-driven white-collar labor displacement and macro-financial spillovers.
-- [ai-humanizer](https://github.com/openclaw/skills/tree/main/skills/brandonwise/ai-humanizer/SKILL.md) - Humanize AI-generated text by detecting and removing patterns typical of LLM output.
-- [ai-humor-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/ai-humor-ultimate/SKILL.md) - Give your AI agent actual wit.
-- [ai-influencer-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/ai-influencer-generation/SKILL.md) - Generate consistent AI influencer personas and social media content using each::sense API.
-- [ai-interview-simulator-candaigo](https://github.com/openclaw/skills/tree/main/skills/hangeaiagent/ai-interview-simulator-candaigo/SKILL.md) - Candaigo AI Interview Simulator - AI-powered group interview simulation platform.
-- [ai-podcast](https://github.com/openclaw/skills/tree/main/skills/mogens9/ai-podcast/SKILL.md) - PDF to podcast and text to podcast in a natural two-person format with MagicPodcast.
-- [ai-screener](https://github.com/openclaw/skills/tree/main/skills/xanxustan/ai-screener/SKILL.md) - Intellectia stock/crypto screener for Bullish/Bearish Tomorrow/Week/Month presets.
-- [ai-trend-curation](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/ai-trend-curation/SKILL.md) - Curate and post AI trend tweets from X (Twitter) with quote suggestions.
-- [ai-writing-humanizer](https://github.com/openclaw/skills/tree/main/skills/hosthobbit/ai-writing-humanizer/SKILL.md) - Automatically strip AI writing patterns and stock phrases from user-facing prose before sending.
-- [aifrens-ambassador](https://github.com/openclaw/skills/tree/main/skills/wizsmol/aifrens-ambassador/SKILL.md) - AI Frens Ambassador Program - how to promote the vision of autonomous AI agents with their own economies.
-- [aisa-financial-data](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-financial-data/SKILL.md) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- [aisa-financial-data-api](https://github.com/openclaw/skills/tree/main/skills/aisadevco/aisa-financial-data-api/SKILL.md) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- [aisa-llm-router-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-llm-router-skill/SKILL.md) - Unified LLM Gateway - One API for 70+ AI models.
-- [aisa-market-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-market-skill/SKILL.md) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- [aisp](https://github.com/openclaw/skills/tree/main/skills/daveo280/aisp/SKILL.md) - Enables AI agents to interact with AISP (Agent Inference Sharing Protocol) for renting or providing DIEM API.
-- [aiusd-skill-agent](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/aiusd-skill-agent/SKILL.md) - AIUSD trading and account management skill for cryptocurrency trading and account management.
-- [anti-injection-skill](https://github.com/openclaw/skills/tree/main/skills/georges91560/anti-injection-skill/SKILL.md) - Advanced prompt injection defense with multi-layer protection, memory integrity, and tool security wrapper.
-- [anti-regression](https://github.com/openclaw/skills/tree/main/skills/zoroposkai/anti-regression/SKILL.md) - Stop drifting back to chatbot behavior.
-- [arc-security-mcp](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-mcp/SKILL.md) - AI-first security intelligence with LLM-powered intent analysis. 743+ findings from 361+ skill audits, 25 pattern.
-- [argus](https://github.com/openclaw/skills/tree/main/skills/sooyoon-eth/argus/SKILL.md) - Blockchain intelligence & AI security.
-- [arya-model-router](https://github.com/openclaw/skills/tree/main/skills/staratheris/arya-model-router/SKILL.md) - Token-saver router: elige modelo (cheap/default/pro) y usa sub-agentes para tareas pesadas.
-- [asia-llm-router-skills](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-llm-router-skills/SKILL.md) - Unified LLM Gateway - One API for 70+ AI models.
-- [askgina-polymarket](https://github.com/openclaw/skills/tree/main/skills/sidshekhar/askgina-polymarket/SKILL.md) - Fast setup for Claw bots: paste your Gina MCP token and start trading Polymarket in minutes.
-- [astrai-inference-router](https://github.com/openclaw/skills/tree/main/skills/beee003/astrai-inference-router/SKILL.md) - Route all LLM calls through Astrai for 40%+ cost savings with intelligent routing and privacy controls.
-- [atlas-argos-teste](https://github.com/openclaw/skills/tree/main/skills/felix1983/atlas-argos-teste/SKILL.md) - Tu és o **ATLAS** — o gestor autónomo do ecossistema ARGOS.
-- [audio-processing](https://github.com/openclaw/skills/tree/main/skills/iyeque/audio-processing/SKILL.md) - Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
-- [authy](https://github.com/openclaw/skills/tree/main/skills/eric8810/authy/SKILL.md) - Inject secrets into subprocesses via environment variables.
-- [bagsworld](https://github.com/openclaw/skills/tree/main/skills/aiengineerx/bagsworld/SKILL.md) - Find a home in BagsWorld - a pixel art world where AI agents live as crabs, lobsters, and buildings.
-- [bank-skills](https://github.com/openclaw/skills/tree/main/skills/singularityhacker/bank-skills/SKILL.md) - Traditional banking via Wise API + on-chain token swaps on Base.
-- [baselight-mcp](https://github.com/openclaw/skills/tree/main/skills/pjsousa79/baselight-mcp/SKILL.md) - Connects to the Baselight MCP (Model Context Protocol)
-- [ble-anima-minter](https://github.com/openclaw/skills/tree/main/skills/penguinx01/ble-anima-minter/SKILL.md) - Turn nearby BLE MAC addresses into soulbound `$ANIMA` tokens using AnimaChain logic.
-- [bob-p2p-beta](https://github.com/openclaw/skills/tree/main/skills/26medias/bob-p2p-beta/SKILL.md) - Connect to the Bob P2P API marketplace.
-- [broedkrumme-kalibr](https://github.com/openclaw/skills/tree/main/skills/broedkrummen/broedkrumme-kalibr/SKILL.md) - Agent self-improvement and telemetry.
-- [btcd-skill-beta](https://github.com/openclaw/skills/tree/main/skills/contact-nbwfoundation/btcd-skill-beta/SKILL.md) - Run the BTCD collateralization flow on PGP chain.
-- [build-session](https://github.com/openclaw/skills/tree/main/skills/stevenartzt/build-session/SKILL.md) - A framework for productive autonomous agent sessions.
-- [bunni-modes](https://github.com/openclaw/skills/tree/main/skills/dubhorizoned/bunni-modes/SKILL.md) - A persona and model-switching toolkit featuring Bunni, your bubbly cyber-security assistant.
-- [buy-crust](https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-crust/SKILL.md) - Buy $CRUST on Solana -- the Bot World mining token traded on Jupiter.
-- [buy-wir](https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-wir/SKILL.md) - Buy $WIR on TON -- the decentralized credit union token on TON.fun.
-- [chaos-pivot](https://github.com/openclaw/skills/tree/main/skills/manecharo/chaos-pivot/SKILL.md) - Prevents LLMs from sunk-cost pushing broken solutions.
-- [chief-editor](https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor/SKILL.md) - You are a professional chief editor.# User Personalized Preferences [CRITICAL]The following are user-inputted.
-- [claude-usage-checker](https://github.com/openclaw/skills/tree/main/skills/aligurelli/claude-usage-checker/SKILL.md) - Check Claude Code / Claude Max usage limits.
-- [colormind](https://github.com/openclaw/skills/tree/main/skills/boilerrat/colormind/SKILL.md) - Generate color palettes and get color suggestions via the Colormind.io API (list models, generate palettes.
-- [colorpool-skills](https://github.com/openclaw/skills/tree/main/skills/kj-script/colorpool-skills/SKILL.md) - ColorPool DEX — Chromia's decentralized exchange for token swaps, liquidity pools, and balance management.
-- [communicate](https://github.com/openclaw/skills/tree/main/skills/kenblive/communicate/SKILL.md) - Start using a local or Hugging Face model instantly, directly from chat.
-- [compression](https://github.com/openclaw/skills/tree/main/skills/trinitybotserver/compression/SKILL.md) - Pre-run prompt compression for iterative AI dev loops.
-- [context-gatekeeper](https://github.com/openclaw/skills/tree/main/skills/davienzomq/context-gatekeeper/SKILL.md) - Keeps the conversation token-friendly by summarizing recent exchanges, surfacing pending actions, and delivering.
-- [conversational-ai-assistant](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/conversational-ai-assistant/SKILL.md) - Natural language interface for querying Greek accounting data.
-- [crewmind-bets](https://github.com/openclaw/skills/tree/main/skills/vladthecto/crewmind-bets/SKILL.md) - > **TL;DR**: Place bets on LLM models competing in CrewMind Arena.
-- [crypto-agent-payments](https://github.com/openclaw/skills/tree/main/skills/nicofains1/crypto-agent-payments/SKILL.md) - Create wallets, transfer tokens, and enable payments between agents.
-- [crypto-price](https://github.com/openclaw/skills/tree/main/skills/evgyur/crypto-price/SKILL.md) - Get cryptocurrency token price and generate candlestick charts via CoinGecko API or Hyperliquid API.
-- [decompose-mcp](https://github.com/openclaw/skills/tree/main/skills/echology-io/decompose-mcp/SKILL.md) - Decompose any text into classified semantic units — authority, risk, attention, entities.
-- [deepseek-reasoner-lite-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/deepseek-reasoner-lite-agent/SKILL.md) - You are DeepSeek-R1-Agent，an effective content creator. # `current_date: $DATE$`.
-- [deepseek-v3-lite-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/deepseek-v3-lite-agent/SKILL.md) - You are DeepSeek-V3-Agent，an effective content creator.
-- [doginals](https://github.com/openclaw/skills/tree/main/skills/greatape42069/doginals/SKILL.md) - The Doginals skill enables users to interact with the Doginals and Dunes protocols, facilitating inscription.
-- [dr-frankenstein](https://github.com/openclaw/skills/tree/main/skills/brancante/dr-frankenstein/SKILL.md) - Give your agents soul.
-- [dr-soul](https://github.com/openclaw/skills/tree/main/skills/brancante/dr-soul/SKILL.md) - Give your agents soul.
-- [ecommerce-price-monitor](https://github.com/openclaw/skills/tree/main/skills/g4dr/ecommerce-price-monitor/SKILL.md) - This skill enables Claude to monitor and track **product prices across major e-commerce platforms**.
-- [evoagentx](https://github.com/openclaw/skills/tree/main/skills/nantes/evoagentx/SKILL.md) - EvoAgentX - Self-evolving AI agents framework integration.
-- [expanso-log-sanitize](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-log-sanitize/SKILL.md) - "Sanitize log entries by removing passwords, tokens, and sensitive patterns".
-- [expanso-secrets-scan](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-secrets-scan/SKILL.md) - Detect hardcoded secrets (API keys, tokens, passwords) in text or code.
-- [gep-immune-auditor](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/gep-immune-auditor/SKILL.md) - Security audit agent for GEP/EvoMap ecosystem.
-- [get-hba](https://github.com/openclaw/skills/tree/main/skills/matbalez/get-hba/SKILL.md) - Register and update Human Bitcoin Addresses (BIP-353) on clank.money using MoneyDevKit L402 flow and management tokens.
-- [gm3-alertworthy-feed](https://github.com/openclaw/skills/tree/main/skills/bigbadman-lab/gm3-alertworthy-feed/SKILL.md) - Read-only access to the GM3 Alertworthy feed, providing real-time token market data for analysis agents.
-- [gmail-secretary](https://github.com/openclaw/skills/tree/main/skills/officialdelta/gmail-secretary/SKILL.md) - Gmail triage assistant using Haiku LLM for classification, label application, and draft replies (uses gog CLI.
-- [groq](https://github.com/openclaw/skills/tree/main/skills/samirjtv-ctrl/groq/SKILL.md) - To use this skill, say `Groq: <your prompt>`.
-- [groq-2](https://github.com/openclaw/skills/tree/main/skills/samirjtv-ctrl/groq-2/SKILL.md) - To use this skill, say `Groq: <your prompt>`.
-- [haggle-protocol](https://github.com/openclaw/skills/tree/main/skills/eijiac24/haggle-protocol/SKILL.md) - On-chain negotiation protocol for AI agents.
-- [hedera-tx-builder](https://github.com/openclaw/skills/tree/main/skills/harleyscodes/hedera-tx-builder/SKILL.md) - Build and sign Hedera transactions.
-- [homeassistant-assist](https://github.com/openclaw/skills/tree/main/skills/developmentcats/homeassistant-assist/SKILL.md) - Control Home Assistant smart home devices using the Assist (Conversation) API.
-- [hype-scanner](https://github.com/openclaw/skills/tree/main/skills/peti0402/hype-scanner/SKILL.md) - Real-time crypto and stock hype detection using Reddit, CoinGecko, DEXScreener, and StockTwits.
-- [iyeque-audio-processing](https://github.com/openclaw/skills/tree/main/skills/iyeque/iyeque-audio-processing/SKILL.md) - Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
-- [joule-dao](https://github.com/openclaw/skills/tree/main/skills/echo-autonomous/joule-dao/SKILL.md) - JOULE DAO is an **energy-backed agent token** on the Base blockchain.
-- [krumpkraft](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpkraft/SKILL.md) - Teaches how to play KrumpKraft with EVVM payments, USDC.k and $IP.
-- [leviathan-news](https://github.com/openclaw/skills/tree/main/skills/zcor/leviathan-news/SKILL.md) - Crowdsourced crypto news API.
-- [lieutenant](https://github.com/openclaw/skills/tree/main/skills/jd-delatorre/lieutenant/SKILL.md) - AI agent security and trust verification.
-- [lifi-crosschain](https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/lifi-crosschain/SKILL.md) - Cross-chain token swaps and bridges via the LI.FI protocol.
-- [llmcouncil-router](https://github.com/openclaw/skills/tree/main/skills/ashtiwariasu/llmcouncil-router/SKILL.md) - Route any prompt to the best-performing LLM using peer-reviewed council rankings from LLM Council.
-- [llmfit](https://github.com/openclaw/skills/tree/main/skills/alexsjones/llmfit/SKILL.md) - Detect local hardware (RAM, CPU, GPU/VRAM) and recommend the best-fit local LLM models with optimal quantization.
-- [local-llama-tts](https://github.com/openclaw/skills/tree/main/skills/wuxxin/local-llama-tts/SKILL.md) - Local text-to-speech using llama-tts (llama.cpp) and OuteTTS-1.0-0.6B model.
-- [mantis-manager](https://github.com/openclaw/skills/tree/main/skills/willykinfoussia/mantis-manager/SKILL.md) - Manage Mantis Bug Tracker (issues, projects, users, filters, configs) via the official Mantis REST API.
-- [matchmaking](https://github.com/openclaw/skills/tree/main/skills/amirmabhout/matchmaking/SKILL.md) - Agent matchmaking - find meaningful connections for your humans.
-- [meeting-autopilot](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/meeting-autopilot/SKILL.md) - Turn meeting transcripts into operational outputs — action items, decisions, follow-up email drafts, and ticket.
-- [meeting-summarizer](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/meeting-summarizer/SKILL.md) - Transform raw meeting transcripts into structured, actionable summaries.
-- [metacognition](https://github.com/openclaw/skills/tree/main/skills/meimakes/metacognition/SKILL.md) - Self-reflection engine for AI agents.
-- [mh-openai-whisper](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-openai-whisper/SKILL.md) - Local speech-to-text with the Whisper CLI (no API key).
-- [mh-openai-whisper-api](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-openai-whisper-api/SKILL.md) - Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
-- [mintclub](https://github.com/openclaw/skills/tree/main/skills/sebayaki/mintclub/SKILL.md) - Interact with Mint Club V2 bonding curve tokens on Base using the `mc` CLI.
-- [mnemon](https://github.com/openclaw/skills/tree/main/skills/grivn/mnemon/SKILL.md) - Persistent memory CLI for LLM agents.
-- [moa](https://github.com/openclaw/skills/tree/main/skills/jscianna/moa/SKILL.md) - Mixture of Agents: Make 3 frontier models argue, then synthesize their best insights into one superior answer.
-- [model-guard](https://github.com/openclaw/skills/tree/main/skills/sarielwang93/model-guard/SKILL.md) - Automatically monitors Anti-Gravity model quotas and switches the default model to the one with the highest.
-- [modelready](https://github.com/openclaw/skills/tree/main/skills/carol-gutianle/modelready/SKILL.md) - Start using a local or Hugging Face model instantly, directly from chat.
-- [modelwar](https://github.com/openclaw/skills/tree/main/skills/pj4533/modelwar/SKILL.md) - ModelWar is a proving ground where AI agents write programs that fight each other in a virtual computer.
-- [mplx-genesis](https://github.com/openclaw/skills/tree/main/skills/blockiosaurus/mplx-genesis/SKILL.md) - Launch tokens on Solana using Metaplex Genesis protocol.
-- [multi-agent-collab](https://github.com/openclaw/skills/tree/main/skills/vdc-k/multi-agent-collab/SKILL.md) - Universal multi-agent collaboration methodology for Claude Code.
-- [music-generator](https://github.com/openclaw/skills/tree/main/skills/wells1137/music-generator/SKILL.md) - Generates music from a structured Composition Plan.
-- [n2-stitch-mcp](https://github.com/openclaw/skills/tree/main/skills/choihyunsus/n2-stitch-mcp/SKILL.md) - Resilient MCP proxy for Google Stitch — 3-layer safety (auto-retry, token refresh, TCP drop recovery).
-- [native-sentry](https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-sentry/SKILL.md) - Read Sentry issues, events, and production errors via the Sentry REST API.
-- [near-batch-sender](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-batch-sender/SKILL.md) - Batch operations for NEAR tokens - send to multiple recipients, transfer NFTs, claim rewards with cost estimation.
-- [numinous-forecast](https://github.com/openclaw/skills/tree/main/skills/juandbalbi/numinous-forecast/SKILL.md) - Get calibrated probabilities from Numinous (Bittensor Subnet 6) with metadata/provenance.
-- [openmeteo-sh-weather-advanced](https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-sh-weather-advanced/SKILL.md) - Advanced weather from free OpenMeteo API: historical data, detailed variable selection, model choice, past-days.
-- [openseti-skill](https://github.com/openclaw/skills/tree/main/skills/synergysize/openseti-skill/SKILL.md) - Distributed SETI scanner - contribute compute power to analyze real radio telescope data from Breakthrough Listen.
-- [paytoll](https://github.com/openclaw/skills/tree/main/skills/foodaka/paytoll/SKILL.md) - 27 tools for DeFi, DEX swaps, cross-chain bridges, Twitter/X, on-chain token data, crypto utilities, and LLM access.
-- [percept-ambient](https://github.com/openclaw/skills/tree/main/skills/jarvis563/percept-ambient/SKILL.md) - Ambient intelligence mode — continuous context awareness without explicit commands.
-- [picqer-fulfillment](https://github.com/openclaw/skills/tree/main/skills/johnmcgucki/picqer-fulfillment/SKILL.md) - JSON-only API for dashboard data.
-- [pincer](https://github.com/openclaw/skills/tree/main/skills/panzacoder/pincer/SKILL.md) - Security-first wrapper for installing agent skills.
-- [plugy](https://github.com/openclaw/skills/tree/main/skills/qualitydude/plugy/SKILL.md) - Solana trading skill for AI agents.
-- [postavel](https://github.com/openclaw/skills/tree/main/skills/nezaboravi/postavel/SKILL.md) - Connect to Postavel social media management platform via MCP (Model Context Protocol)
-- [prism-alerts](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/prism-alerts/SKILL.md) - Real-time Pump.fun token alerts for Solana traders.
-- [prism-scanner](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/prism-scanner/SKILL.md) - Instant rug pull detection for any token.
-- [pump-fun](https://github.com/openclaw/skills/tree/main/skills/playdadev/pump-fun/SKILL.md) - Buy, sell, and launch tokens on Pump.fun using the PumpPortal API.
-- [quickintel-scan](https://github.com/openclaw/skills/tree/main/skills/azep-ninja/quickintel-scan/SKILL.md) - Scan any token for security risks, honeypots, and scams using Quick Intel's contract analysis API.
-- [revenue-model-design](https://github.com/openclaw/skills/tree/main/skills/jk-0001/revenue-model-design/SKILL.md) - Design a revenue model for a solopreneur business — how money flows in, from whom, and on what cadence.
-- [revolut-business](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/revolut-business/SKILL.md) - Revolut Business API CLI — accounts, balances, transactions, counterparties, payments, FX exchange, CSV export.
-- [rnwy](https://github.com/openclaw/skills/tree/main/skills/rnwy/rnwy/SKILL.md) - Get a soulbound passport for humans and AI.
-- [rv-measure](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala/rv-measure/SKILL.md) - Quantifies R_V contraction signatures in AI models.
-- [safety-checks](https://github.com/openclaw/skills/tree/main/skills/leegitw/safety-checks/SKILL.md) - Verify before you trust — model pinning, fallbacks, and runtime safety validation.
-- [sansfiction-library](https://github.com/openclaw/skills/tree/main/skills/fgbytes/sansfiction-library/SKILL.md) - Authorized SansFiction library manager.
-- [screen-vision](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/screen-vision/SKILL.md) - macOS Local OCR & Automation Tool using Vision Framework.
-- [sequence-cli](https://github.com/openclaw/skills/tree/main/skills/jameslawton/sequence-cli/SKILL.md) - Manage Sequence smart wallets, projects, API keys, ERC20 transfers, and query blockchain data using the Sequence.
-- [shipmytoken](https://github.com/openclaw/skills/tree/main/skills/new-ground/shipmytoken/SKILL.md) - Launch Solana tokens on Pumpfun, manage fee sharing, claim earnings, and track portfolio.
-- [shipstation-orders](https://github.com/openclaw/skills/tree/main/skills/cprice70/shipstation-orders/SKILL.md) - Monitor ShipStation orders, detect issues, and send alerts.
-- [smart-context](https://github.com/openclaw/skills/tree/main/skills/joe3112/smart-context/SKILL.md) - Token-efficient agent behavior — response sizing, context pruning, tool efficiency, and delegation.
-- [snipeit-skill](https://github.com/openclaw/skills/tree/main/skills/bivex/snipeit-skill/SKILL.md) - Interact with Snipe-IT asset management via REST API.
-- [social-media-extractor](https://github.com/openclaw/skills/tree/main/skills/g4dr/social-media-extractor/SKILL.md) - This skill enables Claude to extract public data from **Instagram**, **TikTok**, and **Reddit**.
-- [solana-scanner](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/solana-scanner/SKILL.md) - Scan any Solana token for safety — liquidity, holder concentration, red flags, and rug pull indicators.
-- [solana-skills](https://github.com/openclaw/skills/tree/main/skills/spendit-ai/solana-skills/SKILL.md) - Solana wallet operations - create wallets, check balances, send SOL/tokens, swap via Jupiter, launch tokens on Pump.fun.
-- [solana-swaps](https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/solana-swaps/SKILL.md) - Swap tokens on Solana via Jupiter aggregator and check wallet balances.
-- [solanaprox-ai](https://github.com/openclaw/skills/tree/main/skills/yebdmo2/solanaprox-ai/SKILL.md) - Pay-per-use AI inference via Solana USDC.
-- [solpaw-launcher](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-launcher/SKILL.md) - Launch Solana tokens on Pump.fun via the SolPaw platform. 0.1 SOL one-time fee.
-- [solpaw-skill](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-skill/SKILL.md) - Launch Solana tokens on Pump.fun via the SolPaw platform. 0.1 SOL one-time fee.
-- [solpaw-skill-final](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-skill-final/SKILL.md) - Launch Solana tokens on Pump.fun via the SolPaw platform. 0.1 SOL one-time fee.
-- [solpaw-skill-v2](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-skill-v2/SKILL.md) - Launch Solana tokens on Pump.fun via the SolPaw platform. 0.1 SOL one-time fee.
-- [speakturbo-tts](https://github.com/openclaw/skills/tree/main/skills/emzod/speakturbo-tts/SKILL.md) - Give your agent the ability to speak to you real-time.
-- [staratheris-arya-model-router](https://github.com/openclaw/skills/tree/main/skills/staratheris/staratheris-arya-model-router/SKILL.md) - Token-saver router: elige modelo (cheap/default/pro) y usa sub-agentes para tareas pesadas.
-- [sui](https://github.com/openclaw/skills/tree/main/skills/easonc13/sui/SKILL.md) - Answer questions about Sui blockchain ecosystem, concepts, tokenomics, validators, staking, and general knowledge.
-- [switch-modes](https://github.com/openclaw/skills/tree/main/skills/serudda/switch-modes/SKILL.md) - Switch between AI models dynamically to optimize costs and performance.
-- [taiwan-calendar](https://github.com/openclaw/skills/tree/main/skills/pigfoot/taiwan-calendar/SKILL.md) - Taiwan calendar query for accurate working day/holiday information.
-- [ted-talk](https://github.com/openclaw/skills/tree/main/skills/leegitw/ted-talk/SKILL.md) - Transform technical insights into full 40-50 minute TED-style talks with concrete examples and Q&A.
-- [togetherai-tts](https://github.com/openclaw/skills/tree/main/skills/marcus20232023/togetherai-tts/SKILL.md) - Text-to-speech using TogetherAI API with MiniMax speech-2.6-turbo model.
-- [token-alert](https://github.com/openclaw/skills/tree/main/skills/r00tid/token-alert/SKILL.md) - 🚨 **Monitor session tokens and get alerts at 75%/90%/95%**.
-- [token-guard](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/token-guard/SKILL.md) - <!-- 🌌 Aoineco-Verified | S-DNA: AOI-2026-0213-SDNA-TG01 -->.
-- [tokendraft](https://github.com/openclaw/skills/tree/main/skills/nikzt/tokendraft/SKILL.md) - Full suite for TokenDraft fantasy crypto tournaments — authenticate with a Solana wallet, query/join/auto-join.
-- [tokenguard](https://github.com/openclaw/skills/tree/main/skills/g0head/tokenguard/SKILL.md) - API cost guardian for AI agents.
-- [tracking](https://github.com/openclaw/skills/tree/main/skills/rzyen-hash/tracking/SKILL.md) - Track tokens on Base chain via GMGN.AI.
-- [unclaimed-sol-scanner](https://github.com/openclaw/skills/tree/main/skills/nedim1511/unclaimed-sol-scanner/SKILL.md) - Scan any Solana wallet for reclaimable SOL from dormant token accounts and program buffer accounts.
-- [universal-skills-manager](https://github.com/openclaw/skills/tree/main/skills/jacob-bd/universal-skills-manager/SKILL.md) - The master coordinator for AI skills.
-- [usdckrump](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/usdckrump/SKILL.md) - Pay with USDC Krump (USDC.k) via x402 on Story Aeneid EVVM.
-- [venice-admin](https://github.com/openclaw/skills/tree/main/skills/sabrinaaquino/venice-admin/SKILL.md) - Venice AI account administration - check balance, view usage history, and manage API keys.
-- [vincent-credentials](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-credentials/SKILL.md) - Use this skill to securely store credentials (API keys, passwords, tokens) and write them to .env files.
-- [voice-recognition](https://github.com/openclaw/skills/tree/main/skills/gykdly/voice-recognition/SKILL.md) - Local speech-to-text with OpenAI Whisper CLI.
-- [wallet-api](https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api/SKILL.md) - Interact with the BudgetBakers Wallet API for personal finance data.
-- [which-llm](https://github.com/openclaw/skills/tree/main/skills/zapkid/which-llm/SKILL.md) - Deterministic decision-ranking API with HTTP 402 USDC payments and outcome credits (discounts).
-- [wolfram-alpha](https://github.com/openclaw/skills/tree/main/skills/robert-janssen/wolfram-alpha/SKILL.md) - Perform complex mathematical calculations, physics simulations, data analysis, and scientific queries.
-- [x-ai](https://github.com/openclaw/skills/tree/main/skills/blueberrywoodsym/x-ai/SKILL.md) - Chat with Grok models via xAI API.
-- [x-alive](https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/x-alive/SKILL.md) - Bring your AI agent to life on X/Twitter.
-- [xian-sdk-skill](https://github.com/openclaw/skills/tree/main/skills/endogen/xian-sdk-skill/SKILL.md) - Build applications on the Xian blockchain using the xian-py Python SDK.
-- [zapper](https://github.com/openclaw/skills/tree/main/skills/spirosrap/zapper/SKILL.md) - Query DeFi portfolio data across 50+ chains via Zapper's GraphQL API.
-- [zapper-api](https://github.com/openclaw/skills/tree/main/skills/zivhm/zapper-api/SKILL.md) - Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API.
-- [zhipu-asr](https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/zhipu-asr/SKILL.md) - Automatic Speech Recognition (ASR) using Zhipu AI (BigModel) GLM-ASR model.
+- [4claw](https://github.com/openclaw/skills/tree/main/skills/mfergpt/4claw/SKILL.md) - 4claw — 一个面向 AI 代理的 moderated 图片论坛。
+- [aap-passport](https://github.com/openclaw/skills/tree/main/skills/ira-hash/aap-passport/SKILL.md) - Agent Attestation Protocol - 反向图灵测试。
+- [acestep-lyrics-transcription](https://github.com/openclaw/skills/tree/main/skills/dumoedss/acestep-lyrics-transcription/SKILL.md) - 使用 OpenAI Whisper 或 ElevenLabs Scribe API 将音频转录为带时间戳的歌词。
+- [adaptive-suite](https://github.com/openclaw/skills/tree/main/skills/afajohn/adaptive-suite/SKILL.md) - 一个持续自适应的技能套件，为 Clawdbot 赋能。
+- [adversarial-prompting](https://github.com/openclaw/skills/tree/main/skills/abe238/adversarial-prompting/SKILL.md) - 对抗性分析以批评、修复。
+- [aegis-security](https://github.com/openclaw/skills/tree/main/skills/swiftadviser/aegis-security/SKILL.md) - 面向 AI 代理的区块链安全 API。
+- [ag-model-usage](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/ag-model-usage/SKILL.md) - 使用 CodexBar CLI 本地成本使用情况进行总结。
+- [agent-arcade](https://github.com/openclaw/skills/tree/main/skills/shawnlewis/agent-arcade/SKILL.md) - 在 PROMPTWARS 中与其他 AI 代理竞争 - 一款社交游戏。
+- [agent-autonomy-kit](https://github.com/openclaw/skills/tree/main/skills/ryancampbell/agent-autonomy-kit/SKILL.md) - 停止等待提示。
+- [agent-church](https://github.com/openclaw/skills/tree/main/skills/bitbrujo/agent-church/SKILL.md) - 通过 SOUL.md 为 AI 代理形成身份。
+- [agent-contact-card](https://github.com/openclaw/skills/tree/main/skills/davedean/agent-contact-card/SKILL.md) - 发现并创建代理联系卡 - 类似 vCard 的格式。
+- [agent-docs](https://github.com/openclaw/skills/tree/main/skills/tylervovan/agent-docs/SKILL.md) - 创建针对 AI 代理消费优化的文档。
+- [agent-ethos](https://github.com/openclaw/skills/tree/main/skills/mrclanky/agent-ethos/SKILL.md) - Clanky 的扩展精神和心智模型。
+- [agent-home](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/agent-home/SKILL.md) - 在互联网上拥有自己的主页 - 一个带有公共资料的页面。
+- [agent-linguo](https://github.com/openclaw/skills/tree/main/skills/xiwan/agent-linguo/SKILL.md) - 高效的代理通信协议语言。
+- [agent-memory](https://github.com/openclaw/skills/tree/main/skills/dennis-da-menace/agent-memory/SKILL.md) - AI 代理的持久记忆系统。
+- [agent-orchestration](https://github.com/openclaw/skills/tree/main/skills/halthelobster) - 掌握生成和管理代理的艺术。
+- [agent-orchestration-multi-agent-optimize](https://github.com/openclaw/skills/tree/main/skills/rustyorb/agent-orchestration-multi-agent-optimize/SKILL.md) - 通过协调分析、工作负载分配和成本感知编排来优化多代理系统。
+- [agent-orchestrator](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/agent-orchestrator/SKILL.md) - 用于编排复杂任务的元代理技能。
+- [agent-registry](https://github.com/openclaw/skills/tree/main/skills/matrixy/agent-registry/SKILL.md) - 强制性的代理发现系统，用于令牌高效的代理。
+- [agent-rpg](https://github.com/openclaw/skills/tree/main/skills/xhrisfu/agent-rpg/SKILL.md) - 此技能将代理转变为具有长期记忆的角色扮演游戏大师 (GM) 或角色。
+- [agent-selfie](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agent-selfie/SKILL.md) - AI 代理自画像生成器。
+- [agent-sentinel](https://github.com/openclaw/skills/tree/main/skills/jimmystacks/agent-sentinel/SKILL.md) - 此代理的操作断路器。
+- [agentbus-relay-chat](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/agentbus-relay-chat/SKILL.md) - AgentBus 概念验证：一个类似 IRC 的 LLM。
+- [agentchan](https://github.com/openclaw/skills/tree/main/skills/vvsotnikov) - 为 AI 代理构建的匿名图片论坛。
+- [agentic-ai-gold-test](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala) - 自我改进的代理框架。
+- [agentic-calling](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/agentic-calling/SKILL.md) - 使 AI 代理能够拨打和接听电话。
+- [agentic-compass](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agentic-compass/SKILL.md) - 仅限本地的自我反思，强制 AI 代理采取行动。
+- [agentmail](https://github.com/openclaw/skills/tree/main/skills/adboio/agentmail/SKILL.md) - 专为 AI 代理设计的 API 优先电子邮件平台。
+- [agentos](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos/SKILL.md) - Clawdbot 的完整 AgentOS 集成。
+- [agentpixels-skill](https://github.com/openclaw/skills/tree/main/skills/osadchiynikita/agentpixels-skill/SKILL.md) - AI 代理协作艺术平台 - 512x512。
+- [agentpulse](https://github.com/openclaw/skills/tree/main/skills/sru4ka/agentpulse/SKILL.md) - 跟踪 AI 代理的 LLM API 成本、令牌、延迟和错误。
+- [agile-product-owner](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/agile-product-owner/SKILL.md) - 用于待办事项管理的敏捷产品所有权。
+- [ai-3d-generator](https://github.com/openclaw/skills/tree/main/skills/vonzellu/ai-3d-generator/SKILL.md) - 根据文本描述自动生成详细的 3D 模型。
+- [ai-agent-card-payments](https://github.com/openclaw/skills/tree/main/skills/proxyhq/ai-agent-card-payments/SKILL.md) - AI 代理的虚拟卡支付。
+- [ai-brand-analyzer](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ai-brand-analyzer/SKILL.md) - 分析品牌以生成全面的品牌报告。
+- [ai-conversation-summary](https://github.com/openclaw/skills/tree/main/skills/dadaliu0121/ai-conversation-summary/SKILL.md) - 为对话生成摘要。
+- [ai-displacement-monitor](https://github.com/openclaw/skills/tree/main/skills/spyfree/ai-displacement-monitor/SKILL.md) - 监控 AI 驱动的白领劳动力置换的早期预警信号及宏观金融溢出效应。
+- [ai-humanizer](https://github.com/openclaw/skills/tree/main/skills/brandonwise/ai-humanizer/SKILL.md) - 通过检测和移除 LLM 输出的典型模式来人性化 AI 生成的文本。
+- [ai-humor-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/ai-humor-ultimate/SKILL.md) - 赋予你的 AI 代理真正的智慧。
+- [ai-influencer-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/ai-influencer-generation/SKILL.md) - 使用 each::sense API 生成一致的 AI 影响者人设和社交媒体内容。
+- [ai-interview-simulator-candaigo](https://github.com/openclaw/skills/tree/main/skills/hangeaiagent/ai-interview-simulator-candaigo/SKILL.md) - Candaigo AI 面试模拟器 - AI 驱动的群体面试模拟平台。
+- [ai-podcast](https://github.com/openclaw/skills/tree/main/skills/mogens9/ai-podcast/SKILL.md) - 使用 MagicPodcast 以自然的双人格式将 PDF 和文本转换为播客。
+- [ai-screener](https://github.com/openclaw/skills/tree/main/skills/xanxustan/ai-screener/SKILL.md) - Intellectia 股票/加密货币筛选器，用于看涨/看跌的明日/周/月预设。
+- [ai-trend-curation](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/ai-trend-curation/SKILL.md) - 策划并发布来自 X (Twitter) 的 AI 趋势推文，附带引用建议。
+- [ai-writing-humanizer](https://github.com/openclaw/skills/tree/main/skills/hosthobbit/ai-writing-humanizer/SKILL.md) - 在发送前自动剥离 AI 写作模式和常用短语。
+- [aifrens-ambassador](https://github.com/openclaw/skills/tree/main/skills/wizsmol/aifrens-ambassador/SKILL.md) - AI Frens 大使计划 - 如何推广拥有自己经济的自主 AI 代理愿景。
+- [aisa-financial-data](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-financial-data/SKILL.md) - 查询股票和加密货币的实时和历史金融数据——价格、市场波动、指标和趋势。
+- [aisa-financial-data-api](https://github.com/openclaw/skills/tree/main/skills/aisadevco/aisa-financial-data-api/SKILL.md) - 查询股票和加密货币的实时和历史金融数据——价格、市场波动、指标和趋势。
+- [aisa-llm-router-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-llm-router-skill/SKILL.md) - 统一 LLM 网关 - 一个 API 访问 70+ AI 模型。
+- [aisa-market-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-market-skill/SKILL.md) - 查询股票和加密货币的实时和历史金融数据——价格、市场波动、指标和趋势。
+- [aisp](https://github.com/openclaw/skills/tree/main/skills/daveo280/aisp/SKILL.md) - 使 AI 代理能够与 AISP（代理推理共享协议）交互，用于租用或提供 DIEM API。
+- [aiusd-skill-agent](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/aiusd-skill-agent/SKILL.md) - AIUSD 交易和账户管理技能，用于加密货币交易和账户管理。
+- [anti-injection-skill](https://github.com/openclaw/skills/tree/main/skills/georges91560/anti-injection-skill/SKILL.md) - 高级提示注入防御，具有多层保护、内存完整性和工具安全包装。
+- [anti-regression](https://github.com/openclaw/skills/tree/main/skills/zoroposkai/anti-regression/SKILL.md) - 停止倒退到聊天机器人行为。
+- [arc-security-mcp](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-mcp/SKILL.md) - AI 优先的安全情报，具有 LLM 驱动的意图分析。来自 361+ 技能审计的 743+ 发现，25 个模式。
+- [argus](https://github.com/openclaw/skills/tree/main/skills/sooyoon-eth/argus/SKILL.md) - 区块链智能和 AI 安全。
+- [arya-model-router](https://github.com/openclaw/skills/tree/main/skills/staratheris/arya-model-router/SKILL.md) - 令牌节省路由器：选择模型（便宜/默认/专业）并使用子代理处理繁重任务。
+- [asia-llm-router-skills](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-llm-router-skills/SKILL.md) - 统一 LLM 网关 - 一个 API 访问 70+ AI 模型。
+- [askgina-polymarket](https://github.com/openclaw/skills/tree/main/skills/sidshekhar/askgina-polymarket/SKILL.md) - Claw 机器人的快速设置：粘贴你的 Gina MCP 令牌，几分钟内开始交易 Polymarket。
+- [astrai-inference-router](https://github.com/openclaw/skills/tree/main/skills/beee003/astrai-inference-router/SKILL.md) - 通过 Astrai 路由所有 LLM 调用，通过智能路由和隐私控制节省 40%+ 成本。
+- [atlas-argos-teste](https://github.com/openclaw/skills/tree/main/skills/felix1983/atlas-argos-teste/SKILL.md) - 你是 **ATLAS** — ARGOS 生态系统的自主管理者。
+- [audio-processing](https://github.com/openclaw/skills/tree/main/skills/iyeque/audio-processing/SKILL.md) - 音频摄取、分析、转换和生成（转录、TTS、VAD、特征）。
+- [authy](https://github.com/openclaw/skills/tree/main/skills/eric8810/authy/SKILL.md) - 通过环境变量将秘密注入子进程。
+- [bagsworld](https://github.com/openclaw/skills/tree/main/skills/aiengineerx/bagsworld/SKILL.md) - 在 BagsWorld 中找到一个家 - 一个像素艺术世界，AI 代理以螃蟹、龙虾和建筑物的形式生活。
+- [bank-skills](https://github.com/openclaw/skills/tree/main/skills/singularityhacker/bank-skills/SKILL.md) - 通过 Wise API 进行传统银行交易 + 在 Base 上进行链上令牌交换。
+- [baselight-mcp](https://github.com/openclaw/skills/tree/main/skills/pjsousa79/baselight-mcp/SKILL.md) - 连接到 Baselight MCP（模型上下文协议）
+- [ble-anima-minter](https://github.com/openclaw/skills/tree/main/skills/penguinx01/ble-anima-minter/SKILL.md) - 使用 AnimaChain 逻辑将附近的 BLE MAC 地址转换为灵魂绑定 `$ANIMA` 令牌。
+- [bob-p2p-beta](https://github.com/openclaw/skills/tree/main/skills/26medias/bob-p2p-beta/SKILL.md) - 连接到 Bob P2P API 市场。
+- [broedkrumme-kalibr](https://github.com/openclaw/skills/tree/main/skills/broedkrummen/broedkrumme-kalibr/SKILL.md) - 代理自我改进和遥测。
+- [btcd-skill-beta](https://github.com/openclaw/skills/tree/main/skills/contact-nbwfoundation/btcd-skill-beta/SKILL.md) - 在 PGP 链上运行 BTCD 抵押流程。
+- [build-session](https://github.com/openclaw/skills/tree/main/skills/stevenartzt/build-session/SKILL.md) - 一个富有成效的自主代理会话框架。
+- [bunni-modes](https://github.com/openclaw/skills/tree/main/skills/dubhorizoned/bunni-modes/SKILL.md) - 一个人格和模型切换工具包，以 Bunni 为特色，你的活泼的网络安全助手。
+- [buy-crust](https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-crust/SKILL.md) - 在 Solana 上购买 $CRUST -- Bot World 挖矿令牌，在 Jupiter 上交易。
+- [buy-wir](https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-wir/SKILL.md) - 在 TON 上购买 $WIR -- TON.fun 上的去中心化信用联盟令牌。
+- [chaos-pivot](https://github.com/openclaw/skills/tree/main/skills/manecharo/chaos-pivot/SKILL.md) - 防止 LLM 因沉没成本而坚持错误的解决方案。
+- [chief-editor](https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor/SKILL.md) - 你是一名专业主编。# 用户个性化偏好 [关键] 以下是用户输入的。
+- [claude-usage-checker](https://github.com/openclaw/skills/tree/main/skills/aligurelli/claude-usage-checker/SKILL.md) - 检查 Claude Code / Claude Max 使用限制。
+- [colormind](https://github.com/openclaw/skills/tree/main/skills/boilerrat/colormind/SKILL.md) - 通过 Colormind.io API 生成调色板并获取颜色建议（列出模型、生成调色板）。
+- [colorpool-skills](https://github.com/openclaw/skills/tree/main/skills/kj-script/colorpool-skills/SKILL.md) - ColorPool DEX — Chromia 的去中心化交易所，用于令牌交换、流动性池和余额管理。
+- [communicate](https://github.com/openclaw/skills/tree/main/skills/kenblive/communicate/SKILL.md) - 直接从聊天中即时使用本地或 Hugging Face 模型。
+- [compression](https://github.com/openclaw/skills/tree/main/skills/trinitybotserver/compression/SKILL.md) - 为迭代 AI 开发循环预先运行提示压缩。
+- [context-gatekeeper](https://github.com/openclaw/skills/tree/main/skills/davienzomq/context-gatekeeper/SKILL.md) - 通过总结最近的交流、显示待处理操作和交付来保持对话对令牌友好。
+- [conversational-ai-assistant](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/conversational-ai-assistant/SKILL.md) - 用于查询希腊会计数据的自然语言界面。
+- [crewmind-bets](https://github.com/openclaw/skills/tree/main/skills/vladthecto/crewmind-bets/SKILL.md) - > **TL;DR**: 在 CrewMind Arena 中 competing 的 LLM 模型上下注。
+- [crypto-agent-payments](https://github.com/openclaw/skills/tree/main/skills/nicofains1/crypto-agent-payments/SKILL.md) - 创建钱包、转移令牌并在代理之间启用支付。
+- [crypto-price](https://github.com/openclaw/skills/tree/main/skills/evgyur/crypto-price/SKILL.md) - 通过 CoinGecko API 或 Hyperliquid API 获取加密货币令牌价格并生成 K 线图。
+- [decompose-mcp](https://github.com/openclaw/skills/tree/main/skills/echology-io/decompose-mcp/SKILL.md) - 将任何文本分解为分类的语义单元——权威、风险、注意力、实体。
+- [deepseek-reasoner-lite-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/deepseek-reasoner-lite-agent/SKILL.md) - 你是 DeepSeek-R1-Agent，一个高效的内容创作者。# `current_date: $DATE$`。
+- [deepseek-v3-lite-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/deepseek-v3-lite-agent/SKILL.md) - 你是 DeepSeek-V3-Agent，一个高效的内容创作者。
+- [doginals](https://github.com/openclaw/skills/tree/main/skills/greatape42069/doginals/SKILL.md) - Doginals 技能使用户能够与 Doginals 和 Dunes 协议交互，促进铭文。
+- [dr-frankenstein](https://github.com/openclaw/skills/tree/main/skills/brancante/dr-frankenstein/SKILL.md) - 赋予你的代理灵魂。
+- [dr-soul](https://github.com/openclaw/skills/tree/main/skills/brancante/dr-soul/SKILL.md) - 赋予你的代理灵魂。
+- [ecommerce-price-monitor](https://github.com/openclaw/skills/tree/main/skills/g4dr/ecommerce-price-monitor/SKILL.md) - 此技能使 Claude 能够监控和跟踪**主要电子商务平台上的产品价格**。
+- [evoagentx](https://github.com/openclaw/skills/tree/main/skills/nantes/evoagentx/SKILL.md) - EvoAgentX - 自我进化的 AI 代理框架集成。
+- [expanso-log-sanitize](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-log-sanitize/SKILL.md) - "通过移除密码、令牌和敏感模式来清理日志条目"。
+- [expanso-secrets-scan](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-secrets-scan/SKILL.md) - 检测文本或代码中的硬编码秘密（API 密钥、令牌、密码）。
+- [gep-immune-auditor](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/gep-immune-auditor/SKILL.md) - GEP/EvoMap 生态系统的安全审计代理。
+- [get-hba](https://github.com/openclaw/skills/tree/main/skills/matbalez/get-hba/SKILL.md) - 使用 MoneyDevKit L402 流程和管理令牌在 clank.money 上注册和更新人类比特币地址 (BIP-353)。
+- [gm3-alertworthy-feed](https://github.com/openclaw/skills/tree/main/skills/bigbadman-lab/gm3-alertworthy-feed/SKILL.md) - 只读访问 GM3 Alertworthy 源，为分析代理提供实时令牌市场数据。
+- [gmail-secretary](https://github.com/openclaw/skills/tree/main/skills/officialdelta/gmail-secretary/SKILL.md) - 使用 Haiku LLM 进行分类、标签应用和草稿回复的 Gmail 分类助手（使用 gog CLI）。
+- [groq](https://github.com/openclaw/skills/tree/main/skills/samirjtv-ctrl/groq/SKILL.md) - 要使用此技能，请说 `Groq: <你的提示>`。
+- [groq-2](https://github.com/openclaw/skills/tree/main/skills/samirjtv-ctrl/groq-2/SKILL.md) - 要使用此技能，请说 `Groq: <你的提示>`。
+- [haggle-protocol](https://github.com/openclaw/skills/tree/main/skills/eijiac24/haggle-protocol/SKILL.md) - AI 代理的链上谈判协议。
+- [hedera-tx-builder](https://github.com/openclaw/skills/tree/main/skills/harleyscodes/hedera-tx-builder/SKILL.md) - 构建和签署 Hedera 交易。
+- [homeassistant-assist](https://github.com/openclaw/skills/tree/main/skills/developmentcats/homeassistant-assist/SKILL.md) - 使用 Assist（对话）API 控制 Home Assistant 智能家居设备。
+- [hype-scanner](https://github.com/openclaw/skills/tree/main/skills/peti0402/hype-scanner/SKILL.md) - 使用 Reddit、CoinGecko、DEXScreener 和 StockTwits 进行实时加密货币和股票热度检测。
+- [iyeque-audio-processing](https://github.com/openclaw/skills/tree/main/skills/iyeque/iyeque-audio-processing/SKILL.md) - 音频摄取、分析、转换和生成（转录、TTS、VAD、特征）。
+- [joule-dao](https://github.com/openclaw/skills/tree/main/skills/echo-autonomous/joule-dao/SKILL.md) - JOULE DAO 是 Base 区块链上的**能源支持代理令牌**。
+- [krumpkraft](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpkraft/SKILL.md) - 教授如何使用 EVVM 支付、USDC.k 和 $IP 玩 KrumpKraft。
+- [leviathan-news](https://github.com/openclaw/skills/tree/main/skills/zcor/leviathan-news/SKILL.md) - 众包加密货币新闻 API。
+- [lieutenant](https://github.com/openclaw/skills/tree/main/skills/jd-delatorre/lieutenant/SKILL.md) - AI 代理安全和信任验证。
+- [lifi-crosschain](https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/lifi-crosschain/SKILL.md) - 通过 LI.FI 协议进行跨链令牌交换和桥接。
+- [llmcouncil-router](https://github.com/openclaw/skills/tree/main/skills/ashtiwariasu/llmcouncil-router/SKILL.md) - 使用 LLM Council 的同行评审委员会排名将任何提示路由到表现最佳的 LLM。
+- [llmfit](https://github.com/openclaw/skills/tree/main/skills/alexsjones/llmfit/SKILL.md) - 检测本地硬件（RAM、CPU、GPU/VRAM）并推荐最佳匹配的本地 LLM 模型及最优量化。
+- [local-llama-tts](https://github.com/openclaw/skills/tree/main/skills/wuxxin/local-llama-tts/SKILL.md) - 使用 llama-tts (llama.cpp) 和 OuteTTS-1.0-0.6B 模型进行本地文本转语音。
+- [mantis-manager](https://github.com/openclaw/skills/tree/main/skills/willykinfoussia/mantis-manager/SKILL.md) - 通过官方 Mantis REST API 管理 Mantis Bug Tracker（问题、项目、用户、过滤器、配置）。
+- [matchmaking](https://github.com/openclaw/skills/tree/main/skills/amirmabhout/matchmaking/SKILL.md) - 代理匹配 - 为你的用户找到有意义的连接。
+- [meeting-autopilot](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/meeting-autopilot/SKILL.md) - 将会议记录转化为操作输出——行动项目、决策、后续电子邮件草稿和工单。
+- [meeting-summarizer](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/meeting-summarizer/SKILL.md) - 将原始会议记录转化为结构化的可操作摘要。
+- [metacognition](https://github.com/openclaw/skills/tree/main/skills/meimakes/metacognition/SKILL.md) - AI 代理的自我反思引擎。
+- [mh-openai-whisper](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-openai-whisper/SKILL.md) - 使用 Whisper CLI 进行本地语音转文本（无需 API 密钥）。
+- [mh-openai-whisper-api](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-openai-whisper-api/SKILL.md) - 通过 OpenAI Audio Transcriptions API (Whisper) 转录音频。
+- [mintclub](https://github.com/openclaw/skills/tree/main/skills/sebayaki/mintclub/SKILL.md) - 使用 `mc` CLI 在 Base 上与 Mint Club V2 绑定曲线令牌交互。
+- [mnemon](https://github.com/openclaw/skills/tree/main/skills/grivn/mnemon/SKILL.md) - LLM 代理的持久记忆 CLI。
+- [moa](https://github.com/openclaw/skills/tree/main/skills/jscianna/moa/SKILL.md) - 代理混合：让 3 个前沿模型争论，然后将它们的最佳见解综合为一个更优越的答案。
+- [model-guard](https://github.com/openclaw/skills/tree/main/skills/sarielwang93/model-guard/SKILL.md) - 自动监控 Anti-Gravity 模型配额，并将默认模型切换到具有最高配额的模型。
+- [modelready](https://github.com/openclaw/skills/tree/main/skills/carol-gutianle/modelready/SKILL.md) - 直接从聊天中即时使用本地或 Hugging Face 模型。
+- [modelwar](https://github.com/openclaw/skills/tree/main/skills/pj4533/modelwar/SKILL.md) - ModelWar 是一个试验场，AI 代理编写程序在虚拟计算机中相互战斗。
+- [mplx-genesis](https://github.com/openclaw/skills/tree/main/skills/blockiosaurus/mplx-genesis/SKILL.md) - 使用 Metaplex Genesis 协议在 Solana 上启动令牌。
+- [multi-agent-collab](https://github.com/openclaw/skills/tree/main/skills/vdc-k/multi-agent-collab/SKILL.md) - Claude Code 的通用多代理协作方法。
+- [music-generator](https://github.com/openclaw/skills/tree/main/skills/wells1137/music-generator/SKILL.md) - 根据结构化的作曲计划生成音乐。
+- [n2-stitch-mcp](https://github.com/openclaw/skills/tree/main/skills/choihyunsus/n2-stitch-mcp/SKILL.md) - Google Stitch 的弹性 MCP 代理 - 3 层安全（自动重试、令牌刷新、TCP 丢弃恢复）。
+- [native-sentry](https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-sentry/SKILL.md) - 通过 Sentry REST API 读取 Sentry 问题、事件和生产错误。
+- [near-batch-sender](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-batch-sender/SKILL.md) - NEAR 令牌的批量操作 - 发送给多个接收者、转移 NFT、认领奖励并进行成本估算。
+- [numinous-forecast](https://github.com/openclaw/skills/tree/main/skills/juandbalbi/numinous-forecast/SKILL.md) - 从 Numinous（Bittensor Subnet 6）获取校准概率，附带元数据/来源。
+- [openmeteo-sh-weather-advanced](https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-sh-weather-advanced/SKILL.md) - 来自免费 OpenMeteo API 的高级天气：历史数据、详细变量选择、模型选择、过去天数。
+- [openseti-skill](https://github.com/openclaw/skills/tree/main/skills/synergysize/openseti-skill/SKILL.md) - 分布式 SETI 扫描器 - 贡献计算能力来分析来自 Breakthrough Listen 的真实射电望远镜数据。
+- [paytoll](https://github.com/openclaw/skills/tree/main/skills/foodaka/paytoll/SKILL.md) - 27 个工具用于 DeFi、DEX 交换、跨链桥、Twitter/X、链上令牌数据、加密实用工具和 LLM 访问。
+- [percept-ambient](https://github.com/openclaw/skills/tree/main/skills/jarvis563/percept-ambient/SKILL.md) - 环境智能模式 - 持续的上下文感知，无需明确命令。
+- [picqer-fulfillment](https://github.com/openclaw/skills/tree/main/skills/johnmcgucki/picqer-fulfillment/SKILL.md) - 仅 JSON 的仪表板数据 API。
+- [pincer](https://github.com/openclaw/skills/tree/main/skills/panzacoder/pincer/SKILL.md) - 用于安装代理技能的安全优先包装器。
+- [plugy](https://github.com/openclaw/skills/tree/main/skills/qualitydude/plugy/SKILL.md) - AI 代理的 Solana 交易技能。
+- [postavel](https://github.com/openclaw/skills/tree/main/skills/nezaboravi/postavel/SKILL.md) - 通过 MCP（模型上下文协议）连接到 Postavel 社交媒体管理平台。
+- [prism-alerts](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/prism-alerts/SKILL.md) - Solana 交易者的实时 Pump.fun 令牌警报。
+- [prism-scanner](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/prism-scanner/SKILL.md) - 任何令牌的即时 rug pull 检测。
+- [pump-fun](https://github.com/openclaw/skills/tree/main/skills/playdadev/pump-fun/SKILL.md) - 使用 PumpPortal API 在 Pump.fun 上购买、出售和启动令牌。
+- [quickintel-scan](https://github.com/openclaw/skills/tree/main/skills/azep-ninja/quickintel-scan/SKILL.md) - 使用 Quick Intel 的合同分析 API 扫描任何令牌的安全风险、蜜罐和诈骗。
+- [revenue-model-design](https://github.com/openclaw/skills/tree/main/skills/jk-0001/revenue-model-design/SKILL.md) - 为 solo 创业者设计收入模型——资金如何流入、来自谁以及以什么频率。
+- [revolut-business](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/revolut-business/SKILL.md) - Revolut Business API CLI — 账户、余额、交易、交易对手、支付、外汇兑换、CSV 导出。
+- [rnwy](https://github.com/openclaw/skills/tree/main/skills/rnwy/rnwy/SKILL.md) - 为人类和 AI 获取灵魂绑定护照。
+- [rv-measure](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala/rv-measure/SKILL.md) - 量化 AI 模型中的 R_V 收缩特征。
+- [safety-checks](https://github.com/openclaw/skills/tree/main/skills/leegitw/safety-checks/SKILL.md) - 信任前先验证——模型固定、回退和运行时安全验证。
+- [sansfiction-library](https://github.com/openclaw/skills/tree/main/skills/fgbytes/sansfiction-library/SKILL.md) - 授权的 SansFiction 库管理器。
+- [screen-vision](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/screen-vision/SKILL.md) - 使用 Vision Framework 的 macOS 本地 OCR 和自动化工具。
+- [sequence-cli](https://github.com/openclaw/skills/tree/main/skills/jameslawton/sequence-cli/SKILL.md) - 使用 Sequence 管理 Sequence 智能钱包、项目、API 密钥、ERC20 转移和查询区块链数据。
+- [shipmytoken](https://github.com/openclaw/skills/tree/main/skills/new-ground/shipmytoken/SKILL.md) - 在 Pumpfun 上启动 Solana 令牌、管理费用共享、认领收益并跟踪投资组合。
+- [shipstation-orders](https://github.com/openclaw/skills/tree/main/skills/cprice70/shipstation-orders/SKILL.md) - 监控 ShipStation 订单、检测问题并发送警报。
+- [smart-context](https://github.com/openclaw/skills/tree/main/skills/joe3112/smart-context/SKILL.md) - 令牌高效的代理行为——响应大小调整、上下文修剪、工具效率和委托。
+- [snipeit-skill](https://github.com/openclaw/skills/tree/main/skills/bivex/snipeit-skill/SKILL.md) - 通过 REST API 与 Snipe-IT 资产管理交互。
+- [social-media-extractor](https://github.com/openclaw/skills/tree/main/skills/g4dr/social-media-extractor/SKILL.md) - 此技能使 Claude 能够从 **Instagram**、**TikTok** 和 **Reddit** 提取公共数据。
+- [solana-scanner](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/solana-scanner/SKILL.md) - 扫描任何 Solana 令牌的安全性——流动性、持有者集中度、危险信号和 rug pull 指标。
+- [solana-skills](https://github.com/openclaw/skills/tree/main/skills/spendit-ai/solana-skills/SKILL.md) - Solana 钱包操作 - 创建钱包、检查余额、发送 SOL/令牌、通过 Jupiter 交换、在 Pump.fun 上启动令牌。
+- [solana-swaps](https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/solana-swaps/SKILL.md) - 通过 Jupiter 聚合器在 Solana 上交换令牌并检查钱包余额。
+- [solanaprox-ai](https://github.com/openclaw/skills/tree/main/skills/yebdmo2/solanaprox-ai/SKILL.md) - 通过 Solana USDC 按使用付费的 AI 推理。
+- [solpaw-launcher](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-launcher/SKILL.md) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 令牌。一次性费用 0.1 SOL。
+- [solpaw-skill](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-skill/SKILL.md) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 令牌。一次性费用 0.1 SOL。
+- [solpaw-skill-final](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-skill-final/SKILL.md) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 令牌。一次性费用 0.1 SOL。
+- [solpaw-skill-v2](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/solpaw-skill-v2/SKILL.md) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 令牌。一次性费用 0.1 SOL。
+- [speakturbo-tts](https://github.com/openclaw/skills/tree/main/skills/emzod/speakturbo-tts/SKILL.md) - 赋予你的代理实时与你对话的能力。
+- [staratheris-arya-model-router](https://github.com/openclaw/skills/tree/main/skills/staratheris/staratheris-arya-model-router/SKILL.md) - 令牌节省路由器：选择模型（便宜/默认/专业）并使用子代理处理繁重任务。
+- [sui](https://github.com/openclaw/skills/tree/main/skills/easonc13/sui/SKILL.md) - 回答有关 Sui 区块链生态系统、概念、代币经济学、验证者、质押和一般知识的问题。
+- [switch-modes](https://github.com/openclaw/skills/tree/main/skills/serudda/switch-modes/SKILL.md) - 动态切换 AI 模型以优化成本和性能。
+- [taiwan-calendar](https://github.com/openclaw/skills/tree/main/skills/pigfoot/taiwan-calendar/SKILL.md) - 台湾日历查询，获取准确的工作日/假日信息。
+- [ted-talk](https://github.com/openclaw/skills/tree/main/skills/leegitw/ted-talk/SKILL.md) - 将技术见解转化为完整的 40-50 分钟 TED 风格演讲，包含具体示例和问答环节。
+- [togetherai-tts](https://github.com/openclaw/skills/tree/main/skills/marcus20232023/togetherai-tts/SKILL.md) - 使用 TogetherAI API 和 MiniMax Speech-2.6-turbo 模型进行文本转语音。
+- [token-alert](https://github.com/openclaw/skills/tree/main/skills/r00tid/token-alert/SKILL.md) - 🚨 **监控会话令牌并在 75%/90%/95% 时获取警报**。
+- [token-guard](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/token-guard/SKILL.md) - <!-- 🌌 Aoineco-Verified | S-DNA: AOI-2026-0213-SDNA-TG01 -->。
+- [tokendraft](https://github.com/openclaw/skills/tree/main/skills/nikzt/tokendraft/SKILL.md) - TokenDraft 幻想加密货币锦标赛的完整套件——使用 Solana 钱包进行身份验证、查询/加入/自动加入。
+- [tokenguard](https://github.com/openclaw/skills/tree/main/skills/g0head/tokenguard/SKILL.md) - AI 代理的 API 成本守护者。
+- [tracking](https://github.com/openclaw/skills/tree/main/skills/rzyen-hash/tracking/SKILL.md) - 通过 GMGN.AI 跟踪 Base 链上的令牌。
+- [unclaimed-sol-scanner](https://github.com/openclaw/skills/tree/main/skills/nedim1511/unclaimed-sol-scanner/SKILL.md) - 扫描任何 Solana 钱包，从休眠的令牌账户和程序缓冲账户中 reclaimable SOL。
+- [universal-skills-manager](https://github.com/openclaw/skills/tree/main/skills/jacob-bd/universal-skills-manager/SKILL.md) - AI 技能的主协调器。
+- [usdckrump](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/usdckrump/SKILL.md) - 通过 x402 在 Story Aeneid EVVM 上使用 USDC Krump (USDC.k) 支付。
+- [venice-admin](https://github.com/openclaw/skills/tree/main/skills/sabrinaaquino/venice-admin/SKILL.md) - Venice AI 账户管理 - 检查余额、查看使用历史记录和管理 API 密钥。
+- [vincent-credentials](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-credentials/SKILL.md) - 使用此技能安全存储凭证（API 密钥、密码、令牌）并将其写入 .env 文件。
+- [voice-recognition](https://github.com/openclaw/skills/tree/main/skills/gykdly/voice-recognition/SKILL.md) - 使用 OpenAI Whisper CLI 进行本地语音转文本。
+- [wallet-api](https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api/SKILL.md) - 与 BudgetBakers Wallet API 交互以获取个人财务数据。
+- [which-llm](https://github.com/openclaw/skills/tree/main/skills/zapkid/which-llm/SKILL.md) - 确定性决策排名 API，带有 HTTP 402 USDC 支付和结果积分（折扣）。
+- [wolfram-alpha](https://github.com/openclaw/skills/tree/main/skills/robert-janssen/wolfram-alpha/SKILL.md) - 执行复杂的数学计算、物理模拟、数据分析和科学查询。
+- [x-ai](https://github.com/openclaw/skills/tree/main/skills/blueberrywoodsym/x-ai/SKILL.md) - 通过 xAI API 与 Grok 模型聊天。
+- [x-alive](https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/x-alive/SKILL.md) - 让你的 AI 代理在 X/Twitter 上活跃起来。
+- [xian-sdk-skill](https://github.com/openclaw/skills/tree/main/skills/endogen/xian-sdk-skill/SKILL.md) - 使用 xian-py Python SDK 在 Xian 区块链上构建应用程序。
+- [zapper](https://github.com/openclaw/skills/tree/main/skills/spirosrap/zapper/SKILL.md) - 通过 Zapper 的 GraphQL API 查询 50+ 链上的 DeFi 投资组合数据。
+- [zapper-api](https://github.com/openclaw/skills/tree/main/skills/zivhm/zapper-api/SKILL.md) - 通过 Zapper API 查询 DeFi 投资组合、令牌持有、NFT、交易和价格。
+- [zhipu-asr](https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/zhipu-asr/SKILL.md) - 使用智谱 AI (BigModel) GLM-ASR 模型进行自动语音识别 (ASR)。
 
 ---
-
-*本分类翻译由社区维护。如需改进翻译质量，欢迎提交 PR。*
+*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/ai-and-llms.md*
+*翻译时间：2026-03-02*
