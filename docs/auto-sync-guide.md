@@ -1,62 +1,31 @@
-# 🦞 Awesome OpenClaw Skills 翻译同步 - 完全自动化方案
+# 🦞 Awesome OpenClaw Skills 翻译同步 - 自动化方案
 
 ## 📋 项目说明
 
 - **本地仓库**: `/Volumes/myDisk/workplace/awesome-openclaw-skills-zh`
 - **上游仓库**: `https://github.com/VoltAgent/awesome-openclaw-skills.git`
-- **同步方式**: OpenClaw Cron 自动检测 + 自动翻译 + 自动提交
+- **同步方式**: OpenClaw Cron 自动检测 → 派发子任务翻译 → 自动提交推送
 
 ---
 
-## ✅ 已删除的无效工作流
-
-以下 GitHub Actions 工作流已删除（无法调用本地 Claude）：
-
-- ❌ `sync-notify.yml` - 只能检测更新，无法翻译
-- ❌ `sync-daily.yml` - 同上
-- ❌ `sync-and-translate.yml` - 同上
-
----
-
-## 🕐 新的自动化方案
-
-### OpenClaw Cron 任务
+## 🕐 Cron 任务配置
 
 | 项目 | 值 |
 |------|-----|
-| **任务 ID** | `981bf530-0559-4431-81f0-4fc5aed5f326` |
+| **任务 ID** | `c41403b8-985f-41ae-ac31-8bd86e3da17d` |
 | **任务名称** | Awesome OpenClaw Skills 自动翻译同步 |
 | **执行时间** | 每周二、四、六 上午 10:00 (Asia/Shanghai) |
-| **运行模式** | 隔离会话 (isolated) |
-| **消息投递** | 完成后发送到当前频道 |
-
-### Cron 表达式
-
-```
-0 10 * * 2,4,6
-│  │  │ │  └──── 星期 (2=周二，4=周四，6=周六)
-│  │  │ └─────── 月份
-│  │  └───────── 日期
-│  └──────────── 小时 (10 点)
-└─────────────── 分钟 (0 分)
-```
+| **下次运行** | 约 2 天后 |
+| **运行模式** | 隔离会话 + 子任务派发 |
 
 ---
 
-## 🔄 自动化工作流程
+## 🔄 自动化流程
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ 定时任务触发 (每周二、四、六 10:00)                           │
-│ OpenClaw Cron → 隔离 AI 会话                                   │
-└─────────────────────────┬───────────────────────────────────┘
-                          │
-                          ▼
-┌─────────────────────────────────────────────────────────────┐
-│ 1. 检查上游更新                                               │
-│    cd /Volumes/myDisk/workplace/awesome-openclaw-skills-zh  │
-│    git fetch upstream main                                   │
-│    git diff --name-only HEAD..upstream/main                 │
+│ 1. Cron 触发 (每周二、四、六 10:00)                           │
+│    进入项目目录，检查上游更新                                 │
 └─────────────────────────┬───────────────────────────────────┘
                           │
                           ▼
@@ -70,67 +39,106 @@
               │                         │
               ▼                         ▼
     ┌─────────────────┐       ┌─────────────────┐
-    │ 2. 自动翻译      │       │ 回复            │
-    │                 │       │ "无需同步"      │
-    │ 读取英文原文     │       └─────────────────┘
-    │ AI 翻译为中文    │
-    │ 写入 .zh.md     │
-    └────────┬────────┘
+    │ 2. 拉取英文原文  │       │ 回复            │
+    │    git checkout │       │ "无需同步"      │
+    └────────┬────────┘       └─────────────────┘
              │
              ▼
     ┌─────────────────────────────────────────┐
-    │ 3. 拉取上游变更 + 提交 + 推送              │
-    │    git pull upstream main               │
-    │    git add -A                           │
-    │    git commit -m "feat: 同步翻译更新"    │
-    │    git push origin main                 │
-    └────────┬────────────────────────────────┘
-             │
-             ▼
+    │ 3. 为每个文件派发翻译子任务              │
+    │    sessions_spawn (mode: run)           │
+    │    ┌───────┐ ┌───────┐ ┌───────┐       │
+    │    │ 子任务│ │ 子任务│ │ 子任务│  ...  │
+    │    │ 翻译  │ │ 翻译  │ │ 翻译  │       │
+    │    └───────┘ └───────┘ └───────┘       │
+    └─────────────────┬───────────────────────┘
+                      │
+                      ▼
     ┌─────────────────────────────────────────┐
-    │ 4. 报告完成                              │
-    │ - 同步了几个文件                         │
-    │ - 每个文件的翻译统计                     │
+    │ 4. 所有翻译完成后提交推送                │
+    │    git add → commit → push              │
+    └─────────────────┬───────────────────────┘
+                      │
+                      ▼
+    ┌─────────────────────────────────────────┐
+    │ 5. 报告完成                              │
+    │    同步文件数 + 列表                     │
     └─────────────────────────────────────────┘
 ```
+
+---
+
+## 📊 当前状态
+
+### 已完成
+- ✅ 30 个英文原文件已同步 (2026-03-05)
+- ✅ 1 个文件已翻译：`ai-and-llms.zh.md`
+- ✅ Cron 任务已配置
+
+### 待翻译 (29 个文件)
+- apple-apps-and-services.zh.md
+- browser-and-automation.zh.md
+- calendar-and-scheduling.zh.md
+- clawdbot-tools.zh.md
+- cli-utilities.zh.md
+- coding-agents-and-ides.zh.md
+- communication.zh.md
+- data-and-analytics.zh.md
+- devops-and-cloud.zh.md
+- gaming.zh.md
+- git-and-github.zh.md
+- health-and-fitness.zh.md
+- image-and-video-generation.zh.md
+- ios-and-macos-development.zh.md
+- marketing-and-sales.zh.md
+- media-and-streaming.zh.md
+- moltbook.zh.md
+- notes-and-pkm.zh.md
+- pdf-and-documents.zh.md
+- personal-development.zh.md
+- productivity-and-tasks.zh.md
+- search-and-research.zh.md
+- security-and-passwords.zh.md
+- self-hosted-and-automation.zh.md
+- shopping-and-e-commerce.zh.md
+- smart-home-and-iot.zh.md
+- speech-and-transcription.zh.md
+- transportation.zh.md
+- web-and-frontend-development.zh.md
 
 ---
 
 ## 🛠️ 管理命令
 
 ```bash
-# 查看所有定时任务
+# 查看 Cron 任务
 openclaw cron list
 
-# 手动触发测试（立即执行）
-openclaw cron run 981bf530-0559-4431-81f0-4fc5aed5f326 --force
+# 手动触发同步
+openclaw cron run c41403b8-985f-41ae-ac31-8bd86e3da17d
 
 # 查看运行历史
-openclaw cron runs --id 981bf530-0559-4431-81f0-4fc5aed5f326 --limit 10
+openclaw cron runs --id c41403b8-985f-41ae-ac31-8bd86e3da17d --limit 5
 
 # 修改执行频率
 # 改为每天执行
-openclaw cron edit 981bf530-0559-4431-81f0-4fc5aed5f326 --cron "0 10 * * *"
-
-# 改为每周一、三、五
-openclaw cron edit 981bf530-0559-4431-81f0-4fc5aed5f326 --cron "0 10 * * 1,3,5"
+openclaw cron edit c41403b8-985f-41ae-ac31-8bd86e3da17d --cron "0 10 * * *"
 
 # 删除任务
-openclaw cron remove 981bf530-0559-4431-81f0-4fc5aed5f326
+openclaw cron remove c41403b8-985f-41ae-ac31-8bd86e3da17d
 ```
 
 ---
 
 ## 📝 翻译规则
 
-AI 翻译时遵循以下规则：
-
 | 规则 | 说明 |
 |------|------|
-| **技能名称** | 保持英文（如 `git-helper`） |
-| **链接/代码块** | 保留不变 |
-| **图片/HTML** | 保留不变 |
-| **赞助内容** | 移除 Gold/Silver/Bronze Sponsor 段落 |
+| **标题和描述** | 全部翻译成中文 |
+| **技能名称** | 保持英文（如 git-helper, claude-code） |
+| **链接/代码块** | 保持原样不变 |
+| **图片/HTML** | 保持原样不变 |
+| **赞助内容** | 删除 Gold/Silver/Bronze Sponsor 段落 |
 | **来源标注** | 文件末尾添加翻译来源链接 |
 
 ### 来源标注格式
@@ -143,65 +151,32 @@ AI 翻译时遵循以下规则：
 
 ---
 
-## 📊 查看翻译状态
-
-```bash
-cd /Volumes/myDisk/workplace/awesome-openclaw-skills-zh
-
-# 查看已翻译文件数量
-ls -la categories/*.zh.md | wc -l
-
-# 查看翻译状态
-python3 scripts/auto-dispatch.py --status
-
-# 检查上游更新
-git remote add upstream https://github.com/VoltAgent/awesome-openclaw-skills.git 2>/dev/null || true
-git fetch upstream main --depth=1
-git diff --name-only HEAD..upstream/main | grep "^categories/" | grep "\.md$" | grep -v "\.zh\.md$"
-```
-
----
-
 ## ⚠️ 注意事项
 
-### 1. Git 配置
+### 1. 翻译时间
+- 每个文件约需 2-5 分钟
+- 30 个文件全部翻译约需 1-2 小时
+- 建议分批执行或等待 Cron 自动处理
 
+### 2. Git 配置
 确保已配置 git 用户信息：
-
 ```bash
-git config --global user.name "Your Name"
+git config --global user.name "wrt"
 git config --global user.email "your@email.com"
 ```
 
-### 2. GitHub Token
-
-如果需要推送，确保有写入权限：
-
-- 方案 A: 使用 SSH key（推荐）
-- 方案 B: 使用 Personal Access Token
-
-### 3. 翻译质量
-
-- AI 翻译可能不完美，建议定期人工 review
-- 如有错误，手动修正后 commit 即可
-
-### 4. 失败处理
-
-如果任务失败，查看运行历史：
-
+### 3. 推送权限
+确保有 GitHub 仓库写入权限：
 ```bash
-openclaw cron runs --id 981bf530-0559-4431-81f0-4fc5aed5f326 --limit 5
+# 测试推送
+git push origin main
 ```
 
----
-
-## 🔔 通知方式
-
-任务完成后会自动发送消息到当前频道，包含：
-
-- ✅/❌ 执行状态
-- 📊 同步文件数量
-- 📝 翻译统计
+### 4. 失败处理
+如果任务失败，查看运行历史：
+```bash
+openclaw cron runs --id c41403b8-985f-41ae-ac31-8bd86e3da17d --limit 5
+```
 
 ---
 
@@ -210,13 +185,32 @@ openclaw cron runs --id 981bf530-0559-4431-81f0-4fc5aed5f326 --limit 5
 | 特性 | 旧方案 (GitHub Actions) | 新方案 (OpenClaw Cron) |
 |------|------------------------|------------------------|
 | 检测更新 | ✅ | ✅ |
-| 自动翻译 | ❌ | ✅ |
+| 自动翻译 | ❌ | ✅ (派发子任务) |
 | 自动提交 | ❌ | ✅ |
 | 自动推送 | ❌ | ✅ |
 | 需要手动操作 | ✅ | ❌ |
-| 调用本地 Claude | ❌ | ✅ |
+| 使用 Claude | ❌ | ✅ (子任务) |
+
+---
+
+## 🚀 立即翻译剩余文件
+
+如果想立即翻译剩余 29 个文件，可以手动触发：
+
+```bash
+openclaw cron run c41403b8-985f-41ae-ac31-8bd86e3da17d
+```
+
+或者分批派发子任务：
+
+```bash
+# 在 OpenClaw 会话中
+sessions_spawn(task="翻译 categories/browser-and-automation.md 为中文...", label="translate-1")
+sessions_spawn(task="翻译 categories/calendar-and-scheduling.md 为中文...", label="translate-2")
+# ...
+```
 
 ---
 
 *创建时间：2026-03-05*
-*最后更新：2026-03-05*
+*最后更新：2026-03-05 11:20*
