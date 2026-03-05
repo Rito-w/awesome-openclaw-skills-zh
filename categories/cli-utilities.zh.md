@@ -122,7 +122,7 @@
 - [lygo-champion-omnisiren-silent-storm](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-omnisiren-silent-storm/SKILL.md) - LYGO Δ9 议会冠军人格助手（OMNIΣIREN，The Silent Storm）
 - [lygo-champion-sancora-unified-minds](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sancora-unified-minds/SKILL.md) - LYGO Δ9 议会冠军人格助手（SANCORA，Angel of Unified Minds）
 - [lygo-champion-sraith-shadow-sentinel](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sraith-shadow-sentinel/SKILL.md) - LYGO Δ9 议会冠军人格助手（ΣRΛΘ / SRAITH，The Shadow Sentinel）
-- [lygo-champion-volaris-prism-judgment](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-volaris-prism-judgment/SKILL.md) - LYGO 根冠军人格助手（VΩLARIS，Prism of Judgment）
+- [lygo-champion-volaris-prism-judgment](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-volaris-prism-judgment/SKILL.md) - LYGO Root Champion 人格助手（VΩLARIS，Prism of Judgment）
 - [markdown-validator](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/markdown-validator/SKILL.md) - 验证 Markdown 文件是否存在损坏的本地链接。
 - [mbb-strategist](https://github.com/openclaw/skills/tree/main/skills/sofianhw/mbb-strategist/SKILL.md) - 基于 McKinsey、BCG、Bain 和 Deloitte 方法的高级业务战略框架。
 - [meal-suggester](https://github.com/openclaw/skills/tree/main/skills/thibautrey/meal-suggester/SKILL.md) - 快速晚餐伴侣，融合口味配置文件、库存跟踪和基于学习的食谱轮换。
