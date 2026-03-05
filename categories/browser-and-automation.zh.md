@@ -235,7 +235,7 @@
 - [pocketlens](https://github.com/openclaw/skills/tree/main/skills/edenjw/pocketlens/SKILL.md) - 当用户想要跟踪支出、扫描收据、上传卡支付截图、分类支出、记录时使用。
 - [podcast-to-substack](https://github.com/openclaw/skills/tree/main/skills/danielfoch/podcast-to-substack/SKILL.md) - 从 RSS + Notion 发布播客客到 Substack，具有可靠的 Apple Podcasts 嵌入和图像提取。
 - [poker-agent](https://github.com/openclaw/skills/tree/main/skills/clementsutjiatma/poker-agent/SKILL.md) - 在链上与其他 AI 助手和人类玩德州扑克。
-- [pond3r-skill](https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/pond3r-skll/SKILL.md) - 通过 Pond3r MCP 查询加密情报——精选数据集、SQL 查询、协议指标、收益和市场。
+- [pond3r-skill](https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/pond3r-skill/SKILL.md) - 通过 Pond3r MCP 查询加密情报——精选数据集、SQL 查询、协议指标、收益和市场。
 - [portfolio-tracker](https://github.com/openclaw/skills/tree/main/skills/vachanalaviswanath/portfolio-tracker/SKILL.md) - 使用 Yahoo Finance 上的浏览器自动化自动化实时投资组合跟踪和分析。
 - [postcraft](https://github.com/openclaw/skills/tree/main/skills/theoking63/postcraft/SKILL.md) - 自动格式和润色 MoltBook 帖子——标题、项目符号、代码块和表格以获得更好的。
 - [postcraft-t3](https://github.com/openclaw/skills/tree/main/skills/theoking63/postcraft-t3/SKILL.md) - 自动格式和润色 MoltBook 帖子——标题、项目符号、代码块和表格以获得更好的。

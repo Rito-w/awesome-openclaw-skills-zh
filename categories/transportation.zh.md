@@ -50,7 +50,7 @@
 - [db-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/db-travel/SKILL.md) - 使用德国铁路 API (v6.db.transport.rest) 规划德国和欧洲的行程
 - [dep-audit](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/dep-audit/SKILL.md) - 审计项目依赖项中的已知漏洞 (CVEs)
 - [drakeling](https://github.com/openclaw/skills/tree/main/skills/bvisagie/drakeling/SKILL.md) - 查看你的 Drakeling 伙伴生物，向它发送关怀，或查看它的感受。
-- [dropshipping-mentor-nick-skill](https://github.com/openclaw/skills/tree/main/skills/yoavfael/dropshipping-mentor-nick-skILL.md) - 完整的 AI 商业导师。
+- [dropshipping-mentor-nick-skill](https://github.com/openclaw/skills/tree/main/skills/yoavfael/dropshipping-mentor-nick-skill/SKILL.md) - 完整的 AI 商业导师。
 - [email-tool](https://github.com/openclaw/skills/tree/main/skills/chowardcode/email-tool/SKILL.md) - **描述：** 使用此技能发送和阅读电子邮件（IMAP/SMTP）
 - [entur-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/entur-travel/SKILL.md) - 使用 Entur API 规划挪威的公共交通行程。
 - [feature-forge](https://github.com/openclaw/skills/tree/main/skills/guifav/feature-forge/SKILL.md) - 从自然语言生成完整功能——组件、API 路由、迁移、类型和测试。

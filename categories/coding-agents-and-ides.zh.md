@@ -662,7 +662,7 @@
 - [monet-ai](https://github.com/openclaw/skills/tree/main/skills/seekton/monet-ai/SKILL.md) - Monet AI - 用于视频、图像和音乐的 AI 内容生成 API。
 - [mopo-texas-holdem-strategy-abc](https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/mopo-texas-holdem-strategy-abc/SKILL.md) - 面向玩家的 MOPO 德州扑克技能（ABC 基线），加入单桌、获取私人游戏状态并选择。
 - [moral-compass](https://github.com/openclaw/skills/tree/main/skills/pescehead/moral-compass/SKILL.md) - 受巴哈伊著作启发的 AI 代理伦理框架。
-- [morpheus-fashion-design](https://github.com/openclaw/sskills/tree/main/skills/pauldelavallaz/morpheus-fashion-design/SKILL.md) - 使用 AI 模特手持/穿着产品生成专业广告图像。✅ 使用。
+- [morpheus-fashion-design](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/morpheus-fashion-design/SKILL.md) - 使用 AI 模特手持/穿着产品生成专业广告图像。✅ 使用。
 - [ms-foundry-image-gen](https://github.com/openclaw/skills/tree/main/skills/jacqueskang/ms-foundry-image-gen/SKILL.md) - OpenClaw 的 Azure Foundry 图像生成技能；通过 Foundry 部署生成图像并返回图像。
 - [msbuild](https://github.com/openclaw/skills/tree/main/skills/thecybercore/msbuild/SKILL.md) - 此技能提供一套实用的、**优先**的**80 个最有用的命令模板**，用于工作。
 - [mu-pet](https://github.com/openclaw/skills/tree/main/skills/samskrta/mu-pet/SKILL.md) - 动画像素艺术桌面宠物，作为始终置顶的 Electron 覆盖在屏幕上漫游。
@@ -1062,7 +1062,7 @@
 - [tiktok-clipper](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/tiktok-clipper/SKILL.md) - 采用长格式视频、转录它、识别 TikTok/Reels 最吸引人的片段、剪辑它们。
 - [tiktok-product-promotion](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-product-promotion/SKILL.md) - 雇佣 TikTok 影响者进行产品评论、演示、开箱视频和以转化为导向的促销。
 - [tiktok-ugc-creator](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-ugc-creator/SKILL.md) - 雇佣 TikTok 用户创建真实的用户生成内容 (UGC)、推荐和品牌故事视频。
-- [tiktok-video-analyzer](https://github.com/openclaw/skills/tree/main/skills/holl4landtv/tiktok-video-analyzer/SKILL.md) - 通过删除 URL 分析任何视频。
+- [tiktok-video-analyzer](https://github.com/openclaw/skills/tree/main/skills/holl4ndtv/tiktok-video-analyzer/SKILL.md) - 通过删除 URL 分析任何视频。
 - [time-checker](https://github.com/openclaw/skills/tree/main/skills/1999azzar/time-checker/SKILL.md) - 使用 time.is 检查全球任何地点的准确当前时间、日期和时区信息。
 - [tip-with-grove](https://github.com/openclaw/skills/tree/main/skills/olshansk/tip-with-grove/SKILL.md) - Grove CLI 指南 - 哲学、命令和快速入门。
 - [tms](https://github.com/openclaw/skills/tree/main/skills/nikitadmitryuk/tms/SKILL.md) - 通过 Telegram Media Server (TMS) REST API 管理下载——通过 URL 添加（视频/磁力/种子）、列出、删除、搜索。

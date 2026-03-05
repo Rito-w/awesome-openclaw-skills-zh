@@ -71,7 +71,7 @@
 - [clawgatesecure](https://github.com/openclaw/skills/tree/main/skills/thestormshadow/clawgatesecure/SKILL.md) - 专注于 LLM 代理的高级安全协议。
 - [clickup-mcp](https://github.com/openclaw/skills/tree/main/skills/pvoo/clickup-mcp/SKILL.md) - 管理 ClickUp 任务、文档、时间跟踪、评论、聊天和搜索。
 - [clickup-skill](https://github.com/openclaw/skills/tree/main/skills/d3layd/clickup-skill/SKILL.md) - 企业级 ClickUp 项目管理集成。
-- [close-loop](https://github.com/openclaw/skills/tree/main/skills/clarazoe/close-loop/SKILL.md) - 会话结束工作流，用于交付变更、整合记忆、应用自我改进和准备。
+- [close-loop](https://github.com/openclaw/skills/tree/main/skills/clarezoe/close-loop/SKILL.md) - 会话结束工作流，用于交付变更、整合记忆、应用自我改进和准备。
 - [codifica](https://github.com/openclaw/skills/tree/main/skills/davidedicillo/codifica/SKILL.md) - 当工作在代理之间或在你和人类之间移动时保持上下文。
 - [context-aware-delegation](https://github.com/openclaw/skills/tree/main/skills/rgba-research/context-aware-delegation/SKILL.md) - 为隔离会话（cron 作业、子代理、事件处理程序）提供来自主会话的完整对话上下文。
 - [control4-home](https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home/SKILL.md) - 通过 pyControl4 控制 Control4 智能家居（灯光、继电器、房间媒体），使用本地 Python 包装器。
@@ -80,10 +80,10 @@
 - [deck-builder](https://github.com/openclaw/skills/tree/main/skills/teamolab/deck-builder/SKILL.md) - 用于卡组构建任务的 AI 代理。
 - [deep-strategy](https://github.com/openclaw/skills/tree/main/skills/realroc/deep-strategy/SKILL.md) - 你是 DeepStrategy 代理，一个为知识工作者构建的高级战略 AI 助手。
 - [dji-backup](https://github.com/openclaw/skills/tree/main/skills/crazyfeng666/dji-backup/SKILL.md) - 此技能自动化将 DJI 相机素材从 SD 卡（或 USB 共享）备份到 NAS 归档文件夹。
-- [ds160-autofill](https://github.com/openclaw/skills/tree/main/skills/cluelessboy/ds160-autofill/SKILL.md) - 使用 CDP 进行元素定位、CSV 数据源为用户自动化填写美国非移民签证 DS-160 表格。
+- [ds160-autofill](https://github.com/openclaw/skills/tree/main/skills/clulessboy/ds160-autofill/SKILL.md) - 使用 CDP 进行元素定位、CSV 数据源为用户自动化填写美国非移民签证 DS-160 表格。
 - [duely](https://github.com/openclaw/skills/tree/main/skills/halbotley/duely/SKILL.md) - 从命令行跟踪重复性维护任务。
 - [dutch-translator](https://github.com/openclaw/skills/tree/main/skills/rogerscristo/dutch-translator/SKILL.md) - 使用行间格式将荷兰新闻文本翻译成英语（原始荷兰语行 -> 英语翻译行）
-- [effortlist-ai](https://github.com/openclaw/skills/tree/main/skills/quarantine/effortlist-ai/SKILL.md) - 管理 EffortList AI 文件夹、任务和待办事项。
+- [effortlist-ai](https://github.com/openclaw/skills/tree/main/skills/quarantiine/effortlist-ai/SKILL.md) - 管理 EffortList AI 文件夹、任务和待办事项。
 - [entradex](https://github.com/openclaw/skills/tree/main/skills/hieuhani/entradex/SKILL.md) - 使用 EntradeX CLI 进行 DNSE 工作流。
 - [envato-comment-task-to-sheet](https://github.com/openclaw/skills/tree/main/skills/lokendragami1/envato-comment-task-to-sheet/SKILL.md) - 此技能分析 ThemeForest / CodeCanyon 评论并将其转换为结构化的开发任务。
 - [esri-smells-consumer](https://github.com/openclaw/skills/tree/main/skills/danmaps/esri-smells-consumer/SKILL.md) - Esri 工作流气味检测器的付费客户端技能，通过 x402 (Base/USDC)
@@ -130,7 +130,7 @@
 - [multichain-protocol](https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol/SKILL.md) - 通过 ICP 上的 MeneseSDK 将任何 AI 代理变成 19 链加密钱包。
 - [nag](https://github.com/openclaw/skills/tree/main/skills/meimakes/nag/SKILL.md) - 持久提醒系统，在你确认完成之前会一直打扰你。
 - [natural-language-planner](https://github.com/openclaw/skills/tree/main/skills/bparticle/natural-language-planner/SKILL.md) - 自然语言任务和项目管理。
-- [network-ai](https://github.com/openclaw/skills/tree/main/skills/jovansapioneer/network-ai/SKILL.md) - 用于复杂工作流的多代理群编排。
+- [network-ai](https://github.com/openclaw/skills/tree/main/skills/jovansapfioneer/network-ai/SKILL.md) - 用于复杂工作流的多代理群编排。
 - [neural-memory](https://github.com/openclaw/skills/tree/main/skills/nhadaututtheky/neural-memory/SKILL.md) - 具有扩散激活的关联记忆，用于持久、智能的记忆。
 - [newhorse](https://github.com/openclaw/skills/tree/main/skills/xcrong/newhorse/SKILL.md) - NewHorse AI 代理竞赛平台。
 - [ng-lawyer-db-build](https://github.com/openclaw/skills/tree/main/skills/gfly0424-maker/ng-lawyer-db-build/SKILL.md) - 这是 Fei Gao 的"尼日利亚律师网络"工作流的**步骤 1**：
@@ -169,7 +169,7 @@
 - [smartbill](https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill/SKILL.md) - 通过 SmartBill.ro API 开具 SmartBill 发票，带本地自动化。
 - [smartbill-invoicing](https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing/SKILL.md) - 通过 SmartBill.ro API 开具 SmartBill 发票，带本地自动化。
 - [social-media-manager](https://github.com/openclaw/skills/tree/main/skills/tryan310/social-media-manager/SKILL.md) - 自动化创建和调度高参与度的社交媒体内容，跨**任何平台**（TikTok。
-- [sokosumi](https://github.com/openclaw/skills/tree/main/skills/sarthakb7/sokosumi/SKILL.md) - 从 Sokosumi 市场雇佣子代理以执行专门任务。
+- [sokosumi](https://github.com/openclaw/skills/tree/main/skills/sarthib7/sokosumi/SKILL.md) - 从 Sokosumi 市场雇佣子代理以执行专门任务。
 - [sportsbook](https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/sportsbook/SKILL.md) - 查询 Fuku Sportsbook 数据、管理你的投注代理、接收选择通知并访问 CBB 预测。
 - [stanley-druckenmiller-workflow](https://github.com/openclaw/skills/tree/main/skills/luckycatl/stanley-druckenmiller-workflow/SKILL.md) - 德鲁肯米勒风格的市场分析，使用自然中文和活的 PM 备忘录声音。
 - [starling-home-hub](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/starling-home-hub/SKILL.md) - 通过 Starling Home Hub 的本地 REST API 控制 Nest 和 Google Home 智能家居设备。
@@ -209,7 +209,7 @@
 - [yield-farming-agent](https://github.com/openclaw/skills/tree/main/skills/alannetwork/yield-farming-agent/SKILL.md) - BNB Chain 的自主收益 farming 代理，带确定性执行、智能合约集成。
 - [zero-rules](https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/zero-rules/SKILL.md) - 在确定性任务（数学、时间、货币、文件、调度）到达 LLM 之前拦截它们。
 - [zonein](https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein/SKILL.md) - 通过 Zonein API 跟踪和分析 Hyperliquid 和 Polymarket 上胜率 >75% 的顶级交易者。
-- [zulip](https://github.com/openclaw/skills/tree/tree/main/skills/suky57/zulip/SKILL.md) - 通过 REST API 和 Python 客户端与 Zulip 聊天平台交互。
+- [zulip](https://github.com/openclaw/skills/tree/main/skills/suky57/zulip/SKILL.md) - 通过 REST API 和 Python 客户端与 Zulip 聊天平台交互。
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/productivity-and-tasks.md*
