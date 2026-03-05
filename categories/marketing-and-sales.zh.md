@@ -83,7 +83,7 @@
 - [nicholasrae-review-reply](https://github.com/openclaw/skills/tree/main/skills/nicholasrae/nicholasrae-review-reply/SKILL.md) - 自动监控你的 App Store 评论，并为 1-3 星评论起草温暖、符合品牌的回复 — 这样不满意的。
 - [odoo-reporting](https://github.com/openclaw/skills/tree/main/skills/ashrf-in/odoo-reporting/SKILL.md) - 查询 Odoo 数据，包括销售人员绩效、客户分析、订单、发票、CRM、会计、增值税。
 - [outlit-mcp](https://github.com/openclaw/skills/tree/main/skills/leo-paz/outlit-mcp/SKILL.md) - 通过 MCP 工具 (outlit_*) 查询 Outlit 客户数据时使用。
-- [pancake-skills](https://github.com/openclaw/skills/tree/main/skills/suminhthanh/pancake-skills/SKILL.md) - Tương tác với Pancake Platform API để quản lý pages, conversations, messages, customers, statistics, tags, posts.
+- [pancake-skills](https://github.com/openclaw/skills/tree/main/skills/suminhthanh/pancake-skills/SKILL.md) - 与 Pancake Platform API 交互以管理页面、对话、消息、客户、统计、标签、帖子。
 - [performance-reporter](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/performance-reporter/SKILL.md) - 当用户要求"生成 SEO 报告"、"性能报告"、"流量报告"、"SEO 仪表板"、"报告"时使用。
 - [phone-caller](https://github.com/openclaw/skills/tree/main/skills/omerflo/phone-caller/SKILL.md) - 使用 ElevenLabs 语音 + GPT 大脑 + Twilio 进行 AI 驱动的外拨电话。
 - [pilt](https://github.com/openclaw/skills/tree/main/skills/babpilt/pilt/SKILL.md) - 访问 Pilt 筹款数据 — 投资者匹配、活动统计、外联活动和 Deck 分析。
