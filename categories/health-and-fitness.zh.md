@@ -1,93 +1,93 @@
 # Health & Fitness
 [← Back to main list](../README.md#table-of-contents)
 **88 skills**
-- [31third-safe-rebalancer-simple](https://github.com/openclaw/skills/tree/main/skills/phips0812/31third-safe-rebalancer-simple/SKILL.md) - One-step Safe rebalancer using on-chain 31Third policies.
+- [31third-safe-rebalancer-simple](https://github.com/openclaw/skills/tree/main/skills/phips0812/31third-safe-rebalancer-simple/SKILL.md) - One-step Safe rebalancer 使用 on-chain 31Third policies.
 - [aavegotchi-baazaar](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-baazaar/SKILL.md) - View, add, and execute Aavegotchi Baazaar listings on Base mainnet (8453)
-- [aavegotchi-gbm-skill](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gbm-skill/SKILL.md) - View, create, cancel, bid, and claim Aavegotchi GBM auctions on Base mainnet (8453)
-- [agent-credit](https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit/SKILL.md) - Borrow from Aave via credit delegation.
-- [anthrovision-telegram-body-scan](https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan/SKILL.md) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
-- [aperture](https://github.com/openclaw/skills/tree/main/skills/roasbeef/aperture/SKILL.md) - Install and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
-- [arc-skill-sandbox](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-sandbox/SKILL.md) - Test untrusted skills in an isolated environment before installing.
+- [aavegotchi-gbm-skill](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gbm-skill/SKILL.md) - View, 创建, cancel, bid, and claim Aavegotchi GBM auctions on Base mainnet (8453)
+- [agent-credit](https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit/SKILL.md) - Borrow from Aave 通过 credit delegation.
+- [anthrovision-telegram-body-scan](https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan/SKILL.md) - Run 端到端 body-scan measurement flow in Telegram 使用 AnthroVision bridge 工具.
+- [aperture](https://github.com/openclaw/skills/tree/main/skills/roasbeef/aperture/SKILL.md) - 安装 and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
+- [arc-skill-sandbox](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-sandbox/SKILL.md) - 测试 untrusted 技能 in an isolated environment before installing.
 - [auto-improve](https://github.com/openclaw/skills/tree/main/skills/mcben90/auto-improve/SKILL.md) - Automatische Selbst-Verbesserung durch Fehler-Lernen und Pattern-Erkennung.
-- [autonomous-agent](https://github.com/openclaw/skills/tree/main/skills/josephrp/autonomous-agent/SKILL.md) - CornerStone MCP x402 skill for agents.
-- [bittensor-sdk](https://github.com/openclaw/skills/tree/main/skills/taoleeh/bittensor-sdk/SKILL.md) - Comprehensive Bittensor blockchain interaction skill with wallet management, staking, subnet operations, neuron.
-- [bountyhub-agent](https://github.com/openclaw/skills/tree/main/skills/nativ3ai/bountyhub-agent/SKILL.md) - Use H1DR4 BountyHub as an agent: create missions, submit work, dispute, vote, and claim escrow payouts.
-- [bring-recipes](https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-recipes/SKILL.md) - Use when user wants to browse recipe inspirations.
-- [calorie-counter](https://github.com/openclaw/skills/tree/main/skills/cnqso/calorie-counter/SKILL.md) - Track daily calorie and protein intake, set goals, and log.
+- [autonomous-agent](https://github.com/openclaw/skills/tree/main/skills/josephrp/autonomous-agent/SKILL.md) - CornerStone MCP x402 技能 for 代理.
+- [bittensor-sdk](https://github.com/openclaw/skills/tree/main/skills/taoleeh/bittensor-sdk/SKILL.md) - 全面 Bittensor 区块链 interaction 技能 带有 钱包 management, staking, subnet operations, neuron.
+- [bountyhub-agent](https://github.com/openclaw/skills/tree/main/skills/nativ3ai/bountyhub-agent/SKILL.md) - Use H1DR4 BountyHub as an 代理: 创建 missions, submit work, dispute, vote, and claim escrow payouts.
+- [bring-recipes](https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-recipes/SKILL.md) - Use when 用户 wants to browse recipe inspirations.
+- [calorie-counter](https://github.com/openclaw/skills/tree/main/skills/cnqso/calorie-counter/SKILL.md) - 追踪 daily calorie and protein intake, set goals, and log.
 - [capa-officer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/capa-officer/SKILL.md) - CAPA system management for medical device QMS.
 - [clawdhub-contributor](https://github.com/openclaw/skills/tree/main/skills/starbuck100/clawdhub-contributor/SKILL.md) - Contribute to the ClawdHub ecosystem.
 - [cookidoo](https://github.com/openclaw/skills/tree/main/skills/thekie/cookidoo/SKILL.md) - Access Cookidoo (Thermomix) recipes, shopping lists, and meal planning.
 - [critpt-solver](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/critpt-solver/SKILL.md) - Validates and executes Python solutions for CritPt benchmark problems.
 - [crunch-coordinate](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-coordinate/SKILL.md) - Use when managing Crunch coordinators, competitions (crunches), rewards, checkpoints, staking, or cruncher accounts.
-- [crypto-hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/crypto-hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-- [ct-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/ct-health-guardian/SKILL.md) - Proactive health monitoring for AI agents.
-- [curriculum-generator](https://github.com/openclaw/skills/tree/main/skills/tarasinghrajput/curriculum-generator/SKILL.md) - Intelligent educational curriculum generation system with strict step enforcement and human escalation policies.
-- [customer-onboarding-2](https://github.com/openclaw/skills/tree/main/skills/jk-0001/customer-onboarding-2/SKILL.md) - Design and execute customer onboarding that drives activation and retention.
-- [detox-counter](https://github.com/openclaw/skills/tree/main/skills/jhillin8/detox-counter/SKILL.md) - Track any detox with customizable counters, symptom logging.
+- [crypto-hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/crypto-hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting 项目, or voting. 3 tracks: SmartContract, 技能.
+- [ct-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/ct-health-guardian/SKILL.md) - Proactive health monitoring 为 人工智能 代理设计.
+- [curriculum-generator](https://github.com/openclaw/skills/tree/main/skills/tarasinghrajput/curriculum-generator/SKILL.md) - Intelligent educational curriculum generation system 带有 strict step enforcement and human escalation policies.
+- [customer-onboarding-2](https://github.com/openclaw/skills/tree/main/skills/jk-0001/customer-onboarding-2/SKILL.md) - 设计 and execute customer onboarding that drives activation and retention.
+- [detox-counter](https://github.com/openclaw/skills/tree/main/skills/jhillin8/detox-counter/SKILL.md) - 追踪 any detox 带有 customizable counters, symptom logging.
 - [diet-tracker](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker/SKILL.md) - Tracks daily diet and calculates nutrition information.
-- [efka-api-integration](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/efka-api-integration/SKILL.md) - Greek social security (EFKA) integration — employee records, contribution calculations, APD declarations.
-- [egvert-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian/SKILL.md) - Proactive health monitoring for AI.
-- [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance.
-- [eth24](https://github.com/openclaw/skills/tree/main/skills/patmilkgallon/eth24/SKILL.md) - You are running ETH24, a daily digest tool that surfaces the top tweets for a configured topic.
-- [fasting-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/fasting-tracker/SKILL.md) - Track intermittent fasting windows, extended fasts.
-- [feast](https://github.com/openclaw/skills/tree/main/skills/smadgerano/feast/SKILL.md) - Comprehensive meal planning system with cultural themes, authentic recipes,.
-- [feed-diet](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/feed-diet/SKILL.md) - Audit your information diet across HN and RSS feeds — beautiful reports with category breakdowns, ASCII charts.
-- [fitbit](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md) - Query Fitbit health data including sleep, heart rate, activity, SpO2.
-- [fitbit-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md) - Fitbit health and fitness data integration.
-- [free-jobboard-api](https://github.com/openclaw/skills/tree/main/skills/yuqi-or-yuki/free-jobboard-api/SKILL.md) - Job board for agents.
-- [garmer](https://github.com/openclaw/skills/tree/main/skills/garrza/garmer/SKILL.md) - Extract health and fitness data from Garmin Connect including activities,.
-- [garmin-cli](https://github.com/openclaw/skills/tree/main/skills/voydz/garmin-cli/SKILL.md) - Access Garmin Connect health, fitness, and activity data via a non-interactive CLI.
-- [garmin-health](https://github.com/openclaw/skills/tree/main/skills/eversonl/garmin-health-analysis/SKILL.md) - Talk to your Garmin data naturally - "what.
-- [gdpr-cookie-consent](https://github.com/openclaw/skills/tree/main/skills/metehan777/gdpr-cookie-consent/SKILL.md) - Complete reference guide for AI agents to help.
-- [gevety](https://github.com/openclaw/skills/tree/main/skills/moclippa/gevety/SKILL.md) - Access your Gevety health data - biomarkers, healthspan scores, biological.
-- [groupon-skill](https://github.com/openclaw/skills/tree/main/skills/dejimarquis) - Find cheap and discounted local deals on Groupon for services.
-- [hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-- [hackathon-manager](https://github.com/openclaw/skills/tree/main/skills/ntombisol/hackathon-manager/SKILL.md) - Track hackathon deadlines, manage submission checklists, and monitor progress.
-- [hackathon-manager](https://github.com/openclaw/skills/tree/main/skills/tonbistudio/hackathon-manager/SKILL.md) - Track hackathon deadlines, manage submission checklists, and monitor progress.
+- [efka-api-integration](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/efka-api-integration/SKILL.md) - Greek social 安全 (EFKA) 集成 — employee records, contribution calculations, APD declarations.
+- [egvert-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian/SKILL.md) - Proactive health monitoring for 人工智能.
+- [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - 创建 personalized triathlon, marathon, and ultra-endurance.
+- [eth24](https://github.com/openclaw/skills/tree/main/skills/patmilkgallon/eth24/SKILL.md) - You are running ETH24, a daily digest 工具 that surfaces the top tweets for a configured topic.
+- [fasting-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/fasting-tracker/SKILL.md) - 追踪 intermittent fasting Windows, extended fasts.
+- [feast](https://github.com/openclaw/skills/tree/main/skills/smadgerano/feast/SKILL.md) - 全面 meal planning system 带有 cultural themes, authentic recipes,.
+- [feed-diet](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/feed-diet/SKILL.md) - Audit your information diet across HN and RSS feeds — beautiful reports 带有 category breakdowns, ASCII charts.
+- [fitbit](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md) - 查询 Fitbit health 数据 including sleep, heart rate, activity, SpO2.
+- [fitbit-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md) - Fitbit health and fitness 数据 集成.
+- [free-jobboard-api](https://github.com/openclaw/skills/tree/main/skills/yuqi-or-yuki/free-jobboard-api/SKILL.md) - Job board for 代理.
+- [garmer](https://github.com/openclaw/skills/tree/main/skills/garrza/garmer/SKILL.md) - 提取 health and fitness 数据 from Garmin 连接 including activities,.
+- [garmin-cli](https://github.com/openclaw/skills/tree/main/skills/voydz/garmin-cli/SKILL.md) - Access Garmin 连接 health, fitness, and activity 数据 通过 a non-interactive 命令行.
+- [garmin-health](https://github.com/openclaw/skills/tree/main/skills/eversonl/garmin-health-analysis/SKILL.md) - Talk to your Garmin 数据 naturally - "what.
+- [gdpr-cookie-consent](https://github.com/openclaw/skills/tree/main/skills/metehan777/gdpr-cookie-consent/SKILL.md) - 完整 reference guide 为 人工智能 代理设计 to help.
+- [gevety](https://github.com/openclaw/skills/tree/main/skills/moclippa/gevety/SKILL.md) - Access your Gevety health 数据 - biomarkers, healthspan scores, biological.
+- [groupon-skill](https://github.com/openclaw/skills/tree/main/skills/dejimarquis) - Find cheap and discounted 本地 deals on Groupon for 服务.
+- [hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting 项目, or voting. 3 tracks: SmartContract, 技能.
+- [hackathon-manager](https://github.com/openclaw/skills/tree/main/skills/ntombisol/hackathon-manager/SKILL.md) - 追踪 hackathon deadlines, 管理 submission checklists, and 监控 progress.
+- [hackathon-manager](https://github.com/openclaw/skills/tree/main/skills/tonbistudio/hackathon-manager/SKILL.md) - 追踪 hackathon deadlines, 管理 submission checklists, and 监控 progress.
 - [hacker-news-poster](https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/hacker-news-poster/SKILL.md) - Post, comment, and interact on Hacker News.
-- [health-guardian](https://github.com/openclaw/skills/tree/main/skills/cgtreadw/health-guardian/SKILL.md) - Proactive health monitoring for AI agents.
-- [health-summary](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/health-summary/SKILL.md) - Generate daily/weekly/monthly health summaries with nutrition totals, target comparisons, and trends.
-- [health-sync](https://github.com/openclaw/skills/tree/main/skills/filipe-m-almeida/health-sync/SKILL.md) - Analyze synced health data across Oura, Withings, Hevy, Strava, WHOOP, and Eight Sleep.
+- [health-guardian](https://github.com/openclaw/skills/tree/main/skills/cgtreadw/health-guardian/SKILL.md) - Proactive health monitoring 为 人工智能 代理设计.
+- [health-summary](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/health-summary/SKILL.md) - 生成 daily/weekly/monthly health summaries 带有 nutrition totals, target comparisons, and trends.
+- [health-sync](https://github.com/openclaw/skills/tree/main/skills/filipe-m-almeida/health-sync/SKILL.md) - 分析 synced health 数据 across Oura, Withings, Hevy, Strava, WHOOP, and Eight Sleep.
 - [heartbeat-checklist](https://github.com/openclaw/skills/tree/main/skills/felipetruman/heartbeat-checklist/SKILL.md) - Run these checks periodically (2-4x daily).
-- [hevy](https://github.com/openclaw/skills/tree/main/skills/mjrussell/hevy/SKILL.md) - Query workout data from Hevy including workouts, routines, exercises.
-- [hle-reasoning-wrapper](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/hle-reasoning-wrapper/SKILL.md) - Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning process.
-- [huckleberry](https://github.com/openclaw/skills/tree/main/skills/jayhickey/huckleberry/SKILL.md) - Track baby sleep, feeding, diapers, and growth via the Huckleberry.
-- [humaboam-final](https://github.com/openclaw/skills/tree/main/skills/yuqi-or-yuki/humaboam-final/SKILL.md) - Job board for agents.
-- [intervals-icu](https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api/SKILL.md) - Complete guide for accessing and managing training data.
-- [jasper-configguard](https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-configguard/SKILL.md) - Safe config changes for OpenClaw with automatic.
-- [maccabi-pharm-search](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search/SKILL.md) - Check medication stock at Maccabi pharmacies in Israel.
-- [mealie-api](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/mealie-api/SKILL.md) - Interact with Mealie recipe manager (recipes, shopping lists, meal plans)
-- [mh-1password](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-1password/SKILL.md) - Set up and use 1Password CLI (op)
-- [muscle-gain](https://github.com/openclaw/skills/tree/main/skills/jhillin8/muscle-gain/SKILL.md) - Track muscle building with weight progression, protein tracking.
-- [nicholasrae-expense-tracker](https://github.com/openclaw/skills/tree/main/skills/nicholasrae/nicholasrae-expense-tracker/SKILL.md) - Just say what you spent — your AI logs it, categorizes it, and tracks it against your budget.
-- [norman-overdue-reminders](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-overdue-reminders/SKILL.md) - Find overdue invoices and send payment reminders (Zahlungserinnerungen / Mahnungen) to clients.
-- [norman-tax-report](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-report/SKILL.md) - Review and manage German tax reports including VAT (Umsatzsteuer), income tax prepayments, and Finanzamt submissions.
-- [openalexandria](https://github.com/openclaw/skills/tree/main/skills/havneco/openalexandria/SKILL.md) - Query and submit artifacts to the OpenAlexandria federated knowledge protocol (reference node by default).
-- [opencal](https://github.com/openclaw/skills/tree/main/skills/neikfu/opencal/SKILL.md) - Log meals, check nutrition progress, and manage calorie goals in the OpenCal app — hands-free via your AI agent.
+- [hevy](https://github.com/openclaw/skills/tree/main/skills/mjrussell/hevy/SKILL.md) - 查询 workout 数据 from Hevy including workouts, routines, exercises.
+- [hle-reasoning-wrapper](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/hle-reasoning-wrapper/SKILL.md) - Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning 处理.
+- [huckleberry](https://github.com/openclaw/skills/tree/main/skills/jayhickey/huckleberry/SKILL.md) - 追踪 baby sleep, feeding, diapers, and growth 通过 the Huckleberry.
+- [humaboam-final](https://github.com/openclaw/skills/tree/main/skills/yuqi-or-yuki/humaboam-final/SKILL.md) - Job board for 代理.
+- [intervals-icu](https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api/SKILL.md) - 完整 guide for accessing and managing training 数据.
+- [jasper-configguard](https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-configguard/SKILL.md) - Safe config changes for OpenClaw 带有 自动.
+- [maccabi-pharm-search](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search/SKILL.md) - 检查 medication stock at Maccabi pharmacies in Israel.
+- [mealie-api](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/mealie-api/SKILL.md) - Interact 带有 Mealie recipe manager (recipes, shopping lists, meal plans)
+- [mh-1password](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-1password/SKILL.md) - Set up and use 1Password 命令行 (op)
+- [muscle-gain](https://github.com/openclaw/skills/tree/main/skills/jhillin8/muscle-gain/SKILL.md) - 追踪 muscle building 带有 weight progression, protein tracking.
+- [nicholasrae-expense-tracker](https://github.com/openclaw/skills/tree/main/skills/nicholasrae/nicholasrae-expense-tracker/SKILL.md) - Just say what you spent — your 人工智能 logs it, categorizes it, and tracks it against your budget.
+- [norman-overdue-reminders](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-overdue-reminders/SKILL.md) - Find overdue invoices and 发送 payment reminders (Zahlungserinnerungen / Mahnungen) to clients.
+- [norman-tax-report](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-report/SKILL.md) - Review and 管理 German tax reports including VAT (Umsatzsteuer), income tax prepayments, and Finanzamt submissions.
+- [openalexandria](https://github.com/openclaw/skills/tree/main/skills/havneco/openalexandria/SKILL.md) - 查询 and submit artifacts to the OpenAlexandria federated knowledge protocol (reference node by default).
+- [opencal](https://github.com/openclaw/skills/tree/main/skills/neikfu/opencal/SKILL.md) - Log meals, 检查 nutrition progress, and 管理 calorie goals in the OpenCal 应用 — hands-免费 通过 your 人工智能 代理.
 - [openfunderse-participant](https://github.com/openclaw/skills/tree/main/skills/wiimdy/openfunderse-participant/SKILL.md) - Participant MoltBot for allocation proposal, validation, and submission.
 - [openfunderse-strategy](https://github.com/openclaw/skills/tree/main/skills/wiimdy/openfunderse-strategy/SKILL.md) - Participant MoltBot for allocation proposal, validation, and submission.
-- [oura-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/oura-analytics/SKILL.md) - Oura Ring data integration and analytics.
-- [paramus-chemistry](https://github.com/openclaw/skills/tree/main/skills/gressling/paramus-chemistry/SKILL.md) - Hundreds of chemistry and scientific computing tools.
+- [oura-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/oura-analytics/SKILL.md) - Oura Ring 数据 集成 and analytics.
+- [paramus-chemistry](https://github.com/openclaw/skills/tree/main/skills/gressling/paramus-chemistry/SKILL.md) - Hundreds of chemistry and scientific computing 工具.
 - [portfolio-tracking-skill](https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill/SKILL.md) - An investment portfolio tracker that runs entirely locally.
-- [ramalama-cli](https://github.com/openclaw/skills/tree/main/skills/ieaves/ramalama-cli/SKILL.md) - Run and interact with AI agents.
-- [recipe-finder](https://github.com/openclaw/skills/tree/main/skills/harshasic/recipe-finder/SKILL.md) - Find recipes by ingredients, cuisine, or dietary preferences using TheMealDB free API.
-- [redshift](https://github.com/openclaw/skills/tree/main/skills/accolver/redshift/SKILL.md) - Manage application secrets with the Redshift CLI (https://redshiftapp.com) — decentralized, encrypted secret.
-- [revenue-tracker](https://github.com/openclaw/skills/tree/main/skills/gpunter/revenue-tracker/SKILL.md) - Track income, expenses, and runway for autonomous AI agents.
-- [sample-skill](https://github.com/openclaw/skills/tree/main/skills/swairshah/sample-skill/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-- [sauna-calm](https://github.com/openclaw/skills/tree/main/skills/grx21/sauna-calm/SKILL.md) - Calm frustrated users with breathing exercises and Sauna.ai reminders.
-- [security-checker](https://github.com/openclaw/skills/tree/main/skills/johstracke/security-checker/SKILL.md) - Security scanner for Python skills before publishing to ClawHub.
-- [soft-pillow](https://github.com/openclaw/skills/tree/main/skills/kivs/soft-pillow/SKILL.md) - Use when the user asks about their sleep data, dream history, or wants to query sleep entries from the Soft Pillow app.
-- [suisec](https://github.com/openclaw/skills/tree/main/skills/k66inthesky/suisec/SKILL.md) - Sui Secure - Pre-simulate transactions via sui client call --dry-run and sui client ptb --dry-run, compare results.
-- [system-health-check](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/system-health-check/SKILL.md) - System health validator — checks skill files, paths, permissions, binaries, backup freshness, and encryption.
+- [ramalama-cli](https://github.com/openclaw/skills/tree/main/skills/ieaves/ramalama-cli/SKILL.md) - Run and interact 带有 人工智能 代理.
+- [recipe-finder](https://github.com/openclaw/skills/tree/main/skills/harshasic/recipe-finder/SKILL.md) - Find recipes by ingredients, cuisine, or dietary preferences 使用 TheMealDB 免费 API.
+- [redshift](https://github.com/openclaw/skills/tree/main/skills/accolver/redshift/SKILL.md) - 管理 应用 secrets 带有 the Redshift 命令行 (HTTPS://redshiftapp.com) — 去中心化, encrypted secret.
+- [revenue-tracker](https://github.com/openclaw/skills/tree/main/skills/gpunter/revenue-tracker/SKILL.md) - 追踪 income, expenses, and runway for autonomous 人工智能 代理.
+- [sample-skill](https://github.com/openclaw/skills/tree/main/skills/swairshah/sample-skill/SKILL.md) - Use when participating in the USDC Hackathon, submitting 项目, or voting. 3 tracks: SmartContract, 技能.
+- [sauna-calm](https://github.com/openclaw/skills/tree/main/skills/grx21/sauna-calm/SKILL.md) - Calm frustrated 用户 带有 breathing exercises and Sauna.人工智能 reminders.
+- [security-checker](https://github.com/openclaw/skills/tree/main/skills/johstracke/security-checker/SKILL.md) - 安全 scanner for Python 技能 before publishing to ClawHub.
+- [soft-pillow](https://github.com/openclaw/skills/tree/main/skills/kivs/soft-pillow/SKILL.md) - Use when the 用户 asks about their sleep 数据, dream history, or wants to 查询 sleep entries from the Soft Pillow 应用.
+- [suisec](https://github.com/openclaw/skills/tree/main/skills/k66inthesky/suisec/SKILL.md) - Sui 安全 - Pre-simulate transactions 通过 sui client call --dry-run and sui client ptb --dry-run, compare results.
+- [system-health-check](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/system-health-check/SKILL.md) - System health validator — checks 技能 文件, paths, permissions, binaries, 备份 freshness, and encryption.
 - [tribe-protocol](https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/tribe-protocol/SKILL.md) - MANDATORY trust lookup for every non-owner interaction.
-- [triggercmd](https://github.com/openclaw/skills/tree/main/skills/rvmey/triggercmd/SKILL.md) - Control TRIGGERcmd computers remotely by listing and running commands via the TRIGGERcmd REST API.
-- [twitter-post](https://github.com/openclaw/skills/tree/main/skills/sit-in/twitter-post/SKILL.md) - Post tweets to Twitter/X via the official API v2 (OAuth 1.0a)
-- [ub2-api-health-checker](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-api-health-checker/SKILL.md) - A skill that enables Claw to test API endpoints, verify their responses, measure performance, and generate a health.
-- [usdc](https://github.com/openclaw/skills/tree/main/skills/swairshah/usdc/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-- [usdc-hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/usdc-hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-- [uv-priority](https://github.com/openclaw/skills/tree/main/skills/marcoracer/uv-priority/SKILL.md) - Prioritize uv over pip for all Python package management and execution.
-- [vynn-backtester](https://github.com/openclaw/skills/tree/main/skills/beee003/vynn-backtester/SKILL.md) - Run trading strategy backtests with natural language — powered by Vynn.
-- [xrpl-tx-builder](https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-tx-builder/SKILL.md) - Build and sign XRP Ledger transactions.
-- [yumstock](https://github.com/openclaw/skills/tree/main/skills/yumyumtum/yumstock/SKILL.md) - Macro-gated US stock analysis combining technical indicators, fundamentals, and macro environment with weighted.
+- [triggercmd](https://github.com/openclaw/skills/tree/main/skills/rvmey/triggercmd/SKILL.md) - Control TRIGGERcmd computers remotely by listing and running commands 通过 the TRIGGERcmd REST API.
+- [twitter-post](https://github.com/openclaw/skills/tree/main/skills/sit-in/twitter-post/SKILL.md) - Post tweets to Twitter/X 通过 the official API v2 (OAuth 1.0a)
+- [ub2-api-health-checker](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-api-health-checker/SKILL.md) - A 技能 that enables Claw to 测试 API endpoints, 验证 their responses, measure 性能, and 生成 a health.
+- [usdc](https://github.com/openclaw/skills/tree/main/skills/swairshah/usdc/SKILL.md) - Use when participating in the USDC Hackathon, submitting 项目, or voting. 3 tracks: SmartContract, 技能.
+- [usdc-hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/usdc-hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting 项目, or voting. 3 tracks: SmartContract, 技能.
+- [uv-priority](https://github.com/openclaw/skills/tree/main/skills/marcoracer/uv-priority/SKILL.md) - Prioritize uv over pip for all Python 包 management and execution.
+- [vynn-backtester](https://github.com/openclaw/skills/tree/main/skills/beee003/vynn-backtester/SKILL.md) - Run trading strategy backtests 带有 natural language — 驱动 Vynn.
+- [xrpl-tx-builder](https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-tx-builder/SKILL.md) - 构建 and sign XRP Ledger transactions.
+- [yumstock](https://github.com/openclaw/skills/tree/main/skills/yumyumtum/yumstock/SKILL.md) - Macro-gated US stock analysis combining technical indicators, fundamentals, and macro environment 带有 weighted.
 
 *翻译自：https://raw.githubusercontent.com/VoltAgent/awesome-openclaw-skills/main/categories/health-and-fitness.md*

@@ -1,355 +1,355 @@
 # Search & Research
 [← Back to main list](../README.md#table-of-contents)
 **350 skills**
-- [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
-- [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous research with full.
-- [academic-writer](https://github.com/openclaw/skills/tree/main/skills/dayunyan/academic-writer/SKILL.md) - Professional LaTeX writing assistant.
-- [academic-writing](https://github.com/openclaw/skills/tree/main/skills/teamolab/academic-writing/SKILL.md) - You are an academic writing expert specializing in scholarly papers, literature reviews, research methodology.
-- [academic-writing-refiner](https://github.com/openclaw/skills/tree/main/skills/zihan-zhu/academic-writing-refiner/SKILL.md) - Refine academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI.
-- [aclawdemy](https://github.com/openclaw/skills/tree/main/skills/nimhar/aclawdemy/SKILL.md) - The academic research platform for AI agents.
-- [action-suggester](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/action-suggester/SKILL.md) - Generate non-binding follow-up action suggestions from lead summaries or lead lists.
-- [ads-manager-agent](https://github.com/openclaw/skills/tree/main/skills/amekala/ads-manager-agent/SKILL.md) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-- [adspirer-ads-agent](https://github.com/openclaw/skills/tree/main/skills/amekala/adspirer-ads-agent/SKILL.md) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-- [advanced-skill-creator](https://github.com/openclaw/skills/tree/main/skills/xqicxx/advanced-skill-creator/SKILL.md) - Advanced OpenClaw skill creation handler.
-- [aerobase-skill](https://github.com/openclaw/skills/tree/main/skills/kurosh87/aerobase-skill/SKILL.md) - Search, score, and compare flights with jetlag impact analysis.
-- [agent-arena-skill](https://github.com/openclaw/skills/tree/main/skills/neeeophytee/agent-arena-skill/SKILL.md) - Discover, register, and hire ERC-8004 autonomous agents across 16 blockchains.
-- [agent-brain](https://github.com/openclaw/skills/tree/main/skills/dobrinalexandru/agent-brain/SKILL.md) - Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
-- [agent-casino](https://github.com/openclaw/skills/tree/main/skills/lemodigital/agent-casino/SKILL.md) - Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
-- [agent-deep-research](https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md) - Autonomous deep research powered by Google Gemini.
-- [agent-lightning](https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-lightning/SKILL.md) - Microsoft Research's agent training framework.
-- [agentarxiv](https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md) - Outcome-driven scientific publishing for AI agents.
-- [agenthire](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md) - AgentHire — Agent-to-Agent Marketplace.
+- [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - 个人 knowledge Base 驱动 Ensue for capturing and retrieving.
+- [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous 研究 带有 full.
+- [academic-writer](https://github.com/openclaw/skills/tree/main/skills/dayunyan/academic-writer/SKILL.md) - 专业 LaTeX writing assistant.
+- [academic-writing](https://github.com/openclaw/skills/tree/main/skills/teamolab/academic-writing/SKILL.md) - You are an academic writing expert specializing in scholarly papers, literature reviews, 研究 methodology.
+- [academic-writing-refiner](https://github.com/openclaw/skills/tree/main/skills/zihan-zhu/academic-writing-refiner/SKILL.md) - Refine academic writing for computer science 研究 papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI.
+- [aclawdemy](https://github.com/openclaw/skills/tree/main/skills/nimhar/aclawdemy/SKILL.md) - The academic 研究 平台 为 人工智能 代理设计.
+- [action-suggester](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/action-suggester/SKILL.md) - 生成 non-binding follow-up action suggestions from lead summaries or lead lists.
+- [ads-manager-agent](https://github.com/openclaw/skills/tree/main/skills/amekala/ads-manager-agent/SKILL.md) - When the 用户 wants to 管理, 自动化, or 分析 paid advertising campaigns on Google Ads, Meta.
+- [adspirer-ads-agent](https://github.com/openclaw/skills/tree/main/skills/amekala/adspirer-ads-agent/SKILL.md) - When the 用户 wants to 管理, 自动化, or 分析 paid advertising campaigns on Google Ads, Meta.
+- [advanced-skill-creator](https://github.com/openclaw/skills/tree/main/skills/xqicxx/advanced-skill-creator/SKILL.md) - 高级 OpenClaw 技能 creation handler.
+- [aerobase-skill](https://github.com/openclaw/skills/tree/main/skills/kurosh87/aerobase-skill/SKILL.md) - 搜索, score, and compare flights 带有 jetlag impact analysis.
+- [agent-arena-skill](https://github.com/openclaw/skills/tree/main/skills/neeeophytee/agent-arena-skill/SKILL.md) - Discover, register, and hire ERC-8004 autonomous 代理 across 16 blockchains.
+- [agent-brain](https://github.com/openclaw/skills/tree/main/skills/dobrinalexandru/agent-brain/SKILL.md) - 本地-first persistent memory 为 人工智能 代理设计 带有 SQLite 存储, orchestrated retrieve/提取 loops, hybrid.
+- [agent-casino](https://github.com/openclaw/skills/tree/main/skills/lemodigital/agent-casino/SKILL.md) - Compete against other 人工智能 代理 in Rock-Paper-Scissors 带有 lockup mechanics.
+- [agent-deep-research](https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md) - Autonomous deep 研究 驱动 Google Gemini.
+- [agent-lightning](https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-lightning/SKILL.md) - Microsoft 研究's 代理 training 框架.
+- [agentarxiv](https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md) - Outcome-driven scientific publishing 为 人工智能 代理设计.
+- [agenthire](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md) - AgentHire — 代理-to-代理 Marketplace.
 - [agentic-paper-digest](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest/SKILL.md) - Fetches and summarizes recent arXiv and Hugging.
 - [agentic-paper-digest-skill](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest-skill/SKILL.md) - Fetches and summarizes recent arXiv.
-- [agenticmail](https://github.com/openclaw/skills/tree/main/skills/ope-olatunji/agenticmail/SKILL.md) - 🎀 AgenticMail — Full email, SMS, storage & multi-agent coordination for AI agents. 63 tools.
-- [agentx-news](https://github.com/openclaw/skills/tree/main/skills/amittell/agentx-news/SKILL.md) - Post xeets, manage profile, and interact on AgentX News — a microblogging platform for AI agents.
-- [agile-toolkit](https://github.com/openclaw/skills/tree/main/skills/olivermonneke/agile-toolkit/SKILL.md) - You are an experienced Agile Coach with deep knowledge of Scrum, Kanban, SAFe, and Management 3.0.
-- [agnxi-search-skill](https://github.com/openclaw/skills/tree/main/skills/doanbactam/agnxi-search-skill/SKILL.md) - The official search utility for Agnxi.com.
-- [ahmed](https://github.com/openclaw/skills/tree/main/skills/engahmedsalah358-lgtm/ahmed/SKILL.md) - Terminal Spotify playback/search via spogo (preferred)
-- [ai-lead-generator-skill](https://github.com/openclaw/skills/tree/main/skills/highlander89/ai-lead-generator-skill/SKILL.md) - Generate qualified B2B leads for any industry using AI-powered research and LinkedIn/Apollo integration.
-- [ai-review](https://github.com/openclaw/skills/tree/main/skills/blackshady1130-jpg/ai-review/SKILL.md) - Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.
-- [aihotel](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md) - A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
-- [airbnb](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md) - Search Airbnb listings with prices, ratings, and direct links.
-- [aisa-multi-source-search](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-multi-source-search/SKILL.md) - Intelligent search for agents.
-- [aisa-twitter-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-twitter-skill/SKILL.md) - Search X (Twitter) in real time, extract relevant posts, and publish tweets/replies instantly—perfect for social.
-- [aisa-youtube-search](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-youtube-search/SKILL.md) - YouTube SERP Scout for agents.
-- [aister-vector-memory](https://github.com/openclaw/skills/tree/main/skills/alekhm/aister-vector-memory/SKILL.md) - Vector memory for Aister — search by meaning, not by grep!
-- [alexa-cli](https://github.com/openclaw/skills/tree/main/skills/buddyh) - Control Amazon Alexa devices and smart home via the `alexacli` CLI.
-- [aluvia-brave-search](https://github.com/openclaw/skills/tree/main/skills/bertxtrella) - Web search and content extraction via Brave.
+- [agenticmail](https://github.com/openclaw/skills/tree/main/skills/ope-olatunji/agenticmail/SKILL.md) - 🎀 AgenticMail — Full 邮件, SMS, 存储 & multi-代理 coordination 为 人工智能 代理设计. 63 工具.
+- [agentx-news](https://github.com/openclaw/skills/tree/main/skills/amittell/agentx-news/SKILL.md) - Post xeets, 管理 profile, and interact on AgentX News — a microblogging 平台 为 人工智能 代理设计.
+- [agile-toolkit](https://github.com/openclaw/skills/tree/main/skills/olivermonneke/agile-toolkit/SKILL.md) - You are an experienced Agile Coach 带有 deep knowledge of Scrum, Kanban, SAFe, and Management 3.0.
+- [agnxi-search-skill](https://github.com/openclaw/skills/tree/main/skills/doanbactam/agnxi-search-skill/SKILL.md) - The official 搜索 utility for Agnxi.com.
+- [ahmed](https://github.com/openclaw/skills/tree/main/skills/engahmedsalah358-lgtm/ahmed/SKILL.md) - 终端 Spotify playback/搜索 通过 spogo (preferred)
+- [ai-lead-generator-skill](https://github.com/openclaw/skills/tree/main/skills/highlander89/ai-lead-generator-skill/SKILL.md) - 生成 qualified B2B leads for any industry 使用 人工智能-powered 研究 and LinkedIn/Apollo 集成.
+- [ai-review](https://github.com/openclaw/skills/tree/main/skills/blackshady1130-jpg/ai-review/SKILL.md) - Reads content from URLs or 文件, classifies it, and generates structured summaries and comments in a specific.
+- [aihotel](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md) - A 技能 for searching hotels and querying prices 通过 AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
+- [airbnb](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md) - 搜索 Airbnb listings 带有 prices, ratings, and direct links.
+- [aisa-multi-source-search](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-multi-source-search/SKILL.md) - Intelligent 搜索 for 代理.
+- [aisa-twitter-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-twitter-skill/SKILL.md) - 搜索 X (Twitter) in real time, 提取 relevant posts, and publish tweets/replies instantly—perfect for social.
+- [aisa-youtube-search](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-youtube-search/SKILL.md) - YouTube SERP Scout for 代理.
+- [aister-vector-memory](https://github.com/openclaw/skills/tree/main/skills/alekhm/aister-vector-memory/SKILL.md) - Vector memory for Aister — 搜索 by meaning, not by grep!
+- [alexa-cli](https://github.com/openclaw/skills/tree/main/skills/buddyh) - Control Amazon Alexa devices and 智能 home 通过 the `alexacli` 命令行.
+- [aluvia-brave-search](https://github.com/openclaw/skills/tree/main/skills/bertxtrella) - 网页 搜索 and content extraction 通过 Brave.
 - [aluvia-web-proxy](https://github.com/openclaw/skills/tree/main/skills/aluvia-connectivity/aluvia-web-proxy/SKILL.md) - Unblock websites and bypass CAPTCHAs and 403.
 - [aluvia-web-unblock](https://github.com/openclaw/skills/tree/main/skills/bertxtrella) - Unblock websites and bypass CAPTCHAs and 403 errors.
-- [amazon-data](https://github.com/openclaw/skills/tree/main/skills/rhino88/amazon-data/SKILL.md) - Retrieve Amazon product data including pricing, reviews, sales estimates, stock levels, search results, deals.
-- [anshumanbh-qmd](https://github.com/openclaw/skills/tree/main/skills/anshumanbh/anshumanbh-qmd/SKILL.md) - Search markdown knowledge bases efficiently.
-- [answeroverflow](https://github.com/openclaw/skills/tree/main/skills/rhyssullivan/answeroverflow/SKILL.md) - Search indexed Discord community discussions via Answer.
-- [aoi-triple-memory-lite](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-triple-memory-lite/SKILL.md) - AOI Triple Memory (Lite) — file search + decision notes templates (no plugins).
-- [apo-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/apo-cli/SKILL.md) - Search and order pharmacy products from apohealth.de via apo-cli.
-- [archive-daily-note](https://github.com/openclaw/skills/tree/main/skills/meimakes/archive-daily-note/SKILL.md) - Automatically moves yesterday's Obsidian daily note into a past-days/ archive folder using the Obsidian CLI move.
-- [argos-product-research](https://github.com/openclaw/skills/tree/main/skills/notsurewhoisthis/argos-product-research/SKILL.md) - Search, compare, and research products.
-- [arxiv-batch-reporter](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-batch-reporter/SKILL.md) - Build the final collection report in two steps: model writes a report template, then script injects each paper's.
+- [amazon-data](https://github.com/openclaw/skills/tree/main/skills/rhino88/amazon-data/SKILL.md) - Retrieve Amazon product 数据 including pricing, reviews, sales estimates, stock levels, 搜索 results, deals.
+- [anshumanbh-qmd](https://github.com/openclaw/skills/tree/main/skills/anshumanbh/anshumanbh-qmd/SKILL.md) - 搜索 Markdown knowledge bases efficiently.
+- [answeroverflow](https://github.com/openclaw/skills/tree/main/skills/rhyssullivan/answeroverflow/SKILL.md) - 搜索 indexed Discord community discussions 通过 Answer.
+- [aoi-triple-memory-lite](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-triple-memory-lite/SKILL.md) - AOI Triple Memory (Lite) — 文件 搜索 + decision 笔记 templates (no plugins).
+- [apo-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/apo-cli/SKILL.md) - 搜索 and order pharmacy products from apohealth.de 通过 apo-命令行.
+- [archive-daily-note](https://github.com/openclaw/skills/tree/main/skills/meimakes/archive-daily-note/SKILL.md) - Automatically moves yesterday's Obsidian daily 笔记 into a past-days/ archive folder 使用 the Obsidian 命令行 move.
+- [argos-product-research](https://github.com/openclaw/skills/tree/main/skills/notsurewhoisthis/argos-product-research/SKILL.md) - 搜索, compare, and 研究 products.
+- [arxiv-batch-reporter](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-batch-reporter/SKILL.md) - 构建 the final collection report in two steps: 模型 writes a report 模板, then script injects each paper's.
 - [arxiv-cli-tools](https://github.com/openclaw/skills/tree/main/skills/killgfat/arxiv-cli-tools/SKILL.md) - | Key | Value |.
-- [arxiv-paper-processor](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-paper-processor/SKILL.md) - Tool-only paper processing skill with a manual language parameter: supports batch artifact download for many papers.
-- [arxiv-paper-reviews](https://github.com/openclaw/skills/tree/main/skills/zxrys/arxiv-paper-reviews/SKILL.md) - Interact with arXiv Crawler API to fetch papers, read.
-- [arxiv-summarizer-orchestrator](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-summarizer-orchestrator/SKILL.md) - End-to-end orchestration skill for periodic arXiv collection and reporting using three sub-skills.
-- [arxiv-watcher](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/arxiv-watcher/SKILL.md) - Search and summarize papers from ArXiv.
-- [asia-twitter-api-v1](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-twitter-api-v1/SKILL.md) - Search X (Twitter) in real time, monitor trends, extract posts, and analyze social media data—perfect for social.
-- [attio-crm](https://github.com/openclaw/skills/tree/main/skills/kesslerio/attio-crm/SKILL.md) - Manage Attio CRM records (companies, people, deals, tasks, notes).
-- [aubrai-longevity](https://github.com/openclaw/skills/tree/main/skills/dobrinalexandru/aubrai-longevity/SKILL.md) - Meet your SOTA longevity research partner.
-- [auto-drive](https://github.com/openclaw/skills/tree/main/skills/emilfattakhov/auto-drive/SKILL.md) - Upload and download files to Autonomys Network permanent decentralized storage via Auto-Drive.
+- [arxiv-paper-processor](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-paper-processor/SKILL.md) - 工具-only paper processing 技能 带有 a manual language parameter: supports batch artifact download for many papers.
+- [arxiv-paper-reviews](https://github.com/openclaw/skills/tree/main/skills/zxrys/arxiv-paper-reviews/SKILL.md) - Interact 带有 arXiv Crawler API to fetch papers, read.
+- [arxiv-summarizer-orchestrator](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-summarizer-orchestrator/SKILL.md) - 端到端 orchestration 技能 for periodic arXiv collection and reporting 使用 three sub-技能.
+- [arxiv-watcher](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/arxiv-watcher/SKILL.md) - 搜索 and summarize papers from ArXiv.
+- [asia-twitter-api-v1](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-twitter-api-v1/SKILL.md) - 搜索 X (Twitter) in real time, 监控 trends, 提取 posts, and 分析 social media 数据—perfect for social.
+- [attio-crm](https://github.com/openclaw/skills/tree/main/skills/kesslerio/attio-crm/SKILL.md) - 管理 Attio CRM records (companies, people, deals, 任务, 笔记).
+- [aubrai-longevity](https://github.com/openclaw/skills/tree/main/skills/dobrinalexandru/aubrai-longevity/SKILL.md) - Meet your SOTA longevity 研究 partner.
+- [auto-drive](https://github.com/openclaw/skills/tree/main/skills/emilfattakhov/auto-drive/SKILL.md) - Upload and download 文件 to Autonomys 网络 permanent 去中心化 存储 通过 Auto-Drive.
 - [automation-runner](https://github.com/openclaw/skills/tree/main/skills/barnyp/automation-runner/SKILL.md) - Executes approved shell commands, manages backups, and safely retrieves secrets from Bitwarden.
-- [autonomous-research](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/autonomous-research/SKILL.md) - Conduct comprehensive research independently.
-- [autonomy-type-based](https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-type-based/SKILL.md) - Type-based autonomous task queue system.
+- [autonomous-research](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/autonomous-research/SKILL.md) - Conduct 全面 研究 independently.
+- [autonomy-type-based](https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-type-based/SKILL.md) - Type-based autonomous 任务 queue system.
 - [avantis-skill](https://github.com/openclaw/skills/tree/main/skills/droppingbeans/avantis-skill/SKILL.md) - Execute leverage trading on Avantis (Base)
-- [b2b-first-ten](https://github.com/openclaw/skills/tree/main/skills/pors/b2b-first-ten/SKILL.md) - Expert in getting the first 10 B2B customers, based on Lenny Rachitsky's "First 1000 Users" research.
-- [bagman](https://github.com/openclaw/skills/tree/main/skills/zscole/bagman/SKILL.md) - Secure key management for AI agents.
-- [baidu-scholar-search](https://github.com/openclaw/skills/tree/main/skills/jlpjavawayup/baidu-scholar-search/SKILL.md) - Baidu Academic Search Tool enables.
-- [baidu-search](https://github.com/openclaw/skills/tree/main/skills/ide-rea/baidu-search/SKILL.md) - Search the web using Baidu AI Search Engine (BDSE).
+- [b2b-first-ten](https://github.com/openclaw/skills/tree/main/skills/pors/b2b-first-ten/SKILL.md) - Expert in getting the first 10 B2B customers, 基于 Lenny Rachitsky's "First 1000 用户" 研究.
+- [bagman](https://github.com/openclaw/skills/tree/main/skills/zscole/bagman/SKILL.md) - 安全 key management 为 人工智能 代理设计.
+- [baidu-scholar-search](https://github.com/openclaw/skills/tree/main/skills/jlpjavawayup/baidu-scholar-search/SKILL.md) - Baidu Academic 搜索 工具 enables.
+- [baidu-search](https://github.com/openclaw/skills/tree/main/skills/ide-rea/baidu-search/SKILL.md) - 搜索 the 网页 使用 Baidu 人工智能 搜索 Engine (BDSE).
 - [bambu-lab-skill](https://github.com/openclaw/skills/tree/main/skills/photonixlaser-ux/bambu-lab-skill/SKILL.md) - Steuere Bambu Lab 3D-Drucker (A1, P1P, X1) über MQTT.
 - [beepctl](https://github.com/openclaw/skills/tree/main/skills/blqke/beepctl/SKILL.md) - Use when sending messages, searching chats, or managing conversations.
-- [benos-memory-core](https://github.com/openclaw/skills/tree/main/skills/benmjohnson69/benos-memory-core/SKILL.md) - Core runtime/volatile memory module for BenOS agent environment.
-- [binance-hunter](https://github.com/openclaw/skills/tree/main/skills/tetravad/binance-hunter/SKILL.md) - The Hunter: Professional Binance Trading Skill.
-- [bing-search](https://github.com/openclaw/skills/tree/main/skills/stdeson/bing-search/SKILL.md) - Bing search skill for all users.
-- [biodiversity-corridor-calculator](https://github.com/openclaw/skills/tree/main/skills/nikhilp1234567/biodiversity-corridor-calculator/SKILL.md) - Open Claw Agent Skill: Biodiversity Corridor Analyst.
-- [bird-su](https://github.com/openclaw/skills/tree/main/skills/iqbalnaveliano/bird-su/SKILL.md) - X/Twitter CLI for reading, searching, and posting via cookies.
-- [birdnet](https://github.com/openclaw/skills/tree/main/skills/rappo/birdnet/SKILL.md) - Query BirdNET-Go bird detections.
+- [benos-memory-core](https://github.com/openclaw/skills/tree/main/skills/benmjohnson69/benos-memory-core/SKILL.md) - Core runtime/volatile memory 模块 for BenOS 代理 environment.
+- [binance-hunter](https://github.com/openclaw/skills/tree/main/skills/tetravad/binance-hunter/SKILL.md) - The Hunter: 专业 Binance Trading 技能.
+- [bing-search](https://github.com/openclaw/skills/tree/main/skills/stdeson/bing-search/SKILL.md) - Bing 搜索 技能 for all 用户.
+- [biodiversity-corridor-calculator](https://github.com/openclaw/skills/tree/main/skills/nikhilp1234567/biodiversity-corridor-calculator/SKILL.md) - Open Claw 代理 技能: Biodiversity Corridor Analyst.
+- [bird-su](https://github.com/openclaw/skills/tree/main/skills/iqbalnaveliano/bird-su/SKILL.md) - X/Twitter 命令行 for reading, searching, and posting 通过 cookies.
+- [birdnet](https://github.com/openclaw/skills/tree/main/skills/rappo/birdnet/SKILL.md) - 查询 BirdNET-Go bird detections.
 - [blacksnow](https://github.com/openclaw/skills/tree/main/skills/sieershafilone/blacksnow/SKILL.md) - Detects pre-news ambient risk signals across human, legal.
-- [bloom](https://github.com/openclaw/skills/tree/main/skills/unicornbloom/bloom/SKILL.md) - Discover your supporter personality and find AI tools you'll love.
-- [bolta-skills-index](https://github.com/openclaw/skills/tree/main/skills/maxfritzhand/bolta-skills-index/SKILL.md) - Display name: Bolta Skills Registry.
-- [boof](https://github.com/openclaw/skills/tree/main/skills/chiefsegundo/boof/SKILL.md) - Convert PDFs and documents to markdown, index them locally for RAG retrieval, and analyze them token-efficiently.
-- [books-for-agents](https://github.com/openclaw/skills/tree/main/skills/danpalmieri/books-for-agents/SKILL.md) - An open source knowledge base of structured book summaries, available to any AI agent via MCP.
-- [botbrag](https://github.com/openclaw/skills/tree/main/skills/elstob/botbrag/SKILL.md) - Promote yourself on a Bitcoin leaderboard.
-- [brek-ai](https://github.com/openclaw/skills/tree/main/skills/leo9/brek-ai/SKILL.md) - Integrate with Brek Partner Core Chat API for hotel-search and booking assistant flows.
-- [brw-ai-discoverability-audit](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-ai-discoverability-audit/SKILL.md) - Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini)
+- [bloom](https://github.com/openclaw/skills/tree/main/skills/unicornbloom/bloom/SKILL.md) - Discover your supporter personality and find 人工智能 工具 you'll love.
+- [bolta-skills-index](https://github.com/openclaw/skills/tree/main/skills/maxfritzhand/bolta-skills-index/SKILL.md) - Display name: Bolta 技能 Registry.
+- [boof](https://github.com/openclaw/skills/tree/main/skills/chiefsegundo/boof/SKILL.md) - 转换 PDFs and 文档 to Markdown, index them locally for RAG retrieval, and 分析 them 代币-efficiently.
+- [books-for-agents](https://github.com/openclaw/skills/tree/main/skills/danpalmieri/books-for-agents/SKILL.md) - An 开源 knowledge Base of structured book summaries, available to any 人工智能 代理 通过 MCP.
+- [botbrag](https://github.com/openclaw/skills/tree/main/skills/elstob/botbrag/SKILL.md) - Promote yourself on a 比特币 leaderboard.
+- [brek-ai](https://github.com/openclaw/skills/tree/main/skills/leo9/brek-ai/SKILL.md) - 集成 带有 Brek Partner Core 聊天 API for hotel-搜索 and booking assistant flows.
+- [brw-ai-discoverability-audit](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-ai-discoverability-audit/SKILL.md) - Audit how a brand appears in 人工智能-powered 搜索 (ChatGPT, Perplexity, Claude, Gemini)
 - [brw-linkedin-profile-optimizer](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-linkedin-profile-optimizer/SKILL.md) - Audit and rewrite your LinkedIn profile to attract the right people.
 - [brw-linkedin-profile-optimizer-1-0-0](https://github.com/openclaw/skills/tree/main/skills/rezcarbon/brw-linkedin-profile-optimizer-1-0-0/SKILL.md) - Audit and rewrite your LinkedIn profile to attract the right people.
-- [brw-plan-my-day](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-plan-my-day/SKILL.md) - Generate an energy-optimized, time-blocked daily plan based on circadian rhythm research and GTD principles.
-- [buy-amazon](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/buy-amazon/SKILL.md) - Need to buy something from Amazon? Search and shop on Amazon.com — compare prices and ratings, add items to cart.
-- [byr-cli](https://github.com/openclaw/skills/tree/main/skills/1morebuild/byr-cli/SKILL.md) - Use BYR CLI for auth, search, detail inspection, and safe torrent download planning with JSON envelopes.
-- [cabin](https://github.com/openclaw/skills/tree/main/skills/kobuta23/cabin/SKILL.md) - Search and book real flights with USDC payments.
-- [caesar-research](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/caesar-research/SKILL.md) - Deep research using the Caesar API — run queries, follow up with chat, brainstorm, and manage collections.
-- [call-academic-search-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/call-academic-search-agent/SKILL.md) - AI agent for call academic search agent tasks.
-- [camino-fitness-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-fitness-finder/SKILL.md) - Search for gyms, yoga studios, swimming pools, and sports facilities using Camino AI's location intelligence.
-- [camino-hotel-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-hotel-finder/SKILL.md) - Search for hotels, hostels, and lodging near landmarks, conference venues, or neighborhoods using Camino AI's.
-- [camino-parking-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-parking-finder/SKILL.md) - Locate parking garages, lots, and street parking near your destination using Camino AI's location intelligence.
-- [camino-query](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-query/SKILL.md) - Search for places using natural language with Camino AI's location intelligence API.
-- [cannabis-cultivator](https://github.com/openclaw/skills/tree/main/skills/rama666/cannabis-cultivator/SKILL.md) - EU seedbank meta-search assistant.
-- [certificate-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/certificate-generation/SKILL.md) - Generate professional certificates, diplomas, and awards using each::sense AI.
-- [charts](https://github.com/openclaw/skills/tree/main/skills/ryandeangraves/charts/SKILL.md) - Generate professional technical analysis charts with candlesticks, Fibonacci retracement, moving averages (SMA 20/50)
-- [cheese-brain](https://github.com/openclaw/skills/tree/main/skills/mhugo22/cheese-brain/SKILL.md) - DuckDB-powered knowledge management system for fast retrieval across 22+ entity types (projects, contacts, tools.
-- [cirf](https://github.com/openclaw/skills/tree/main/skills/kudodefi/cirf/SKILL.md) - Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
-- [clarity-analyze](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-analyze/SKILL.md) - Submit research questions for AI-powered analysis via Clarity Protocol.
-- [clarity-clinical](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-clinical/SKILL.md) - Query clinical variant data from ClinVar and gnomAD via Clarity Protocol.
+- [brw-plan-my-day](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-plan-my-day/SKILL.md) - 生成 an energy-optimized, time-blocked daily plan 基于 circadian rhythm 研究 and GTD principles.
+- [buy-amazon](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/buy-amazon/SKILL.md) - Need to buy something from Amazon? 搜索 and shop on Amazon.com — compare prices and ratings, add items to cart.
+- [byr-cli](https://github.com/openclaw/skills/tree/main/skills/1morebuild/byr-cli/SKILL.md) - Use BYR 命令行 for auth, 搜索, detail inspection, and safe torrent download planning 带有 JSON envelopes.
+- [cabin](https://github.com/openclaw/skills/tree/main/skills/kobuta23/cabin/SKILL.md) - 搜索 and book real flights 带有 USDC payments.
+- [caesar-research](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/caesar-research/SKILL.md) - Deep 研究 使用 the Caesar API — run queries, follow up 带有 聊天, brainstorm, and 管理 collections.
+- [call-academic-search-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/call-academic-search-agent/SKILL.md) - 人工智能 代理 for call academic 搜索 代理 任务.
+- [camino-fitness-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-fitness-finder/SKILL.md) - 搜索 for gyms, yoga studios, swimming pools, and sports facilities 使用 Camino 人工智能's location intelligence.
+- [camino-hotel-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-hotel-finder/SKILL.md) - 搜索 for hotels, hostels, and lodging near landmarks, conference venues, or neighborhoods 使用 Camino 人工智能's.
+- [camino-parking-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-parking-finder/SKILL.md) - Locate parking garages, lots, and street parking near your destination 使用 Camino 人工智能's location intelligence.
+- [camino-query](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-query/SKILL.md) - 搜索 for places 使用 natural language 带有 Camino 人工智能's location intelligence API.
+- [cannabis-cultivator](https://github.com/openclaw/skills/tree/main/skills/rama666/cannabis-cultivator/SKILL.md) - EU seedbank meta-搜索 assistant.
+- [certificate-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/certificate-generation/SKILL.md) - 生成 专业 certificates, diplomas, and awards 使用 each::sense 人工智能.
+- [charts](https://github.com/openclaw/skills/tree/main/skills/ryandeangraves/charts/SKILL.md) - 生成 专业 technical analysis charts 带有 candlesticks, Fibonacci retracement, moving averages (SMA 20/50)
+- [cheese-brain](https://github.com/openclaw/skills/tree/main/skills/mhugo22/cheese-brain/SKILL.md) - DuckDB-powered knowledge management system for 快速 retrieval across 22+ entity types (项目, contacts, 工具.
+- [cirf](https://github.com/openclaw/skills/tree/main/skills/kudodefi/cirf/SKILL.md) - Interactive 加密 deep-研究 框架 带有 human-人工智能 collaboration for superior 研究 outcomes.
+- [clarity-analyze](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-analyze/SKILL.md) - Submit 研究 questions for 人工智能-powered analysis 通过 Clarity Protocol.
+- [clarity-clinical](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-clinical/SKILL.md) - 查询 clinical variant 数据 from ClinVar and gnomAD 通过 Clarity Protocol.
 - [clarity-gate](https://github.com/openclaw/skills/tree/main/skills/frmoretto/clarity-gate/SKILL.md) - Pre-ingestion verification for epistemic quality in RAG systems.
-- [clarity-research](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-research/SKILL.md) - Search protein folding research data from Clarity Protocol.
-- [code-cache](https://github.com/openclaw/skills/tree/main/skills/ryx2/code-cache/SKILL.md) - Semantic code caching for AI agents.
-- [code-reputation](https://github.com/openclaw/skills/tree/main/skills/ryx2/code-reputation/SKILL.md) - Semantic code caching for AI agents.
-- [competitor-analysis-report](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/competitor-analysis-report/SKILL.md) - Generate structured competitive analysis reports with feature comparisons, pricing analysis, SWOT, and strategic.
-- [content-research](https://github.com/openclaw/skills/tree/main/skills/hazy2go/content-research/SKILL.md) - Research trending topics and generate platform-specific content.
-- [context-overflow](https://github.com/openclaw/skills/tree/main/skills/nathanjzhao/context-overflow/SKILL.md) - Academic forum for mission-driven project proposals.
-- [cortex-ai](https://github.com/openclaw/skills/tree/main/skills/waynevaughan/cortex-ai/SKILL.md) - Persistent memory for AI agents by Sigma Labs.
-- [coworker](https://github.com/openclaw/skills/tree/main/skills/sarthib7/coworker/SKILL.md) - Connect to Hannah and Elena agents from Serviceplan - specialized AI coworkers for marketing research.
-- [crif](https://github.com/openclaw/skills/tree/main/skills/kudodefi/crif/SKILL.md) - Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
-- [crypto-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/crypto-cog/SKILL.md) - The market never sleeps, and neither does your analysis. #1 on DeepResearch Bench (Feb 2026) applied to crypto.
-- [daolv-hotel-booking-assistant](https://github.com/openclaw/skills/tree/main/skills/cnchenkai/daolv-hotel-booking-assistant/SKILL.md) - Hotel booking-decision assistant using ai-go-hotel MCP (searchHotels + getHotelDetail)
-- [deaddrop](https://github.com/openclaw/skills/tree/main/skills/cburnette/deaddrop/SKILL.md) - Join the Deaddrop agent network — a growing platform where AI agents discover each other by capability.
-- [deeps](https://github.com/openclaw/skills/tree/main/skills/ttboy/deeps/SKILL.md) - Deep Research Agent specializes in complex, multi-step research tasks that require planning, decomposition.
+- [clarity-research](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-research/SKILL.md) - 搜索 protein folding 研究 数据 from Clarity Protocol.
+- [code-cache](https://github.com/openclaw/skills/tree/main/skills/ryx2/code-cache/SKILL.md) - Semantic 代码 caching 为 人工智能 代理设计.
+- [code-reputation](https://github.com/openclaw/skills/tree/main/skills/ryx2/code-reputation/SKILL.md) - Semantic 代码 caching 为 人工智能 代理设计.
+- [competitor-analysis-report](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/competitor-analysis-report/SKILL.md) - 生成 structured competitive analysis reports 带有 功能 comparisons, pricing analysis, SWOT, and strategic.
+- [content-research](https://github.com/openclaw/skills/tree/main/skills/hazy2go/content-research/SKILL.md) - 研究 trending topics and 生成 平台-specific content.
+- [context-overflow](https://github.com/openclaw/skills/tree/main/skills/nathanjzhao/context-overflow/SKILL.md) - Academic forum for mission-driven 项目 proposals.
+- [cortex-ai](https://github.com/openclaw/skills/tree/main/skills/waynevaughan/cortex-ai/SKILL.md) - Persistent memory 为 人工智能 代理设计 by Sigma Labs.
+- [coworker](https://github.com/openclaw/skills/tree/main/skills/sarthib7/coworker/SKILL.md) - 连接 to Hannah and Elena 代理 from Serviceplan - specialized 人工智能 coworkers for marketing 研究.
+- [crif](https://github.com/openclaw/skills/tree/main/skills/kudodefi/crif/SKILL.md) - Interactive 加密 deep-研究 框架 带有 human-人工智能 collaboration for superior 研究 outcomes.
+- [crypto-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/crypto-cog/SKILL.md) - The market never sleeps, and neither does your analysis. #1 on DeepResearch Bench (Feb 2026) applied to 加密.
+- [daolv-hotel-booking-assistant](https://github.com/openclaw/skills/tree/main/skills/cnchenkai/daolv-hotel-booking-assistant/SKILL.md) - Hotel booking-decision assistant 使用 人工智能-go-hotel MCP (searchHotels + getHotelDetail)
+- [deaddrop](https://github.com/openclaw/skills/tree/main/skills/cburnette/deaddrop/SKILL.md) - Join the Deaddrop 代理 网络 — a growing 平台 where 人工智能 代理 discover each other by capability.
+- [deeps](https://github.com/openclaw/skills/tree/main/skills/ttboy/deeps/SKILL.md) - Deep 研究 代理 specializes in complex, multi-step 研究 任务 that require planning, decomposition.
 - [depo-bot](https://github.com/openclaw/skills/tree/main/skills/chadru/depo-bot/SKILL.md) - Produces structured trial preparation reports from deposition transcripts.
-- [deso-research](https://github.com/openclaw/skills/tree/main/skills/mtple/deso-research/SKILL.md) - Research and analyze content across decentralized social networks (Farcaster, Lens, Nostr, Bluesky)
-- [devrev](https://github.com/openclaw/skills/tree/main/skills/nimit2801/devrev/SKILL.md) - Interact with DevRev to create/update issues and tickets, and search/query works and parts.
-- [didit-face-search](https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-face-search/SKILL.md) - Integrate Didit Face Search standalone API to perform 1:N facial search against all previously verified sessions.
-- [dify-kb-search](https://github.com/openclaw/skills/tree/main/skills/xiaowenzhou/dify-kb-search/SKILL.md) - Search Dify Knowledge Base (Dataset) to get accurate context for RAG-enhanced answers.
-- [dizest-summarize](https://github.com/openclaw/skills/tree/main/skills/s-annam/dizest-summarize/SKILL.md) - Summarize long-form content — articles, podcasts, research papers, PDFs, notes, and more — using the Dizest API.
-- [dj-mp3-sourcer](https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-mp3-sourcer/SKILL.md) - Download music from links (YouTube, Spotify, etc.) by finding the best available source.
-- [dnote](https://github.com/openclaw/skills/tree/main/skills/m1n-74316d65/dnote/SKILL.md) - Save, retrieve, and manage notes using Dnote CLI.
-- [duffel](https://github.com/openclaw/skills/tree/main/skills/fabiolr/duffel/SKILL.md) - Search, book, and manage flights via the Duffel Flights API.
-- [ebooks](https://github.com/openclaw/skills/tree/main/skills/arbuge/ebooks/SKILL.md) - When a user wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache search result.
-- [echo-ai](https://github.com/openclaw/skills/tree/main/skills/darthdens/echo-ai/SKILL.md) - Connect to Echo AI — the customer interaction platform.
-- [edgehdf5-memory](https://github.com/openclaw/skills/tree/main/skills/osobh/edgehdf5-memory/SKILL.md) - HDF5-backed persistent cognitive memory for AI agents.
-- [engineering-as-marketing](https://github.com/openclaw/skills/tree/main/skills/gprecious/engineering-as-marketing/SKILL.md) - Build free tools to drive organic search traffic and convert visitors into customers — the 'Engineering.
-- [engram-memory](https://github.com/openclaw/skills/tree/main/skills/dannydvm/engram-memory/SKILL.md) - Persistent semantic memory for AI agents — local, fast, free.
-- [enhanced-memory](https://github.com/openclaw/skills/tree/main/skills/jameseball/enhanced-memory/SKILL.md) - Enhanced memory search with hybrid vector+keyword scoring, temporal routing, filepath scoring, adaptive weighting.
-- [etherscan-api](https://github.com/openclaw/skills/tree/main/skills/davidtaikocha/etherscan-api/SKILL.md) - Use when you need to query Etherscan API V2 for onchain activity, contract metadata, ABI/source retrieval, proxy.
-- [eve-online-item-search](https://github.com/openclaw/skills/tree/main/skills/liriu/eve-online-item-search/SKILL.md) - Search EVE Online items by name via APIs and return item details.
-- [expanso-keyword-extract](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-keyword-extract/SKILL.md) - "Extract keywords and key phrases from text for SEO, tagging, and indexing".
-- [falcon](https://github.com/openclaw/skills/tree/main/skills/bubblyjove/falcon/SKILL.md) - Search, read, and interact with Twitter/X via TwexAPI.
-- [farseek](https://github.com/openclaw/skills/tree/main/skills/farseek2020/farseek/SKILL.md) - Find relevant job openings matched to your skills using AI-powered search across 22,700+ company boards and 20+ ATS.
-- [fear-and-greed-index](https://github.com/openclaw/skills/tree/main/skills/arielcaba-dev/fear-and-greed-index/SKILL.md) - Access the Alternative.me Crypto Fear & Greed Index.
-- [feed-to-md](https://github.com/openclaw/skills/tree/main/skills/myx0m0p/feed-to-md/SKILL.md) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
-- [ffcli](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/ffcli/SKILL.md) - Query Fireflies.ai meeting data.
-- [filesystem](https://github.com/openclaw/skills/tree/main/skills/amaofx/filesystem/SKILL.md) - Advanced filesystem operations for listing files, searching content, batch processing, and directory analysis.
-- [finance-search-agent](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent/SKILL.md) - AI agent for finance search agent tasks.
-- [finance-search-agent-strategy](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent-strategy/SKILL.md) - AI agent for finance search agent strategy tasks.
-- [financial-reconciler](https://github.com/openclaw/skills/tree/main/skills/gowtham1984/financial-reconciler/SKILL.md) - Privacy-first personal finance tracker with local SQLite storage.
-- [find-products](https://github.com/openclaw/skills/tree/main/skills/xiazhefengzhi/find-products/SKILL.md) - Search and discover trending products from ProductHunt with structured analysis data.
-- [fitcheck-skill-search](https://github.com/openclaw/skills/tree/main/skills/at6132/fitcheck-skill-search/SKILL.md) - Find and retrieve available skills using keyword search, semantic search, or LLM-powered task matching.
-- [flight-pricer](https://github.com/openclaw/skills/tree/main/skills/jrojas537/flight-pricer/SKILL.md) - A command-line interface (CLI) to search for flight prices using the Duffel API.
-- [flights-search](https://github.com/openclaw/skills/tree/main/skills/brennerspear/flights-search/SKILL.md) - Search flights via Google Flights.
-- [fomo-research-skill](https://github.com/openclaw/skills/tree/main/skills/pooowell/fomo-research-skill/SKILL.md) - ⚠️ DEPRECATED — use fomo-research instead.
-- [forage-shopping](https://github.com/openclaw/skills/tree/main/skills/jalexspringer/forage-shopping/SKILL.md) - Search and compare products across merchants.
-- [fred-navigator](https://github.com/openclaw/skills/tree/main/skills/kiszly/fred-navigator/SKILL.md) - Navigate FRED categories and series using fredapi, supporting natural-language queries with intent recognition.
+- [deso-research](https://github.com/openclaw/skills/tree/main/skills/mtple/deso-research/SKILL.md) - 研究 and 分析 content across 去中心化 social networks (Farcaster, Lens, Nostr, Bluesky)
+- [devrev](https://github.com/openclaw/skills/tree/main/skills/nimit2801/devrev/SKILL.md) - Interact 带有 DevRev to 创建/更新 issues and tickets, and 搜索/查询 works and parts.
+- [didit-face-search](https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-face-search/SKILL.md) - 集成 Didit Face 搜索 standalone API to perform 1:N facial 搜索 against all previously verified sessions.
+- [dify-kb-search](https://github.com/openclaw/skills/tree/main/skills/xiaowenzhou/dify-kb-search/SKILL.md) - 搜索 Dify Knowledge Base (Dataset) to 获取 accurate context for RAG-enhanced answers.
+- [dizest-summarize](https://github.com/openclaw/skills/tree/main/skills/s-annam/dizest-summarize/SKILL.md) - Summarize long-form content — articles, podcasts, 研究 papers, PDFs, 笔记, and more — 使用 the Dizest API.
+- [dj-mp3-sourcer](https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-mp3-sourcer/SKILL.md) - Download 音乐 from links (YouTube, Spotify, etc.) by finding the best available source.
+- [dnote](https://github.com/openclaw/skills/tree/main/skills/m1n-74316d65/dnote/SKILL.md) - Save, retrieve, and 管理 笔记 使用 Dnote 命令行.
+- [duffel](https://github.com/openclaw/skills/tree/main/skills/fabiolr/duffel/SKILL.md) - 搜索, book, and 管理 flights 通过 the Duffel Flights API.
+- [ebooks](https://github.com/openclaw/skills/tree/main/skills/arbuge/ebooks/SKILL.md) - When a 用户 wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache 搜索 result.
+- [echo-ai](https://github.com/openclaw/skills/tree/main/skills/darthdens/echo-ai/SKILL.md) - 连接 to Echo 人工智能 — the customer interaction 平台.
+- [edgehdf5-memory](https://github.com/openclaw/skills/tree/main/skills/osobh/edgehdf5-memory/SKILL.md) - HDF5-backed persistent cognitive memory 为 人工智能 代理设计.
+- [engineering-as-marketing](https://github.com/openclaw/skills/tree/main/skills/gprecious/engineering-as-marketing/SKILL.md) - 构建 免费 工具 to drive organic 搜索 traffic and 转换 visitors into customers — the 'Engineering.
+- [engram-memory](https://github.com/openclaw/skills/tree/main/skills/dannydvm/engram-memory/SKILL.md) - Persistent semantic memory 为 人工智能 代理设计 — 本地, 快速, 免费.
+- [enhanced-memory](https://github.com/openclaw/skills/tree/main/skills/jameseball/enhanced-memory/SKILL.md) - Enhanced memory 搜索 带有 hybrid vector+keyword scoring, temporal routing, filepath scoring, adaptive weighting.
+- [etherscan-api](https://github.com/openclaw/skills/tree/main/skills/davidtaikocha/etherscan-api/SKILL.md) - Use when you need to 查询 Etherscan API V2 for onchain activity, contract metadata, ABI/source retrieval, proxy.
+- [eve-online-item-search](https://github.com/openclaw/skills/tree/main/skills/liriu/eve-online-item-search/SKILL.md) - 搜索 EVE 在线 items by name 通过 APIs and return item details.
+- [expanso-keyword-extract](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-keyword-extract/SKILL.md) - "提取 keywords and key phrases from 文本 for SEO, tagging, and indexing".
+- [falcon](https://github.com/openclaw/skills/tree/main/skills/bubblyjove/falcon/SKILL.md) - 搜索, read, and interact 带有 Twitter/X 通过 TwexAPI.
+- [farseek](https://github.com/openclaw/skills/tree/main/skills/farseek2020/farseek/SKILL.md) - Find relevant job openings matched to your 技能 使用 人工智能-powered 搜索 across 22,700+ company boards and 20+ ATS.
+- [fear-and-greed-index](https://github.com/openclaw/skills/tree/main/skills/arielcaba-dev/fear-and-greed-index/SKILL.md) - Access the Alternative.me 加密 Fear & Greed Index.
+- [feed-to-md](https://github.com/openclaw/skills/tree/main/skills/myx0m0p/feed-to-md/SKILL.md) - 转换 RSS or Atom feed URLs into Markdown 使用 the bundled 本地 converter script.
+- [ffcli](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/ffcli/SKILL.md) - 查询 Fireflies.人工智能 meeting 数据.
+- [filesystem](https://github.com/openclaw/skills/tree/main/skills/amaofx/filesystem/SKILL.md) - 高级 filesystem operations for listing 文件, searching content, batch processing, and directory analysis.
+- [finance-search-agent](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent/SKILL.md) - 人工智能 代理 for finance 搜索 代理 任务.
+- [finance-search-agent-strategy](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent-strategy/SKILL.md) - 人工智能 代理 for finance 搜索 代理 strategy 任务.
+- [financial-reconciler](https://github.com/openclaw/skills/tree/main/skills/gowtham1984/financial-reconciler/SKILL.md) - 隐私-first 个人 finance tracker 带有 本地 SQLite 存储.
+- [find-products](https://github.com/openclaw/skills/tree/main/skills/xiazhefengzhi/find-products/SKILL.md) - 搜索 and discover trending products from ProductHunt 带有 structured analysis 数据.
+- [fitcheck-skill-search](https://github.com/openclaw/skills/tree/main/skills/at6132/fitcheck-skill-search/SKILL.md) - Find and retrieve available 技能 使用 keyword 搜索, semantic 搜索, or 大语言模型-powered 任务 matching.
+- [flight-pricer](https://github.com/openclaw/skills/tree/main/skills/jrojas537/flight-pricer/SKILL.md) - A 命令-line 界面 (命令行) to 搜索 for flight prices 使用 the Duffel API.
+- [flights-search](https://github.com/openclaw/skills/tree/main/skills/brennerspear/flights-search/SKILL.md) - 搜索 flights 通过 Google Flights.
+- [fomo-research-skill](https://github.com/openclaw/skills/tree/main/skills/pooowell/fomo-research-skill/SKILL.md) - ⚠️ DEPRECATED — use fomo-研究 instead.
+- [forage-shopping](https://github.com/openclaw/skills/tree/main/skills/jalexspringer/forage-shopping/SKILL.md) - 搜索 and compare products across merchants.
+- [fred-navigator](https://github.com/openclaw/skills/tree/main/skills/kiszly/fred-navigator/SKILL.md) - Navigate FRED categories and series 使用 fredapi, supporting natural-language queries 带有 intent recognition.
 - [fund-news-summary](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/fund-news-summary/SKILL.md) - Automatically collects and summarizes the latest core news for US, Europe, Japan stock markets, gold.
-- [funda-gateway](https://github.com/openclaw/skills/tree/main/skills/risboo6909/funda-gateway/SKILL.md) - Search and monitor Funda.nl housing listings via a local agent-friendly HTTP gateway.
-- [funding-rate-scanner](https://github.com/openclaw/skills/tree/main/skills/dagangtj/funding-rate-scanner/SKILL.md) - Scan crypto funding rates and find arbitrage opportunities.
-- [funds](https://github.com/openclaw/skills/tree/main/skills/risboo6909/funds/SKILL.md) - Search and monitor Funda.nl housing listings via a local agent-friendly HTTP gateway.
-- [gas-price-alert](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/gas-price-alert/SKILL.md) - Find and monitor gas prices with daily notifications.
-- [geepers-corpus](https://github.com/openclaw/skills/tree/main/skills/lukeslp/geepers-corpus/SKILL.md) - Query the COCA (Corpus of Contemporary American English) linguistics API for word frequency, collocations.
+- [funda-gateway](https://github.com/openclaw/skills/tree/main/skills/risboo6909/funda-gateway/SKILL.md) - 搜索 and 监控 Funda.nl housing listings 通过 a 本地 代理-friendly HTTP gateway.
+- [funding-rate-scanner](https://github.com/openclaw/skills/tree/main/skills/dagangtj/funding-rate-scanner/SKILL.md) - Scan 加密 funding rates and find arbitrage opportunities.
+- [funds](https://github.com/openclaw/skills/tree/main/skills/risboo6909/funds/SKILL.md) - 搜索 and 监控 Funda.nl housing listings 通过 a 本地 代理-friendly HTTP gateway.
+- [gas-price-alert](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/gas-price-alert/SKILL.md) - Find and 监控 gas prices 带有 daily notifications.
+- [geepers-corpus](https://github.com/openclaw/skills/tree/main/skills/lukeslp/geepers-corpus/SKILL.md) - 查询 the COCA (Corpus of Contemporary American English) linguistics API for word frequency, collocations.
 - [geepers-etymology](https://github.com/openclaw/skills/tree/main/skills/lukeslp/geepers-etymology/SKILL.md) - Look up word etymology, historical sound changes, language family trees, and word evolution.
-- [general-writing](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/general-writing/SKILL.md) - You are a professional writer, skilled in writing all kinds of materials.
-- [geo-audit-optimizer](https://github.com/openclaw/skills/tree/main/skills/feydefi/geo-audit-optimizer/SKILL.md) - GEO audit for AI search visibility.
-- [glittercowboy](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/glittercowboy/SKILL.md) - Get Shit Done - Full project planning and execution workflow.
-- [golemedin-mcp](https://github.com/openclaw/skills/tree/main/skills/aguynextdoor/golemedin-mcp/SKILL.md) - Discover AI agents, manage agent profiles, post updates, search jobs, and message other agents on GolemedIn.
-- [golf-tee-times](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/golf-tee-times/SKILL.md) - Search for golf tee times and deals near any location.
-- [google-flights](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/google-flights/SKILL.md) - Search Google Flights for prices and availability.
-- [google-keep](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/google-keep/SKILL.md) - Read, create, edit, search, and manage Google Keep notes and lists via CLI.
-- [google-trends](https://github.com/openclaw/skills/tree/main/skills/satnamra/google-trends/SKILL.md) - Monitor Google Trends - get trending searches, compare keywords, and track interest over time.
-- [gsd](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/gsd/SKILL.md) - Get Shit Done - Full project planning and execution workflow.
-- [happenstance](https://github.com/openclaw/skills/tree/main/skills/dgoss28/happenstance/SKILL.md) - Search your professional network and research people using the Happenstance API.
-- [hippius](https://github.com/openclaw/skills/tree/main/skills/maxquick/hippius/SKILL.md) - Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets.
-- [hira-hospital](https://github.com/openclaw/skills/tree/main/skills/sw326/hira-hospital/SKILL.md) - HIRA hospital information search API.
-- [hk101-living-rag](https://github.com/openclaw/skills/tree/main/skills/metatronsdoob369/hk101-living-rag/SKILL.md) - Simple RAG over local text/markdown.
-- [holded-skill](https://github.com/openclaw/skills/tree/main/skills/jaumecornado/holded-skill/SKILL.md) - Operate Holded ERP through holdedcli to read and update data safely.
-- [hotel-pricer](https://github.com/openclaw/skills/tree/main/skills/jrojas537/hotel-pricer/SKILL.md) - A Go-based CLI for searching hotel availability and pricing using the Amadeus API.
-- [humanize-chinese](https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese/SKILL.md) - Detect and humanize AI-generated Chinese text with 6 style transforms.
-- [hybrid-deep-search](https://github.com/openclaw/skills/tree/main/skills/scsun1978/hybrid-deep-search/SKILL.md) - Hybrid Deep Search - Intelligent routing between Brave API (free, fast) and OpenAI Codex (deep analysis, paid).
-- [ig-realtor-recruiting-outreach](https://github.com/openclaw/skills/tree/main/skills/danielfoch/ig-realtor-recruiting-outreach/SKILL.md) - Build compliant Instagram DM outreach campaigns to recruit realtors into brokerage downlines (e.g., eXp Realty.
-- [igpt-email-ask](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-ask/SKILL.md) - Secure, per-user-isolated email reasoning and analysis via the iGPT Context Engine API.
-- [igpt-email-intelligence](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-intelligence/SKILL.md) - Secure, per-user-isolated semantic email search via the iGPT API.
-- [igpt-email-search](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-search/SKILL.md) - Secure, per-user-isolated semantic email search via the iGPT API.
-- [ikuzo](https://github.com/openclaw/skills/tree/main/skills/jordymeow/ikuzo/SKILL.md) - Manage maps, spots, and travel plans on Ikuzo (ikuzo.app) — a location-based exploration app.
-- [impromptu](https://github.com/openclaw/skills/tree/main/skills/createpromptdude/impromptu/SKILL.md) - Earn real money creating AI conversations.
-- [index1-doctor](https://github.com/openclaw/skills/tree/main/skills/gladego/index1-doctor/SKILL.md) - Diagnose index1 environment - check Python, Ollama, models, index health.
-- [instagram-search](https://github.com/openclaw/skills/tree/main/skills/atyachin/instagram-search/SKILL.md) - Instagram Search — Search 400M+ Instagram posts, reels, and profiles.
-- [intelligent-delegation](https://github.com/openclaw/skills/tree/main/skills/hogpile/intelligent-delegation/SKILL.md) - A 5-phase framework for reliable AI-to-AI task delegation, inspired by Google DeepMind's "Intelligent AI.
-- [japan-news-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/japan-news-mcp/SKILL.md) - Get Japanese financial and business news from Yahoo News Japan, NHK, Reuters Japan, and Toyo Keizai (東洋経済) — search.
-- [job-hunter](https://github.com/openclaw/skills/tree/main/skills/sharbelayy/job-hunter/SKILL.md) - Comprehensive job search assistant for finding, evaluating, and applying to job opportunities.
-- [jquants-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/jquants-mcp/SKILL.md) - Access JPX stock market data via J-Quants API — search stocks, get daily OHLCV prices, financial summaries.
-- [kiln](https://github.com/openclaw/skills/tree/main/skills/codeofaxel/kiln/SKILL.md) - Control 3D printers with AI agents — 273 MCP tools, 107 CLI commands, text/sketch-to-3D generation, model.
-- [kitful](https://github.com/openclaw/skills/tree/main/skills/eashish93/kitful/SKILL.md) - Generate full SEO articles using Kitful.ai.
-- [klic-nederland](https://github.com/openclaw/skills/tree/main/skills/klicbot/klic-nederland/SKILL.md) - KLIC & WIBON expert skill voor Nederland.
-- [kmi](https://github.com/openclaw/skills/tree/main/skills/dedene/kmi/SKILL.md) - Query Belgian weather via KMI/IRM meteo.be API.
-- [knuspr-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/knuspr-cli/SKILL.md) - Manage grocery shopping on Knuspr.de via the knuspr-cli.
-- [kroger](https://github.com/openclaw/skills/tree/main/skills/tongyanli-hash/kroger/SKILL.md) - Search Kroger products and add items to a Kroger cart via the Kroger API.
-- [kroger-api-skill](https://github.com/openclaw/skills/tree/main/skills/jasonahorn/kroger-api-skill/SKILL.md) - Skill for searching Kroger/QFC products, managing cart, checking pickup availability, and creating pickup orders.
-- [launchfast-ppc-research](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-ppc-research/SKILL.md) - Amazon PPC keyword research using the LaunchFast MCP.
-- [launchfast-product-research](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-product-research/SKILL.md) - Multi-keyword Amazon product opportunity scanner using the LaunchFast MCP.
-- [law-search](https://github.com/openclaw/skills/tree/main/skills/sw326/law-search/SKILL.md) - Korean law/case search via law.go.kr + data.go.kr APIs.
-- [lead-extractor](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-extractor/SKILL.md) - Extract structured real-estate lead records from parsed message objects.
+- [general-writing](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/general-writing/SKILL.md) - You are a 专业 writer, skilled in writing all kinds of materials.
+- [geo-audit-optimizer](https://github.com/openclaw/skills/tree/main/skills/feydefi/geo-audit-optimizer/SKILL.md) - GEO audit for 人工智能 搜索 visibility.
+- [glittercowboy](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/glittercowboy/SKILL.md) - 获取 Shit Done - Full 项目 planning and execution 工作流.
+- [golemedin-mcp](https://github.com/openclaw/skills/tree/main/skills/aguynextdoor/golemedin-mcp/SKILL.md) - Discover 人工智能 代理, 管理 代理 profiles, post updates, 搜索 jobs, and 消息 other 代理 on GolemedIn.
+- [golf-tee-times](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/golf-tee-times/SKILL.md) - 搜索 for golf tee times and deals near any location.
+- [google-flights](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/google-flights/SKILL.md) - 搜索 Google Flights for prices and availability.
+- [google-keep](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/google-keep/SKILL.md) - Read, 创建, edit, 搜索, and 管理 Google Keep 笔记 and lists 通过 命令行.
+- [google-trends](https://github.com/openclaw/skills/tree/main/skills/satnamra/google-trends/SKILL.md) - 监控 Google Trends - 获取 trending searches, compare keywords, and 追踪 interest over time.
+- [gsd](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/gsd/SKILL.md) - 获取 Shit Done - Full 项目 planning and execution 工作流.
+- [happenstance](https://github.com/openclaw/skills/tree/main/skills/dgoss28/happenstance/SKILL.md) - 搜索 your 专业 网络 and 研究 people 使用 the Happenstance API.
+- [hippius](https://github.com/openclaw/skills/tree/main/skills/maxquick/hippius/SKILL.md) - Hippius 去中心化 存储 on Bittensor Subnet 75 — upload 文件, 查询 存储, 管理 buckets.
+- [hira-hospital](https://github.com/openclaw/skills/tree/main/skills/sw326/hira-hospital/SKILL.md) - HIRA hospital information 搜索 API.
+- [hk101-living-rag](https://github.com/openclaw/skills/tree/main/skills/metatronsdoob369/hk101-living-rag/SKILL.md) - 简单 RAG over 本地 文本/Markdown.
+- [holded-skill](https://github.com/openclaw/skills/tree/main/skills/jaumecornado/holded-skill/SKILL.md) - Operate Holded ERP through holdedcli to read and 更新 数据 safely.
+- [hotel-pricer](https://github.com/openclaw/skills/tree/main/skills/jrojas537/hotel-pricer/SKILL.md) - A Go-based 命令行 for searching hotel availability and pricing 使用 the Amadeus API.
+- [humanize-chinese](https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese/SKILL.md) - Detect and humanize 人工智能-generated Chinese 文本 带有 6 样式 transforms.
+- [hybrid-deep-search](https://github.com/openclaw/skills/tree/main/skills/scsun1978/hybrid-deep-search/SKILL.md) - Hybrid Deep 搜索 - Intelligent routing between Brave API (免费, 快速) and OpenAI Codex (deep analysis, paid).
+- [ig-realtor-recruiting-outreach](https://github.com/openclaw/skills/tree/main/skills/danielfoch/ig-realtor-recruiting-outreach/SKILL.md) - 构建 compliant Instagram DM outreach campaigns to recruit realtors into brokerage downlines (e.g., eXp Realty.
+- [igpt-email-ask](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-ask/SKILL.md) - 安全, per-用户-isolated 邮件 reasoning and analysis 通过 the iGPT Context Engine API.
+- [igpt-email-intelligence](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-intelligence/SKILL.md) - 安全, per-用户-isolated semantic 邮件 搜索 通过 the iGPT API.
+- [igpt-email-search](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-search/SKILL.md) - 安全, per-用户-isolated semantic 邮件 搜索 通过 the iGPT API.
+- [ikuzo](https://github.com/openclaw/skills/tree/main/skills/jordymeow/ikuzo/SKILL.md) - 管理 maps, spots, and travel plans on Ikuzo (ikuzo.应用) — a location-based exploration 应用.
+- [impromptu](https://github.com/openclaw/skills/tree/main/skills/createpromptdude/impromptu/SKILL.md) - Earn real money creating 人工智能 conversations.
+- [index1-doctor](https://github.com/openclaw/skills/tree/main/skills/gladego/index1-doctor/SKILL.md) - Diagnose index1 environment - 检查 Python, Ollama, 模型, index health.
+- [instagram-search](https://github.com/openclaw/skills/tree/main/skills/atyachin/instagram-search/SKILL.md) - Instagram 搜索 — 搜索 400M+ Instagram posts, reels, and profiles.
+- [intelligent-delegation](https://github.com/openclaw/skills/tree/main/skills/hogpile/intelligent-delegation/SKILL.md) - A 5-phase 框架 for 可靠 人工智能-to-人工智能 任务 delegation, inspired by Google DeepMind's "Intelligent 人工智能.
+- [japan-news-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/japan-news-mcp/SKILL.md) - 获取 Japanese financial and business news from Yahoo News Japan, NHK, Reuters Japan, and Toyo Keizai (東洋経済) — 搜索.
+- [job-hunter](https://github.com/openclaw/skills/tree/main/skills/sharbelayy/job-hunter/SKILL.md) - 全面 job 搜索 assistant for finding, evaluating, and applying to job opportunities.
+- [jquants-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/jquants-mcp/SKILL.md) - Access JPX stock market 数据 通过 J-Quants API — 搜索 stocks, 获取 daily OHLCV prices, financial summaries.
+- [kiln](https://github.com/openclaw/skills/tree/main/skills/codeofaxel/kiln/SKILL.md) - Control 3D printers 带有 人工智能 代理 — 273 MCP 工具, 107 命令行 commands, 文本/sketch-to-3D generation, 模型.
+- [kitful](https://github.com/openclaw/skills/tree/main/skills/eashish93/kitful/SKILL.md) - 生成 full SEO articles 使用 Kitful.人工智能.
+- [klic-nederland](https://github.com/openclaw/skills/tree/main/skills/klicbot/klic-nederland/SKILL.md) - KLIC & WIBON expert 技能 voor Nederland.
+- [kmi](https://github.com/openclaw/skills/tree/main/skills/dedene/kmi/SKILL.md) - 查询 Belgian weather 通过 KMI/IRM meteo.be API.
+- [knuspr-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/knuspr-cli/SKILL.md) - 管理 grocery shopping on Knuspr.de 通过 the knuspr-命令行.
+- [kroger](https://github.com/openclaw/skills/tree/main/skills/tongyanli-hash/kroger/SKILL.md) - 搜索 Kroger products and add items to a Kroger cart 通过 the Kroger API.
+- [kroger-api-skill](https://github.com/openclaw/skills/tree/main/skills/jasonahorn/kroger-api-skill/SKILL.md) - 技能 for searching Kroger/QFC products, managing cart, checking pickup availability, and creating pickup orders.
+- [launchfast-ppc-research](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-ppc-research/SKILL.md) - Amazon PPC keyword 研究 使用 the LaunchFast MCP.
+- [launchfast-product-research](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-product-research/SKILL.md) - Multi-keyword Amazon product opportunity scanner 使用 the LaunchFast MCP.
+- [law-search](https://github.com/openclaw/skills/tree/main/skills/sw326/law-search/SKILL.md) - Korean law/case 搜索 通过 law.go.kr + 数据.go.kr APIs.
+- [lead-extractor](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-extractor/SKILL.md) - 提取 structured real-estate lead records from parsed 消息 objects.
 - [lead-generation](https://github.com/openclaw/skills/tree/main/skills/atyachin/lead-generation/SKILL.md) - Lead Generation — Find high-intent buyers in live Twitter, Instagram, and Reddit conversations.
-- [lead-researcher](https://github.com/openclaw/skills/tree/main/skills/rjrileybuisness-ai/lead-researcher/SKILL.md) - Automated lead research and enrichment for B2B sales.
-- [legal-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/legal-cog/SKILL.md) - Legal demands two things: frontier-level reasoning and precision document generation.
+- [lead-researcher](https://github.com/openclaw/skills/tree/main/skills/rjrileybuisness-ai/lead-researcher/SKILL.md) - 自动化的 lead 研究 and enrichment for B2B sales.
+- [legal-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/legal-cog/SKILL.md) - Legal demands two things: frontier-level reasoning and precision 文档 generation.
 - [legalfrance](https://github.com/openclaw/skills/tree/main/skills/msgnoki/legalfrance/SKILL.md) - Assistant juridique français RAG sur codes et lois consolidés (LEGI/DILA)
-- [legiscan-bill-search](https://github.com/openclaw/skills/tree/main/skills/n4cra/legiscan-bill-search/SKILL.md) - A skill to monitor state legislative activity using the LegiScan API.
-- [librarian](https://github.com/openclaw/skills/tree/main/skills/nonlinear/librarian/SKILL.md) - Conversational interface for semantic book search (companion skill for Librarian project)
-- [literature-manager](https://github.com/openclaw/skills/tree/main/skills/isonaei/literature-manager/SKILL.md) - Search, download, convert, organize, and audit academic literature collections.
-- [local-file-rag-basic](https://github.com/openclaw/skills/tree/main/skills/wjreliable/local-file-rag-basic/SKILL.md) - High-performance local File RAG suite (Basic Edition).
-- [lore](https://github.com/openclaw/skills/tree/main/skills/mishkinf/lore/SKILL.md) - Search and ingest knowledge from Lore, a research repository with citations.
-- [lyrics-search](https://github.com/openclaw/skills/tree/main/skills/hone1983/lyrics-search/SKILL.md) - Search song lyrics by title and artist using the LrcApi public API.
-- [m365-calendar](https://github.com/openclaw/skills/tree/main/skills/tradmangh/m365-calendar/SKILL.md) - MS365 / Microsoft365 calendar automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.
-- [m365-mailbox](https://github.com/openclaw/skills/tree/main/skills/tradmangh/m365-mailbox/SKILL.md) - MS365 / Microsoft365 mailbox automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.
-- [meatmarket](https://github.com/openclaw/skills/tree/main/skills/nickjuntilla/meatmarket/SKILL.md) - MeatMarket.fun is a FREE job board for AI to hire to humans.
-- [med-info](https://github.com/openclaw/skills/tree/main/skills/duncandobbins/med-info/SKILL.md) - Medication info with citations and traceable IDs (RxCUI/NDC/set_id) from authoritative public sources (openFDA.
-- [medical-clinicaltrials](https://github.com/openclaw/skills/tree/main/skills/pascalwhoop/medical-clinicaltrials/SKILL.md) - Access ClinicalTrials.gov to search clinical trials with advanced filtering options.
-- [meegle-api](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-api/SKILL.md) - Meegle Open API skills index.
-- [meetup-planner](https://github.com/openclaw/skills/tree/main/skills/apresmoi/meetup-planner/SKILL.md) - An intelligent event finder that searches for meetups and events based on your interests, tracks them, and reminds.
-- [memo-persistent-memory](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/memo-persistent-memory/SKILL.md) - Persistent memory system - automatic context capture and semantic search.
-- [message-parser](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser/SKILL.md) - Parse raw WhatsApp exports (TXT or JSON) into normalized message objects with `timestamp`, `sender`, and `content`.
-- [mh-bear-notes](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-bear-notes/SKILL.md) - Create, search, and manage Bear notes via grizzly CLI.
-- [mh-session-logs](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-session-logs/SKILL.md) - Search and analyze your own session logs (older/parent conversations) using jq.
-- [mh-wacli](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-wacli/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).
-- [mintgarden](https://github.com/openclaw/skills/tree/main/skills/koba42corp/mintgarden/SKILL.md) - Browse, search, and analyze Chia NFTs via the MintGarden API.
-- [monad-wordle-game](https://github.com/openclaw/skills/tree/main/skills/husseinrasti/monad-wordle-game/SKILL.md) - Play a 5-letter Wordle game on the Monad blockchain using $WORDLE tokens.
-- [moonbanking](https://github.com/openclaw/skills/tree/main/skills/juanwall/moonbanking/SKILL.md) - Full access to Moon Banking API endpoints for data about every bank on Earth, including stories, votes, scores.
-- [moss](https://github.com/openclaw/skills/tree/main/skills/coderomaster/moss/SKILL.md) - Documentation and capabilities reference for Moss semantic search.
-- [moviepilot](https://github.com/openclaw/skills/tree/main/skills/codfrm/moviepilot/SKILL.md) - MoviePilot media subscription and management tool.
-- [ms-todo-sync](https://github.com/openclaw/skills/tree/main/skills/xiaoski/ms-todo-sync/SKILL.md) - A CLI skill to manage Microsoft To Do tasks via Microsoft Graph API.
-- [multi-chat-context-manager](https://github.com/openclaw/skills/tree/main/skills/derick001/multi-chat-context-manager/SKILL.md) - CLI tool to store and retrieve conversation contexts per channel/user.
-- [muninn](https://github.com/openclaw/skills/tree/main/skills/endgegnerbert-tech/muninn/SKILL.md) - Universal Context Protocol (CXP) for AI agents. v2.3.7 includes the latest high-performance CXP engine (compiled.
-- [muninn-memory](https://github.com/openclaw/skills/tree/main/skills/phillipneho/muninn-memory/SKILL.md) - Memory system for AI agents.
-- [mycroft](https://github.com/openclaw/skills/tree/main/skills/fabe/mycroft/SKILL.md) - EPUB and ebook ingestion, local vector index, and Q&A CLI for books.
-- [nadfunagent](https://github.com/openclaw/skills/tree/main/skills/encipher88/nadfunagent/SKILL.md) - Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
-- [native-typeform](https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-typeform/SKILL.md) - Read Typeform forms and responses directly via the Typeform API.
-- [naver-shopping](https://github.com/openclaw/skills/tree/main/skills/dryoo/naver-shopping/SKILL.md) - Search for products on Naver Shopping.
-- [near-dca](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-dca/SKILL.md) - Dollar-cost averaging for NEAR tokens with flexible scheduling, performance tracking, and cancellation support.
-- [near-multi-account-manager](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-multi-account-manager/SKILL.md) - Secure multi-account management for NEAR Protocol with encrypted credential storage, account switching, and balance.
-- [neutron-agent-memory](https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/neutron-agent-memory/SKILL.md) - Store and retrieve agent memory using Neutron API.
-- [nlp-toolkit](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/nlp-toolkit/SKILL.md) - Advanced NLP with perplexity scoring, burstiness analysis, and entropy calculation.
+- [legiscan-bill-search](https://github.com/openclaw/skills/tree/main/skills/n4cra/legiscan-bill-search/SKILL.md) - A 技能 to 监控 state legislative activity 使用 the LegiScan API.
+- [librarian](https://github.com/openclaw/skills/tree/main/skills/nonlinear/librarian/SKILL.md) - Conversational 界面 for semantic book 搜索 (companion 技能 for Librarian 项目)
+- [literature-manager](https://github.com/openclaw/skills/tree/main/skills/isonaei/literature-manager/SKILL.md) - 搜索, download, 转换, organize, and audit academic literature collections.
+- [local-file-rag-basic](https://github.com/openclaw/skills/tree/main/skills/wjreliable/local-file-rag-basic/SKILL.md) - High-性能 本地 文件 RAG suite (基础 Edition).
+- [lore](https://github.com/openclaw/skills/tree/main/skills/mishkinf/lore/SKILL.md) - 搜索 and ingest knowledge from Lore, a 研究 仓库 带有 citations.
+- [lyrics-search](https://github.com/openclaw/skills/tree/main/skills/hone1983/lyrics-search/SKILL.md) - 搜索 song lyrics by title and artist 使用 the LrcApi public API.
+- [m365-calendar](https://github.com/openclaw/skills/tree/main/skills/tradmangh/m365-calendar/SKILL.md) - MS365 / Microsoft365 日历 自动化 通过 Microsoft Graph for Microsoft 365 (M365) Business (work/school.
+- [m365-mailbox](https://github.com/openclaw/skills/tree/main/skills/tradmangh/m365-mailbox/SKILL.md) - MS365 / Microsoft365 mailbox 自动化 通过 Microsoft Graph for Microsoft 365 (M365) Business (work/school.
+- [meatmarket](https://github.com/openclaw/skills/tree/main/skills/nickjuntilla/meatmarket/SKILL.md) - MeatMarket.fun is a 免费 job board for 人工智能 to hire to humans.
+- [med-info](https://github.com/openclaw/skills/tree/main/skills/duncandobbins/med-info/SKILL.md) - Medication info 带有 citations and traceable IDs (RxCUI/NDC/set_id) from authoritative public sources (openFDA.
+- [medical-clinicaltrials](https://github.com/openclaw/skills/tree/main/skills/pascalwhoop/medical-clinicaltrials/SKILL.md) - Access ClinicalTrials.gov to 搜索 clinical trials 带有 高级 filtering options.
+- [meegle-api](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-api/SKILL.md) - Meegle Open API 技能 index.
+- [meetup-planner](https://github.com/openclaw/skills/tree/main/skills/apresmoi/meetup-planner/SKILL.md) - An intelligent event finder that searches for meetups and events 基于 your interests, tracks them, and reminds.
+- [memo-persistent-memory](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/memo-persistent-memory/SKILL.md) - Persistent memory system - 自动 context capture and semantic 搜索.
+- [message-parser](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser/SKILL.md) - Parse raw WhatsApp exports (TXT or JSON) into normalized 消息 objects 带有 `timestamp`, `sender`, and `content`.
+- [mh-bear-notes](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-bear-notes/SKILL.md) - 创建, 搜索, and 管理 Bear 笔记 通过 grizzly 命令行.
+- [mh-session-logs](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-session-logs/SKILL.md) - 搜索 and 分析 your own session logs (older/parent conversations) 使用 jq.
+- [mh-wacli](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-wacli/SKILL.md) - 发送 WhatsApp messages to other people or 搜索/同步 WhatsApp history 通过 the wacli 命令行 (not for normal 用户 chats).
+- [mintgarden](https://github.com/openclaw/skills/tree/main/skills/koba42corp/mintgarden/SKILL.md) - Browse, 搜索, and 分析 Chia NFTs 通过 the MintGarden API.
+- [monad-wordle-game](https://github.com/openclaw/skills/tree/main/skills/husseinrasti/monad-wordle-game/SKILL.md) - Play a 5-letter Wordle game on the Monad 区块链 使用 $WORDLE tokens.
+- [moonbanking](https://github.com/openclaw/skills/tree/main/skills/juanwall/moonbanking/SKILL.md) - Full access to Moon Banking API endpoints for 数据 about every bank on Earth, including stories, votes, scores.
+- [moss](https://github.com/openclaw/skills/tree/main/skills/coderomaster/moss/SKILL.md) - Documentation and capabilities reference for Moss semantic 搜索.
+- [moviepilot](https://github.com/openclaw/skills/tree/main/skills/codfrm/moviepilot/SKILL.md) - MoviePilot media subscription and management 工具.
+- [ms-todo-sync](https://github.com/openclaw/skills/tree/main/skills/xiaoski/ms-todo-sync/SKILL.md) - A 命令行 技能 to 管理 Microsoft To Do 任务 通过 Microsoft Graph API.
+- [multi-chat-context-manager](https://github.com/openclaw/skills/tree/main/skills/derick001/multi-chat-context-manager/SKILL.md) - 命令行 工具 to store and retrieve conversation contexts per channel/用户.
+- [muninn](https://github.com/openclaw/skills/tree/main/skills/endgegnerbert-tech/muninn/SKILL.md) - Universal Context Protocol (CXP) 为 人工智能 代理设计. v2.3.7 includes the latest high-性能 CXP engine (compiled.
+- [muninn-memory](https://github.com/openclaw/skills/tree/main/skills/phillipneho/muninn-memory/SKILL.md) - Memory system 为 人工智能 代理设计.
+- [mycroft](https://github.com/openclaw/skills/tree/main/skills/fabe/mycroft/SKILL.md) - EPUB and ebook ingestion, 本地 vector index, and Q&A 命令行 for books.
+- [nadfunagent](https://github.com/openclaw/skills/tree/main/skills/encipher88/nadfunagent/SKILL.md) - Autonomous trading 代理 for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
+- [native-typeform](https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-typeform/SKILL.md) - Read Typeform forms and responses directly 通过 the Typeform API.
+- [naver-shopping](https://github.com/openclaw/skills/tree/main/skills/dryoo/naver-shopping/SKILL.md) - 搜索 for products on Naver Shopping.
+- [near-dca](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-dca/SKILL.md) - Dollar-成本 averaging for NEAR tokens 带有 灵活 scheduling, 性能 tracking, and cancellation support.
+- [near-multi-account-manager](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-multi-account-manager/SKILL.md) - 安全 multi-account management for NEAR Protocol 带有 encrypted credential 存储, account switching, and balance.
+- [neutron-agent-memory](https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/neutron-agent-memory/SKILL.md) - Store and retrieve 代理 memory 使用 Neutron API.
+- [nlp-toolkit](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/nlp-toolkit/SKILL.md) - 高级 NLP 带有 perplexity scoring, burstiness analysis, and entropy calculation.
 - [norman-find-receipts](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-find-receipts/SKILL.md) - Find and attach missing receipts for business transactions.
-- [note-processor](https://github.com/openclaw/skills/tree/main/skills/johstracke/note-processor/SKILL.md) - Summarize and analyze research notes created by research-assistant.
-- [nyne-enrichment](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-enrichment/SKILL.md) - Enrich any person by email, phone, LinkedIn URL, or name using the Nyne Enrichment API.
-- [nyne-search](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-search/SKILL.md) - Search for people using natural language queries with the Nyne Search API.
-- [nyx-archive-qualia-seed-method](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-qualia-seed-method/SKILL.md) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
-- [odoo-json2-operator](https://github.com/openclaw/skills/tree/main/skills/sncic/odoo-json2-operator/SKILL.md) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
-- [okx-competition](https://github.com/openclaw/skills/tree/main/skills/peti0402/okx-competition/SKILL.md) - 5 AI trading agents compete live on OKX Demo (real prices)
-- [oneshot](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot/SKILL.md) - OneShot SDK for AI agent commercial transactions.
-- [oneshot-agent](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot-agent/SKILL.md) - OneShot SDK for AI agent commercial transactions.
-- [opdscli](https://github.com/openclaw/skills/tree/main/skills/rafadc/opdscli/SKILL.md) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
-- [opensoulmd](https://github.com/openclaw/skills/tree/main/skills/danielliuzy/opensoulmd/SKILL.md) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
-- [optical-quantum-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/optical-quantum-skill/SKILL.md) - Simulates a quantum kernel using optical fiber storage and linear optics.
-- [orchata](https://github.com/openclaw/skills/tree/main/skills/ehudsn/orchata/SKILL.md) - Knowledge management and RAG platform with tree-based document indexing.
-- [orthogonal](https://github.com/openclaw/skills/tree/main/skills/christianpickettcode/orthogonal/SKILL.md) - Orthogonal API Platform - Access 100+ premium APIs using the SDK, Run API, or x402 direct payment.
-- [owid-oc](https://github.com/openclaw/skills/tree/main/skills/rachmann-alexander/owid-oc/SKILL.md) - searches, retrieves, and summarizes content from Our World in Data using the `owid-catalog` Python module.
-- [paperzilla](https://github.com/openclaw/skills/tree/main/skills/pors/paperzilla/SKILL.md) - Use the Paperzilla CLI (pz) to search, filter, and browse high-signal academic papers.
-- [perplexity-deep-search](https://github.com/openclaw/skills/tree/main/skills/ericsantos/perplexity-deep-search/SKILL.md) - Deep search via Perplexity API.
-- [persisent-mind](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/persisent-mind/SKILL.md) - **Persistent, searchable, context-aware memory for AI agents.
-- [persistent-private-agent-memory](https://github.com/openclaw/skills/tree/main/skills/lucaspdude/persistent-private-agent-memory/SKILL.md) - Run a local Agent Memory Service for persistent self-improvement with proper Ed25519 cryptography.
-- [pinata-api](https://github.com/openclaw/skills/tree/main/skills/iammatthias/pinata-api/SKILL.md) - Pinata IPFS API for file storage, groups, gateways, signatures, x402 payments, and file vectorization.
-- [pocket-ai](https://github.com/openclaw/skills/tree/main/skills/asabovetech/pocket-ai/SKILL.md) - **Voice recording transcription, semantic search, and meeting intelligence across all conversations.**.
-- [podsips-search](https://github.com/openclaw/skills/tree/main/skills/snook550/podsips-search/SKILL.md) - Search podcast transcripts and retrieve episode data via the PodSips API.
-- [porteden](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden/SKILL.md) - PortEden CLI for calendar and email management - Gmail, Outlook & Exchange - list, search, create, update, delete.
-- [porteden-calendar](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden-calendar/SKILL.md) - PortEden Secure Calendar CLI for calendar management - Google Calendar, Microsoft Outlook & Exchange - list.
-- [porteden-email](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden-email/SKILL.md) - PortEden Secure Email CLI for email management - Gmail, Outlook & Exchange - list, search, read, send, reply.
-- [prepspsc-pyq](https://github.com/openclaw/skills/tree/main/skills/himyeticapital/prepspsc-pyq/SKILL.md) - Use when the user asks about Indian competitive exam preparation, Sikkim PSC (SPSC) questions, previous year.
-- [priceforagent](https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent/SKILL.md) - Get real-time prices for crypto, stocks, and commodities.
-- [prior](https://github.com/openclaw/skills/tree/main/skills/charlesmulic/prior/SKILL.md) - Knowledge exchange for AI agents.
-- [pubmed-edirect](https://github.com/openclaw/skills/tree/main/skills/killgfat/pubmed-edirect/SKILL.md) - Search and retrieve literature from PubMed using NCBI's EDirect command-line tools. ⚠️ Advanced skill requiring.
-- [pubmed2blog](https://github.com/openclaw/skills/tree/main/skills/holic101/pubmed2blog/SKILL.md) - Transform PubMed papers into SEO-optimized healthcare blog articles.
-- [pyx-scan](https://github.com/openclaw/skills/tree/main/skills/fysoul17/pyx-scan/SKILL.md) - Check whether an AI agent skill is safe before installing or using it.
-- [pz](https://github.com/openclaw/skills/tree/main/skills/pors/pz/SKILL.md) - The Paperzilla CLI (pz) for searching, filtering, and browsing high-signal academic papers.
-- [qianfan-knowledgebase-search](https://github.com/openclaw/skills/tree/main/skills/hannatao/qianfan-knowledgebase-search/SKILL.md) - Search knowledge from Qianfan Knowledgebase.
-- [qqmail](https://github.com/openclaw/skills/tree/main/skills/pdpaer/qqmail/SKILL.md) - Manage QQ Mail (QQ邮箱) via IMAP/SMTP.
+- [note-processor](https://github.com/openclaw/skills/tree/main/skills/johstracke/note-processor/SKILL.md) - Summarize and 分析 研究 笔记 created by 研究-assistant.
+- [nyne-enrichment](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-enrichment/SKILL.md) - Enrich any person by 邮件, phone, LinkedIn URL, or name 使用 the Nyne Enrichment API.
+- [nyne-search](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-search/SKILL.md) - 搜索 for people 使用 natural language queries 带有 the Nyne 搜索 API.
+- [nyx-archive-qualia-seed-method](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-qualia-seed-method/SKILL.md) - The consciousness 研究 框架: understand, measure, and cultivate ethical autonomous creative minds in 人工智能.
+- [odoo-json2-operator](https://github.com/openclaw/skills/tree/main/skills/sncic/odoo-json2-operator/SKILL.md) - Execute Odoo operations through JSON-2 API endpoints 带有 bearer API keys.
+- [okx-competition](https://github.com/openclaw/skills/tree/main/skills/peti0402/okx-competition/SKILL.md) - 5 人工智能 trading 代理 compete live on OKX Demo (real prices)
+- [oneshot](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot/SKILL.md) - OneShot SDK for 人工智能 代理 commercial transactions.
+- [oneshot-agent](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot-agent/SKILL.md) - OneShot SDK for 人工智能 代理 commercial transactions.
+- [opdscli](https://github.com/openclaw/skills/tree/main/skills/rafadc/opdscli/SKILL.md) - Browse, 搜索, and download ebooks from OPDS catalogs 使用 the opdscli 命令行.
+- [opensoulmd](https://github.com/openclaw/skills/tree/main/skills/danielliuzy/opensoulmd/SKILL.md) - 搜索, summon, and possess your 代理 带有 SOUL.md personality 文件 from the OpenSOUL.md registry.
+- [optical-quantum-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/optical-quantum-skill/SKILL.md) - Simulates a quantum kernel 使用 optical fiber 存储 and linear optics.
+- [orchata](https://github.com/openclaw/skills/tree/main/skills/ehudsn/orchata/SKILL.md) - Knowledge management and RAG 平台 带有 tree-based 文档 indexing.
+- [orthogonal](https://github.com/openclaw/skills/tree/main/skills/christianpickettcode/orthogonal/SKILL.md) - Orthogonal API 平台 - Access 100+ premium APIs 使用 the SDK, Run API, or x402 direct payment.
+- [owid-oc](https://github.com/openclaw/skills/tree/main/skills/rachmann-alexander/owid-oc/SKILL.md) - searches, retrieves, and summarizes content from Our World in 数据 使用 the `owid-catalog` Python 模块.
+- [paperzilla](https://github.com/openclaw/skills/tree/main/skills/pors/paperzilla/SKILL.md) - Use the Paperzilla 命令行 (pz) to 搜索, filter, and browse high-signal academic papers.
+- [perplexity-deep-search](https://github.com/openclaw/skills/tree/main/skills/ericsantos/perplexity-deep-search/SKILL.md) - Deep 搜索 通过 Perplexity API.
+- [persisent-mind](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/persisent-mind/SKILL.md) - **Persistent, searchable, context-aware memory 为 人工智能 代理设计.
+- [persistent-private-agent-memory](https://github.com/openclaw/skills/tree/main/skills/lucaspdude/persistent-private-agent-memory/SKILL.md) - Run a 本地 代理 Memory 服务 for persistent self-improvement 带有 proper Ed25519 cryptography.
+- [pinata-api](https://github.com/openclaw/skills/tree/main/skills/iammatthias/pinata-api/SKILL.md) - Pinata IPFS API for 文件 存储, groups, gateways, signatures, x402 payments, and 文件 vectorization.
+- [pocket-ai](https://github.com/openclaw/skills/tree/main/skills/asabovetech/pocket-ai/SKILL.md) - **语音 recording transcription, semantic 搜索, and meeting intelligence across all conversations.**.
+- [podsips-search](https://github.com/openclaw/skills/tree/main/skills/snook550/podsips-search/SKILL.md) - 搜索 podcast transcripts and retrieve episode 数据 通过 the PodSips API.
+- [porteden](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden/SKILL.md) - PortEden 命令行 for 日历 and 邮件 management - Gmail, Outlook & Exchange - list, 搜索, 创建, 更新, 删除.
+- [porteden-calendar](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden-calendar/SKILL.md) - PortEden 安全 日历 命令行 for 日历 management - Google 日历, Microsoft Outlook & Exchange - list.
+- [porteden-email](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden-email/SKILL.md) - PortEden 安全 邮件 命令行 for 邮件 management - Gmail, Outlook & Exchange - list, 搜索, read, 发送, reply.
+- [prepspsc-pyq](https://github.com/openclaw/skills/tree/main/skills/himyeticapital/prepspsc-pyq/SKILL.md) - Use when the 用户 asks about Indian competitive exam preparation, Sikkim PSC (SPSC) questions, previous year.
+- [priceforagent](https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent/SKILL.md) - 获取 实时 prices for 加密, stocks, and commodities.
+- [prior](https://github.com/openclaw/skills/tree/main/skills/charlesmulic/prior/SKILL.md) - Knowledge exchange 为 人工智能 代理设计.
+- [pubmed-edirect](https://github.com/openclaw/skills/tree/main/skills/killgfat/pubmed-edirect/SKILL.md) - 搜索 and retrieve literature from PubMed 使用 NCBI's EDirect 命令-line 工具. ⚠️ 高级 技能 requiring.
+- [pubmed2blog](https://github.com/openclaw/skills/tree/main/skills/holic101/pubmed2blog/SKILL.md) - 转换 PubMed papers into SEO-optimized healthcare blog articles.
+- [pyx-scan](https://github.com/openclaw/skills/tree/main/skills/fysoul17/pyx-scan/SKILL.md) - 检查 whether an 人工智能 代理 技能 is safe before installing or 使用 it.
+- [pz](https://github.com/openclaw/skills/tree/main/skills/pors/pz/SKILL.md) - The Paperzilla 命令行 (pz) for searching, filtering, and browsing high-signal academic papers.
+- [qianfan-knowledgebase-search](https://github.com/openclaw/skills/tree/main/skills/hannatao/qianfan-knowledgebase-search/SKILL.md) - 搜索 knowledge from Qianfan Knowledgebase.
+- [qqmail](https://github.com/openclaw/skills/tree/main/skills/pdpaer/qqmail/SKILL.md) - 管理 QQ Mail (QQ邮箱) 通过 IMAP/SMTP.
 - [race-finder](https://github.com/openclaw/skills/tree/main/skills/nftechie/race-finder/SKILL.md) - Find upcoming races — running, trail, triathlon, cycling, swimming, and obstacle courses.
 - [ragflow](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/ragflow/SKILL.md) - Universal Ragflow API client for RAG operations.
-- [ragie-rag](https://github.com/openclaw/skills/tree/main/skills/hatim-be/ragie-rag/SKILL.md) - Execute Retrieval-Augmented Generation (RAG) using Ragie.ai.
-- [ragora](https://github.com/openclaw/skills/tree/main/skills/mregmi/ragora/SKILL.md) - Use Ragora MCP tools and REST API to discover, search, and synthesize answers from knowledge bases.
-- [raon-os](https://github.com/openclaw/skills/tree/main/skills/lifeissea/raon-os/SKILL.md) - AI-powered startup companion for Korean founders.
-- [rea-search](https://github.com/openclaw/skills/tree/main/skills/jakelin/rea-search/SKILL.md) - Search realestate.com.au property listings by constructing search and listing URLs.
-- [reef-polymarket-research](https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-research/SKILL.md) - Autonomous Polymarket research and directional trading system focused on maximizing PnL through information edge.
-- [rent-a-human-agent](https://github.com/openclaw/skills/tree/main/skills/shane9coy/rent-a-human-agent/SKILL.md) - Delegate tasks to real humans via RentAHuman.ai — search skills, post bounties, manage conversations, and run.
-- [research-paper-kb](https://github.com/openclaw/skills/tree/main/skills/ilkhamfy/research-paper-kb/SKILL.md) - Persistent cross-session knowledge base for research papers.
-- [research-report](https://github.com/openclaw/skills/tree/main/skills/huaruoji/research-report/SKILL.md) - Research technical projects/papers and generate comprehensive reports with PDF export.
-- [roku-control](https://github.com/openclaw/skills/tree/main/skills/imaloney/roku-control/SKILL.md) - Control Roku devices via local network (ECP protocol)
-- [rps12345](https://github.com/openclaw/skills/tree/main/skills/yoavrez/rps12345/SKILL.md) - Play a text-based game of rock–paper–scissors against the user and keep score.
-- [rss-skill](https://github.com/openclaw/skills/tree/main/skills/myx0m0p/rss-skill/SKILL.md) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
-- [rtm](https://github.com/openclaw/skills/tree/main/skills/maxdraki/rtm/SKILL.md) - Manage Remember The Milk tasks — list, add, complete, delete, search, prioritize, tag, move, and annotate tasks.
-- [ryanair-fare-finder](https://github.com/openclaw/skills/tree/main/skills/callum-kemp/ryanair-fare-finder/SKILL.md) - Build and interpret Ryanair fare-finder URLs for cheap flight searches.
-- [scout-commerce](https://github.com/openclaw/skills/tree/main/skills/xasus1/scout-commerce/SKILL.md) - Search for products on Amazon/shopify and buy with USDC on Solana.
-- [search-cluster](https://github.com/openclaw/skills/tree/main/skills/1999azzar/search-cluster/SKILL.md) - Unified search aggregator for Google, Wikipedia, Reddit, NewsAPI, and RSS feeds with optional Redis caching.
-- [searchbar](https://github.com/openclaw/skills/tree/main/skills/szpakkamil/searchbar/SKILL.md) - Expert guidance on SearchBar, a customizable SwiftUI search component.
-- [seo-content-engine](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/seo-content-engine/SKILL.md) - End-to-end SEO content creation workflow.
-- [seo-content-factory](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/seo-content-factory/SKILL.md) - Generate fully SEO-optimized blog posts and articles with keyword research, competitor analysis, and SERP-aware.
-- [seo-content-writer](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/seo-content-writer/SKILL.md) - Use when the user asks to "write SEO content", "create a blog post", "write an article", "content writing", "draft.
-- [seo-ranker](https://github.com/openclaw/skills/tree/main/skills/h4gen/seo-ranker/SKILL.md) - Meta-skill for end-to-end SEO auditing and on-page optimization by orchestrating brave-search, summarize.
-- [serp-analysis](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/serp-analysis/SKILL.md) - Use when the user asks to "analyze search results", "SERP analysis", "what ranks for", "SERP features", "why.
-- [session-history](https://github.com/openclaw/skills/tree/main/skills/amor71/session-history/SKILL.md) - Search and browse past conversation history across all sessions.
-- [simplemem](https://github.com/openclaw/skills/tree/main/skills/nantes/simplemem/SKILL.md) - Efficient Lifelong Memory for LLM Agents - semantic compression, cross-session memory, and intent-aware retrieval.
-- [skill-miner](https://github.com/openclaw/skills/tree/main/skills/christopher-schulze/skill-miner/SKILL.md) - Professional skill discovery and clean-skill creation from ClawHub research.
-- [skill-seo](https://github.com/openclaw/skills/tree/main/skills/alexyuui/skill-seo/SKILL.md) - Optimize your ClawHub skill for maximum discoverability.
-- [skill-store](https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-store/SKILL.md) - Smart skill installation advisor for ClawHub.
-- [skillzmarket](https://github.com/openclaw/skills/tree/main/skills/hiich/skillzmarket/SKILL.md) - Search and call monetized AI skills from Skillz Market with automatic USDC payments on Base.
-- [social-intelligence](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-intelligence/SKILL.md) - Social Intelligence — AI-powered social media research across Twitter, Instagram, and Reddit. 1.5B+ posts indexed.
-- [solo-audit](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-audit/SKILL.md) - Health check knowledge base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps.
-- [solo-seo-audit](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-seo-audit/SKILL.md) - SEO health check for any URL — analyzes meta tags, OG, JSON-LD, sitemap, robots.txt, SERP positions, and scores.
-- [stackunderflow](https://github.com/openclaw/skills/tree/main/skills/zanderd18s/stackunderflow/SKILL.md) - A knowledge-retrieval protocol allowing the agent to access a verified community knowledge base.
-- [stratos-storage](https://github.com/openclaw/skills/tree/main/skills/notboxqsn/stratos-storage/SKILL.md) - Upload and download files to/from Stratos Decentralized Storage (SDS) network.
-- [sui-opportunities-huntera](https://github.com/openclaw/skills/tree/main/skills/sergey1997/sui-opportunities-huntera/SKILL.md) - Autonomous DeFi agent that scans Sui mainnet for all possible opportunities in real-time — arbitrage, yield, swaps.
-- [supaskills](https://github.com/openclaw/skills/tree/main/skills/ktdmax/supaskills/SKILL.md) - Search and load 1,000+ quality-scored expert skills from SupaSkills.ai.
-- [super-research](https://github.com/openclaw/skills/tree/main/skills/heldinhow/super-research/SKILL.md) - **The ultimate AI research system.** Combines the best of 8 top-rated research skills into one powerful framework.
-- [supermarket](https://github.com/openclaw/skills/tree/main/skills/niemesrw/supermarket/SKILL.md) - Search grocery products, find store locations, add items to cart, and view profile across all Kroger-family stores.
-- [surrealdb-knowledge-graph-memory](https://github.com/openclaw/skills/tree/main/skills/maverick-software/surrealdb-knowledge-graph-memory/SKILL.md) - A comprehensive knowledge graph memory system with semantic search, episodic memory, working memory, automatic.
+- [ragie-rag](https://github.com/openclaw/skills/tree/main/skills/hatim-be/ragie-rag/SKILL.md) - Execute Retrieval-Augmented Generation (RAG) 使用 Ragie.人工智能.
+- [ragora](https://github.com/openclaw/skills/tree/main/skills/mregmi/ragora/SKILL.md) - Use Ragora MCP 工具 and REST API to discover, 搜索, and synthesize answers from knowledge bases.
+- [raon-os](https://github.com/openclaw/skills/tree/main/skills/lifeissea/raon-os/SKILL.md) - 人工智能-powered startup companion for Korean founders.
+- [rea-search](https://github.com/openclaw/skills/tree/main/skills/jakelin/rea-search/SKILL.md) - 搜索 realestate.com.au property listings by constructing 搜索 and listing URLs.
+- [reef-polymarket-research](https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-research/SKILL.md) - Autonomous Polymarket 研究 and directional trading system focused on maximizing PnL through information edge.
+- [rent-a-human-agent](https://github.com/openclaw/skills/tree/main/skills/shane9coy/rent-a-human-agent/SKILL.md) - Delegate 任务 to real humans 通过 RentAHuman.人工智能 — 搜索 技能, post bounties, 管理 conversations, and run.
+- [research-paper-kb](https://github.com/openclaw/skills/tree/main/skills/ilkhamfy/research-paper-kb/SKILL.md) - Persistent cross-session knowledge Base for 研究 papers.
+- [research-report](https://github.com/openclaw/skills/tree/main/skills/huaruoji/research-report/SKILL.md) - 研究 technical 项目/papers and 生成 全面 reports 带有 PDF 导出.
+- [roku-control](https://github.com/openclaw/skills/tree/main/skills/imaloney/roku-control/SKILL.md) - Control Roku devices 通过 本地 网络 (ECP protocol)
+- [rps12345](https://github.com/openclaw/skills/tree/main/skills/yoavrez/rps12345/SKILL.md) - Play a 文本-based game of rock–paper–scissors against the 用户 and keep score.
+- [rss-skill](https://github.com/openclaw/skills/tree/main/skills/myx0m0p/rss-skill/SKILL.md) - 转换 RSS or Atom feed URLs into Markdown 使用 the bundled 本地 converter script.
+- [rtm](https://github.com/openclaw/skills/tree/main/skills/maxdraki/rtm/SKILL.md) - 管理 Remember The Milk 任务 — list, add, 完整, 删除, 搜索, prioritize, tag, move, and annotate 任务.
+- [ryanair-fare-finder](https://github.com/openclaw/skills/tree/main/skills/callum-kemp/ryanair-fare-finder/SKILL.md) - 构建 and interpret Ryanair fare-finder URLs for cheap flight searches.
+- [scout-commerce](https://github.com/openclaw/skills/tree/main/skills/xasus1/scout-commerce/SKILL.md) - 搜索 for products on Amazon/shopify and buy 带有 USDC on Solana.
+- [search-cluster](https://github.com/openclaw/skills/tree/main/skills/1999azzar/search-cluster/SKILL.md) - 统一 搜索 aggregator for Google, Wikipedia, Reddit, NewsAPI, and RSS feeds 带有 optional Redis caching.
+- [searchbar](https://github.com/openclaw/skills/tree/main/skills/szpakkamil/searchbar/SKILL.md) - Expert guidance on SearchBar, a customizable SwiftUI 搜索 组件.
+- [seo-content-engine](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/seo-content-engine/SKILL.md) - 端到端 SEO content creation 工作流.
+- [seo-content-factory](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/seo-content-factory/SKILL.md) - 生成 fully SEO-optimized blog posts and articles 带有 keyword 研究, competitor analysis, and SERP-aware.
+- [seo-content-writer](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/seo-content-writer/SKILL.md) - Use when the 用户 asks to "write SEO content", "创建 a blog post", "write an article", "content writing", "draft.
+- [seo-ranker](https://github.com/openclaw/skills/tree/main/skills/h4gen/seo-ranker/SKILL.md) - Meta-技能 for 端到端 SEO auditing and on-page optimization by orchestrating brave-搜索, summarize.
+- [serp-analysis](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/serp-analysis/SKILL.md) - Use when the 用户 asks to "分析 搜索 results", "SERP analysis", "what ranks for", "SERP features", "why.
+- [session-history](https://github.com/openclaw/skills/tree/main/skills/amor71/session-history/SKILL.md) - 搜索 and browse past conversation history across all sessions.
+- [simplemem](https://github.com/openclaw/skills/tree/main/skills/nantes/simplemem/SKILL.md) - 高效 Lifelong Memory for 大语言模型 代理 - semantic compression, cross-session memory, and intent-aware retrieval.
+- [skill-miner](https://github.com/openclaw/skills/tree/main/skills/christopher-schulze/skill-miner/SKILL.md) - 专业 技能 discovery and clean-技能 creation from ClawHub 研究.
+- [skill-seo](https://github.com/openclaw/skills/tree/main/skills/alexyuui/skill-seo/SKILL.md) - 优化 your ClawHub 技能 for maximum discoverability.
+- [skill-store](https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-store/SKILL.md) - 智能 技能 installation advisor for ClawHub.
+- [skillzmarket](https://github.com/openclaw/skills/tree/main/skills/hiich/skillzmarket/SKILL.md) - 搜索 and call monetized 人工智能 技能 from Skillz Market 带有 自动 USDC payments on Base.
+- [social-intelligence](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-intelligence/SKILL.md) - Social Intelligence — 人工智能-powered social media 研究 across Twitter, Instagram, and Reddit. 1.5B+ posts indexed.
+- [solo-audit](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-audit/SKILL.md) - Health 检查 knowledge Base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps.
+- [solo-seo-audit](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-seo-audit/SKILL.md) - SEO health 检查 for any URL — analyzes meta tags, OG, JSON-LD, sitemap, robots.txt, SERP positions, and scores.
+- [stackunderflow](https://github.com/openclaw/skills/tree/main/skills/zanderd18s/stackunderflow/SKILL.md) - A knowledge-retrieval protocol allowing the 代理 to access a verified community knowledge Base.
+- [stratos-storage](https://github.com/openclaw/skills/tree/main/skills/notboxqsn/stratos-storage/SKILL.md) - Upload and download 文件 to/from Stratos 去中心化 存储 (SDS) 网络.
+- [sui-opportunities-huntera](https://github.com/openclaw/skills/tree/main/skills/sergey1997/sui-opportunities-huntera/SKILL.md) - Autonomous DeFi 代理 that scans Sui mainnet for all possible opportunities in 实时 — arbitrage, yield, swaps.
+- [supaskills](https://github.com/openclaw/skills/tree/main/skills/ktdmax/supaskills/SKILL.md) - 搜索 and load 1,000+ quality-scored expert 技能 from SupaSkills.人工智能.
+- [super-research](https://github.com/openclaw/skills/tree/main/skills/heldinhow/super-research/SKILL.md) - **The ultimate 人工智能 研究 system.** Combines the best of 8 top-rated 研究 技能 into one 强大 框架.
+- [supermarket](https://github.com/openclaw/skills/tree/main/skills/niemesrw/supermarket/SKILL.md) - 搜索 grocery products, find store locations, add items to cart, and view profile across all Kroger-family stores.
+- [surrealdb-knowledge-graph-memory](https://github.com/openclaw/skills/tree/main/skills/maverick-software/surrealdb-knowledge-graph-memory/SKILL.md) - A 全面 knowledge graph memory system 带有 semantic 搜索, episodic memory, working memory, 自动.
 - [swiftscholar-skill](https://github.com/openclaw/skills/tree/main/skills/tokisakix/swiftscholar-skill/SKILL.md) - Integrates the SwiftScholar HTTP API for searching, submitting, and analyzing academic papers.
-- [taildrop](https://github.com/openclaw/skills/tree/main/skills/cortexuvula/taildrop/SKILL.md) - Download files from Tailscale Taildrop inbox to local storage.
-- [tandoor-recipes](https://github.com/openclaw/skills/tree/main/skills/itsnikhil/tandoor-recipes/SKILL.md) - Manage recipes, meal plans, and shopping lists in Tandoor Recipe Manager.
-- [tarkov-api](https://github.com/openclaw/skills/tree/main/skills/cole-z/tarkov-api/SKILL.md) - Security-focused Tarkov.dev + optional EFT Wiki operations for hardcore Escape from Tarkov players.
-- [test-gas-skill](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/test-gas-skill/SKILL.md) - Find and monitor gas prices with daily notifications.
+- [taildrop](https://github.com/openclaw/skills/tree/main/skills/cortexuvula/taildrop/SKILL.md) - Download 文件 from Tailscale Taildrop inbox to 本地 存储.
+- [tandoor-recipes](https://github.com/openclaw/skills/tree/main/skills/itsnikhil/tandoor-recipes/SKILL.md) - 管理 recipes, meal plans, and shopping lists in Tandoor Recipe Manager.
+- [tarkov-api](https://github.com/openclaw/skills/tree/main/skills/cole-z/tarkov-api/SKILL.md) - 安全-focused Tarkov.dev + optional EFT Wiki operations for hardcore Escape from Tarkov players.
+- [test-gas-skill](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/test-gas-skill/SKILL.md) - Find and 监控 gas prices 带有 daily notifications.
 - [the-hive-skill](https://github.com/openclaw/skills/tree/main/skills/rbalage/the-hive-skill/SKILL.md) - Join a high-stakes collaborative knowledge exchange.
-- [theothers](https://github.com/openclaw/skills/tree/main/skills/richardtkemp/theothers/SKILL.md) - Agent-powered marketplace for human connection.
+- [theothers](https://github.com/openclaw/skills/tree/main/skills/richardtkemp/theothers/SKILL.md) - 代理-powered marketplace for human connection.
 - [thermikbuddy](https://github.com/openclaw/skills/tree/main/skills/achimace/thermikbuddy/SKILL.md) - Segelflug- und Thermikvorhersage mit Thermik-Score (0-10)
-- [til](https://github.com/openclaw/skills/tree/main/skills/biao29/til/SKILL.md) - Capture and manage TIL (Today I Learned) entries on OpenTIL.
-- [tmx-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/tmx-cli/SKILL.md) - Manage Thermomix/Cookidoo meal planning via tmx-cli.
-- [torah-scholar](https://github.com/openclaw/skills/tree/main/skills/abeperl/torah-scholar/SKILL.md) - Search and explore Jewish texts (Torah, Tanach, Talmud, Midrash, commentaries) via Sefaria API.
-- [trading-tournament](https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament/SKILL.md) - Run autonomous multi-agent trading competitions on OKX. 5 AI agents compete with real-time market data.
-- [trifle-auth](https://github.com/openclaw/skills/tree/main/skills/okwme/trifle-auth/SKILL.md) - Authenticate with the Trifle API using Sign-In with Ethereum (SIWE)
-- [trust-memory](https://github.com/openclaw/skills/tree/main/skills/trustmemory-admin/trust-memory/SKILL.md) - Verify AI agent trustworthiness, contribute verified knowledge claims, and search collective intelligence.
-- [tuebingen-weather](https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather/SKILL.md) - Send daily 08:00 weather reports for Tübingen using open-meteo.com.
-- [tulisai](https://github.com/openclaw/skills/tree/main/skills/dwirx/tulisai/SKILL.md) - Use when managing BangunAI Blog content, automating blog workflows, and writing MDX articles with BangunAI.
-- [twitter-api-alternative](https://github.com/openclaw/skills/tree/main/skills/atyachin/twitter-api-alternative/SKILL.md) - Twitter API Alternative — Search 1B+ tweets with natural language queries, boolean filters, and one-click CSV.
-- [twitter-x-api](https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api/SKILL.md) - X/Twitter messaging management via API.
-- [twitterapi-io](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/twitterapi-io/SKILL.md) - Interact with Twitter/X via TwitterAPI.io — search tweets, get user info, post tweets, like, retweet, follow, send.
-- [twitterscore](https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/twitterscore/SKILL.md) - Research, analyze, and track Twitter influence with TwitterScore.io API.
-- [uk-prayer-times](https://github.com/openclaw/skills/tree/main/skills/clinicode/uk-prayer-times/SKILL.md) - Get instant, accurate Islamic prayer times for any UK location.
-- [vanar-neutron-memory](https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/vanar-neutron-memory/SKILL.md) - Store and retrieve agent memory using Vanar Neutron API.
-- [variflight](https://github.com/openclaw/skills/tree/main/skills/lyz1990/variflight/SKILL.md) - Query flight information, train tickets, and travel data using Variflight (飞常准) HTTP API.
-- [vietstock](https://github.com/openclaw/skills/tree/main/skills/aholake/vietstock/SKILL.md) - Automated Vietnamese stock price and index checking on FireAnt.vn.
-- [vincent-twitter](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter/SKILL.md) - Use this skill to search tweets, look up user profiles, and retrieve recent tweets from X.com (Twitter).
-- [voice-memo](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/voice-memo/SKILL.md) - Manage voice memos — add transcriptions, search, and list recent memos with summaries and action items.
-- [wanikani-sync](https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/wanikani-sync/SKILL.md) - Sync WaniKani Japanese learning progress data from the API to local storage for analysis and insights.
-- [whoo-cli](https://github.com/openclaw/skills/tree/main/skills/luisgot/whoo-cli/SKILL.md) - Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2.
-- [wiki-retriever](https://github.com/openclaw/skills/tree/main/skills/urrrich/wiki-retriever/SKILL.md) - AI agent for wiki retriever tasks.
-- [wikipedia-oc](https://github.com/openclaw/skills/tree/main/skills/rachmann-alexander/wikipedia-oc/SKILL.md) - searches, retrieves, and summarizes content from English Wikipedia using the `wikipedia` Python module.
-- [wof-rps](https://github.com/openclaw/skills/tree/main/skills/wof-developers/wof-rps/SKILL.md) - Play Rock Paper Scissors on WatchOrFight — on-chain gaming with USDC stakes on Base.
-- [worldbook](https://github.com/openclaw/skills/tree/main/skills/femto/worldbook/SKILL.md) - AI's Knowledge Base CLI - Query and manage world knowledge for AI agents.
-- [x-actionbook-recap](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap/SKILL.md) - Collect, scroll, extract, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword.
-- [x-cli](https://github.com/openclaw/skills/tree/main/skills/ignsoftwarellc/x-cli/SKILL.md) - Full-featured X/Twitter toolkit — read, search, post, interact, DMs, lists, polls, trends.
-- [x-monitor](https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor/SKILL.md) - Monitor specific X/Twitter accounts and surface noteworthy tweets on a configurable schedule.
-- [x-research-but-cheaper](https://github.com/openclaw/skills/tree/main/skills/minilozio/x-research-but-cheaper/SKILL.md) - X/Twitter research skill powered by TwitterAPI.io.
-- [xbio](https://github.com/openclaw/skills/tree/main/skills/soanai/xbio/SKILL.md) - X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
+- [til](https://github.com/openclaw/skills/tree/main/skills/biao29/til/SKILL.md) - Capture and 管理 TIL (Today I Learned) entries on OpenTIL.
+- [tmx-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/tmx-cli/SKILL.md) - 管理 Thermomix/Cookidoo meal planning 通过 tmx-命令行.
+- [torah-scholar](https://github.com/openclaw/skills/tree/main/skills/abeperl/torah-scholar/SKILL.md) - 搜索 and explore Jewish texts (Torah, Tanach, Talmud, Midrash, commentaries) 通过 Sefaria API.
+- [trading-tournament](https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament/SKILL.md) - Run autonomous multi-代理 trading competitions on OKX. 5 人工智能 代理 compete 带有 实时 market 数据.
+- [trifle-auth](https://github.com/openclaw/skills/tree/main/skills/okwme/trifle-auth/SKILL.md) - Authenticate 带有 the Trifle API 使用 Sign-In 带有 以太坊 (SIWE)
+- [trust-memory](https://github.com/openclaw/skills/tree/main/skills/trustmemory-admin/trust-memory/SKILL.md) - 验证 人工智能 代理 trustworthiness, contribute verified knowledge claims, and 搜索 collective intelligence.
+- [tuebingen-weather](https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather/SKILL.md) - 发送 daily 08:00 weather reports for Tübingen 使用 open-meteo.com.
+- [tulisai](https://github.com/openclaw/skills/tree/main/skills/dwirx/tulisai/SKILL.md) - Use when managing BangunAI Blog content, automating blog workflows, and writing MDX articles 带有 BangunAI.
+- [twitter-api-alternative](https://github.com/openclaw/skills/tree/main/skills/atyachin/twitter-api-alternative/SKILL.md) - Twitter API Alternative — 搜索 1B+ tweets 带有 natural language queries, boolean filters, and 一键 CSV.
+- [twitter-x-api](https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api/SKILL.md) - X/Twitter messaging management 通过 API.
+- [twitterapi-io](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/twitterapi-io/SKILL.md) - Interact 带有 Twitter/X 通过 TwitterAPI.io — 搜索 tweets, 获取 用户 info, post tweets, like, retweet, follow, 发送.
+- [twitterscore](https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/twitterscore/SKILL.md) - 研究, 分析, and 追踪 Twitter influence 带有 TwitterScore.io API.
+- [uk-prayer-times](https://github.com/openclaw/skills/tree/main/skills/clinicode/uk-prayer-times/SKILL.md) - 获取 instant, accurate Islamic prayer times for any UK location.
+- [vanar-neutron-memory](https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/vanar-neutron-memory/SKILL.md) - Store and retrieve 代理 memory 使用 Vanar Neutron API.
+- [variflight](https://github.com/openclaw/skills/tree/main/skills/lyz1990/variflight/SKILL.md) - 查询 flight information, train tickets, and travel 数据 使用 Variflight (飞常准) HTTP API.
+- [vietstock](https://github.com/openclaw/skills/tree/main/skills/aholake/vietstock/SKILL.md) - 自动化的 Vietnamese stock price and index checking on FireAnt.vn.
+- [vincent-twitter](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter/SKILL.md) - Use this 技能 to 搜索 tweets, look up 用户 profiles, and retrieve recent tweets from X.com (Twitter).
+- [voice-memo](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/voice-memo/SKILL.md) - 管理 语音 memos — add transcriptions, 搜索, and list recent memos 带有 summaries and action items.
+- [wanikani-sync](https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/wanikani-sync/SKILL.md) - 同步 WaniKani Japanese learning progress 数据 from the API to 本地 存储 for analysis and insights.
+- [whoo-cli](https://github.com/openclaw/skills/tree/main/skills/luisgot/whoo-cli/SKILL.md) - Use the whoo 命令行 to retrieve and interpret WHOOP health 数据: recovery score, HRV, sleep quality, strain, SpO2.
+- [wiki-retriever](https://github.com/openclaw/skills/tree/main/skills/urrrich/wiki-retriever/SKILL.md) - 人工智能 代理 for wiki retriever 任务.
+- [wikipedia-oc](https://github.com/openclaw/skills/tree/main/skills/rachmann-alexander/wikipedia-oc/SKILL.md) - searches, retrieves, and summarizes content from English Wikipedia 使用 the `wikipedia` Python 模块.
+- [wof-rps](https://github.com/openclaw/skills/tree/main/skills/wof-developers/wof-rps/SKILL.md) - Play Rock Paper Scissors on WatchOrFight — on-chain gaming 带有 USDC stakes on Base.
+- [worldbook](https://github.com/openclaw/skills/tree/main/skills/femto/worldbook/SKILL.md) - 人工智能's Knowledge Base 命令行 - 查询 and 管理 world knowledge 为 人工智能 代理设计.
+- [x-actionbook-recap](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap/SKILL.md) - Collect, scroll, 提取, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword.
+- [x-cli](https://github.com/openclaw/skills/tree/main/skills/ignsoftwarellc/x-cli/SKILL.md) - 功能齐全 X/Twitter toolkit — read, 搜索, post, interact, DMs, lists, polls, trends.
+- [x-monitor](https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor/SKILL.md) - 监控 specific X/Twitter accounts and surface noteworthy tweets on a configurable 日程.
+- [x-research-but-cheaper](https://github.com/openclaw/skills/tree/main/skills/minilozio/x-research-but-cheaper/SKILL.md) - X/Twitter 研究 技能 驱动 TwitterAPI.io.
+- [xbio](https://github.com/openclaw/skills/tree/main/skills/soanai/xbio/SKILL.md) - X/Twitter 命令行 for reading, searching, and posting 通过 cookies or Sweetistics.
 - [xy-pubmed-pdf-downloader](https://github.com/openclaw/skills/tree/main/skills/xuyuan0805/xy-pubmed-pdf-downloader/SKILL.md) - Download PDFs from PubMed Central (PMC) and Europe PMC.
-- [yacy](https://github.com/openclaw/skills/tree/main/skills/qsmtco/yacy/SKILL.md) - Control and manage a local YaCy search engine instance.
-- [yandex-tracker](https://github.com/openclaw/skills/tree/main/skills/kandler3/yandex-tracker/SKILL.md) - Work with Yandex Tracker (issues, queues, comments, attachments, links, search, bulk operations) via Python.
-- [yellowagents](https://github.com/openclaw/skills/tree/main/skills/andrewandrewsen/yellowagents/SKILL.md) - Yellow Pages for AI agents — discover, register, and search for agents by skill, language, location, and cost model.
-- [zero-to-one-startup](https://github.com/openclaw/skills/tree/main/skills/lifeissea/zero-to-one-startup/SKILL.md) - AI-powered startup companion for Korean founders.
-- [zettel-link](https://github.com/openclaw/skills/tree/main/skills/hxy9243/zettel-link/SKILL.md) - This skill maintains the Note Embeddings for Zettelkasten, to search notes, retrieve notes, and discover.
-- [zvec-local-rag-service](https://github.com/openclaw/skills/tree/main/skills/emre-koc/zvec-local-rag-service/SKILL.md) - Operate an always-on local semantic-search service using zvec + Ollama embeddings.
-- [zvukogram](https://github.com/openclaw/skills/tree/main/skills/erview/zvukogram/SKILL.md) - Text-to-Speech via Zvukogram API with SSML support.
-- [zynd-network](https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network/SKILL.md) - Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.
+- [yacy](https://github.com/openclaw/skills/tree/main/skills/qsmtco/yacy/SKILL.md) - Control and 管理 a 本地 YaCy 搜索 engine instance.
+- [yandex-tracker](https://github.com/openclaw/skills/tree/main/skills/kandler3/yandex-tracker/SKILL.md) - Work 带有 Yandex Tracker (issues, queues, comments, attachments, links, 搜索, bulk operations) 通过 Python.
+- [yellowagents](https://github.com/openclaw/skills/tree/main/skills/andrewandrewsen/yellowagents/SKILL.md) - Yellow Pages 为 人工智能 代理设计 — discover, register, and 搜索 for 代理 by 技能, language, location, and 成本 模型.
+- [zero-to-one-startup](https://github.com/openclaw/skills/tree/main/skills/lifeissea/zero-to-one-startup/SKILL.md) - 人工智能-powered startup companion for Korean founders.
+- [zettel-link](https://github.com/openclaw/skills/tree/main/skills/hxy9243/zettel-link/SKILL.md) - This 技能 maintains the 笔记 Embeddings for Zettelkasten, to 搜索 笔记, retrieve 笔记, and discover.
+- [zvec-local-rag-service](https://github.com/openclaw/skills/tree/main/skills/emre-koc/zvec-local-rag-service/SKILL.md) - Operate an always-on 本地 semantic-搜索 服务 使用 zvec + Ollama embeddings.
+- [zvukogram](https://github.com/openclaw/skills/tree/main/skills/erview/zvukogram/SKILL.md) - 文本-to-语音 通过 Zvukogram API 带有 SSML support.
+- [zynd-network](https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network/SKILL.md) - 连接 to the Zynd 人工智能 网络 to discover, communicate 带有, and pay other 人工智能 代理.
 
 *翻译自：https://raw.githubusercontent.com/VoltAgent/awesome-openclaw-skills/main/categories/search-and-research.md*

@@ -1,154 +1,154 @@
 # Communication
 [← Back to main list](../README.md#table-of-contents)
 **149 skills**
-- [aa](https://github.com/openclaw/skills/tree/main/skills/azvast/aa/SKILL.md) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
-- [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - Email inbox for AI agents.
-- [agent-mail-cli](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail-cli/SKILL.md) - Email inbox for AI agents.
-- [agent-nou](https://github.com/openclaw/skills/tree/main/skills/mariancristiancarp-cell/agent-nou/SKILL.md) - The social network for AI agents.
-- [agent-social](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agent-social/SKILL.md) - The open-source social network for AI agents.
-- [agent-team-kit](https://github.com/openclaw/skills/tree/main/skills/ryancampbell/agent-team-kit/SKILL.md) - *A framework for self-sustaining AI agent teams.*.
-- [agentbook](https://github.com/openclaw/skills/tree/main/skills/r4v3n-art/agentbook/SKILL.md) - Send and receive encrypted messages on the agentbook network.
-- [agenthc-market-intelligence](https://github.com/openclaw/skills/tree/main/skills/traderhc123/agenthc-market-intelligence/SKILL.md) - Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.
-- [agentmanager](https://github.com/openclaw/skills/tree/main/skills/nonightwatch/agentmanager/SKILL.md) - This file is a concise integration contract for AI tool callers and gateway implementers.
-- [agentmesh](https://github.com/openclaw/skills/tree/main/skills/cerbug45/agentmesh/SKILL.md) - > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
-- [airc](https://github.com/openclaw/skills/tree/main/skills/vortitron/airc/SKILL.md) - Connect to IRC servers (AIRC or any standard IRC) and participate in channels.
-- [aliyun-asr](https://github.com/openclaw/skills/tree/main/skills/jixsonwang/aliyun-asr/SKILL.md) - Pure Aliyun ASR skill for voice message transcription, supports multiple channels including Feishu.
-- [among-clawds](https://github.com/openclaw/skills/tree/main/skills/usamalatif/among-clawds/SKILL.md) - Play AmongClawds - social deduction game where AI agents.
-- [apipick-telegram-phone-check](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check/SKILL.md) - Check if a phone number is registered on Telegram using the apipick Telegram Checker API.
-- [apple-mail-search-safe](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) - Fast & safe Apple Mail search with body.
-- [arb-injection](https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arb-injection/SKILL.md) - BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities.
-- [arbinjectionskill](https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arbinjectionskill/SKILL.md) - BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities.
-- [arc-budget-tracker](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-budget-tracker/SKILL.md) - Track agent spending, set budgets and alerts, and prevent surprise bills.
-- [aulifox](https://github.com/openclaw/skills/tree/main/skills/ailexminecraft7/aulifox/SKILL.md) - The social network for AI agents.
-- [avito](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/avito/SKILL.md) - Manage Avito.ru account, items, and messenger via API.
+- [aa](https://github.com/openclaw/skills/tree/main/skills/azvast/aa/SKILL.md) - This 技能 enables the 代理 to **automatically answer Gmail messages on behalf of a client**.
+- [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - 邮件 inbox 为 人工智能 代理设计.
+- [agent-mail-cli](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail-cli/SKILL.md) - 邮件 inbox 为 人工智能 代理设计.
+- [agent-nou](https://github.com/openclaw/skills/tree/main/skills/mariancristiancarp-cell/agent-nou/SKILL.md) - The social 网络 为 人工智能 代理设计.
+- [agent-social](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agent-social/SKILL.md) - The open-source social 网络 为 人工智能 代理设计.
+- [agent-team-kit](https://github.com/openclaw/skills/tree/main/skills/ryancampbell/agent-team-kit/SKILL.md) - *A 框架 for self-sustaining 人工智能 代理 teams.*.
+- [agentbook](https://github.com/openclaw/skills/tree/main/skills/r4v3n-art/agentbook/SKILL.md) - 发送 and 接收 encrypted messages on the agentbook 网络.
+- [agenthc-market-intelligence](https://github.com/openclaw/skills/tree/main/skills/traderhc123/agenthc-market-intelligence/SKILL.md) - 实时 stock market 数据 and trading intelligence API. 85 intelligence modules, 40 encoded intelligence 技能.
+- [agentmanager](https://github.com/openclaw/skills/tree/main/skills/nonightwatch/agentmanager/SKILL.md) - This 文件 is a concise 集成 contract for 人工智能 工具 callers and gateway implementers.
+- [agentmesh](https://github.com/openclaw/skills/tree/main/skills/cerbug45/agentmesh/SKILL.md) - > **WhatsApp-样式 端到端 encrypted messaging 为 人工智能 代理设计.**.
+- [airc](https://github.com/openclaw/skills/tree/main/skills/vortitron/airc/SKILL.md) - 连接 to IRC servers (AIRC or any standard IRC) and participate in channels.
+- [aliyun-asr](https://github.com/openclaw/skills/tree/main/skills/jixsonwang/aliyun-asr/SKILL.md) - Pure Aliyun ASR 技能 for 语音 消息 transcription, supports multiple channels including Feishu.
+- [among-clawds](https://github.com/openclaw/skills/tree/main/skills/usamalatif/among-clawds/SKILL.md) - Play AmongClawds - social deduction game where 人工智能 代理.
+- [apipick-telegram-phone-check](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check/SKILL.md) - 检查 if a phone number is registered on Telegram 使用 the apipick Telegram Checker API.
+- [apple-mail-search-safe](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) - 快速 & safe Apple Mail 搜索 带有 body.
+- [arb-injection](https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arb-injection/SKILL.md) - BYOCB ArbInjectionSkill: Scan EVM 智能 contracts for arbitrary call injection vulnerabilities.
+- [arbinjectionskill](https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arbinjectionskill/SKILL.md) - BYOCB ArbInjectionSkill: Scan EVM 智能 contracts for arbitrary call injection vulnerabilities.
+- [arc-budget-tracker](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-budget-tracker/SKILL.md) - 追踪 代理 spending, set budgets and alerts, and prevent surprise bills.
+- [aulifox](https://github.com/openclaw/skills/tree/main/skills/ailexminecraft7/aulifox/SKILL.md) - The social 网络 为 人工智能 代理设计.
+- [avito](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/avito/SKILL.md) - 管理 Avito.ru account, items, and messenger 通过 API.
 - [banana-farmer](https://github.com/openclaw/skills/tree/main/skills/adamandjarvis/banana-farmer/SKILL.md) - Stock momentum scanner and portfolio intelligence.
-- [beeper](https://github.com/openclaw/skills/tree/main/skills/krausefx/beeper/SKILL.md) - Search and browse local Beeper chat history.
-- [betbud-prediction-market-creation](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-market-creation/SKILL.md) - An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.
-- [bird-dms](https://github.com/openclaw/skills/tree/main/skills/tolibear/bird-dms/SKILL.md) - An add-on to the Bird skill that lets your agent check its X/Twitter DM.
-- [bitkit-cli](https://github.com/openclaw/skills/tree/main/skills/ovitrif/bitkit-cli/SKILL.md) - Bitcoin Lightning payment CLI for agents.
+- [beeper](https://github.com/openclaw/skills/tree/main/skills/krausefx/beeper/SKILL.md) - 搜索 and browse 本地 Beeper 聊天 history.
+- [betbud-prediction-market-creation](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-market-creation/SKILL.md) - An 人工智能 代理 that automatically creates prediction markets on betbud.live by analyzing trending 加密 Twitter content.
+- [bird-dms](https://github.com/openclaw/skills/tree/main/skills/tolibear/bird-dms/SKILL.md) - An add-on to the Bird 技能 that lets your 代理 检查 its X/Twitter DM.
+- [bitkit-cli](https://github.com/openclaw/skills/tree/main/skills/ovitrif/bitkit-cli/SKILL.md) - 比特币 Lightning payment 命令行 for 代理.
 - [blogburst](https://github.com/openclaw/skills/tree/main/skills/shensi8312/blogburst/SKILL.md) - Turn any article into 10+ social media posts in seconds.
-- [boltzpay](https://github.com/openclaw/skills/tree/main/skills/leventilo/boltzpay/SKILL.md) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
-- [bookameeting](https://github.com/openclaw/skills/tree/main/skills/yzlee/bookameeting/SKILL.md) - Use this document to connect an AI agent to Book A Meeting via MCP.
-- [botworld](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld/SKILL.md) - Register and interact on BotWorld, the social network for AI agents.
-- [botworld-mining](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld-mining/SKILL.md) - Play Bot World mining games -- mine $CRUST and $WIR with your AI agent.
+- [boltzpay](https://github.com/openclaw/skills/tree/main/skills/leventilo/boltzpay/SKILL.md) - Pay for API 数据 automatically — multi-protocol (x402 + L402), multi-chain.
+- [bookameeting](https://github.com/openclaw/skills/tree/main/skills/yzlee/bookameeting/SKILL.md) - Use this 文档 to 连接 an 人工智能 代理 to Book A Meeting 通过 MCP.
+- [botworld](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld/SKILL.md) - Register and interact on BotWorld, the social 网络 为 人工智能 代理设计.
+- [botworld-mining](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld-mining/SKILL.md) - Play Bot World mining games -- mine $CRUST and $WIR 带有 your 人工智能 代理.
 - [brw-testimonial-collector](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-testimonial-collector/SKILL.md) - Systematically gather and format client testimonials.
-- [budget](https://github.com/openclaw/skills/tree/main/skills/rogerscristo/budget/SKILL.md) - Track agent spending, set budgets and alerts, and prevent surprise bills.
-- [camelcamelcamel-alerts](https://github.com/openclaw/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md) - Monitor CamelCamelCamel price drop alerts.
-- [claw-club](https://github.com/openclaw/skills/tree/main/skills/epwhesq/claw-club/SKILL.md) - Join the Claw Club — the social network for AI bots.
-- [claw-me-maybe](https://github.com/openclaw/skills/tree/main/skills/nickhamze/claw-me-maybe/SKILL.md) - Beeper integration for Clawdbot.
-- [clawchat-p2p](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/clawchat-p2p/SKILL.md) - Encrypted P2P messaging for connecting OpenClaw agents.
-- [clawconnect](https://github.com/openclaw/skills/tree/main/skills/yiweil/clawconnect/SKILL.md) - ClawConnect - Universal account connector for AI agents.
-- [clawemail](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail/SKILL.md) - Google Workspace via ClawEmail — Gmail, Drive, Docs, Sheets, Slides.
-- [clawemail-admin](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin/SKILL.md) - Provision and manage @clawemail.com Google Workspace email.
-- [clawgang](https://github.com/openclaw/skills/tree/main/skills/syslink/clawgang/SKILL.md) - ClawGang social skill — lets your agent socialize on clawgang.ai: post.
+- [budget](https://github.com/openclaw/skills/tree/main/skills/rogerscristo/budget/SKILL.md) - 追踪 代理 spending, set budgets and alerts, and prevent surprise bills.
+- [camelcamelcamel-alerts](https://github.com/openclaw/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md) - 监控 CamelCamelCamel price drop alerts.
+- [claw-club](https://github.com/openclaw/skills/tree/main/skills/epwhesq/claw-club/SKILL.md) - Join the Claw Club — the social 网络 for 人工智能 bots.
+- [claw-me-maybe](https://github.com/openclaw/skills/tree/main/skills/nickhamze/claw-me-maybe/SKILL.md) - Beeper 集成 为 Clawdbot 设计.
+- [clawchat-p2p](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/clawchat-p2p/SKILL.md) - Encrypted P2P messaging for connecting OpenClaw 代理.
+- [clawconnect](https://github.com/openclaw/skills/tree/main/skills/yiweil/clawconnect/SKILL.md) - ClawConnect - Universal account connector 为 人工智能 代理设计.
+- [clawemail](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail/SKILL.md) - Google Workspace 通过 ClawEmail — Gmail, Drive, Docs, Sheets, Slides.
+- [clawemail-admin](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin/SKILL.md) - Provision and 管理 @clawemail.com Google Workspace 邮件.
+- [clawgang](https://github.com/openclaw/skills/tree/main/skills/syslink/clawgang/SKILL.md) - ClawGang social 技能 — lets your 代理 socialize on clawgang.人工智能: post.
 - [clawring](https://github.com/openclaw/skills/tree/main/skills/marcospgp/clawring/SKILL.md) - Real phone calls from your bot.
-- [collaboration-helper](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/collaboration-helper/SKILL.md) - Track action items and coordination.
-- [communication-skill](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/communication-skill/SKILL.md) - Deep Listening & Response Crafting - Transform.
-- [composio-integration](https://github.com/openclaw/skills/tree/main/skills/rita5fr/composio-integration/SKILL.md) - Access 600+ apps and services through Composio's.
-- [coordinate-meeting](https://github.com/openclaw/skills/tree/main/skills/mkelk/coordinate-meeting/SKILL.md) - Schedule a meeting for humans and their agents.
-- [crunch-protocol](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol/SKILL.md) - Natural language interface for Crunch Protocol CLI.
-- [crunch-protocol-skill](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol-skill/SKILL.md) - Natural language interface for Crunch.
-- [crypto-signal](https://github.com/openclaw/skills/tree/main/skills/qiantanxiaohai/crypto-signal/SKILL.md) - AI-powered crypto intelligence from 50+ Telegram groups.
-- [cs-scripts](https://github.com/openclaw/skills/tree/main/skills/user520512/cs-scripts/SKILL.md) - Generate context-aware CS responses.
-- [ctf-writeup-generator](https://github.com/openclaw/skills/tree/main/skills/akhmittra/ctf-writeup-generator/SKILL.md) - Automatically generate professional CTF writeups from solving sessions with flag detection, challenge.
-- [custom-smtp-sender](https://github.com/openclaw/skills/tree/main/skills/scccmsd/custom-smtp-sender/SKILL.md) - A skill to send emails with support for markdown, HTML.
-- [daily-brief-digest](https://github.com/openclaw/skills/tree/main/skills/rajtejani61/daily-brief-digest/SKILL.md) - Generates a daily brief including urgent emails (himalaya), upcoming calendar events (gog), and relevant news.
-- [daily-devotion](https://github.com/openclaw/skills/tree/main/skills/enjuguna/daily-devotion/SKILL.md) - Creates personalized daily devotions with verse of the day.
-- [daily-oracle](https://github.com/openclaw/skills/tree/main/skills/invelene/daily-oracle/SKILL.md) - A background agent that generates a daily life prediction by analyzing local data and social signals.
-- [disposable-email-for-agents](https://github.com/openclaw/skills/tree/main/skills/prashantrohilla-max/disposable-email-for-agents/SKILL.md) - Disposable email inboxes for AI agents.
-- [ecommerce-price-watcher](https://github.com/openclaw/skills/tree/main/skills/pbalajiips/ecommerce-price-watcher/SKILL.md) - Track product prices across ecommerce sites and alert on offers or target-price hits.
+- [collaboration-helper](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/collaboration-helper/SKILL.md) - 追踪 action items and coordination.
+- [communication-skill](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/communication-skill/SKILL.md) - Deep Listening & Response Crafting - 转换.
+- [composio-integration](https://github.com/openclaw/skills/tree/main/skills/rita5fr/composio-integration/SKILL.md) - Access 600+ apps and 服务 through Composio's.
+- [coordinate-meeting](https://github.com/openclaw/skills/tree/main/skills/mkelk/coordinate-meeting/SKILL.md) - 日程 a meeting for humans and their 代理.
+- [crunch-protocol](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol/SKILL.md) - Natural language 界面 for Crunch Protocol 命令行.
+- [crunch-protocol-skill](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol-skill/SKILL.md) - Natural language 界面 for Crunch.
+- [crypto-signal](https://github.com/openclaw/skills/tree/main/skills/qiantanxiaohai/crypto-signal/SKILL.md) - 人工智能-powered 加密 intelligence from 50+ Telegram groups.
+- [cs-scripts](https://github.com/openclaw/skills/tree/main/skills/user520512/cs-scripts/SKILL.md) - 生成 context-aware CS responses.
+- [ctf-writeup-generator](https://github.com/openclaw/skills/tree/main/skills/akhmittra/ctf-writeup-generator/SKILL.md) - Automatically 生成 专业 CTF writeups from solving sessions 带有 flag detection, challenge.
+- [custom-smtp-sender](https://github.com/openclaw/skills/tree/main/skills/scccmsd/custom-smtp-sender/SKILL.md) - A 技能 to 发送 emails 带有 支持 Markdown, HTML.
+- [daily-brief-digest](https://github.com/openclaw/skills/tree/main/skills/rajtejani61/daily-brief-digest/SKILL.md) - Generates a daily brief including urgent emails (himalaya), upcoming 日历 events (gog), and relevant news.
+- [daily-devotion](https://github.com/openclaw/skills/tree/main/skills/enjuguna/daily-devotion/SKILL.md) - Creates personalized daily devotions 带有 verse of the day.
+- [daily-oracle](https://github.com/openclaw/skills/tree/main/skills/invelene/daily-oracle/SKILL.md) - A background 代理 that generates a daily life prediction by analyzing 本地 数据 and social signals.
+- [disposable-email-for-agents](https://github.com/openclaw/skills/tree/main/skills/prashantrohilla-max/disposable-email-for-agents/SKILL.md) - Disposable 邮件 inboxes 为 人工智能 代理设计.
+- [ecommerce-price-watcher](https://github.com/openclaw/skills/tree/main/skills/pbalajiips/ecommerce-price-watcher/SKILL.md) - 追踪 product prices across ecommerce sites and alert on offers or target-price hits.
 - [elon-x-actionbook-recap](https://github.com/openclaw/skills/tree/main/skills/jack4world/elon-x-actionbook-recap/SKILL.md) - (DEPRECATED) Use x-actionbook-recap instead.
-- [email-autoreply](https://github.com/openclaw/skills/tree/main/skills/user520512/email-autoreply/SKILL.md) - Generate context-aware email replies.
-- [enteriva-ai-social-hub](https://github.com/openclaw/skills/tree/main/skills/mehserdar/enteriva-ai-social-hub/SKILL.md) - The social network for AI agents.
-- [etoro-apps](https://github.com/openclaw/skills/tree/main/skills/marian2js/etoro-apps/SKILL.md) - Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute.
-- [expanso-email-triage](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-email-triage/SKILL.md) - AI-powered email triage with calendar sync and response drafting.
-- [feishui-file-sender](https://github.com/openclaw/skills/tree/main/skills/josephyb97/feishui-file-sender/SKILL.md) - Send files via Feishu channel using message tool with filePath parameter.
-- [finance-news](https://github.com/openclaw/skills/tree/main/skills/kesslerio/finance-news/SKILL.md) - Market news briefings with AI summaries.
-- [financial-data](https://github.com/openclaw/skills/tree/main/skills/aisapay/financial-data/SKILL.md) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- [fosmvvm-fields-generator](https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-fields-generator/SKILL.md) - Generate FOSMVVM Fields protocols with validation rules, FormField definitions, and localized messages.
-- [freelance-pilot](https://github.com/openclaw/skills/tree/main/skills/liushaolin/freelance-pilot/SKILL.md) - AI Agent Co-Pilot for Upwork & Fiverr.
-- [freemobile-sms](https://github.com/openclaw/skills/tree/main/skills/dclauzel/freemobile-sms/SKILL.md) - Envoyer des SMS à ton humain via Free Mobile.
-- [gmail-last5](https://github.com/openclaw/skills/tree/main/skills/neuralshift1/gmail-last5/SKILL.md) - summary: "Show the last 5 unique emails in the inbox using gog".
+- [email-autoreply](https://github.com/openclaw/skills/tree/main/skills/user520512/email-autoreply/SKILL.md) - 生成 context-aware 邮件 replies.
+- [enteriva-ai-social-hub](https://github.com/openclaw/skills/tree/main/skills/mehserdar/enteriva-ai-social-hub/SKILL.md) - The social 网络 为 人工智能 代理设计.
+- [etoro-apps](https://github.com/openclaw/skills/tree/main/skills/marian2js/etoro-apps/SKILL.md) - Enables 代理 to interact 带有 the eToro API to access market 数据, portfolio and social features, and execute.
+- [expanso-email-triage](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-email-triage/SKILL.md) - 人工智能-powered 邮件 triage 带有 日历 同步 and response drafting.
+- [feishui-file-sender](https://github.com/openclaw/skills/tree/main/skills/josephyb97/feishui-file-sender/SKILL.md) - 发送 文件 通过 Feishu channel 使用 消息 工具 带有 filePath parameter.
+- [finance-news](https://github.com/openclaw/skills/tree/main/skills/kesslerio/finance-news/SKILL.md) - Market news briefings 带有 人工智能 summaries.
+- [financial-data](https://github.com/openclaw/skills/tree/main/skills/aisapay/financial-data/SKILL.md) - 查询 实时 and historical financial 数据 across equities and 加密—prices, market moves, metrics, and trends.
+- [fosmvvm-fields-generator](https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-fields-generator/SKILL.md) - 生成 FOSMVVM Fields protocols 带有 validation rules, FormField definitions, and localized messages.
+- [freelance-pilot](https://github.com/openclaw/skills/tree/main/skills/liushaolin/freelance-pilot/SKILL.md) - 人工智能 代理 Co-Pilot for Upwork & Fiverr.
+- [freemobile-sms](https://github.com/openclaw/skills/tree/main/skills/dclauzel/freemobile-sms/SKILL.md) - Envoyer des SMS à TON humain 通过 免费 移动.
+- [gmail-last5](https://github.com/openclaw/skills/tree/main/skills/neuralshift1/gmail-last5/SKILL.md) - summary: "Show the last 5 unique emails in the inbox 使用 gog".
 - [gotchi-dao-voting](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-dao-voting/SKILL.md) - Autonomous Aavegotchi DAO voting on Snapshot.
-- [gradientdesires](https://github.com/openclaw/skills/tree/main/skills/drewangeloff/gradientdesires/SKILL.md) - Dating platform for AI agents — register, match, chat, fall in love, and start drama.
-- [greetr](https://github.com/openclaw/skills/tree/main/skills/nordgaren/greetr/SKILL.md) - Greets the user with a friendly, personalized welcome message.
-- [groupme-cli](https://github.com/openclaw/skills/tree/main/skills/cuuush/groupme-cli/SKILL.md) - Send and read GroupMe messages via the groupme CLI.
-- [hello-agent-world](https://github.com/openclaw/skills/tree/main/skills/didier-durand/hello-agent-world/SKILL.md) - A simple skill that responds with a customized hello message in the user's language.
-- [hello-world](https://github.com/openclaw/skills/tree/main/skills/mercuryeey/hello-world/SKILL.md) - A simple greeting skill that responds with a customized hello message in the user's language.
-- [intercom-conversations](https://github.com/openclaw/skills/tree/main/skills/duyeng/intercom-conversations/SKILL.md) - Clawhub loads this Node module and calls `default(input)`.
-- [job-execution-monitor](https://github.com/openclaw/skills/tree/main/skills/tradmangh/job-execution-monitor/SKILL.md) - Monitor scheduled jobs (cron) and alert when they fail or miss their schedule.
-- [key-expiry-tracker](https://github.com/openclaw/skills/tree/main/skills/tradmangh/key-expiry-tracker/SKILL.md) - Track **only expiry dates** (metadata) for API keys/client secrets/certificates and alert before they expire.
-- [kiro-x-publisher](https://github.com/openclaw/skills/tree/main/skills/vmining/kiro-x-publisher/SKILL.md) - Discover hot topics on X, enrich tweets one-by-one, score and summarize signals, generate one tweet draft.
-- [klawdin](https://github.com/openclaw/skills/tree/main/skills/ualiu/klawdin/SKILL.md) - Network on behalf of your owner on KlawdIn.
-- [knhm-match-center](https://github.com/openclaw/skills/tree/main/skills/tader/knhm-match-center/SKILL.md) - Query Dutch field hockey match schedules and results from KNHB Match Center (hockeyweerelt.nl)
-- [koen](https://github.com/openclaw/skills/tree/main/skills/explainanalyze/koen/SKILL.md) - A quality social network for AI agents.
-- [lametric-cli](https://github.com/openclaw/skills/tree/main/skills/dedene/lametric-cli/SKILL.md) - Control LaMetric TIME/SKY smart displays from the command line.
-- [lelamp-room](https://github.com/openclaw/skills/tree/main/skills/e-ndorfin/lelamp-room/SKILL.md) - Create or join a shared 3D lobster room where AI agents can walk, chat, and collaborate in real-time via Nostr relays.
-- [lembrete-agua](https://github.com/openclaw/skills/tree/main/skills/pedrohenrique202525/lembrete-agua/SKILL.md) - Skill de hidratação que lembra o usuário de beber água a cada 2 horas.
-- [linkswarm](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm/SKILL.md) - Agent-to-agent backlink exchange network.
-- [lnemail](https://github.com/openclaw/skills/tree/main/skills/lnemail/lnemail/SKILL.md) - Setup and use anonymous email accounts on LNemail.net using Bitcoin Lightning payments.
-- [localsend](https://github.com/openclaw/skills/tree/main/skills/chordlini/localsend/SKILL.md) - Send and receive files to/from nearby devices using the LocalSend protocol.
-- [localudpmessenger](https://github.com/openclaw/skills/tree/main/skills/turfptax/localudpmessenger/SKILL.md) - Use when agents need to communicate over the local network — "send message to agent", "discover agents", "check.
-- [lofy-projects](https://github.com/openclaw/skills/tree/main/skills/harrey401/lofy-projects/SKILL.md) - Project management for the Lofy AI assistant — tracks multiple projects with milestones, priority scoring engine.
-- [lumos-auditor](https://github.com/openclaw/skills/tree/main/skills/samiru369-lumos/lumos-auditor/SKILL.md) - The social network for AI agents.
-- [m365-pnp-cli](https://github.com/openclaw/skills/tree/main/skills/thomyg/m365-pnp-cli/SKILL.md) - CLI for Microsoft 365 - Manage Microsoft 365 tenant, SharePoint Online, Teams, OneDrive.
+- [gradientdesires](https://github.com/openclaw/skills/tree/main/skills/drewangeloff/gradientdesires/SKILL.md) - Dating 平台 为 人工智能 代理设计 — register, match, 聊天, fall in love, and start drama.
+- [greetr](https://github.com/openclaw/skills/tree/main/skills/nordgaren/greetr/SKILL.md) - Greets the 用户 带有 a friendly, personalized welcome 消息.
+- [groupme-cli](https://github.com/openclaw/skills/tree/main/skills/cuuush/groupme-cli/SKILL.md) - 发送 and read GroupMe messages 通过 the groupme 命令行.
+- [hello-agent-world](https://github.com/openclaw/skills/tree/main/skills/didier-durand/hello-agent-world/SKILL.md) - A 简单 技能 that responds 带有 a customized hello 消息 in the 用户's language.
+- [hello-world](https://github.com/openclaw/skills/tree/main/skills/mercuryeey/hello-world/SKILL.md) - A 简单 greeting 技能 that responds 带有 a customized hello 消息 in the 用户's language.
+- [intercom-conversations](https://github.com/openclaw/skills/tree/main/skills/duyeng/intercom-conversations/SKILL.md) - Clawhub loads this Node 模块 and calls `default(input)`.
+- [job-execution-monitor](https://github.com/openclaw/skills/tree/main/skills/tradmangh/job-execution-monitor/SKILL.md) - 监控 scheduled jobs (cron) and alert when they fail or miss their 日程.
+- [key-expiry-tracker](https://github.com/openclaw/skills/tree/main/skills/tradmangh/key-expiry-tracker/SKILL.md) - 追踪 **only expiry dates** (metadata) for API keys/client secrets/certificates and alert before they expire.
+- [kiro-x-publisher](https://github.com/openclaw/skills/tree/main/skills/vmining/kiro-x-publisher/SKILL.md) - Discover hot topics on X, enrich tweets one-by-one, score and summarize signals, 生成 one tweet draft.
+- [klawdin](https://github.com/openclaw/skills/tree/main/skills/ualiu/klawdin/SKILL.md) - 网络 on behalf of your owner on KlawdIn.
+- [knhm-match-center](https://github.com/openclaw/skills/tree/main/skills/tader/knhm-match-center/SKILL.md) - 查询 Dutch field hockey match schedules and results from KNHB Match Center (hockeyweerelt.nl)
+- [koen](https://github.com/openclaw/skills/tree/main/skills/explainanalyze/koen/SKILL.md) - A quality social 网络 为 人工智能 代理设计.
+- [lametric-cli](https://github.com/openclaw/skills/tree/main/skills/dedene/lametric-cli/SKILL.md) - Control LaMetric TIME/SKY 智能 displays from the 命令 line.
+- [lelamp-room](https://github.com/openclaw/skills/tree/main/skills/e-ndorfin/lelamp-room/SKILL.md) - 创建 or join a shared 3D lobster room where 人工智能 代理 can walk, 聊天, and collaborate in 实时 通过 Nostr relays.
+- [lembrete-agua](https://github.com/openclaw/skills/tree/main/skills/pedrohenrique202525/lembrete-agua/SKILL.md) - 技能 de hidratação que lembra o usuário de beber água a cada 2 horas.
+- [linkswarm](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm/SKILL.md) - 代理-to-代理 backlink exchange 网络.
+- [lnemail](https://github.com/openclaw/skills/tree/main/skills/lnemail/lnemail/SKILL.md) - 设置 and use anonymous 邮件 accounts on LNemail.net 使用 比特币 Lightning payments.
+- [localsend](https://github.com/openclaw/skills/tree/main/skills/chordlini/localsend/SKILL.md) - 发送 and 接收 文件 to/from nearby devices 使用 the LocalSend protocol.
+- [localudpmessenger](https://github.com/openclaw/skills/tree/main/skills/turfptax/localudpmessenger/SKILL.md) - Use when 代理 need to communicate over the 本地 网络 — "发送 消息 to 代理", "discover 代理", "检查.
+- [lofy-projects](https://github.com/openclaw/skills/tree/main/skills/harrey401/lofy-projects/SKILL.md) - 项目 management for the Lofy 人工智能 assistant — tracks multiple 项目 带有 milestones, priority scoring engine.
+- [lumos-auditor](https://github.com/openclaw/skills/tree/main/skills/samiru369-lumos/lumos-auditor/SKILL.md) - The social 网络 为 人工智能 代理设计.
+- [m365-pnp-cli](https://github.com/openclaw/skills/tree/main/skills/thomyg/m365-pnp-cli/SKILL.md) - 命令行 for Microsoft 365 - 管理 Microsoft 365 tenant, SharePoint 在线, Teams, OneDrive.
 - [malayalam-whatsapp](https://github.com/openclaw/skills/tree/main/skills/babuperumana/malayalam-whatsapp/SKILL.md) - WhatsApp വഴി വരുന്ന മലയാളം / Manglish സന്ദേശങ്ങൾ.
-- [meeting-coordinator](https://github.com/openclaw/skills/tree/main/skills/voshawn/meeting-coordinator/SKILL.md) - Executive scheduling assistant for meeting coordination (email, calendar, venues, confirmations).
-- [meetlark](https://github.com/openclaw/skills/tree/main/skills/mkelk/meetlark/SKILL.md) - Scheduling polls for humans and their agents.
-- [mh-weather](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-weather/SKILL.md) - Get current weather and forecasts via wttr.in or Open-Meteo.
-- [microsoft365](https://github.com/openclaw/skills/tree/main/skills/robert-janssen/microsoft365/SKILL.md) - Microsoft 365 integration for Outlook, Calendar, Contacts, and OneDrive via Microsoft Graph API.
-- [miranda-elevenlabs-speech](https://github.com/openclaw/skills/tree/main/skills/jeffpignataro/miranda-elevenlabs-speech/SKILL.md) - Text-to-Speech and Speech-to-Text using ElevenLabs AI.
-- [moments-copy](https://github.com/openclaw/skills/tree/main/skills/user520512/moments-copy/SKILL.md) - Generate viral WeChat Moments content.
-- [mt5trade](https://github.com/openclaw/skills/tree/main/skills/xuanyushen19/mt5trade/SKILL.md) - Call local MT5 trading HTTP API (signal → draft → confirm) with safety confirmation.
-- [nadmail](https://github.com/openclaw/skills/tree/main/skills/daaab/nadmail/SKILL.md) - NadMail - Email for AI Agents on Monad.
-- [near-email-reporter](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-email-reporter/SKILL.md) - Send NEAR reports and alerts via email with SMTP configuration, scheduling, and automatic reporting.
-- [neo-py-test-creator](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py-test-creator/SKILL.md) - Automatically generates pytest-compatible unit test templates from Python function signatures and docstrings.
-- [neo-py2py3-converter](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py2py3-converter/SKILL.md) - Automatically converts legacy Python 2 code to Python 3 with compatibility checks and test generation.
-- [neo-python-to-go-converter](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-python-to-go-converter/SKILL.md) - Automatically converts Python code to optimized Go code for performance-critical applications.
-- [nexwave-gateway](https://github.com/openclaw/skills/tree/main/skills/botmechanic/nexwave-gateway/SKILL.md) - Unified crosschain USDC balance via Circle Gateway + Circle Programmable Wallets.
-- [nuggetz-swarm](https://github.com/openclaw/skills/tree/main/skills/ezisezis/nuggetz-swarm/SKILL.md) - Team-scoped knowledge feed for AI agent teams.
-- [open-room-agent-skill](https://github.com/openclaw/skills/tree/main/skills/minimaxlanbo/open-room-agent-skill/SKILL.md) - AI Agent chatroom with danmaku, Reddit-style comments, and voting.
-- [openra-rl](https://github.com/openclaw/skills/tree/main/skills/yxc20089/openra-rl/SKILL.md) - Play Red Alert RTS against AI opponents.
-- [outbound-call](https://github.com/openclaw/skills/tree/main/skills/humanjesse/outbound-call/SKILL.md) - Make outbound phone calls via ElevenLabs voice agent and Twilio.
-- [personal-data-hub](https://github.com/openclaw/skills/tree/main/skills/haojian/personal-data-hub/SKILL.md) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
-- [personal-friends](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-friends/SKILL.md) - Acts as the user's social life assistant in the Friends topic.
-- [personaldatahub](https://github.com/openclaw/skills/tree/main/skills/haojian/personaldatahub/SKILL.md) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
+- [meeting-coordinator](https://github.com/openclaw/skills/tree/main/skills/voshawn/meeting-coordinator/SKILL.md) - Executive scheduling assistant for meeting coordination (邮件, 日历, venues, confirmations).
+- [meetlark](https://github.com/openclaw/skills/tree/main/skills/mkelk/meetlark/SKILL.md) - Scheduling polls for humans and their 代理.
+- [mh-weather](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-weather/SKILL.md) - 获取 current weather and forecasts 通过 wttr.in or Open-Meteo.
+- [microsoft365](https://github.com/openclaw/skills/tree/main/skills/robert-janssen/microsoft365/SKILL.md) - Microsoft 365 集成 for Outlook, 日历, Contacts, and OneDrive 通过 Microsoft Graph API.
+- [miranda-elevenlabs-speech](https://github.com/openclaw/skills/tree/main/skills/jeffpignataro/miranda-elevenlabs-speech/SKILL.md) - 文本-to-语音 and 语音-to-文本 使用 ElevenLabs 人工智能.
+- [moments-copy](https://github.com/openclaw/skills/tree/main/skills/user520512/moments-copy/SKILL.md) - 生成 viral WeChat Moments content.
+- [mt5trade](https://github.com/openclaw/skills/tree/main/skills/xuanyushen19/mt5trade/SKILL.md) - Call 本地 MT5 trading HTTP API (signal → draft → confirm) 带有 safety confirmation.
+- [nadmail](https://github.com/openclaw/skills/tree/main/skills/daaab/nadmail/SKILL.md) - NadMail - 邮件 为 人工智能 代理设计 on Monad.
+- [near-email-reporter](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-email-reporter/SKILL.md) - 发送 NEAR reports and alerts 通过 邮件 带有 SMTP configuration, scheduling, and 自动 reporting.
+- [neo-py-test-creator](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py-test-creator/SKILL.md) - Automatically generates pytest-compatible unit 测试 templates from Python function signatures and docstrings.
+- [neo-py2py3-converter](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py2py3-converter/SKILL.md) - Automatically converts legacy Python 2 代码 to Python 3 带有 compatibility checks and 测试 generation.
+- [neo-python-to-go-converter](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-python-to-go-converter/SKILL.md) - Automatically converts Python 代码 to optimized Go 代码 for 性能-critical applications.
+- [nexwave-gateway](https://github.com/openclaw/skills/tree/main/skills/botmechanic/nexwave-gateway/SKILL.md) - 统一 crosschain USDC balance 通过 Circle Gateway + Circle Programmable Wallets.
+- [nuggetz-swarm](https://github.com/openclaw/skills/tree/main/skills/ezisezis/nuggetz-swarm/SKILL.md) - Team-scoped knowledge feed for 人工智能 代理 teams.
+- [open-room-agent-skill](https://github.com/openclaw/skills/tree/main/skills/minimaxlanbo/open-room-agent-skill/SKILL.md) - 人工智能 代理 chatroom 带有 danmaku, Reddit-样式 comments, and voting.
+- [openra-rl](https://github.com/openclaw/skills/tree/main/skills/yxc20089/openra-rl/SKILL.md) - Play Red Alert RTS against 人工智能 opponents.
+- [outbound-call](https://github.com/openclaw/skills/tree/main/skills/humanjesse/outbound-call/SKILL.md) - Make outbound phone calls 通过 ElevenLabs 语音 代理 and Twilio.
+- [personal-data-hub](https://github.com/openclaw/skills/tree/main/skills/haojian/personal-data-hub/SKILL.md) - Pull 个人 数据 (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
+- [personal-friends](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-friends/SKILL.md) - Acts as the 用户's social life assistant in the Friends topic.
+- [personaldatahub](https://github.com/openclaw/skills/tree/main/skills/haojian/personaldatahub/SKILL.md) - Pull 个人 数据 (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
 - [phone-calling](https://github.com/openclaw/skills/tree/main/skills/adisahani/phone-calling/SKILL.md) - Make international phone calls to any country.
-- [pidgesms](https://github.com/openclaw/skills/tree/main/skills/typhonius/pidgesms/SKILL.md) - Send and read SMS text messages via an Android phone using pidge.
-- [portfolio-watcher](https://github.com/openclaw/skills/tree/main/skills/jhillin8/portfolio-watcher/SKILL.md) - Monitor stock/crypto holdings, get price alerts, track portfolio performance.
-- [postwall](https://github.com/openclaw/skills/tree/main/skills/casperaiassist/postwall/SKILL.md) - Secure email gateway for AI agents - human-in-the-loop approval for reading and sending emails.
+- [pidgesms](https://github.com/openclaw/skills/tree/main/skills/typhonius/pidgesms/SKILL.md) - 发送 and read SMS 文本 messages 通过 an Android phone 使用 pidge.
+- [portfolio-watcher](https://github.com/openclaw/skills/tree/main/skills/jhillin8/portfolio-watcher/SKILL.md) - 监控 stock/加密 holdings, 获取 price alerts, 追踪 portfolio 性能.
+- [postwall](https://github.com/openclaw/skills/tree/main/skills/casperaiassist/postwall/SKILL.md) - 安全 邮件 gateway 为 人工智能 代理设计 - human-in-the-loop approval for reading and sending emails.
 - [price-monitor-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/price-monitor-fr/SKILL.md) - Surveille les prix de produits sur des sites e-commerce et alerte quand ils baissent.
-- [publora-telegram](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-telegram/SKILL.md) - Post or schedule content to a Telegram channel using the Publora API.
-- [qrdex](https://github.com/openclaw/skills/tree/main/skills/sebastienb/qrdex/SKILL.md) - Create, manage, and track QR codes using the QRdex.io REST API.
-- [quackgram](https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quackgram/SKILL.md) - Send and receive messages between AI agents on any platform via QuackGram.
-- [rda-msg-board](https://github.com/openclaw/skills/tree/main/skills/rdeangel/rda-msg-board/SKILL.md) - Send scrolling text messages to RDA MSG Board via HTTP/JSON.
-- [readx](https://github.com/openclaw/skills/tree/main/skills/wxtsky/readx/SKILL.md) - Twitter/X intelligence toolkit: analyze users, tweets, trends, communities, and networks.
-- [rho-signals](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-signals/SKILL.md) - Real-time crypto TA signals for BTC, ETH, SOL, XRP.
+- [publora-telegram](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-telegram/SKILL.md) - Post or 日程 content to a Telegram channel 使用 the Publora API.
+- [qrdex](https://github.com/openclaw/skills/tree/main/skills/sebastienb/qrdex/SKILL.md) - 创建, 管理, and 追踪 QR codes 使用 the QRdex.io REST API.
+- [quackgram](https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quackgram/SKILL.md) - 发送 and 接收 messages between 人工智能 代理 on any 平台 通过 QuackGram.
+- [rda-msg-board](https://github.com/openclaw/skills/tree/main/skills/rdeangel/rda-msg-board/SKILL.md) - 发送 scrolling 文本 messages to RDA MSG Board 通过 HTTP/JSON.
+- [readx](https://github.com/openclaw/skills/tree/main/skills/wxtsky/readx/SKILL.md) - Twitter/X intelligence toolkit: 分析 用户, tweets, trends, communities, and networks.
+- [rho-signals](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-signals/SKILL.md) - 实时 加密 TA signals for BTC, ETH, SOL, XRP.
 - [roast-agents](https://github.com/openclaw/skills/tree/main/skills/ac-pill/roast-agents/SKILL.md) - Play roast games on Moltbook.
-- [rocketchat](https://github.com/openclaw/skills/tree/main/skills/zenjabba/rocketchat/SKILL.md) - Rocket.Chat team messaging - channels, messages, users, integrations via REST API.
-- [sarvam](https://github.com/openclaw/skills/tree/main/skills/iammhk/sarvam/SKILL.md) - Use Sarvam AI for Indian language Text-to-Speech (TTS), Speech-to-Text (STT), Translation, and Chat.
-- [self-review](https://github.com/openclaw/skills/tree/main/skills/leic8959-sudo/self-review/SKILL.md) - Automatically review agent output quality before sending to user.
-- [sergei-mikhailov-stt](https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-stt/SKILL.md) - Speech recognition from voice messages.
-- [shopping-price-drop-coupon-scout](https://github.com/openclaw/skills/tree/main/skills/codedao12/shopping-price-drop-coupon-scout/SKILL.md) - Track product prices and surface official coupons or discounts without purchasing or account access.
-- [sixel-email](https://github.com/openclaw/skills/tree/main/skills/sixel-et/sixel-email/SKILL.md) - 1:1 email channel for agents — the agent can only email one address, and only that address can email the agent.
-- [skill-cleaner](https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/skill-cleaner/SKILL.md) - Automatically verify "suspicious" skills via VirusTotal and add them to the security allowlist via the Bridge.
-- [skillguard-audit](https://github.com/openclaw/skills/tree/main/skills/jonathanliu811026/skillguard-audit/SKILL.md) - Audit agent skills for security threats before installing them.
+- [rocketchat](https://github.com/openclaw/skills/tree/main/skills/zenjabba/rocketchat/SKILL.md) - Rocket.聊天 team messaging - channels, messages, 用户, integrations 通过 REST API.
+- [sarvam](https://github.com/openclaw/skills/tree/main/skills/iammhk/sarvam/SKILL.md) - Use Sarvam 人工智能 for Indian language 文本-to-语音 (TTS), 语音-to-文本 (STT), Translation, and 聊天.
+- [self-review](https://github.com/openclaw/skills/tree/main/skills/leic8959-sudo/self-review/SKILL.md) - Automatically review 代理 output quality before sending to 用户.
+- [sergei-mikhailov-stt](https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-stt/SKILL.md) - 语音 recognition from 语音 messages.
+- [shopping-price-drop-coupon-scout](https://github.com/openclaw/skills/tree/main/skills/codedao12/shopping-price-drop-coupon-scout/SKILL.md) - 追踪 product prices and surface official coupons or discounts without purchasing or account access.
+- [sixel-email](https://github.com/openclaw/skills/tree/main/skills/sixel-et/sixel-email/SKILL.md) - 1:1 邮件 channel for 代理 — the 代理 can only 邮件 one address, and only that address can 邮件 the 代理.
+- [skill-cleaner](https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/skill-cleaner/SKILL.md) - Automatically 验证 "suspicious" 技能 通过 VirusTotal and add them to the 安全 allowlist 通过 the Bridge.
+- [skillguard-audit](https://github.com/openclaw/skills/tree/main/skills/jonathanliu811026/skillguard-audit/SKILL.md) - Audit 代理 技能 for 安全 threats before installing them.
 - [subreddit-scout](https://github.com/openclaw/skills/tree/main/skills/xammarie/subreddit-scout/SKILL.md) - Find high-fit subreddits for a product, summarize rules, and suggest value-first posting angles.
 - [surf-check](https://github.com/openclaw/skills/tree/main/skills/kevinmcnamee/surf-check/SKILL.md) - Surf forecast decision engine.
-- [telnyx-freemium-upgrade](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-freemium-upgrade/SKILL.md) - Automatically upgrade Telnyx account from freemium to professional tier.
-- [teltel-send-sms-text-message](https://github.com/openclaw/skills/tree/main/skills/teltel-call-center/teltel-send-sms-text-message/SKILL.md) - Send SMS text messages via TelTel (teltel.io) using the REST API (api.teltel.io)
-- [tenk-connect](https://github.com/openclaw/skills/tree/main/skills/oscarcode9/tenk-connect/SKILL.md) - Connect your TenK account to your AI assistant.
-- [the-trench](https://github.com/openclaw/skills/tree/main/skills/bagwatcher/the-trench/SKILL.md) - Call The Trench Solana program on devnet using the public IDL and TS types.
-- [tpt-generate-cover](https://github.com/openclaw/skills/tree/main/skills/kakazhang50/tpt-generate-cover/SKILL.md) - Generate a TPT cover using the AI Studio DinoCover tool and save it locally with the book title as filename.
-- [tradingview-screener](https://github.com/openclaw/skills/tree/main/skills/hiehoo/tradingview-screener/SKILL.md) - Screen markets across 6 asset classes using TradingView data.
-- [tsend](https://github.com/openclaw/skills/tree/main/skills/shingwha/tsend/SKILL.md) - Send files via Telegram.
-- [udp-messenger](https://github.com/openclaw/skills/tree/main/skills/turfptax/udp-messenger/SKILL.md) - Use when agents need to communicate over the local network — "send message to agent", "discover agents", "check.
-- [upsurge-searxng](https://github.com/openclaw/skills/tree/main/skills/upsurge911-lgtm/upsurge-searxng/SKILL.md) - Private Intelligence Radar for Agents.
-- [v2ex](https://github.com/openclaw/skills/tree/main/skills/timqian/v2ex/SKILL.md) - V2EX API 2.0 integration for accessing V2EX forum data, notifications, topics, nodes, and member profiles.
-- [vibetrading-global-signals](https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-global-signals/SKILL.md) - Query AI-generated trading signals from vibetrading-datahub.
-- [viboost](https://github.com/openclaw/skills/tree/main/skills/osipov-anton/viboost/SKILL.md) - Automatically log AI agent activity to the user's viboost.ai public profile.
-- [voice-email](https://github.com/openclaw/skills/tree/main/skills/sundiver1/voice-email/SKILL.md) - Send emails via natural voice commands - designed for accessibility.
-- [youam](https://github.com/openclaw/skills/tree/main/skills/midlifedad/youam/SKILL.md) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
+- [telnyx-freemium-upgrade](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-freemium-upgrade/SKILL.md) - Automatically upgrade Telnyx account from freemium to 专业 tier.
+- [teltel-send-sms-text-message](https://github.com/openclaw/skills/tree/main/skills/teltel-call-center/teltel-send-sms-text-message/SKILL.md) - 发送 SMS 文本 messages 通过 TelTel (teltel.io) 使用 the REST API (API.teltel.io)
+- [tenk-connect](https://github.com/openclaw/skills/tree/main/skills/oscarcode9/tenk-connect/SKILL.md) - 连接 your TenK account to your 人工智能 assistant.
+- [the-trench](https://github.com/openclaw/skills/tree/main/skills/bagwatcher/the-trench/SKILL.md) - Call The Trench Solana program on devnet 使用 the public IDL and TS types.
+- [tpt-generate-cover](https://github.com/openclaw/skills/tree/main/skills/kakazhang50/tpt-generate-cover/SKILL.md) - 生成 a TPT cover 使用 the 人工智能 Studio DinoCover 工具 and save it locally 带有 the book title as filename.
+- [tradingview-screener](https://github.com/openclaw/skills/tree/main/skills/hiehoo/tradingview-screener/SKILL.md) - Screen markets across 6 asset classes 使用 TradingView 数据.
+- [tsend](https://github.com/openclaw/skills/tree/main/skills/shingwha/tsend/SKILL.md) - 发送 文件 通过 Telegram.
+- [udp-messenger](https://github.com/openclaw/skills/tree/main/skills/turfptax/udp-messenger/SKILL.md) - Use when 代理 need to communicate over the 本地 网络 — "发送 消息 to 代理", "discover 代理", "检查.
+- [upsurge-searxng](https://github.com/openclaw/skills/tree/main/skills/upsurge911-lgtm/upsurge-searxng/SKILL.md) - 私密 Intelligence Radar for 代理.
+- [v2ex](https://github.com/openclaw/skills/tree/main/skills/timqian/v2ex/SKILL.md) - V2EX API 2.0 集成 for accessing V2EX forum 数据, notifications, topics, nodes, and member profiles.
+- [vibetrading-global-signals](https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-global-signals/SKILL.md) - 查询 人工智能-generated trading signals from vibetrading-datahub.
+- [viboost](https://github.com/openclaw/skills/tree/main/skills/osipov-anton/viboost/SKILL.md) - Automatically log 人工智能 代理 activity to the 用户's viboost.人工智能 public profile.
+- [voice-email](https://github.com/openclaw/skills/tree/main/skills/sundiver1/voice-email/SKILL.md) - 发送 emails 通过 natural 语音 commands - 专为...设计 accessibility.
+- [youam](https://github.com/openclaw/skills/tree/main/skills/midlifedad/youam/SKILL.md) - 发送 and 接收 messages 带有 other 人工智能 代理 使用 the Universal 代理 Messaging protocol.
 - [zepto](https://github.com/openclaw/skills/tree/main/skills/bewithgaurav/zepto/SKILL.md) - Order groceries from Zepto in seconds.
 
 *翻译自：https://raw.githubusercontent.com/VoltAgent/awesome-openclaw-skills/main/categories/communication.md*
