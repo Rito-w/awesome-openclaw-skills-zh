@@ -52,16 +52,16 @@ npx clawhub@latest install <skill-slug>
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (149) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
-| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (196) | [Smart Home & IoT](#smart-home--iot) (43) |
-| [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (408) | [Calendar & Scheduling](#calendar--scheduling) (61) | [Image & Video Generation](#image--video-generation) (169) |
-| [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) | [Apple Apps & Services](#apple-apps--services) (44) |
-| [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) | [Search & Research](#search--research) (350) |
-| [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) | [Clawdbot Tools](#clawdbot-tools) (35) |
-| [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) | [CLI Utilities](#cli-utilities) (186) |
-| [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) | [Health & Fitness](#health--fitness) (88) |
+| [Git 和 GitHub](categories/git-and-github.zh.md) (170) | [营销与销售](categories/marketing-and-sales.zh.md) (104) | [通信](categories/communication.zh.md) (149) |
+| [编程 Agent 和 IDE](categories/coding-agents-and-ides.zh.md) (1222) | [生产力与任务](categories/productivity-and-tasks.zh.md) (206) | [语音和转录](categories/speech-and-transcription.zh.md) (45) |
+| [浏览器和自动化](categories/browser-and-automation.zh.md) (335) | [AI 和 LLM](categories/ai-and-llms.zh.md) (196) | [智能家居和 IoT](categories/smart-home-and-iot.zh.md) (43) |
+| [Web 和前端开发](categories/web-and-frontend-development.zh.md) (938) | [数据和分析](categories/data-and-analytics.zh.md) (28) | [购物和电商](categories/shopping-and-e-commerce.zh.md) (55) |
+| [DevOps 和云](categories/devops-and-cloud.zh.md) (408) | [日历和日程](categories/calendar-and-scheduling.zh.md) (61) | [图片和视频生成](categories/image-and-video-generation.zh.md) (169) |
+| [媒体和流媒体](categories/media-and-streaming.zh.md) (85) | [PDF 和文档](categories/pdf-and-documents.zh.md) (111) | [Apple 应用和服务](categories/apple-apps-and-services.zh.md) (44) |
+| [笔记和 PKM](categories/notes-and-pkm.zh.md) (71) | [自托管和自动化](categories/self-hosted-and-automation.zh.md) (32) | [搜索和研究](categories/search-and-research.zh.md) (350) |
+| [iOS 和 macOS 开发](categories/ios-and-macos-development.zh.md) (29) | [安全和密码](categories/security-and-passwords.zh.md) (53) | [Clawdbot 工具](categories/clawdbot-tools.zh.md) (35) |
+| [交通出行](categories/transportation.zh.md) (109) | [Moltbook](categories/moltbook.zh.md) (29) | [CLI 工具](categories/cli-utilities.zh.md) (186) |
+| [个人发展](categories/personal-development.zh.md) (51) | [游戏](categories/gaming.zh.md) (36) | [健康和健身](categories/health-and-fitness.zh.md) (88) |
 
 ---
 
