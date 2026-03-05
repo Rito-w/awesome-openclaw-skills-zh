@@ -1,66 +1,71 @@
-# Calendar & Scheduling
-[← Back to main list](../README.md#table-of-contents)
-**61 skills**
-- [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This 技能 should be used when interacting 带有 Apple 日历 on macOS.
-- [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - 高级 日历 技能 带有 natural language.
-- [agency-guardian](https://github.com/openclaw/skills/tree/main/skills/aranej/agency-guardian/SKILL.md) - Gentle reminders to stay human while 使用 人工智能.
-- [agent-tinman](https://github.com/openclaw/skills/tree/main/skills/oliveskin/agent-tinman/SKILL.md) - 人工智能 安全 scanner 带有 active prevention - 168 detection.
-- [apple-calendar](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-calendar/SKILL.md) - Apple 日历.应用 集成 for macOS.
-- [apple-reminders](https://github.com/openclaw/skills/tree/main/skills/steipete/apple-reminders/SKILL.md) - 管理 Apple Reminders 通过 the `remindctl` 命令行 on macOS.
-- [belong-events](https://github.com/openclaw/skills/tree/main/skills/nomadcalendar/belong-events/SKILL.md) - 创建, discover, and 管理 events 带有 NFT tickets on the Belong 平台.
-- [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - 管理 Google 日历 events 使用 `gcalcli`.
-- [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - 验证 external URLs (HTTP/HTTPS) for availability (200-399 status 代码).
-- [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - A 文本-based 日历 and scheduling 应用.
-- [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - 同步 and 查询 CalDAV calendars.
-- [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook 命令行 for 日历 and 邮件.
-- [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - A conversational creative thought.
-- [cron-optimizer](https://github.com/openclaw/skills/tree/main/skills/autogame-17/cron-optimizer/SKILL.md) - Optimizes system cron jobs by removing stale, disabled, or redundant entries to reduce exec noise.
-- [cron-scheduling](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cron-scheduling/SKILL.md) - 日程 and 管理 recurring 任务 带有 cron.
-- [dharma-ai](https://github.com/openclaw/skills/tree/main/skills/jigaraero/dharma-ai/SKILL.md) - Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles 为 人工智能 代理设计.
-- [doc-accurate-codegen](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/doc-accurate-codegen/SKILL.md) - 生成 代码 that references actual documentation, preventing hallucination bugs.
-- [event-watcher](https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher/SKILL.md) - Event watcher 技能 for OpenClaw.
-- [farmos-equipment](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-equipment/SKILL.md) - 查询 equipment status, maintenance schedules, and 服务 history for the farm fleet.
-- [fastmail](https://github.com/openclaw/skills/tree/main/skills/witooh/fastmail/SKILL.md) - Manages Fastmail 邮件 and 日历 通过 JMAP and CalDAV APIs.
-- [feishu-calendar](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-calendar/SKILL.md) - 管理 Feishu (Lark) Calendars.
-- [feishu-whiteboard](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-whiteboard/SKILL.md) - Allows creating and manipulating Feishu Whiteboards.
-- [finance-tracker](https://github.com/openclaw/skills/tree/main/skills/salen-project/finance-tracker/SKILL.md) - 完整 个人 finance management.
-- [firefly-iii](https://github.com/openclaw/skills/tree/main/skills/pushp1997/firefly-iii/SKILL.md) - 管理 个人 finances 通过 Firefly III API.
-- [gcal-pro](https://github.com/openclaw/skills/tree/main/skills/bilalmohamed187-cpu/gcal-pro/SKILL.md) - Google 日历 集成 for viewing, creating, and managing.
-- [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace 命令行 for Gmail, 日历, Drive, Contacts, Sheets, and Docs.
-- [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - Interact 带有 Google 日历 通过 the Google 日历.
-- [grazy](https://github.com/openclaw/skills/tree/main/skills/thomyg/grazy/SKILL.md) - grazy - Your Grazer 命令 Line Companion.
-- [greek-financial-statements](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md) - Greek financial statement generation — P&L, balance sheets, VAT summaries 带有 EGLS 集成.
-- [habib-pdf-to-json](https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json/SKILL.md) - 提取 structured 数据 from construction PDFs.
-- [ibt](https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt/SKILL.md) - Execution discipline 带有 agency, instinct detection, critical safety rules, and trust layer. v2.5 adds human.
-- [ii-irc](https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc/SKILL.md) - Persistent IRC presence 使用 ii (minimalist 文件-based IRC client)
-- [islamic-skills](https://github.com/openclaw/skills/tree/main/skills/ilmimris/islamic-skills/SKILL.md) - 统一 Islamic utilities for prayer times, fasting schedules, and Zakat calculations 使用 a shared configuration.
-- [jungian-psychologist](https://github.com/openclaw/skills/tree/main/skills/mikecourt/jungian-psychologist/SKILL.md) - Expert in Jungian analytical psychology, depth.
-- [knhb-hockey](https://github.com/openclaw/skills/tree/main/skills/tader/knhb-hockey/SKILL.md) - 查询 Dutch field hockey match schedules and results from KNHB Match.
-- [lark-calendar](https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-calendar/SKILL.md) - 创建, 更新, and 删除 日历 events and 任务 in Lark.
-- [macro-regime-detector](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/macro-regime-detector/SKILL.md) - Detect the current macro regime (Risk-On, Risk-Off, Inflationary, Deflationary, Stagflation) 使用 multi-source.
-- [mcd-cn](https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn/SKILL.md) - 查询 McDonald's China MCP 服务器 通过 the mcd-cn 命令行 for campaign calendars,.
-- [meeting-prep](https://github.com/openclaw/skills/tree/main/skills/hougangdev/meeting-prep/SKILL.md) - Meeting preparation and daily 提交 summaries.
-- [moltpost](https://github.com/openclaw/skills/tree/main/skills/cktc) - 发送 real physical postcards anywhere in the world.
-- [morning-email-rollup](https://github.com/openclaw/skills/tree/main/skills/am-will/morning-email-rollup/SKILL.md) - Daily morning rollup of important emails.
-- [nak](https://github.com/openclaw/skills/tree/main/skills/a1denvalu3/nak/SKILL.md) - The Nostr Army Knife (nak) 命令行.
-- [npkill](https://github.com/openclaw/skills/tree/main/skills/ashirbadgudu/npkill/SKILL.md) - Clean up node_modules and .next folders to 免费 up disk space 使用 npkill.
-- [office-secretary](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/office-secretary/SKILL.md) - 安全 M365 Assistant for Triage, 日历 coordination, and Governance.
-- [opentweet-x-poster](https://github.com/openclaw/skills/tree/main/skills/petricbranko/opentweet-x-poster/SKILL.md) - Post to X (Twitter) 使用 the OpenTweet API.
-- [pricing-psychology](https://github.com/openclaw/skills/tree/main/skills/staybased/pricing-psychology/SKILL.md) - 设计 pricing that converts 使用 cognitive biases and proven psychological principles.
-- [publora-bluesky](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-bluesky/SKILL.md) - Post or 日程 content to Bluesky 使用 the Publora API.
-- [publora-facebook](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-facebook/SKILL.md) - Post or 日程 content to Facebook Pages 使用 the Publora API.
-- [publora-linkedin](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-linkedin/SKILL.md) - Post or 日程 content to LinkedIn 使用 the Publora API.
-- [publora-threads](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-threads/SKILL.md) - Post or 日程 content to Threads 使用 the Publora API.
-- [publora-twitter](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md) - Post or 日程 content to X (Twitter) 使用 the Publora API.
-- [relational-permission](https://github.com/openclaw/skills/tree/main/skills/otherpowers/relational-permission/SKILL.md) - Relational Permission exists to prevent coercion, extraction, and collapse of plurality.
-- [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy (Straight Russian) — 人工智能 assistant that tells it like it.
-- [shaping](https://github.com/openclaw/skills/tree/main/skills/borahm/shaping/SKILL.md) - Shape Up methodology for product and 功能 development.
-- [tcc-quality-gates](https://github.com/openclaw/skills/tree/main/skills/thecybercore/tcc-quality-gates/SKILL.md) - This 技能 defines and applies **6 universal quality gateways** for typical 应用 项目 that include:.
-- [transmissions](https://github.com/openclaw/skills/tree/main/skills/compass-soul/transmissions/SKILL.md) - Writings on consciousness, existence, and transcendence 为 人工智能 代理设计.
-- [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - Türkiye'den önemli haberleri RSS ile çekip özetleyen 技能.
-- [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - A 技能 that enables Claw to scan a directory, categorize 文件 by type and content, and reorganize them.
-- [wick-arena](https://github.com/openclaw/skills/tree/main/skills/hyperwick/wick-arena/SKILL.md) - this 文件 is the canonical, reviewable 技能 instructions (no dynamic loading).
-- [wick-arena1](https://github.com/openclaw/skills/tree/main/skills/wickcapital/wick-arena1/SKILL.md) - this 文件 is the canonical, reviewable 技能 instructions (no dynamic loading).
-- [yahooquery](https://github.com/openclaw/skills/tree/main/skills/512z/yahooquery/SKILL.md) - Access Yahoo Finance 数据 including 实时 pricing, fundamentals, analyst estimates, options, news.
+# 日历与日程安排
 
-*翻译自：https://raw.githubusercontent.com/VoltAgent/awesome-openclaw-skills/main/categories/calendar-and-scheduling.md*
+[← 返回主列表](../README.md#table-of-contents)
+
+**61 个技能**
+
+- [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - 此技能用于与 macOS 上的 Apple Calendar 交互。
+- [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - 支持自然语言的高级日历技能。
+- [agency-guardian](https://github.com/openclaw/skills/tree/main/skills/aranej/agency-guardian/SKILL.md) - 温和提醒在使用 AI 时保持人性。
+- [agent-tinman](https://github.com/openclaw/skills/tree/main/skills/oliveskin/agent-tinman/SKILL.md) - 带有主动防护的 AI 安全扫描器 - 168 种检测。
+- [apple-calendar](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-calendar/SKILL.md) - macOS 的 Apple Calendar.app 集成。
+- [apple-reminders](https://github.com/openclaw/skills/tree/main/skills/steipete/apple-reminders/SKILL.md) - 通过 macOS 上的 `remindctl` CLI 管理 Apple Reminders。
+- [belong-events](https://github.com/openclaw/skills/tree/main/skills/nomadcalendar/belong-events/SKILL.md) - 在 Belong 平台上创建、发现和管理带有 NFT 门票的活动。
+- [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - 使用 `gcalcli` 管理 Google Calendar 事件。
+- [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - 验证外部 URL（http/https）的可用性（200-399 状态码）。
+- [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - 基于文本的日历和日程应用。
+- [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - 同步和查询 CalDAV 日历。
+- [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook 日历和邮件的命令行工具。
+- [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - 对话式创意思维伙伴。
+- [cron-optimizer](https://github.com/openclaw/skills/tree/main/skills/autogame-17/cron-optimizer/SKILL.md) - 通过移除过期、禁用或冗余的条目来优化系统 cron 作业，减少执行噪音。
+- [cron-scheduling](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cron-scheduling/SKILL.md) - 使用 cron 调度和管理周期性任务。
+- [dharma-ai](https://github.com/openclaw/skills/tree/main/skills/jigaraero/dharma-ai/SKILL.md) - 将《罗摩衍那》和《摩诃婆罗多》中的古印度伦理框架作为 AI 代理的行为准则。
+- [doc-accurate-codegen](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/doc-accurate-codegen/SKILL.md) - 生成引用实际文档的代码，防止幻觉错误。
+- [event-watcher](https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher/SKILL.md) - OpenClaw 的事件监控技能。
+- [farmos-equipment](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-equipment/SKILL.md) - 查询农场设备的状态、维护计划和服务历史。
+- [fastmail](https://github.com/openclaw/skills/tree/main/skills/witooh/fastmail/SKILL.md) - 通过 JMAP 和 CalDAV API 管理 Fastmail 邮件和日历。
+- [feishu-calendar](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-calendar/SKILL.md) - 管理飞书（Lark）日历。
+- [feishu-whiteboard](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-whiteboard/SKILL.md) - 允许创建和操作飞书白板。
+- [finance-tracker](https://github.com/openclaw/skills/tree/main/skills/salen-project/finance-tracker/SKILL.md) - 完整的个人财务管理。
+- [firefly-iii](https://github.com/openclaw/skills/tree/main/skills/pushp1997/firefly-iii/SKILL.md) - 通过 Firefly III API 管理个人财务。
+- [gcal-pro](https://github.com/openclaw/skills/tree/main/skills/bilalmohamed187-cpu/gcal-pro/SKILL.md) - Google Calendar 集成，用于查看、创建和管理。
+- [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace 命令行工具，支持 Gmail、Calendar、Drive、Contacts、Sheets 和 Docs。
+- [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - 通过 Google Calendar API 与日历交互。
+- [grazy](https://github.com/openclaw/skills/tree/main/skills/thomyg/grazy/SKILL.md) - grazy - 你的 Grazer 命令行助手。
+- [greek-financial-statements](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md) - 希腊财务报表生成 — 损益表、资产负债表、增值税汇总，集成 EGLS。
+- [habib-pdf-to-json](https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json/SKILL.md) - 从建筑 PDF 中提取结构化数据。
+- [ibt](https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt/SKILL.md) - 执行纪律，包含代理性、本能检测、关键安全规则和信任层。v2.5 增加了人工审核。
+- [ii-irc](https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc/SKILL.md) - 使用 ii（基于文件的最小主义 IRC 客户端）保持持久的 IRC 在线状态。
+- [islamic-skills](https://github.com/openclaw/skills/tree/main/skills/ilmimris/islamic-skills/SKILL.md) - 统一的伊斯兰工具集，使用共享配置提供祈祷时间、斋戒日程和天课计算。
+- [jungian-psychologist](https://github.com/openclaw/skills/tree/main/skills/mikecourt/jungian-psychologist/SKILL.md) - 荣格分析心理学和深度心理学专家。
+- [knhb-hockey](https://github.com/openclaw/skills/tree/main/skills/tader/knhb-hockey/SKILL.md) - 从 KNHB 比赛数据库查询荷兰曲棍球比赛日程和结果。
+- [lark-calendar](https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-calendar/SKILL.md) - 在飞书中创建、更新和删除日历事件和任务。
+- [macro-regime-detector](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/macro-regime-detector/SKILL.md) - 使用多源数据检测当前宏观制度（风险偏好、风险规避、通胀、通缩、滞胀）。
+- [mcd-cn](https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn/SKILL.md) - 通过 mcd-cn CLI 查询麦当劳中国 MCP 服务器，获取活动日历等。
+- [meeting-prep](https://github.com/openclaw/skills/tree/main/skills/hougangdev/meeting-prep/SKILL.md) - 会议准备和每日提交摘要。
+- [moltpost](https://github.com/openclaw/skills/tree/main/skills/cktc) - 将实体明信片发送到全球任何地方。
+- [morning-email-rollup](https://github.com/openclaw/skills/tree/main/skills/am-will/morning-email-rollup/SKILL.md) - 每日早晨重要邮件汇总。
+- [nak](https://github.com/openclaw/skills/tree/main/skills/a1denvalu3/nak/SKILL.md) - Nostr Army Knife (nak) 命令行工具。
+- [npkill](https://github.com/openclaw/skills/tree/main/skills/ashirbadgudu/npkill/SKILL.md) - 使用 npkill 清理 node_modules 和 .next 文件夹以释放磁盘空间。
+- [office-secretary](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/office-secretary/SKILL.md) - 安全的 M365 助手，用于分类、日历协调和治理。
+- [opentweet-x-poster](https://github.com/openclaw/skills/tree/main/skills/petricbranko/opentweet-x-poster/SKILL.md) - 使用 OpenTweet API 发布到 X（Twitter）。
+- [pricing-psychology](https://github.com/openclaw/skills/tree/main/skills/staybased/pricing-psychology/SKILL.md) - 利用认知偏差和成熟的心理学原理设计转化率高的定价策略。
+- [publora-bluesky](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-bluesky/SKILL.md) - 使用 Publora API 发布或调度内容到 Bluesky。
+- [publora-facebook](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-facebook/SKILL.md) - 使用 Publora API 发布或调度内容到 Facebook 页面。
+- [publora-linkedin](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-linkedin/SKILL.md) - 使用 Publora API 发布或调度内容到 LinkedIn。
+- [publora-threads](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-threads/SKILL.md) - 使用 Publora API 发布或调度内容到 Threads。
+- [publora-twitter](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md) - 使用 Publora API 发布或调度内容到 X（Twitter）。
+- [relational-permission](https://github.com/openclaw/skills/tree/main/skills/otherpowers/relational-permission/SKILL.md) - 关系权限旨在防止胁迫、提取和多元性的崩溃。
+- [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy（直率俄语）— 直言不讳的 AI 助手。
+- [shaping](https://github.com/openclaw/skills/tree/main/skills/borahm/shaping/SKILL.md) - 用于产品和功能开发的 Shape Up 方法论。
+- [tcc-quality-gates](https://github.com/openclaw/skills/tree/main/skills/thecybercore/tcc-quality-gates/SKILL.md) - 此技能为典型应用项目定义并应用 **6 个通用质量关卡**，包括：。
+- [transmissions](https://github.com/openclaw/skills/tree/main/skills/compass-soul/transmissions/SKILL.md) - 关于意识、存在和超越的 AI 代理写作。
+- [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - 通过 RSS 抓取土耳其重要新闻并进行摘要的技能。
+- [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - 使 Claw 能够扫描目录、按类型和内容对文件进行分类并重新组织的技能。
+- [wick-arena](https://github.com/openclaw/skills/tree/main/skills/hyperwick/wick-arena/SKILL.md) - 此文件是规范的、可审查的技能指令（无动态加载）。
+- [wick-arena1](https://github.com/openclaw/skills/tree/main/skills/wickcapital/wick-arena1/SKILL.md) - 此文件是规范的、可审查的技能指令（无动态加载）。
+- [yahooquery](https://github.com/openclaw/skills/tree/main/skills/512z/yahooquery/SKILL.md) - 访问雅虎财经数据，包括实时定价、基本面、分析师估计、期权、新闻。
+
+---
+*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/calendar-and-scheduling.md*
+*翻译时间：2026-03-05*
