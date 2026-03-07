@@ -65,17 +65,22 @@ npx clawhub@latest install <skill-slug>
 
 ---
 
-## 🔒 安全提示
+## 🔒 安全通知
 
-本列表中的技能经过了**精选，但尚未经过全面的安全审计**。在安装或使用任何 Agent 技能之前，请务必：
+本列表中的技能经过**筛选，但未审计**。它们可能在添加后被原始维护者随时更新、修改或替换。
 
-1. 自行审查潜在的安全风险
-2. 验证仓库的来源是否可靠
-3. 查看 [VirusTotal 扫描报告](https://www.virustotal.com/)（如可用）
+在安装或使用任何 Agent 技能之前，请审查潜在的安全风险并自行验证来源。OpenClaw 与 **VirusTotal 合作**为技能提供安全扫描，访问 ClawHub 上的技能页面并查看 VirusTotal 报告以了解是否被标记为风险。
 
-**我们推荐使用以下安全工具进行辅助检查：**
-- [Snyk 技能安全扫描器 (Skill Security Scanner)](https://github.com/snyk/agent-scan)
-- [Agent 信任中心 (Trust Hub)](https://ai.gendigital.com/agent-trust-hub)
+**推荐工具：**
+
+- [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
+- [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+
+> Agent 技能可能包含提示注入、工具投毒、隐藏恶意软件负载或不安全的数据处理模式。安装前务必审查源代码，自行判断使用。
+
+**想添加技能？** 本列表仅包含**已发布**在 `github.com/openclaw/skills` 仓库中的技能。我们不接受个人仓库、Gist 或任何其他外部来源的链接。如果你的技能还未在 OpenClaw 技能仓库中，请先发布到那里。详情见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+如果你认为本列表中的某个技能应该被标记或存在安全问题，请 [提交 issue](https://github.com/Rito-w/awesome-openclaw-skills-zh/issues) 以便我们审查。
 
 ---
 
