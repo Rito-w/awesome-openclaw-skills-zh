@@ -82,25 +82,6 @@ npx clawhub@latest install <skill-slug>
 
 如果你认为本列表中的某个技能应该被标记或存在安全问题，请 [提交 issue](https://github.com/Rito-w/awesome-openclaw-skills-zh/issues) 以便我们审查。
 
----
-
-## 🤝 参与贡献
-
-欢迎大家提交 Issue 和 Pull Request 来改进中文版的翻译质量！
-
-### 报告问题
-
-如果你发现某个技能带有恶意行为，或者存在安全隐患，请立即 [提交 issue 进行标记](https://github.com/Rito-w/awesome-openclaw-skills-zh/issues)。
-
-### 同步上游更新
-
-当原英文项目有更新时，你可以使用我们提供的脚本来同步最新改动：
-
-```bash
-cd /Volumes/myDisk/workplace/awesome-openclaw-skills-zh
-./scripts/sync-upstream.sh
-```
-*有关翻译自动化的详细说明，请参考[翻译自动化指南](README-TRANSLATION.md)。*
 
 ---
 
