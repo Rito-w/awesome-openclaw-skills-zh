@@ -414,4 +414,4 @@
 - [zyfai-sdk](https://github.com/openclaw/skills/tree/main/skills/pauldefi/zyfai-sdk/SKILL.md) - Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/devops-and-cloud.md*
-*翻译时间：2026-03-08*
+*翻译时间：2026-03-11*

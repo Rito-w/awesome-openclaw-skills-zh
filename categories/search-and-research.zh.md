@@ -2,7 +2,7 @@
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**350 个技能**
+**348 个技能**
 
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - 由 Ensue 驱动的个人知识库，用于捕获和检索信息。
 - [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - 透明、严谨的研究，提供完整的引用和来源追踪。
@@ -360,4 +360,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/search-and-research.md*
-*翻译时间：2026-03-07*
+*翻译时间：2026-03-11*

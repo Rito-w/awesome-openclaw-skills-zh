@@ -2,7 +2,7 @@
 
 [← 返回列表主页](../README.md#table-of-contents)
 
-**1223 个技能**
+**1220 个技能**
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://github.com/openclaw/skills/tree/main/skills/0isone/0protocol/SKILL.md) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -1225,4 +1225,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/coding-agents-and-ides.md*
-*翻译时间：2026-03-08*
+*翻译时间：2026-03-11*
