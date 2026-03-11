@@ -115,7 +115,8 @@
 - [x-to-kindle](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-to-kindle/SKILL.md) - 将 X/Twitter 帖子发送到 Kindle 进行无干扰阅读。
 - [xapi-labs](https://github.com/openclaw/skills/tree/main/skills/glacier-luo/xapi-labs/SKILL.md) - AI 代理的聚合 API 平台。
 - [xapi123123](https://github.com/openclaw/skills/tree/main/skills/glacier-luo/xapi123123/SKILL.md) - AI 代理的聚合 API 平台。
+- [bluente-translate](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md) - 在 2 分钟内翻译您的文档，保持格式不变。
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/pdf-and-documents.md*
-*翻译时间：2026-03-05*
+*翻译时间：2026-03-11*

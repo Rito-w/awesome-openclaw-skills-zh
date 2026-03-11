@@ -2,9 +2,10 @@
 
 [← 返回列表](../README.md#table-of-contents)
 
-**53 个技能**
+**54 个技能**
 
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - 设置和使用 1Password CLI (op)。
+- [1claw](https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw/SKILL.md) - HSM 支持的代理密钥保险库；安全存储、轮换和共享。
 - [age-verification](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/age-verification/SKILL.md) - 用于年龄验证和适龄内容过滤的技能。
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - 用于持久化的灵魂绑定密钥和灵魂链。
 - [api-security](https://github.com/openclaw/skills/tree/main/skills/brandonwise/api-security/SKILL.md) - 实现安全的 API 设计模式，包括身份验证、授权、输入验证、速率限制。
@@ -63,4 +64,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/security-and-passwords.md*
-*翻译时间：2026-03-05*
+*翻译时间：2026-03-11*
