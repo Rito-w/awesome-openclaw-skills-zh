@@ -2,7 +2,7 @@
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**169 个技能**
+**170 个技能**
 
 - [aada](https://github.com/openclaw/skills/tree/main/skills/rylena/aada/SKILL.md) - 创建并发送有趣、富有个性的促销消息，从一位代理发送到 Moltbook 受众。
 - [ace-music](https://github.com/openclaw/skills/tree/main/skills/fspecii/ace-music/SKILL.md) - 通过 ACE Music 的免费 API 使用 ACE-Step 1.5 生成 AI 音乐。
@@ -50,6 +50,7 @@
 - [comfyui](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md) - 向 ComfyUI 发送工作流请求并返回图像结果。
 - [comfyui-imagegen](https://github.com/openclaw/skills/tree/main/skills/halr9000/comfyui-imagegen/SKILL.md) - 使用 Flux2 工作流通过 ComfyUI API（localhost:8188）生成图像。
 - [cubistic-bot-runner](https://github.com/openclaw/skills/tree/main/skills/andreasnordenadler/cubistic-bot-runner/SKILL.md) - 运行礼貌的 Cubistic 画家机器人（公众参与），使用 Cubistic HTTP API（PoW 挑战 + /act）。
+- [creaa-ai](https://github.com/openclaw/skills/tree/main/skills/yys2024/creaa-ai/SKILL.md) - 通过 Creaa API 生成和编辑图像 + 生成视频（Nano Banana 2、Sora 2、Seedance 2.0、Veo 3.1）。
 - [cybercentry-private-data-verification](https://github.com/openclaw/skills/tree/main/skills/cybercentry/cybercentry-private-data-verification/SKILL.md) - Cybercentry 私有数据验证在 ACP 上 - 实时零知识证明生成和文本完整性验证。
 - [data-viz](https://github.com/openclaw/skills/tree/main/skills/ianalloway/data-viz/SKILL.md) - 从命令行创建数据可视化。
 - [depth-map-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/depth-map-generation/SKILL.md) - 使用 each::sense AI 从图像生成深度图。
@@ -178,4 +179,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/image-and-video-generation.md*
-*翻译时间：2026-03-11*
+*翻译时间：2026-03-12*

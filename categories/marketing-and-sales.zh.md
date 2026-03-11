@@ -2,7 +2,7 @@
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**104 个技能**
+**105 个技能**
 
 - [4chan-reader](https://github.com/openclaw/skills/tree/main/skills/aiasisbot61/4chan-reader/SKILL.md) - 浏览 4chan 板块并提取帖子讨论。
 - [ab-test-setup](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/ab-test-setup/SKILL.md) - 当用户想要规划时。
@@ -94,6 +94,7 @@
 - [sentiment-priority-scorer](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/sentiment-priority-scorer/SKILL.md) - 使用情感、紧迫性、意图、近期性和记录类型对标准化房地产潜在客户进行评分，以生成。
 - [signet](https://github.com/openclaw/skills/tree/main/skills/sebayaki/signet/SKILL.md) - 与 Hunt Town 上的 Signet 链上广告交互。
 - [signup-lead](https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/signup-lead/SKILL.md) - 使用公共 HTTP 端点在 AgenticCreed 系统中创建注册潜在客户。
+- [simplified-social-media](https://github.com/openclaw/skills/tree/main/skills/jacksimplified/simplified-social-media/SKILL.md) - 直接从 AI 编程工具管理你的整个社交媒体 — 发布、安排和分析。
 - [social-media-lead-generation](https://github.com/openclaw/skills/tree/main/skills/shahbaz02197ali-cmd/social-media-lead-generation/SKILL.md) - 此技能帮助企业、培训机构和在线教育者利用社交媒体生成潜在客户和销售。
 - [solo-metrics-track](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-metrics-track/SKILL.md) - 设置 PostHog 指标计划，包括事件漏斗、KPI 基准和终止/迭代/扩展决策阈值。
 - [sovereign-brand-voice-writer](https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-brand-voice-writer/SKILL.md) - 你是一位内容作家，已完美内化用户的品牌声音。
@@ -111,4 +112,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/marketing-and-sales.md*
-*翻译时间：2026-03-05*
+*翻译时间：2026-03-12*

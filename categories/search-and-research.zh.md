@@ -2,7 +2,7 @@
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**348 个技能**
+**350 个技能**
 
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - 由 Ensue 驱动的个人知识库，用于捕获和检索信息。
 - [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - 透明、严谨的研究，提供完整的引用和来源追踪。
@@ -43,6 +43,7 @@
 - [aluvia-web-unblock](https://github.com/openclaw/skills/tree/main/skills/bertxtrella) - 解除网站封锁，绕过 CAPTCHA 和 403 错误。
 - [amazon-data](https://github.com/openclaw/skills/tree/main/skills/rhino88/amazon-data/SKILL.md) - 检索亚马逊产品数据，包括价格、评论、销售估算、库存水平、搜索结果、优惠。
 - [anshumanbh-qmd](https://github.com/openclaw/skills/tree/main/skills/anshumanbh/anshumanbh-qmd/SKILL.md) - 高效搜索 markdown 知识库。
+- [aminer-open-academic](https://github.com/openclaw/skills/tree/main/skills/can/aminer-open-academic/SKILL.md) - AMiner 开放学术平台集成。
 - [answeroverflow](https://github.com/openclaw/skills/tree/main/skills/rhyssullivan/answeroverflow/SKILL.md) - 通过 Answer Overflow 搜索索引化的 Discord 社区讨论。
 - [aoi-triple-memory-lite](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-triple-memory-lite/SKILL.md) - AOI 三重内存（精简版）— 文件搜索 + 决策笔记模板（无插件）。
 - [apo-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/apo-cli/SKILL.md) - 通过 apo-cli 从 apohealth.de 搜索和订购药房产品。
@@ -349,6 +350,7 @@
 - [x-research-but-cheaper](https://github.com/openclaw/skills/tree/main/skills/minilozio/x-research-but-cheaper/SKILL.md) - 由 TwitterAPI.io 驱动的 X/Twitter 研究技能。
 - [xbio](https://github.com/openclaw/skills/tree/main/skills/soanai/xbio/SKILL.md) - 通过 cookies 或 Sweetistics 进行阅读、搜索和发布的 X/Twitter CLI。
 - [xy-pubmed-pdf-downloader](https://github.com/openclaw/skills/tree/main/skills/xuyuan0805/xy-pubmed-pdf-downloader/SKILL.md) - 从 PubMed Central (PMC) 和 Europe PMC 下载 PDF。
+- [xquik-x-twitter-scraper](https://github.com/openclaw/skills/tree/main/skills/kburak/xquik-x-twitter-scraper/SKILL.md) - X API 爬虫，为 AI 代理提供 40+ 工具。
 - [yacy](https://github.com/openclaw/skills/tree/main/skills/qsmtco/yacy/SKILL.md) - 控制和管理本地 YaCy 搜索引擎实例。
 - [yandex-tracker](https://github.com/openclaw/skills/tree/main/skills/kandler3/yandex-tracker/SKILL.md) - 通过 Python 使用 Yandex Tracker（问题、队列、评论、附件、链接、搜索、批量操作）。
 - [yellowagents](https://github.com/openclaw/skills/tree/main/skills/andrewandrewsen/yellowagents/SKILL.md) - AI 智能体的黄页 — 按技能、语言、位置和成本模型发现、注册和搜索智能体。
@@ -360,4 +362,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/search-and-research.md*
-*翻译时间：2026-03-11*
+*翻译时间：2026-03-12*

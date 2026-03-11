@@ -2,7 +2,7 @@
 
 [← 返回列表](../README.md#table-of-contents)
 
-**408 个技能**
+**409 个技能**
 
 - [0x0-messenger](https://github.com/openclaw/skills/tree/main/skills/eijiac24/0x0-messenger/SKILL.md) - Send and receive P2P messages using disposable numbers and PINs.
 - [12306](https://github.com/openclaw/skills/tree/main/skills/kirorab/12306/SKILL.md) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
@@ -182,6 +182,7 @@
 - [gmail-tool](https://github.com/openclaw/skills/tree/main/skills/junkaixue/gmail-tool/SKILL.md) - Send and read emails via Gmail using App Password.
 - [gradient-inference](https://github.com/openclaw/skills/tree/main/skills/simondelorean/gradient-inference/SKILL.md) - Community skill (unofficial) for DigitalOcean Gradient AI Serverless Inference.
 - [grafana-plugin](https://github.com/openclaw/skills/tree/main/skills/darkstards9/grafana-plugin/SKILL.md) - Read current values from Grafana dashboards without knowing the underlying queries.
+- [grafana-lens](https://github.com/openclaw/skills/tree/main/skills/awsome-o/grafana-lens/SKILL.md) - 完整的 Grafana 访问：查询、仪表板、告警、追踪 — 16 个代理工具。
 - [graphthulhu](https://github.com/openclaw/skills/tree/main/skills/skridlevsky/graphthulhu/SKILL.md) - Knowledge graph MCP server for Logseq and Obsidian. 37 tools for reading, writing, searching, and analyzing.
 - [greek-document-ocr](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-document-ocr/SKILL.md) - Greek-language OCR using Tesseract.
 - [greek-email-processor](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-email-processor/SKILL.md) - Email processing for Greek accounting.
@@ -414,4 +415,4 @@
 - [zyfai-sdk](https://github.com/openclaw/skills/tree/main/skills/pauldefi/zyfai-sdk/SKILL.md) - Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/devops-and-cloud.md*
-*翻译时间：2026-03-11*
+*翻译时间：2026-03-12*

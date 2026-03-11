@@ -2,7 +2,7 @@
 
 [← 返回列表主页](../README.md#table-of-contents)
 
-**1220 个技能**
+**1223 个技能**
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://github.com/openclaw/skills/tree/main/skills/0isone/0protocol/SKILL.md) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -202,6 +202,7 @@
 - [budget-variance-analyzer](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction) - Analyze budget vs actual.
 - [buffer-session](https://github.com/openclaw/skills/tree/main/skills/waynevaughan/buffer-session/SKILL.md) - Session management for OpenClaw agents.
 - [builder-data](https://github.com/openclaw/skills/tree/main/skills/juampihernandez/builder-data/SKILL.md) - Query builder reputation data via Talent Protocol API.
+- [bug-audit](https://github.com/openclaw/skills/tree/main/skills/abczsl520/bug-audit/SKILL.md) - Node.js 项目的动态 Bug 狩猎 — 分析每个项目，然后从 9 个审计模块中选择。200+ 真实陷阱。
 - [buildlog](https://github.com/openclaw/skills/tree/main/skills/espetey/buildlog/SKILL.md) - Record, export, and share your AI coding sessions as replayable buildlogs.
 - [bulk-tiktok-downloader-skill](https://github.com/openclaw/skills/tree/main/skills/mes28io/bulk-tiktok-downloader-skill/SKILL.md) - Bulk download TikTok videos from a text file of URLs using yt-dlp.
 - [cacheforge-vibe-check](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-vibe-check/SKILL.md) - Audit code for "vibe coding sins" — patterns that indicate AI-generated code was accepted without proper review.
@@ -334,6 +335,7 @@
 - [dd-video-analyzer](https://github.com/openclaw/skills/tree/main/skills/zedit42/dd-video-analyzer/SKILL.md) - Download videos, extract transcripts, capture frames.
 - [deapi](https://github.com/openclaw/skills/tree/main/skills/zrewolwerowanykaloryfer/deapi/SKILL.md) - The cheapest AI media API on the market.
 - [deen-time](https://github.com/openclaw/skills/tree/main/skills/fermions75/deen-time/SKILL.md) - Get daily Islamic prayer (Salah) times, Iftar, and Suhoor schedules for any location worldwide.
+- [debug-methodology](https://github.com/openclaw/skills/tree/main/skills/abczsl520/debug-methodology/SKILL.md) - 系统化调试，防止 AI 代理中的补丁链和变通方案依赖。
 - [deepseek](https://github.com/openclaw/skills/tree/main/skills/barisoezcan1905/deepseek/SKILL.md) - Integrates DeepSeek API with OpenClaw agents.
 - [delegation](https://github.com/openclaw/skills/tree/main/skills/michaelmonetized/delegation/SKILL.md) - Architecture-first workflow for delegating complex projects to AI coding agents.
 - [dellight-cio-intelligence](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cio-intelligence/SKILL.md) - Chief Intelligence Officer operations for AI startups.
@@ -702,6 +704,7 @@
 - [nirwan-secret-scanner](https://github.com/openclaw/skills/tree/main/skills/nirwandogra/nirwan-secret-scanner/SKILL.md) - Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private.
 - [node-transfer](https://github.com/openclaw/skills/tree/main/skills/eisonme/node-transfer/SKILL.md) - High-speed, memory-efficient file transfer between OpenClaw nodes using native Node.js streams.
 - [noticias-cangrejo](https://github.com/openclaw/skills/tree/main/skills/davidk2yoyo/noticias-cangrejo/SKILL.md) - Fetch and summarize recent news articles from GNews for any user-provided topic, then produce a Markdown digest.
+- [nodejs-project-arch](https://github.com/openclaw/skills/tree/main/skills/abczsl520/nodejs-project-arch/SKILL.md) - AI 友好的 Node.js 架构 — 保持文件在 400 行以下可节省 70-93% token。
 - [ntopng-admin](https://github.com/openclaw/skills/tree/main/skills/transcendenceia/ntopng-admin/SKILL.md) - Professional network monitoring and device identification using ntopng Redis data.
 - [nyx-archive-coding-philosophy](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-coding-philosophy/SKILL.md) - Insights about refactoring intuitive code, when to impose structure vs let feeling lead, and code as creative.
 - [obekt-security](https://github.com/openclaw/skills/tree/main/skills/obekt/obekt-security/SKILL.md) - Basic threat detection and security analysis for code, files, and agent skills.
@@ -1225,4 +1228,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/coding-agents-and-ides.md*
-*翻译时间：2026-03-11*
+*翻译时间：2026-03-12*
