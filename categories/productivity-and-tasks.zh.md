@@ -2,7 +2,7 @@
 
 [← 返回列表](../README.md#table-of-contents)
 
-**206 个技能**
+**207 个技能**
 
 - [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI 规划教练，使用 4To1 Method™ — 将 4 年愿景转化为每日行动。
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - 通过聊天管理 4todo (4to.do)。
@@ -58,6 +58,7 @@
 - [call-report-writer-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-report-writer-agent/SKILL.md) - 用于调用报告编写代理任务的 AI 代理。
 - [capacities](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/capacities/SKILL.md) - 管理 Capacities 笔记、每日条目和网页链接。
 - [card-optimizer](https://github.com/openclaw/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - 信用卡奖励优化器 — 帮助最大化现金返还。
+- [castreader](https://github.com/openclaw/skills/tree/main/skills/castreader/castreader/SKILL.md) - 使用自然的 AI 语音朗读任何网页。唯一能从 URL（包括 Kindle、WeRead、Notion、Google Docs）提取内容并转换为 MP3 音频的技能，支持段落级高亮。
 - [catallax](https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax/SKILL.md) - 在 Nostr 上与 Catallax 去中心化合同工作协议交互。
 - [checkmate](https://github.com/openclaw/skills/tree/main/skills/insipidpoint/checkmate/SKILL.md) - 强制执行任务完成：将你的目标转化为通过/失败标准，运行工作者，判断输出，反馈。
 - [chief-creative-officer](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/chief-creative-officer/SKILL.md) - 用于首席创意官任务的 AI 代理。
@@ -110,7 +111,7 @@
 - [humanod](https://github.com/openclaw/skills/tree/main/skills/armandobrazil/humanod/SKILL.md) - 通过 Humanod API 为现实世界任务雇佣人类。
 - [hylo-ghl](https://github.com/openclaw/skills/tree/main/skills/dasonshi/hylo-ghl/SKILL.md) - GoHighLevel (GHL) 工作流自动化专家，拥有 102 个已验证操作、70 个触发器和 423 个 API 模式。
 - [hz-proactive-agent](https://github.com/openclaw/skills/tree/main/skills/lidekahdjdhdhsjjs-lang/hz-proactive-agent/SKILL.md) - 将 AI 代理从任务跟随者转变为 anticipating 需求并持续改进的主动合作伙伴。
-- [invoice-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-tracker-pro/SKILL.md) - 完成自由职业者计费和作流程 — 生成专业发票、跟踪付款状态、发送自动。
+- [invoice-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-tracker-pro/SKILL.md) - 完成自由职业者计费工作流程 — 生成专业发票、跟踪付款状态、发送自动。
 - [kanboard-skill](https://github.com/openclaw/skills/tree/main/skills/bivex/kanboard-skill/SKILL.md) - 通过 JSON-RPC API 与 Kanboard 项目管理交互。
 - [kaspi-autopay](https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay/SKILL.md) - 哈萨克斯坦市场 (Kaspi Pay) 的 Telegram 机器人自动支付集成
 - [lifx](https://github.com/openclaw/skills/tree/main/skills/stillstellung/lifx/SKILL.md) - 通过自然语言控制 LIFX 智能灯。
@@ -213,4 +214,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/productivity-and-tasks.md*
-*翻译时间：2026-03-05*
+*翻译时间：2026-03-13*

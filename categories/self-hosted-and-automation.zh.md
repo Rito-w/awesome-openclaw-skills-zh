@@ -2,7 +2,7 @@
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**32 个技能**
+**33 个技能**
 
 - [beacon](https://github.com/openclaw/skills/tree/main/skills/scottcjn/beacon/SKILL.md) - 用于社交协调、加密货币支付和 P2P 网格的代理间协议。
 - [bridle](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/bridle/SKILL.md) - AI 编码助手的统一配置管理器。
@@ -17,12 +17,13 @@
 - [freshrss-reader](https://github.com/openclaw/skills/tree/main/skills/nickian/freshrss-reader/SKILL.md) - 从自托管的 FreshRSS 查询标题和文章。
 - [gotify](https://github.com/openclaw/skills/tree/main/skills/jmagar/gotify/SKILL.md) - 当长时间运行的任务完成时，通过 Gotify 发送推送通知。
 - [hydra-evolver](https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md) - 一个 Proxmox 原生的编排技能，可将任何家庭实验室转变为...
+- [keepmyclaw](https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw/SKILL.md) - OpenClaw 工作区的加密云备份和恢复。
 - [kleo-static-files](https://github.com/openclaw/skills/tree/main/skills/awaaate/kleo-static-files/SKILL.md) - 在子域名上托管静态文件，带有可选功能。
 - [lifepath](https://github.com/openclaw/skills/tree/main/skills/ezbreadsniper/lifepath/SKILL.md) - AI 生活模拟器 - 逐年体验无限人生。
 - [looper-golf](https://github.com/openclaw/skills/tree/main/skills/sbauch/looper-golf/SKILL.md) - 使用 CLI 工具打一轮高尔夫球 - 自主或与人类球童配合。
 - [meetgeek](https://github.com/openclaw/skills/tree/main/skills/nexty5870/meetgeek/SKILL.md) - 从 CLI 查询 MeetGeek 会议智能 - 列出会议、获取 AI...
 - [mongodb-atlas-admin](https://github.com/openclaw/skills/tree/main/skills/mrlynn/mongodb-atlas-admin/SKILL.md) - 管理 MongoDB Atlas 集群、项目、用户。
-- [multiple-personas](https://github.com/openclaw/skills/tree/main/skills/ipedrax/multiple-personas/SKILL.md) - 创建和管理具有不同特征的 AI 子代理人格。
+- [multiple-personas](https://github.com/openclaw/skills/tree/main/skills/ipedrax/multiple-personas/SKILL.md) - 创建和管理具有不同特征的 AI 子代理格。
 - [n8n](https://github.com/openclaw/skills/tree/main/skills/thomasansems/n8n/SKILL.md) - 通过 API 管理 n8n 工作流和自动化。
 - [n8n-workflow-automation](https://github.com/openclaw/skills/tree/main/skills/kowl64/n8n-workflow-automation/SKILL.md) - 设计并输出 n8n 工作流 JSON。
 - [nas-master](https://github.com/openclaw/skills/tree/main/skills/afajohn/nas-master/SKILL.md) - 一个硬件感知、混合（SMB + SSH）套件，用于 ASUSTOR NAS 元数据。
@@ -39,4 +40,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/self-hosted-and-automation.md*
-*翻译时间：2026-03-05*
+*翻译时间：2026-03-13*
