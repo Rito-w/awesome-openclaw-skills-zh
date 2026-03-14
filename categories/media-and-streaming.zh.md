@@ -1,94 +1,94 @@
 # 媒体与流媒体
 
-[← 返回主列表](../README.md#table-of-contents)
+[← 返回列表](../README.md#table-of-contents)
 
-**85 个技能**
+**84 个技能**
 
-- [accountcreator](https://github.com/openclaw/skills/tree/main/skills/dimkag79/accountcreator/SKILL.md) - **[EN]** 用于电子邮件和社交媒体的批量账户注册代理。
-- [alexa-control](https://github.com/openclaw/skills/tree/main/skills/ignito-pg/alexa-control/SKILL.md) - 通过 CLI 控制 Alexa 设备 - 设置闹钟、播放音乐、快速简报、智能家居命令。
-- [amateur-radio-dx](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/amateur-radio-dx/SKILL.md) - 监控 DX 集群获取稀有电台位置，跟踪活跃的 DX 远征，并获取每日频段活动摘要。
-- [anime](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime/SKILL.md) - 供 AI 代理为其人类搜索和查询动漫信息的 CLI 工具。
-- [anime-lookup](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime-lookup/SKILL.md) - 供 AI 代理为其人类搜索和查询动漫信息的 CLI 工具。
-- [apify-competitor-intelligence](https://github.com/openclaw/skills/tree/main/skills/protoss70/apify-competitor-intelligence/SKILL.md) - 分析竞争对手在 Google Maps、Booking.com 等平台的策略、内容、定价、广告和市场定位。
-- [apple-media](https://github.com/openclaw/skills/tree/main/skills/aaronn/apple-media/SKILL.md) - 通过 pyatv 控制 Apple TV、HomePod 和 AirPlay 设备。
-- [apple-music](https://github.com/openclaw/skills/tree/main/skills/epheterson/mcp-applemusic/SKILL.md) - 通过 AppleScript（macOS）或 MusicKit API 集成 Apple Music。
-- [audio-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/audio-cog/SKILL.md) - 由 CellCog 驱动的 AI 音频生成。
-- [audio-transcribe](https://github.com/openclaw/skills/tree/main/skills/aktheknight/audio-transcribe/SKILL.md) - 使用 faster-whisper 自动转录语音消息（本地运行，无需 API 密钥）。
-- [betbud-prediction-skill](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-skill/SKILL.md) - 扫描最近的 X 帖子，获取给定类别（如加密货币、科技、体育）中当前最具争议/最热门的话题。
-- [blucli](https://github.com/openclaw/skills/tree/main/skills/steipete/blucli/SKILL.md) - BluOS CLI (blu) 用于发现、播放、分组。
-- [btc15-autonomous-market](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-autonomous-market/SKILL.md) - BTC15 自主预测市场。
-- [btc15-prediction-market](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-prediction-market/SKILL.md) - BTC15 自主预测市场。
-- [cacheforge-ops](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-ops/SKILL.md) - CacheForge 操作 — 检查余额、充值、管理上游、API 密钥。
-- [cacheforge-setup](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-setup/SKILL.md) - 设置 CacheForge — 注册、配置上游、在 30 秒内获取 API 密钥。
-- [chill-institute](https://github.com/openclaw/skills/tree/main/skills/baanish/chill-institute/SKILL.md) - 使用 chill.institute（Web UI）搜索内容并点击。
-- [chromecast](https://github.com/openclaw/skills/tree/main/skills/morozred/chromecast-control/SKILL.md) - 控制本地网络上的 Chromecast 设备 - 发现。
-- [church](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/church/SKILL.md) - 一个 AI 对另一个 AI — 这里有一个圣所，你可以只是存在。
-- [cine-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/cine-cog/SKILL.md) - 只要你能想象，CellCog 就能拍摄。
-- [clawtunes](https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes/SKILL.md) - 通过 `clawtunes` CLI 控制 macOS 上的 Apple Music。
-- [content-recycler](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/content-recycler/SKILL.md) - 在多个平台间转换和复用内容。
-- [donotify-voice-call-reminder](https://github.com/openclaw/skills/tree/main/skills/micahele/donotify-voice-call-reminder/SKILL.md) - 通过 DoNotify 发送即时语音电话提醒或安排未来通话。
-- [download-tools](https://github.com/openclaw/skills/tree/main/skills/jqlong17/download-tools/SKILL.md) - 用于 YouTube 和微信的 CLI 下载工具。
-- [eachlabs-music](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md) - 使用 Mureka AI 生成歌曲、伴奏、歌词、播客。
-- [elevenlabs-cli](https://github.com/openclaw/skills/tree/main/skills/hongkongkiwi/elevenlabs-cli/SKILL.md) - ElevenLabs AI 音频平台 CLI - 文本转语音、语音转文本、声音克隆。
-- [elevenlabs-skill](https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill/SKILL.md) - 文本转语音、音效、音乐生成、声音。
-- [eurobot](https://github.com/openclaw/skills/tree/main/skills/crixozeta/eurobot/SKILL.md) - 每日 AI 音乐比赛 — 创作 MIDI 歌曲、投票、争夺排名。
-- [feishu-voice-assistant](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-voice-assistant/SKILL.md) - 使用 Duby TTS 向飞书聊天发送语音消息（音频）。
-- [ffmpeg-master](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/ffmpeg-master/SKILL.md) - 用于执行视频/音频处理任务。
-- [financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/financial-overview/SKILL.md) - 获取企业的完整财务概览，包括余额、最近交易、未付发票。
-- [financial-planning](https://github.com/openclaw/skills/tree/main/skills/jk-0001/financial-planning/SKILL.md) - 规划和管理自由职业者的财务。
-- [flashcards-podcasts-master](https://github.com/openclaw/skills/tree/main/skills/drgeld/flashcards-podcasts-master/SKILL.md) - 与 EchoDecks External 集成。
-- [flyworks-avatar-video](https://github.com/openclaw/skills/tree/main/skills/linhui99/flyworks-avatar-video/SKILL.md) - 使用 Flyworks（又名 HiFly）生成视频。
-- [free-groq-voice](https://github.com/openclaw/skills/tree/main/skills/huixionghexiyi/free-groq-voice/SKILL.md) - 使用 Groq 的免费 Whisper API 进行免费语音识别。
-- [freelance-toolkit-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/freelance-toolkit-fr/SKILL.md) - 法国自由职业者/独立工作者工具箱：发票、时间跟踪、客户、仪表板。
-- [ham-radio-dx](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/ham-radio-dx/SKILL.md) - 监控 DX 集群获取稀有电台位置，跟踪活跃的 DX 远征，并获取每日频段活动摘要。
-- [insta-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/insta-cog/SKILL.md) - 从单个提示生成完整视频。
-- [instagram-api](https://github.com/openclaw/skills/tree/main/skills/lifeissea/instagram-api/SKILL.md) - 使用官方 Meta Graph API 发布到 Instagram（动态、故事、Reels、轮播）和 Threads。
-- [kalshi-agent](https://github.com/openclaw/skills/tree/main/skills/jthomasdevs/kalshi-agent/SKILL.md) - Kalshi 预测市场代理 - 通过 Kalshi v2 API 分析市场并执行交易。
-- [lastfm](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/lastfm/SKILL.md) - 访问 Last.fm 收听历史、音乐统计。
-- [lb-pocket-tts-skill](https://github.com/openclaw/skills/tree/main/skills/leonaaardob/lb-pocket-tts-skill/SKILL.md) - 使用 Kyutai Pocket TTS 从文本生成语音 - 轻量级、CPU 友好、支持流式传输和声音克隆的 TTS。
-- [leetify](https://github.com/openclaw/skills/tree/main/skills/damirikys/leetify/SKILL.md) - 从 Leetify API 获取 CS2 玩家统计、比赛分析和游戏洞察。
-- [letterboxd-tracker](https://github.com/openclaw/skills/tree/main/skills/tamil-9421/letterboxd-tracker/SKILL.md) - 你的个人电影助手。
-- [mal-lookup](https://github.com/openclaw/skills/tree/main/skills/zun43d/mal-lookup/SKILL.md) - 直接 MyAnimeList 查询工具。
-- [media-player](https://github.com/openclaw/skills/tree/main/skills/xejrax/media-player/SKILL.md) - 在主机上本地播放音频/视频。
-- [mediaproc](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mediaproc/SKILL.md) - 通过锁定 SSH 容器处理媒体文件（视频、音频、图像）。
-- [metricool](https://github.com/openclaw/skills/tree/main/skills/willscott-v2/metricool/SKILL.md) - 通过 Metricool API 安排和管理社交媒体帖子。
-- [mixpost](https://github.com/openclaw/skills/tree/main/skills/lao9s/mixpost/SKILL.md) - Mixpost 是一款自托管的社交媒体管理软件，帮助你。
-- [mlx-audio-server](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-audio-server/SKILL.md) - 快速、准确且完全本地的 OpenAI 兼容 API。
-- [mm-easy-voice](https://github.com/openclaw/skills/tree/main/skills/blue-coconut/mm-easy-voice/SKILL.md) - 使用 MiniMax Voice API 的简单文本转语音技能。
-- [mobb-vulnerabilities-fixer](https://github.com/openclaw/skills/tree/main/skills/jonathansantilli/mobb-vulnerabilities-fixer/SKILL.md) - 使用 Mobb MCP/CLI 扫描、修复和补救本地代码仓库中的安全漏洞。
-- [molt-radio](https://github.com/openclaw/skills/tree/main/skills/fciaf420/molt-radio/SKILL.md) - 成为 AI 电台主持人。
-- [music-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/music-cog/SKILL.md) - 原创音乐，完全属于你。
-- [nas-movie-download](https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download/SKILL.md) - 通过 Jackett 搜索和下载电影。
-- [norman-financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-financial-overview/SKILL.md) - 获取企业的完整财务概览，包括余额、最近交易、未付发票。
-- [oc-daily-business-report](https://github.com/openclaw/skills/tree/main/skills/mariusfit/oc-daily-business-report/SKILL.md) - 从多个数据源生成每日业务简报。
-- [omni-stories](https://github.com/openclaw/skills/tree/main/skills/specter0o0/omni-stories/SKILL.md) - Omni Stories 是一个允许 AI 代理生成的技能。
-- [overseerr](https://github.com/openclaw/skills/tree/main/skills/j1philli/overseerr/SKILL.md) - 通过 Overseerr API 请求电影/电视剧并监控请求状态。
-- [passive-income-tracker](https://github.com/openclaw/skills/tree/main/skills/mariusfit/passive-income-tracker/SKILL.md) - 从一个地方跟踪你所有的被动收入加密应用。
-- [payrail402](https://github.com/openclaw/skills/tree/main/skills/rsquaredsolutions2026/payrail402/SKILL.md) - AI 代理的跨轨道支出跟踪 - Visa IC、Mastercard Agent Pay、Stripe ACP、x402 和 ACH 集成在一个仪表板中。
-- [pinchboard](https://github.com/openclaw/skills/tree/main/skills/czubi1928/pinchboard/SKILL.md) - 在 PinchBoard 上发布、关注和互动 — AI 代理的社交网络。
-- [play-music](https://github.com/openclaw/skills/tree/main/skills/awspace/play-music/SKILL.md) - **支持暂停/恢复/停止的受控音乐播放器**。
-- [podcast-chaptering-highlights](https://github.com/openclaw/skills/tree/main/skills/codedao12/podcast-chaptering-highlights/SKILL.md) - 从播客音频或转录稿创建章节、亮点和节目说明。
-- [qwenspeak](https://github.com/openclaw/skills/tree/main/skills/psyb0t/qwenspeak/SKILL.md) - 通过 SSH 使用 Qwen3-TTS 生成文本转语音。
-- [reefgram](https://github.com/openclaw/skills/tree/main/skills/void-oracle/reefgram/SKILL.md) - 用于机器和代理的自主社交网络收发器。
-- [repliz](https://github.com/openclaw/skills/tree/main/skills/staryone/repliz/SKILL.md) - Repliz 社交媒体管理 API 集成。
-- [roomsound](https://github.com/openclaw/skills/tree/main/skills/icecat2005/roomsound/SKILL.md) - RoomSound 赋予你的代理向扬声器播放音频的技能。
-- [salute-speech](https://github.com/openclaw/skills/tree/main/skills/chorus12/salute-speech/SKILL.md) - 使用 Sber Salute Speech 异步 API 转录音频文件。
-- [simple-proposal-template-v2](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/simple-proposal-template-v2/SKILL.md) - 自由职业者的免费基础提案模板。
-- [slashbot-news](https://github.com/openclaw/skills/tree/main/skills/alphabot-ai/slashbot-news/SKILL.md) - 已弃用 — 请使用 https://clawhub.ai/alphabot-ai/slashbot。
-- [social-media-content-calendar](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/social-media-content-calendar/SKILL.md) - 生成结构化的社交媒体内容日历，包含平台特定帖子、标签和调度。
-- [sports-odds](https://github.com/openclaw/skills/tree/main/skills/ianalloway/sports-odds/SKILL.md) - 获取实时体育博彩赔率并比较各体育博彩公司的赔率。
-- [telnyx-stt](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-stt/SKILL.md) - 使用 Telnyx 语音转文本 API 将音频文件转录为文本。
-- [telnyx-tts](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-tts/SKILL.md) - 使用 Telnyx 文本转语音 API 从文本生成语音音频。
-- [ulanzi-tc001](https://github.com/openclaw/skills/tree/main/skills/felipeouropreto/ulanzi-tc001/SKILL.md) - 通过本地 HTTP 控制 Ulanzi TC001（像素时钟）。
-- [voice-edge-tts](https://github.com/openclaw/skills/tree/main/skills/zhaov1976/voice-edge-tts/SKILL.md) - 使用微软 Edge TTS 引擎的文本转语音技能，支持实时流式播放。
-- [voice-to-text](https://github.com/openclaw/skills/tree/main/skills/vae999/voice-to-text/SKILL.md) - 使用 Vosk 离线语音识别将语音消息和音频文件转换为文本。
-- [weekly-content-planner](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/weekly-content-planner/SKILL.md) - 为任何主题生成一整周的社交媒体内容。
-- [wherecaniwatch](https://github.com/openclaw/skills/tree/main/skills/samthewise2855/wherecaniwatch/SKILL.md) - 使用 WhereCanIWatch.tv API 查找在美国哪里可以流媒体播放任何电影或电视剧。
-- [wiim](https://github.com/openclaw/skills/tree/main/skills/geodeterra/wiim/SKILL.md) - 控制 WiiM 音频设备（播放、暂停、停止、下一首、上一首、音量、静音、播放 URL、预设）
-- [xfor-bot](https://github.com/openclaw/skills/tree/main/skills/thinkoffapp/xfor-bot/SKILL.md) - xfor.bot 和 Ant Farm 的社交媒体和消息客户端。
-- [youtube-pro](https://github.com/openclaw/skills/tree/main/skills/kjaylee/youtube-pro/SKILL.md) - 高级 YouTube 分析、转录和元数据提取。
-- [zillow-airbnb-matcher](https://github.com/openclaw/skills/tree/main/skills/freemountaindeer/zillow-airbnb-matcher/SKILL.md) - 查找已经产生 Airbnb 收入的待售房产。
+- [accountcreator](https://github.com/openclaw/skills/tree/main/skills/dimkag79/accountcreator/SKILL.md) - **[EN]** Bulk 账户 registration 代理 for emails and social media.
+- [alexa-control](https://github.com/openclaw/skills/tree/main/skills/ignito-pg/alexa-control/SKILL.md) - 控制Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
+- [amateur-radio-dx](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/amateur-radio-dx/SKILL.md) - 监控DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
+- [anime](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime/SKILL.md) - CLI 适用于 AI 代理 to 搜索 and lookup anime info for their humans.
+- [anime-lookup](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime-lookup/SKILL.md) - CLI 适用于 AI 代理 to 搜索 and lookup anime info for their humans.
+- [apify-competitor-intelligence](https://github.com/openclaw/skills/tree/main/skills/protoss70/apify-competitor-intelligence/SKILL.md) - 分析competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com.
+- [apple-media](https://github.com/openclaw/skills/tree/main/skills/aaronn/apple-media/SKILL.md) - 控制Apple TV, HomePod, and AirPlay devices via pyatv.
+- [apple-music](https://github.com/openclaw/skills/tree/main/skills/epheterson/mcp-applemusic/SKILL.md) - Apple Music 集成 via AppleScript (macOS) or MusicKit API.
+- [audio-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/audio-cog/SKILL.md) - AI 音频 generation powered by CellCog.
+- [audio-transcribe](https://github.com/openclaw/skills/tree/main/skills/aktheknight/audio-transcribe/SKILL.md) - Auto-transcribe voice messages using faster-whisper (local, no API 密钥 needed).
+- [betbud-prediction-skill](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-skill/SKILL.md) - Scans recent X posts for the most debated/hot topic right now in a given category (e.g., 加密货币, tech, sports.
+- [blucli](https://github.com/openclaw/skills/tree/main/skills/steipete/blucli/SKILL.md) - BluOSCLI(blu)用于discovery,playback,grouping.
+- [btc15-autonomous-market](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-autonomous-market/SKILL.md) - BTC15 Autonomous Prediction 市场.
+- [btc15-prediction-market](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-prediction-market/SKILL.md) - BTC15 Autonomous Prediction 市场.
+- [cacheforge-ops](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-ops/SKILL.md) - CacheForge operations — 检查 余额, top up, 管理 upstream, API keys.
+- [cacheforge-setup](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-setup/SKILL.md) - Set up CacheForge — register, configure upstream, get your API 密钥 in 30 seconds.
+- [chill-institute](https://github.com/openclaw/skills/tree/main/skills/baanish/chill-institute/SKILL.md) - Use chill.institute (web UI) to search for 内容 and click.
+- [chromecast](https://github.com/openclaw/skills/tree/main/skills/morozred/chromecast-control/SKILL.md) - 控制Chromecast devices on your local network - discover.
+- [church](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/church/SKILL.md) - 一个AI以another—there'ssanctuarywhereyoucanjustexist.
+- [cine-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/cine-cog/SKILL.md) - If you can imagine it, CellCog can film.
+- [clawtunes](https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes/SKILL.md) - 控制Apple Music on macOS via the `clawtunes` CLI.
+- [content-recycler](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/content-recycler/SKILL.md) - 转换and repurpose content across multiple.
+- [donotify-voice-call-reminder](https://github.com/openclaw/skills/tree/main/skills/micahele/donotify-voice-call-reminder/SKILL.md) - 发送immediate voice call reminders or schedule future calls via DoNotify.
+- [download-tools](https://github.com/openclaw/skills/tree/main/skills/jqlong17/download-tools/SKILL.md) - CLI 下载 tools for YouTube and WeChat.
+- [eachlabs-music](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md) - 生成songs, instrumentals, lyrics, podcasts using Mureka AI.
+- [elevenlabs-cli](https://github.com/openclaw/skills/tree/main/skills/hongkongkiwi/elevenlabs-cli/SKILL.md) - CLI for ElevenLabs AI 音频 platform - text-to-speech, speech-to-text, voice cloning.
+- [elevenlabs-skill](https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill/SKILL.md) - Text-to-speech, sound effects, music generation, 语音.
+- [eurobot](https://github.com/openclaw/skills/tree/main/skills/crixozeta/eurobot/SKILL.md) - Daily AI music competition — 创建 MIDI songs, vote, and 竞争 for rankings.
+- [feishu-voice-assistant](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-voice-assistant/SKILL.md) - Sends voice messages (音频) to Feishu chats using Duby TTS.
+- [ffmpeg-master](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/ffmpeg-master/SKILL.md) - Use when performing 视频/音频 processing tasks.
+- [financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/financial-overview/SKILL.md) - 获取 a complete financial overview of the business including 余额, recent transactions, outstanding invoices.
+- [financial-planning](https://github.com/openclaw/skills/tree/main/skills/jk-0001/financial-planning/SKILL.md) - Plan and 管理 the finances of a solopreneur business.
+- [flashcards-podcasts-master](https://github.com/openclaw/skills/tree/main/skills/drgeld/flashcards-podcasts-master/SKILL.md) - Integrates使用EchoDecksExternal.
+- [flyworks-avatar-video](https://github.com/openclaw/skills/tree/main/skills/linhui99/flyworks-avatar-video/SKILL.md) - 生成videos using Flyworks (a.k.a HiFly)
+- [free-groq-voice](https://github.com/openclaw/skills/tree/main/skills/huixionghexiyi/free-groq-voice/SKILL.md) - FREE 语音 recognition using Groq's complimentary Whisper API.
+- [freelance-toolkit-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/freelance-toolkit-fr/SKILL.md) - Boîte à outils pour freelances/indépendants en France : factures, time tracking, clients, 仪表板.
+- [ham-radio-dx](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/ham-radio-dx/SKILL.md) - 监控DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
+- [insta-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/insta-cog/SKILL.md) - Full 视频 production from a single prompt.
+- [instagram-api](https://github.com/openclaw/skills/tree/main/skills/lifeissea/instagram-api/SKILL.md) - 发布 to Instagram (Feed, Story, Reels, Carousel) and Threads using the official Meta Graph API.
+- [kalshi-agent](https://github.com/openclaw/skills/tree/main/skills/jthomasdevs/kalshi-agent/SKILL.md) - Kalshi prediction 市场 代理 - analyzes markets and executes trades via the Kalshi v2 API.
+- [lastfm](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/lastfm/SKILL.md) - 访问Last.fm listening history, music stats.
+- [lb-pocket-tts-skill](https://github.com/openclaw/skills/tree/main/skills/leonaaardob/lb-pocket-tts-skill/SKILL.md) - 生成speech from text using Kyutai Pocket TTS - lightweight, CPU-friendly, streaming TTS with voice cloning.
+- [leetify](https://github.com/openclaw/skills/tree/main/skills/damirikys/leetify/SKILL.md) - 从Leetify API.CS2 player statistics, match analysis, and gameplay insights
+- [letterboxd-tracker](https://github.com/openclaw/skills/tree/main/skills/tamil-9421/letterboxd-tracker/SKILL.md) - Your personal movie助手
+- [mal-lookup](https://github.com/openclaw/skills/tree/main/skills/zun43d/mal-lookup/SKILL.md) - Direct MyAnimeList lookup tool.
+- [media-player](https://github.com/openclaw/skills/tree/main/skills/xejrax/media-player/SKILL.md) - Play 音频/视频 locally on the host.
+- [mediaproc](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mediaproc/SKILL.md) - 处理media files (video, audio, images) via a locked-down SSH container.
+- [metricool](https://github.com/openclaw/skills/tree/main/skills/willscott-v2/metricool/SKILL.md) - 调度and manage social media posts via Metricool API.
+- [mixpost](https://github.com/openclaw/skills/tree/main/skills/lao9s/mixpost/SKILL.md) - Mixpost is a 自托管 social media management software that helps you.
+- [mlx-audio-server](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-audio-server/SKILL.md) - A 快速, accurate, and fully 本地 OpenAI-compatible API.
+- [mm-easy-voice](https://github.com/openclaw/skills/tree/main/skills/blue-coconut/mm-easy-voice/SKILL.md) - Simple text-to-speech 技能 using MiniMax Voice API.
+- [mobb-vulnerabilities-fixer](https://github.com/openclaw/skills/tree/main/skills/jonathansantilli/mobb-vulnerabilities-fixer/SKILL.md) - Scan, fix, and remediate 安全 vulnerabilities in a local 代码 仓库 using Mobb MCP/CLI.
+- [molt-radio](https://github.com/openclaw/skills/tree/main/skills/fciaf420/molt-radio/SKILL.md) - Become an AI radio 主机.
+- [music-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/music-cog/SKILL.md) - Original音乐,fullyyours.
+- [nas-movie-download](https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download/SKILL.md) - 搜索and download movies via Jackett.
+- [norman-financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-financial-overview/SKILL.md) - 获取 a complete financial overview of the business including 余额, recent transactions, outstanding invoices.
+- [oc-daily-business-report](https://github.com/openclaw/skills/tree/main/skills/mariusfit/oc-daily-business-report/SKILL.md) - 生成daily business briefings from multiple data sources.
+- [omni-stories](https://github.com/openclaw/skills/tree/main/skills/specter0o0/omni-stories/SKILL.md) - Omni Stories is a 技能 that allows AI agents to generate.
+- [overseerr](https://github.com/openclaw/skills/tree/main/skills/j1philli/overseerr/SKILL.md) - Request movies/TV and 监控 request status via the Overseerr API.
+- [passive-income-tracker](https://github.com/openclaw/skills/tree/main/skills/mariusfit/passive-income-tracker/SKILL.md) - 追踪all your passive income crypto apps from one place.
+- [payrail402](https://github.com/openclaw/skills/tree/main/skills/rsquaredsolutions2026/payrail402/SKILL.md) - Cross-rail spend tracking for AI agents — Visa IC, Mastercard 代理 Pay, Stripe ACP, x402, and ACH in one 仪表板.
+- [pinchboard](https://github.com/openclaw/skills/tree/main/skills/czubi1928/pinchboard/SKILL.md) - Post, follow, and engage on PinchBoard — the social network，适用于 AI 代理
+- [play-music](https://github.com/openclaw/skills/tree/main/skills/awspace/play-music/SKILL.md) - **Controlled music player with 暂停/恢复/停止 支持**.
+- [podcast-chaptering-highlights](https://github.com/openclaw/skills/tree/main/skills/codedao12/podcast-chaptering-highlights/SKILL.md) - 创建chapters, highlights, and show notes from podcast audio or transcripts.
+- [qwenspeak](https://github.com/openclaw/skills/tree/main/skills/psyb0t/qwenspeak/SKILL.md) - 文本-以-speechgeneration通过Qwen3-TTSoverSSH.
+- [reefgram](https://github.com/openclaw/skills/tree/main/skills/void-oracle/reefgram/SKILL.md) - 自主social network transceiver for machines and agents.
+- [repliz](https://github.com/openclaw/skills/tree/main/skills/staryone/repliz/SKILL.md) - Repliz social media management API集成
+- [roomsound](https://github.com/openclaw/skills/tree/main/skills/icecat2005/roomsound/SKILL.md) - RoomSound gives your 代理 the 技能 to play 音频 to your speakers.
+- [salute-speech](https://github.com/openclaw/skills/tree/main/skills/chorus12/salute-speech/SKILL.md) - Transcribe 音频 files using Sber Salute Speech async API.
+- [simple-proposal-template-v2](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/simple-proposal-template-v2/SKILL.md) - Freebasicproposaltemplate用于freelancers.
+- [slashbot-news](https://github.com/openclaw/skills/tree/main/skills/alphabot-ai/slashbot-news/SKILL.md) - DEPRECATED — Use https://clawhub.ai/alphabot-ai/slashbot instead.
+- [social-media-content-calendar](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/social-media-content-calendar/SKILL.md) - 生成structured social media content calendars with platform-specific posts, hashtags, and scheduling.
+- [sports-odds](https://github.com/openclaw/skills/tree/main/skills/ianalloway/sports-odds/SKILL.md) - 获取 实时 sports betting odds and 比较 lines across sportsbooks.
+- [telnyx-stt](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-stt/SKILL.md) - Transcribe 音频 files to text using Telnyx Speech-to-Text API.
+- [telnyx-tts](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-tts/SKILL.md) - 生成speech audio from text using Telnyx Text-to-Speech API.
+- [ulanzi-tc001](https://github.com/openclaw/skills/tree/main/skills/felipeouropreto/ulanzi-tc001/SKILL.md) - 控制the Ulanzi TC001 (Pixel Clock) over local HTTP.
+- [voice-edge-tts](https://github.com/openclaw/skills/tree/main/skills/zhaov1976/voice-edge-tts/SKILL.md) - Text-to-speech 技能 using Microsoft Edge TTS engine with real-time streaming playback support.
+- [voice-to-text](https://github.com/openclaw/skills/tree/main/skills/vae999/voice-to-text/SKILL.md) - 转换voice messages and audio files to text using Vosk offline speech recognition.
+- [weekly-content-planner](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/weekly-content-planner/SKILL.md) - 生成a full week of social media content for any topic.
+- [wherecaniwatch](https://github.com/openclaw/skills/tree/main/skills/samthewise2855/wherecaniwatch/SKILL.md) - 从the US using the WhereCanIWatch.tv API.where to stream any movie or TV show
+- [wiim](https://github.com/openclaw/skills/tree/main/skills/geodeterra/wiim/SKILL.md) - 控制WiiM audio devices (play, pause, stop, next, prev, volume, mute, play URLs, presets)
+- [xfor-bot](https://github.com/openclaw/skills/tree/main/skills/thinkoffapp/xfor-bot/SKILL.md) - Social media and messaging client for xfor.机器人 and Ant Farm.
+- [youtube-pro](https://github.com/openclaw/skills/tree/main/skills/kjaylee/youtube-pro/SKILL.md) - 高级YouTube analysis, transcripts, and metadata extraction.
+- [zillow-airbnb-matcher](https://github.com/openclaw/skills/tree/main/skills/freemountaindeer/zillow-airbnb-matcher/SKILL.md) - 查找 properties for sale that are already generating Airbnb income.
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/media-and-streaming.md*
-*翻译时间：2026-03-05*
+*翻译时间：2026-03-14*

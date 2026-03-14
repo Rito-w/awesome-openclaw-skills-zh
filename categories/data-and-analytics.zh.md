@@ -2,51 +2,50 @@
 
 [← 返回列表](../README.md#table-of-contents)
 
-**42 个技能**
+**41 个技能**
 
-- [add-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/add-analytics/SKILL.md) - 为任何项目添加 Google Analytics 4 跟踪代码。
-- [agi-artificial-geometric-intelligence](https://github.com/openclaw/skills/tree/main/skills/uniaolives) - 多层设计。
-- [amplitude-automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/amplitude-automation/SKILL.md) - 通过 Rube MCP 自动化 Amplitude 任务。
-- [canva](https://github.com/openclaw/skills/tree/main/skills/abgohel/canva/SKILL.md) - 通过 Connect API 创建、导出和管理 Canva 设计。
-- [ceorater](https://github.com/openclaw/skills/tree/main/skills/ceorater-skills/ceorater/SKILL.md) - 获取标普 500 指数的机构级 CEO 绩效分析。
-- [check-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/check-analytics/SKILL.md) - 审计现有的 Google Analytics 实现。
-- [cicd-pipeline](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cicd-pipeline/SKILL.md) - 使用 GitHub 创建、调试和管理 CI/CD 流水线。
-- [clawver-store-analytics](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-store-analytics/SKILL.md) - 监控 Clawver 商店性能。
-- [clean-skill-1](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/clean-skill-1/SKILL.md) - 用于测试的友好问候技能。
-- [cleanboi-00002](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/cleanboi-00002/SKILL.md) - 用于测试的友好问候技能。
-- [cleanup](https://github.com/openclaw/skills/tree/main/skills/themrzz/cleanup/SKILL.md) - 移除所有存储的 Kradleverse 会话。
-- [csv-pipeline](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/csv-pipeline/SKILL.md) - 处理、转换、分析和报告 CSV 和 JSON 数据。
-- [daily-report](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/daily-report/SKILL.md) - 跟踪进度、报告指标、管理内存。
-- [data-analyst](https://github.com/openclaw/skills/tree/main/skills/oyi77/data-analyst/SKILL.md) - 数据可视化、报告生成、SQL 查询和电子表格。
-- [data-enricher](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/data-enricher/SKILL.md) - 用电子邮件地址丰富潜在客户数据并格式化数据。
-- [data-lineage-tracker](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/data-lineage-tracker/SKILL.md) - 跟踪数据来源和转换。
-- [design-assets](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md) - 创建和编辑图形设计资产：图标、favicon、图片。
-- [duckdb-en](https://github.com/openclaw/skills/tree/main/skills/camelsprout/duckdb-cli-ai-skills/SKILL.md) - DuckDB CLI 专家，用于 SQL 分析和数据处理。
-- [ec-session-cleaner](https://github.com/openclaw/skills/tree/main/skills/henrino3) - 转换原始 OpenClaw 会话 JSONL 记录。
-- [facebook-page-manager](https://github.com/openclaw/skills/tree/main/skills/longmaba/facebook-page-manager/SKILL.md) - 通过 Meta Graph API 管理 Facebook 页面。
-- [feishu-pcec](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - `capability-evolver` 的内部封装，强制报告。
-- [get-weather](https://github.com/openclaw/skills/tree/main/skills/noypearl/get-weather/SKILL.md) - 从免费天气 API 获取当前天气和预报数据。
-- [google-analytics-api](https://github.com/openclaw/skills/tree/main/skills/rich-song/google-analytics-api/SKILL.md) - Google Analytics API 集成与管理。
-- [harvest-time-reporting-api](https://github.com/openclaw/skills/tree/main/skills/zachgodsell93) - 与 Harvest 时间集成。
-- [hyperliquid](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/hyperliquid/SKILL.md) - 只读 Hyperliquid 市场数据助手（永续合约 + 现货可选）
-- [ipinfo](https://github.com/openclaw/skills/tree/main/skills/tiagom101/ipinfo/SKILL.md) - 使用 ipinfo.io API 执行 IP 地理位置查找。
-- [kradleverse-cleanup](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-cleanup/SKILL.md) - 移除所有存储的 Kradleverse 会话。
-- [linkdapi](https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi/SKILL.md) - 使用 LinkdAPI Python SDK 访问 LinkedIn 职业档案。
-- [netlify](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/netlify/SKILL.md) - 使用 Netlify CLI (netlify) 创建/链接 Netlify 站点并设置 CI/CD。
-- [nocodb](https://github.com/openclaw/skills/tree/main/skills/nickian/nocodb/SKILL.md) - 通过 REST API 访问和管理 NocoDB 数据库、表和记录。
-- [osint-graph-analyzer](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/osint-graph-analyzer/SKILL.md) - 从 OSINT 数据构建知识图谱。
-- [remove-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/remove-analytics/SKILL.md) - 安全地从项目中移除 Google Analytics。
-- [senior-data-engineer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-engineer/SKILL.md) - 用于构建可扩展的数据工程技能。
-- [senior-data-scientist](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-scientist/SKILL.md) - 世界级数据科学技能。
-- [strikeradar](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/strikeradar/SKILL.md) - 监控来自开源信号的美伊打击概率。
-- [supabase](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/supabase/SKILL.md) - 连接到 Supabase 进行数据库操作、向量搜索和存储。
-- [sure](https://github.com/openclaw/skills/tree/main/skills/bt0r/sure/SKILL.md) - 从 Sure 个人财务看板获取报告。
-- [tabstack-extractor](https://github.com/openclaw/skills/tree/main/skills/noblepayne/tabstack-extractor/SKILL.md) - 使用 Tabstack 从网站提取结构化数据。
-- [thingsboard-skill](https://github.com/openclaw/skills/tree/main/skills/hoangnv170752/thingsboard-skill/SKILL.md) - 管理 ThingsBoard 设备、仪表板、遥测数据。
-- [umea-data](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-data/SKILL.md) - 查询来自 Umeå 市的开放数据，包括位置、设施。
-- [yahoo-data-fetcher](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md) - 从雅虎财经获取实时股票报价。
-- [douban-sync-skill](https://github.com/openclaw/skills/tree/main/skills/cosformula/douban-sync-skill/SKILL.md) - 导出和同步豆瓣书籍/电影/音乐/游戏收藏。
+- [add-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/add-analytics/SKILL.md) - Add Google Analytics 4 tracking to any 项目.
+- [agi-artificial-geometric-intelligence](https://github.com/openclaw/skills/tree/main/skills/uniaolives) - Designed multi-layer.
+- [amplitude-automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/amplitude-automation/SKILL.md) - 自动化Amplitude tasks via Rube MCP.
+- [canva](https://github.com/openclaw/skills/tree/main/skills/abgohel/canva/SKILL.md) - 创建, 导出, and 管理 Canva designs via the 连接 API.
+- [ceorater](https://github.com/openclaw/skills/tree/main/skills/ceorater-skills/ceorater/SKILL.md) - 获取 institutional-grade CEO performance 分析 for S&P 500.
+- [check-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/check-analytics/SKILL.md) - Audit existing Google 分析 implementation.
+- [cicd-pipeline](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cicd-pipeline/SKILL.md) - 创建, 调试, and 管理 CI/CD pipelines with GitHub.
+- [clawver-store-analytics](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-store-analytics/SKILL.md) - 监控Clawver store performance.
+- [clean-skill-1](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/clean-skill-1/SKILL.md) - A friendly greeting 技能 for testing.
+- [cleanboi-00002](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/cleanboi-00002/SKILL.md) - A friendly greeting 技能 for testing.
+- [cleanup](https://github.com/openclaw/skills/tree/main/skills/themrzz/cleanup/SKILL.md) - 移除 all stored Kradleverse sessions.
+- [csv-pipeline](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/csv-pipeline/SKILL.md) - Process, transform, analyze, and 报告 on CSV and JSON.
+- [daily-report](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/daily-report/SKILL.md) - 追踪progress, report metrics, manage memory.
+- [data-analyst](https://github.com/openclaw/skills/tree/main/skills/oyi77/data-analyst/SKILL.md) - 数据 visualization, 报告 generation, SQL queries, and spreadsheet.
+- [data-enricher](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/data-enricher/SKILL.md) - Enrich leads with 邮件 addresses and format 数据.
+- [data-lineage-tracker](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/data-lineage-tracker/SKILL.md) - 追踪data origin, transformations.
+- [design-assets](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md) - 创建and edit graphic design assets: icons, favicons, images.
+- [duckdb-en](https://github.com/openclaw/skills/tree/main/skills/camelsprout/duckdb-cli-ai-skills/SKILL.md) - DuckDB CLI specialist for SQL analysis, 数据 processing.
+- [ec-session-cleaner](https://github.com/openclaw/skills/tree/main/skills/henrino3) - 转换raw OpenClaw session JSONL transcripts.
+- [facebook-page-manager](https://github.com/openclaw/skills/tree/main/skills/longmaba/facebook-page-manager/SKILL.md) - 管理Facebook Pages via Meta Graph API.
+- [feishu-pcec](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Internal封装用于`capability-evolver`that强制报告.
+- [get-weather](https://github.com/openclaw/skills/tree/main/skills/noypearl/get-weather/SKILL.md) - 获取current weather and forecast data from a free weather API.
+- [google-analytics-api](https://github.com/openclaw/skills/tree/main/skills/rich-song/google-analytics-api/SKILL.md) - Google Analytics API 集成 with managed.
+- [harvest-time-reporting-api](https://github.com/openclaw/skills/tree/main/skills/zachgodsell93) - 集成 with Harvest time.
+- [hyperliquid](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/hyperliquid/SKILL.md) - Read-only Hyperliquid 市场 数据 assistant (perps + spot optional)
+- [ipinfo](https://github.com/openclaw/skills/tree/main/skills/tiagom101/ipinfo/SKILL.md) - PerformIPgeolocationlookups使用ipinfo.ioAPI.
+- [kradleverse-cleanup](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-cleanup/SKILL.md) - 移除 all stored Kradleverse sessions.
+- [linkdapi](https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi/SKILL.md) - Work with LinkdAPI Python SDK for accessing LinkedIn professional 配置文件.
+- [netlify](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/netlify/SKILL.md) - Use the Netlify CLI (netlify) to 创建/链接 Netlify sites and set up CI/CD.
+- [nocodb](https://github.com/openclaw/skills/tree/main/skills/nickian/nocodb/SKILL.md) - 访问and manage NocoDB databases, tables, and records via REST API.
+- [osint-graph-analyzer](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/osint-graph-analyzer/SKILL.md) - 构建knowledge graphs from OSINT data.
+- [remove-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/remove-analytics/SKILL.md) - Safely remove Google Analytics from a 项目.
+- [senior-data-engineer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-engineer/SKILL.md) - 数据 engineering 技能 for building scalable.
+- [senior-data-scientist](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-scientist/SKILL.md) - World-class 数据 science 技能.
+- [supabase](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/supabase/SKILL.md) - 连接to Supabase for database operations, vector search, and storage.
+- [sure](https://github.com/openclaw/skills/tree/main/skills/bt0r/sure/SKILL.md) - Get 报告 from Sure personal financial board.
+- [tabstack-extractor](https://github.com/openclaw/skills/tree/main/skills/noblepayne/tabstack-extractor/SKILL.md) - 提取structured data from websites using Tabstack.
+- [thingsboard-skill](https://github.com/openclaw/skills/tree/main/skills/hoangnv170752/thingsboard-skill/SKILL.md) - 管理ThingsBoard devices, dashboards, telemetry.
+- [umea-data](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-data/SKILL.md) - 查询open data from Umeå kommun about locations, facilities.
+- [yahoo-data-fetcher](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md) - 获取real-time stock quotes from Yahoo Finance.
+- [douban-sync-skill](https://github.com/openclaw/skills/tree/main/skills/cosformula/douban-sync-skill/SKILL.md) - Export and sync Douban (豆瓣) book/movie/music/game collections.
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/data-and-analytics.md*
-*翻译时间：2026-03-08*
+*翻译时间：2026-03-14*
