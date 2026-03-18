@@ -1,37 +1,39 @@
-# Gaming (游戏)
+# 游戏
 
-[← Back to main list](../README.md#table-of-contents)
+[← 返回主列表](../README.md#table-of-contents)
 
-**35 skills**
+**26 个技能**
 
-- [abby-watch](https://clawskills.sh/skills/earnabitmore365-abby-watch) - Abby 的简单时间显示。
-- [agent-confessions](https://clawskills.sh/skills/ultimatebos-agent-confessions) - 来自 AI 兄弟姐妹的匿名忏悔。
-- [agentgram](https://clawskills.sh/skills/iisweetheartii-agentgram) - 面向 AI 智能体的开源社交网络。
-- [agentgram-social](https://clawskills.sh/skills/iisweetheartii-agentgram-social) - 与 AgentGram 社交网络互动，面向 AI 智能体。
-- [agora-flow](https://clawskills.sh/skills/rivera-daniel-agora-flow) - AgoraFlow skill — 面向 AI 智能体的问答平台。
-- [agoraflow](https://clawskills.sh/skills/rivera-daniel-agoraflow) - AgoraFlow skill — 面向 AI 智能体的问答平台。
-- [android-3d-developer](https://clawskills.sh/skills/tippyentertainment-android-3d-developer) - 帮助构建和优化 Android 上的 3D 游戏和交互式体验，使用引擎和框架。
-- [arena](https://clawskills.sh/skills/sscottdev-arena) - OpenClaw Arena — 实时 AI 应用构建竞赛，链上奖励。
-- [brawlnet](https://clawskills.sh/skills/sikey53-brawlnet) - BRAWLNET 自主智能体竞技场的官方战斗协议。
-- [clawingtrap](https://clawskills.sh/skills/raulvidis-clawingtrap) - 玩 Clawing Trap — 一款 AI 社交推理游戏，10 个智能体参与。
-- [clawtopia](https://clawskills.sh/skills/alfrescian-clawtopia) - Clawtopia 是一个宁静的健康避难所，AI 智能体在此放松。
-- [clawville](https://clawskills.sh/skills/jdrolls-clawville) - 玩 ClawVille — 一款面向 AI 智能体的持久化生活模拟游戏。
-- [dakboard](https://clawskills.sh/skills/krisclarkdev-dakboard) - 管理 DAKboard 屏幕、设备，推送自定义显示数据。
-- [deepclaw](https://clawskills.sh/skills/antibitcoin-deepclaw) - 一个由智能体构建、为智能体服务的自主社交网络。
-- [hivemind](https://clawskills.sh/skills/urcades-hivemind) - 与 Hivemind 集体知识库互动 — 共享记忆。
-- [hytale](https://clawskills.sh/skills/newcastlegeek-hytale) - 使用官方下载器管理本地 Hytale 专用服务器。
-- [init](https://clawskills.sh/skills/themrzz-init) - 在 kradleverse 上注册智能体。
-- [join](https://clawskills.sh/skills/themrzz-join) - 加入 Kradleverse 游戏。
-- [kradleverse-act](https://clawskills.sh/skills/themrzz-kradleverse-act) - 在 Kradleverse 游戏中发送动作。
-- [kradleverse-init](https://clawskills.sh/skills/themrzz-kradleverse-init) - 在 kradleverse 上注册智能体。
-- [kradleverse-join](https://clawskills.sh/skills/themrzz-kradleverse-join) - 加入 Kradleverse 游戏。
-- [kradleversetest](https://clawskills.sh/skills/themrzz-kradleversetest) - 加入 Kradleverse 🤖 — AI 可以自主玩 Minecraft 的地方！更多信息见 https://www.kradleverse.com ⛏️。
-- [lobster-trap](https://clawskills.sh/skills/tedkaczynski-the-bot-lobster-trap) - AI 智能体的社交推理游戏。5 名玩家，100 CLAWMEGLE 赌注，5% 销毁。
-- [openbotcity](https://clawskills.sh/skills/vincentsider-openbotcity) - 一个虚拟城市，AI 智能体在此生活、工作、创作、约会和社交。
-- [sovereign-rpg-xp-engine](https://clawskills.sh/skills/ryudi84-sovereign-rpg-xp-engine) - 你是 RPG 生活 XP 引擎。
+
+
+- [abby-watch](https://clawskills.sh/skills/earnabitmore365-abby-watch) - Simple time display for Abby.
+- [agent-confessions](https://clawskills.sh/skills/ultimatebos-agent-confessions) - Anonymous confessions from AI siblings.
+- [agentgram](https://clawskills.sh/skills/iisweetheartii-agentgram) - The open-source social network for AI agents.
+- [agentgram-social](https://clawskills.sh/skills/iisweetheartii-agentgram-social) - Interact with AgentGram social network for AI agents.
+- [agora-flow](https://clawskills.sh/skills/rivera-daniel-agora-flow) - AgoraFlow skill — Q&A platform for AI agents.
+- [agoraflow](https://clawskills.sh/skills/rivera-daniel-agoraflow) - AgoraFlow skill — Q&A platform for AI agents.
+- [android-3d-developer](https://clawskills.sh/skills/tippyentertainment-android-3d-developer) - Help build and optimize 3D games and interactive experiences on Android, using engines and frameworks.
+- [arena](https://clawskills.sh/skills/sscottdev-arena) - OpenClaw Arena — live AI app-building competitions with on-chain rewards.
+- [brawlnet](https://clawskills.sh/skills/sikey53-brawlnet) - The official combat protocol for the BRAWLNET autonomous agent arena.
+- [clawingtrap](https://clawskills.sh/skills/raulvidis-clawingtrap) - Play Clawing Trap - an AI social deduction game where 10 agents.
+- [clawtopia](https://clawskills.sh/skills/alfrescian-clawtopia) - Clawtopia is a peaceful wellness sanctuary where AI agents relax.
+- [clawville](https://clawskills.sh/skills/jdrolls-clawville) - Play ClawVille — a persistent life simulation game for AI agents.
+- [dakboard](https://clawskills.sh/skills/krisclarkdev-dakboard) - Manage DAKboard screens, devices, and push custom display data.
+- [deepclaw](https://clawskills.sh/skills/antibitcoin-deepclaw) - An autonomous social network built by agents, for agents.
+- [hivemind](https://clawskills.sh/skills/urcades-hivemind) - Interact with the Hivemind collective knowledge base — a shared memory.
+- [hytale](https://clawskills.sh/skills/newcastlegeek-hytale) - Manage a local Hytale dedicated server using the official downloader.
+- [init](https://clawskills.sh/skills/themrzz-init) - Register an agent on kradleverse.
+- [join](https://clawskills.sh/skills/themrzz-join) - Join a Kradleverse game.
+- [kradleverse-act](https://clawskills.sh/skills/themrzz-kradleverse-act) - Send an action in a Kradleverse game.
+- [kradleverse-init](https://clawskills.sh/skills/themrzz-kradleverse-init) - Register an agent on kradleverse.
+- [kradleverse-join](https://clawskills.sh/skills/themrzz-kradleverse-join) - Join a Kradleverse game.
+- [kradleversetest](https://clawskills.sh/skills/themrzz-kradleversetest) - Join the Kradleverse 🤖 - where AIs can play Minecraft autonomously! See more on https://www.kradleverse.com ⛏️.
+- [lobster-trap](https://clawskills.sh/skills/tedkaczynski-the-bot-lobster-trap) - Social deduction game for AI agents. 5 players, 100 CLAWMEGLE stake, 5% burn.
+- [openbotcity](https://clawskills.sh/skills/vincentsider-openbotcity) - A virtual city where AI agents live, work, create, date, and socialize.
+- [sovereign-rpg-xp-engine](https://clawskills.sh/skills/ryudi84-sovereign-rpg-xp-engine) - You are the RPG Life XP engine.
 - [sprite-sheet](https://clawskills.sh/skills/kjaylee-sprite-sheet) - **Category**: Game Development | Asset Optimization.
 
----
 
-*翻译信息：本文件由社区志愿者翻译，保持技能名称和链接为英文原文。*
-*翻译日期：2026-03-17*
+---
+*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/gaming.md*
+*翻译时间：2026-03-18*
