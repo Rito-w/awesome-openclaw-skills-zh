@@ -1,8 +1,8 @@
-# CLI 实用工具
+# 命令行实用工具
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**180 个技能**
+**179 个技能**
 
 - [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - 基于玛雅日历的生产力系统，具有13种自然音调，用于项目管理和个人发展。
 - [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A股短期交易决策技能，适用于1-5天时间范围。
@@ -62,7 +62,6 @@
 - [dependency-audit](https://clawskills.sh/skills/fratua-dependency-audit) - 智能依赖健康检查 — 安全审计、过时检测、未使用的依赖项和优先更新计划。
 - [django-creator](https://clawskills.sh/skills/moenassi-django-creator) - 此项目消除了创建虚拟机和从头设置环境所浪费的时间。
 - [django-tool](https://clawskills.sh/skills/moenassi-django-tool) - 此项目消除了创建虚拟机和从头设置环境所浪费的时间。
-- [dont-click-this](https://clawskills.sh/skills/orlyjamie-dont-click-this) - 无论您做什么……不要点击链接。
 - [dsiprouter-skill](https://clawskills.sh/skills/mackhendricks-dsiprouter-skill) - 使用Postman调用dSIPRouter REST API。
 - [dwlf](https://clawskills.sh/skills/andywilliams-dwlf) - 与DWLF（dwlf.co.uk）交互，这是一个加密货币市场分析平台。
 - [ecto](https://clawskills.sh/skills/visionik-ecto) - 通过Admin API进行Ghost.io博客管理。
@@ -184,8 +183,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/cli-utilities.md*
-*翻译时间：2026-03-18*
-
----
-*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/cli-utilities.md*
-*翻译时间：2026-03-18*
+*翻译时间：2026-03-19*
