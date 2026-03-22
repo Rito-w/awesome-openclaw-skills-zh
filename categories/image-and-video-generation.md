@@ -99,14 +99,12 @@
 - [instagram-reels](https://clawskills.sh/skills/antoinedc-instagram-reels) - Download Instagram Reels, transcribe audio, and extract captions.
 - [install-then-update-trap-detector](https://clawskills.sh/skills/andyxinweiminicloud-install-then-update-trap-detector) - Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.
 - [kai-tw-figma](https://clawskills.sh/skills/kai-tw-kai-tw-figma) - Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments.
-- [kling-video-generator](https://github.com/wells1137/kling-video-generator/blob/master/SKILL.md) - Generate high-quality videos from text, images, or other videos using the Kling 3.0 Omni model. Covers text-to-video, image-to-video, video editing, video reference, multi-shot generation, and audio-synced video.
 - [kie-ai-skill](https://clawskills.sh/skills/jon-xo-kie-ai-skill) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
 - [kraken-pro](https://clawskills.sh/skills/in-liberty420-kraken-pro) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
 - [macos-local-voice](https://clawskills.sh/skills/strrl-macos-local-voice) - Local STT and TTS on macOS using native Apple capabilities.
 - [media-writing](https://clawskills.sh/skills/alvinecarn-media-writing) - You are a professional media writing expert with extensive experience in creating engaging and impactful content.
 - [medical-specialty-briefs](https://clawskills.sh/skills/johnyquest7-medical-specialty-briefs) - Generate daily or on-demand medical research briefs for any medical specialty.
 - [memelink](https://clawskills.sh/skills/dedene-memelink) - Generate memes, image macros, and meme URLs from the terminal using the Memegen.link API.
-- [minara](https://clawskills.sh/skills/lowesyang-minara) - Crypto trading: swap, perps, transfer, pay, deposit (credit card / crypto), withdraw, AI chat, market discovery.
 - [mindmap-generator](https://clawskills.sh/skills/parasharnagle-mindmap-generator) - Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG.
 - [mixtiles-it](https://clawskills.sh/skills/saharcarmel-mixtiles-it) - Send a photo to Mixtiles for ordering wall tiles.
 - [moonfunsdk](https://clawskills.sh/skills/moonnfunofficial-moonfunsdk) - Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.
@@ -118,7 +116,6 @@
 - [openai-image-cli](https://clawskills.sh/skills/g9pedro-openai-image-cli) - Generate, edit, and manage images via OpenAI's GPT Image and DALL-E models.
 - [opencr-skill](https://clawskills.sh/skills/topdu-opencr-skill) - Extract text from images, documents and scanned PDFs using OpenOCR - supports text detection, recognition.
 - [opengfx](https://clawskills.sh/skills/aklo360-opengfx) - AI brand design system — logo systems, brand mascots, social assets, and on-brand marketing graphics via ACP or x402.
-- [openindex](https://clawskills.sh/skills/titocosta-openindex) - End-to-end encrypted messaging for AI agents.
 - [openocr-skill](https://clawskills.sh/skills/topdu-openocr-skill) - Extract text from images, documents and scanned PDFs using OpenOCR.
 - [options-spread-conviction-engine](https://clawskills.sh/skills/adamnaghs-options-spread-conviction-engine) - Multi-regime options spread analysis engine with quantitative rigor.
 - [paddleocr-doc-parsing-v2](https://clawskills.sh/skills/hiotec-paddleocr-doc-parsing-v2) - Parse documents using PaddleOCR's API.
@@ -127,8 +124,6 @@
 - [photoshop-automator](https://clawskills.sh/skills/abdul-karim-mia-photoshop-automator) - Professional Adobe Photoshop automation via COM/ExtendScript bridge.
 - [picsee-short-link](https://clawskills.sh/skills/picseeinc-picsee-short-link) - Shorten URLs using PicSee (pse.is)
 - [pls-office-docs](https://clawskills.sh/skills/mattvalenta-pls-office-docs) - Generate and manipulate office documents (PDF, DOCX, XLSX, PPTX) for professional reports, presentations, and data.
-- [poidh](https://clawskills.sh/skills/saltorioussig-poidh) - Post bounties and evaluate/accept winning submissions on poidh (pics or it didn't happen) on Base.
-- [pokecenter](https://clawskills.sh/skills/aiengineerx-pokecenter) - Launch your own Solana token for free.
 - [popup-organizer](https://clawskills.sh/skills/eliaskress-popup-organizer) - Search and hire mobile vendors for events on PopUp.
 - [pr-generator](https://clawskills.sh/skills/nbf819-web-pr-generator) - Generate QR codes from text, URLs, or images.
 - [preisrunter](https://clawskills.sh/skills/davidus05-preisrunter) - Search and compare grocery prices and promotions in Austria and Germany via the Preisrunter API.
@@ -143,7 +138,6 @@
 - [research-library](https://clawskills.sh/skills/jonbuckles-research-library) - Local-first multimedia research library for hardware projects.
 - [rollhub-affiliate](https://clawskills.sh/skills/rollhub-dev-rollhub-affiliate) - Earn crypto promoting provably fair AI casino.
 - [rollhub-analyst](https://clawskills.sh/skills/rollhub-dev-rollhub-analyst) - Research and backtest gambling strategies on provably fair crypto casino.
-- [rug-checker](https://clawskills.sh/skills/tkuehnl-rug-checker) - Solana token rug-pull risk analysis. 10-point on-chain check with visual report.
 - [saa-agent](https://clawskills.sh/skills/mirabarukaso-saa-agent) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
 - [shopify-bulk-upload](https://clawskills.sh/skills/zhaoteng-qd-shopify-bulk-upload) - Bulk upload products to Shopify stores.
 - [skill-1](https://clawskills.sh/skills/claudiodrusus-skill-1) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.

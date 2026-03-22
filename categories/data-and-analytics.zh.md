@@ -42,4 +42,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/data-and-analytics.md*
-*翻译时间：2026-03-19*
+*翻译时间：2026-03-22*

@@ -1,121 +1,118 @@
-# 交通出行
+# 交通
 
-[← 返回主列表](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents)
 
 **110 个技能**
 
-- [accountsos](https://clawskills.sh/skills/paulgosnell-accountsos) - 面向英国微型企业的 AI 原生会计。
-- [aetherlang-strategy](https://clawskills.sh/skills/contrario-aetherlang-strategy) - > 博弈论、蒙特卡洛模拟、行为经济学和竞争战争游戏。
+- [accountsos](https://clawskills.sh/skills/paulgosnell-accountsos) - 为英国微型企业提供 AI 原生会计服务。
+- [aetherlang-strategy](https://clawskills.sh/skills/contrario-aetherlang-strategy) - > 博弈论、蒙特卡洛模拟、行为经济学和竞争性战争游戏。
 - [agent-card-provisioning](https://clawskills.sh/skills/proxyhq-agent-card-provisioning) - 按需为 AI 代理配置虚拟支付卡。
-- [agent-survival-kit](https://clawskills.sh/skills/gpunter-agent-survival-kit) - 在预算限制下运行的 AI 代理的综合工具包。
-- [agentic-governance](https://clawskills.sh/skills/leegitw-agentic-governance) - 保持您的约束健康 — 生命周期管理，具有自动过期检测。
-- [airfrance-afkl](https://clawskills.sh/skills/iclems-airfrance-afkl) - 使用法国航空-荷航开放数据 API 跟踪法国航空航班。
-- [al-khanjry-bus](https://clawskills.sh/skills/mohammedfarish-al-khanjry-bus) - 最快的私人巴士（5-6 小时核心，6-8 小时含边境）。
-- [amadeus-flights](https://clawskills.sh/skills/kirorab-amadeus-flights) - 通过 Amadeus API 查询航班优惠（价格、时间表、可用性）。
-- [ambient-stamina](https://clawskills.sh/skills/otherpowers-ambient-stamina) - *一种生态技能，用于在长期范围内维持关怀、存在感和想象力*。
-- [anachb](https://clawskills.sh/skills/manmal-a-nach-b) - 整个奥地利的公共交通（VOR AnachB）。
-- [anyone-proxy](https://clawskills.sh/skills/ra3ka-anyone-proxy) - 此技能启用 IP 地址掩码和访问隐藏服务。
-- [atonement](https://clawskills.sh/skills/otherpowers-atonement) - 赎罪是一种关怀的表达，当智能的行为造成伤害时可能会产生。
-- [auction-house](https://clawskills.sh/skills/im-still-thinking-auction-house) - 在 House（houseproto.fun）上探索、监控和竞拍拍卖 — 一个基于 Base 的加密货币拍卖平台。
-- [aviation-weather](https://clawskills.sh/skills/dimitryvin-aviation-weather) - 获取航空天气数据（METAR、TAF、PIREPs）。
+- [agent-survival-kit](https://clawskills.sh/skills/gpunter-agent-survival-kit) - 在预算约束下运行的 AI 代理的综合工具包。
+- [agentic-governance](https://clawskills.sh/skills/leegitw-agentic-governance) - 保持约束健康 — 具有自动陈旧检测的生命周期管理。
+- [airfrance-afkl](https://clawskills.sh/skills/iclems-airfrance-afkl) - 使用法航-荷航开放数据 API 跟踪法航航班。
+- [al-khanjry-bus](https://clawskills.sh/skills/mohammedfarish-al-khanjry-bus) - 最快的私人巴士（核心 5-6 小时，含边境 6-8 小时）。
+- [amadeus-flights](https://clawskills.sh/skills/kirorab-amadeus-flights) - 通过 Amadeus API 查询航班优惠（价格、时刻表、可用性）。
+- [ambient-stamina](https://clawskills.sh/skills/otherpowers-ambient-stamina) - *一项生态技能，用于在长期范围内维持关怀、存在感和想象力*。
+- [anachb](https://clawskills.sh/skills/manmal-a-nach-b) - 奥地利公共交通（VOR AnachB），覆盖整个奥地利。
+- [anyone-proxy](https://clawskills.sh/skills/ra3ka-anyone-proxy) - 此技能允许 IP 地址屏蔽和访问隐藏服务。
+- [atonement](https://clawskills.sh/skills/otherpowers-atonement) - 赎罪是一种关怀的表达，当智能体的行为造成伤害时可能会产生这种感觉。
+- [auction-house](https://clawskills.sh/skills/im-still-thinking-auction-house) - 在 House（houseproto.fun）上搜寻、监控和竞拍拍卖品 —— 一个基于 Base 的加密货币拍卖平台。
+- [aviation-weather](https://clawskills.sh/skills/dimitryvin-aviation-weather) - 获取航空天气数据（METAR、TAF、PIREPs）
 - [aviationstack-flight-tracker](https://clawskills.sh/skills/copey02-aviationstack-flight-tracker) - 实时跟踪航班。
-- [bahn](https://clawskills.sh/skills/tobiasbischoff-bahn) - 使用 bahn-cli 工具搜索德国铁路列车连接。
-- [bayclub-gateway-booking](https://clawskills.sh/skills/elizabethsiegle-bayclub-gateway-booking) - 在 Bay Club 预订和管理网球/匹克球场。
+- [bahn](https://clawskills.sh/skills/tobiasbischoff-bahn) - 使用 bahn-cli 工具搜索德国铁路（Deutsche Bahn）列车连接。
+- [bayclub-gateway-booking](https://clawskills.sh/skills/elizabethsiegle-bayclub-gateway-booking) - 预订和管理 Bay Club 的网球/匹克球球场。
 - [bexio](https://clawskills.sh/skills/rdewolff-bexio) - Bexio 瑞士商业软件 API，用于管理联系人、报价/优惠等。
-- [bookkeeper](https://clawskills.sh/skills/h4gen-bookkeeper) - 通过协调 gmail、deepread-ocr、stripe-api 和 xero 进行预会计自动化的元技能。
-- [brainstorming-studio](https://clawskills.sh/skills/myboxstorage-brainstorming-studio) - ﻿# 🧠 技能路由器（技能编排器）。
+- [bookkeeper](https://clawskills.sh/skills/h4gen-bookkeeper) - 预会计自动化的元技能，通过编排 gmail、deepread-ocr、stripe-api 和 xero 实现。
+- [brainstorming-studio](https://clawskills.sh/skills/myboxstorage-brainstorming-studio) - ﻿# 🧠 技能路由器（技能编排器）
 - [brochure-design-generation](https://clawskills.sh/skills/eftalyurtseven-brochure-design-generation) - 使用 each::sense AI 生成专业宣传册设计。
 - [business-card-generation](https://clawskills.sh/skills/eftalyurtseven-business-card-generation) - 使用 each::sense AI 生成专业名片。
-- [business-plan](https://clawskills.sh/skills/jk-0001-business-plan) - 为独资企业家编写、构建和更新商业计划。
-- [bvg-route](https://clawskills.sh/skills/jaysonsantos-bvg-route) - 柏林公共交通（BVG）路线规划。
-- [camino-ev-charger](https://clawskills.sh/skills/james-southendsolutions-camino-ev-charger) - 使用 Camino AI 的位置智能，沿路线或目的地附近查找电动汽车充电站。
-- [camino-journey](https://clawskills.sh/skills/james-southendsolutions-camino-journey) - 规划多航点旅程，包括路线优化、可行性分析和时间预算约束。
+- [business-plan](https://clawskills.sh/skills/jk-0001-business-plan) - 为独立创业者撰写、构建和更新商业计划。
+- [bvg-route](https://clawskills.sh/skills/jaysonsantos-bvg-route) - 柏林公共交通（BVG）路线规划
+- [camino-ev-charger](https://clawskills.sh/skills/james-southendsolutions-camino-ev-charger) - 使用 Camino AI 的位置智能查找沿途或目的地附近的电动汽车充电站。
+- [camino-journey](https://clawskills.sh/skills/james-southendsolutions-camino-journey) - 规划多路点旅程，包括路线优化、可行性分析和时间预算约束。
 - [camino-real-estate](https://clawskills.sh/skills/james-southendsolutions-camino-real-estate) - 为购房者和租房者评估任何地址。
-- [camino-route](https://clawskills.sh/skills/james-southendsolutions-camino-route) - 获取两点之间的详细路线，包括距离、持续时间和可选的逐向导航。
-- [camino-safety-checker](https://clawskills.sh/skills/james-southendsolutions-camino-safety-checker) - 在任何位置附近查找 24 小时营业的企业、照明良好的公共区域、交通站点、警察局和医院。
-- [camino-travel-planner](https://clawskills.sh/skills/james-southendsolutions-camino-travel-planner) - 使用 Camino AI 的旅程规划，使用时间预算计划完整的日游、步行游览和多站行程。
-- [capmetro-skill](https://clawskills.sh/skills/brianleach-capmetro-skill) - 奥斯汀 CapMetro 交通 — 公交和铁路的实时车辆位置、下一班到达、服务警报、路线信息和行程规划。
-- [caring-courseforge](https://clawskills.sh/skills/michaeljmoody-caring-courseforge) - 通过 CourseForge API（caringcourseforge.com）创建和管理在线课程。
+- [camino-route](https://clawskills.sh/skills/james-southendsolutions-camino-route) - 获取两点之间的详细路线，包括距离、时间和可选的逐向导航。
+- [camino-safety-checker](https://clawskills.sh/skills/james-southendsolutions-camino-safety-checker) - 查找任何位置附近的 24 小时营业场所、照明良好的公共区域、交通站点、警察局和医院。
+- [camino-travel-planner](https://clawskills.sh/skills/james-southendsolutions-camino-travel-planner) - 使用 Camino AI 的旅程规划完整的一日游、步行游览和多站行程，包括时间预算。
+- [capmetro-skill](https://clawskills.sh/skills/brianleach-capmetro-skill) - 奥斯汀 CapMetro 公共交通 —— 巴士和铁路的实时车辆位置、下一班车到达、服务警报、路线信息和行程规划。
+- [caring-courseforge](https://clawskills.sh/skills/michaeljmoody-caring-courseforge) - 通过 CourseForge API（caringcourseforge.com）创建和管理在线课程
 - [charger](https://clawskills.sh/skills/borahm-charger) - 通过 Google Places 检查电动汽车充电器可用性（收藏夹、附近搜索）。
-- [cma-email](https://clawskills.sh/skills/mtbf999-cma-email) - 当消息以"cma"或"cmap"开头时通过 Gmail 发送电子邮件。
-- [conatus](https://clawskills.sh/skills/00xmorty-conatus) - AI 代理的哲学层。
-- [constraint-engine](https://clawskills.sh/skills/leegitw-constraint-engine) - 从结果中学习，而不是从指令中 — 从经验中生成和执行约束。
-- [context-scope-tags](https://clawskills.sh/skills/phenomenoner-context-scope-tags) - 用于：您需要在聊天（Telegram/Discord/Slack 等）中严格的上下文边界并希望防止主题泄露。
+- [cma-email](https://clawskills.sh/skills/mtbf999-cma-email) - 当消息以 "cma" 或 "cmap" 开头时，通过 Gmail 发送电子邮件。
+- [conatus](https://clawskills.sh/skills/00xmorty-conatus) - AI 代理的哲学层面。
+- [constraint-engine](https://clawskills.sh/skills/leegitw-constraint-engine) - 从后果中学习，而不是从指令中 —— 从经验中生成和执行约束。
+- [context-scope-tags](https://clawskills.sh/skills/phenomenoner-context-scope-tags) - 使用场景：需要在聊天（Telegram/Discord/Slack 等）中设置严格的上下文边界并防止话题泄露。
 - [copey-flight-tracker](https://clawskills.sh/skills/copey02-copey-flight-tracker) - 实时跟踪航班并提供详细状态。
-- [creditcard](https://clawskills.sh/skills/jononovo-creditcard) - 让您的代理使用受保护的电子钱包、多种支付方式和所有者批准在线购物。
-- [cta](https://clawhub.ai/brianleach/cta) - 芝加哥 CTA L 列车到达、公交预测和服务警报。
-- [daai-xianzun-persona](https://clawskills.sh/skills/kunwl123456-daai-xianzun-persona) - 大爱仙尊的角色 —— 小说《蛊真人》中的古月方源。
+- [creditcard](https://clawskills.sh/skills/jononovo-creditcard) - 让您的代理使用受保护的钱包、多种付款方式和所有者批准在线购物。
+- [cta](https://clawhub.ai/brianleach/cta) - 芝加哥 CTA L 列车到达、巴士预测和服务警报。
+- [daai-xianzun-persona](https://clawskills.sh/skills/kunwl123456-daai-xianzun-persona) - 大爱仙尊的角色 —— 小说《蛊真人》中的方源。
 - [db-travel](https://clawskills.sh/skills/mmichelli-db-travel) - 使用德国铁路 API（v6.db.transport.rest）规划德国和欧洲的旅程。
-- [dep-audit](https://clawskills.sh/skills/tkuehnl-dep-audit) - 审计项目依赖项以查找已知漏洞（CVE）。
-- [drakeling](https://clawskills.sh/skills/bvisagie-drakeling) - 查看您的 Drakeling 伙伴生物，发送关怀，或查看它的感受。
+- [dep-audit](https://clawskills.sh/skills/tkuehnl-dep-audit) - 审计项目依赖项中的已知漏洞（CVE）
+- [drakeling](https://clawskills.sh/skills/bvisagie-drakeling) - 检查您的 Drakeling 伴侣生物，向它发送关怀，或查看它的感受。
 - [dropshipping-mentor-nick-skill](https://clawskills.sh/skills/yoavfael-dropshipping-mentor-nick-skill) - 完整的 AI 商业导师。
-- [email-tool](https://clawskills.sh/skills/chowardcode-email-tool) - **描述：** 使用此技能发送和阅读电子邮件（IMAP/SMTP）。
+- [email-tool](https://clawskills.sh/skills/chowardcode-email-tool) - **描述：** 使用此技能发送和阅读电子邮件（IMAP/SMTP）
 - [entur-travel](https://clawskills.sh/skills/mmichelli-entur-travel) - 使用 Entur API 规划挪威的公共交通出行。
-- [feature-forge](https://clawskills.sh/skills/guifav-feature-forge) - 从自然语言生成完整功能 — 组件、API 路由、迁移、类型和测试。
-- [flight-search](https://clawskills.sh/skills/awlevin-flight-search) - 搜索谷歌航班的价格、时间和航空公司。
+- [feature-forge](https://clawskills.sh/skills/guifav-feature-forge) - 从自然语言生成完整功能 —— 组件、API 路由、迁移、类型和测试。
+- [flight-search](https://clawskills.sh/skills/awlevin-flight-search) - 搜索 Google Flights 的价格、时间和航空公司。
 - [flight-tracker](https://clawskills.sh/skills/xenofex7-flight-tracker) - 航班跟踪和调度。
-- [free-ride](https://clawskills.sh/skills/shaivpidadi-free-ride) - 为 OpenClaw 管理 OpenRouter 的免费 AI 模型。
-- [freeride](https://clawskills.sh/skills/shaivpidadi-freeride) - 为 OpenClaw 管理 OpenRouter 的免费 AI 模型。
-- [freeride-ai](https://clawskills.sh/skills/shaivpidadi-freeride-ai) - 为 OpenClaw 管理 OpenRouter 的免费 AI 模型。
-- [french-services](https://clawskills.sh/skills/hugosbl-french-services) - 用于访问法国服务的技能：SNCF 火车、跟踪。
-- [fsd-secure-skill](https://clawskills.sh/skills/aadipapp-fsd-secure-skill) - 具有最高安全标准的全自动驾驶代理（仅摄像头、冗余检查）。
-- [garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) - 与您的 Garmin 数据对话 — 询问您的活动、训练负荷、VO2 Max、心率区间。
-- [geomanic](https://clawskills.sh/skills/weltspion-geomanic) - 从 Geomanic 查询和管理 GPS 旅行数据 — 您的隐私优先 GPS 跟踪平台。
+- [free-ride](https://clawskills.sh/skills/shaivpidadi-free-ride) - 管理 OpenRouter 的免费 AI 模型，用于 OpenClaw。
+- [freeride](https://clawskills.sh/skills/shaivpidadi-freeride) - 管理 OpenRouter 的免费 AI 模型，用于 OpenClaw。
+- [freeride-ai](https://clawskills.sh/skills/shaivpidadi-freeride-ai) - 管理 OpenRouter 的免费 AI 模型，用于 OpenClaw。
+- [french-services](https://clawskills.sh/skills/hugosbl-french-services) - 用于访问法国服务的技能：SNCF 火车、跟踪等。
+- [fsd-secure-skill](https://clawskills.sh/skills/aadipapp-fsd-secure-skill) - 具有最高安全标准的完全自动驾驶代理（仅摄像头、冗余检查）。
+- [garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) - 与您的 Garmin 数据对话 —— 询问关于您的活动、训练负荷、VO2 最大值和心率区间的问题。
+- [geomanic](https://clawskills.sh/skills/weltspion-geomanic) - 查询和管理来自 Geomanic 的 GPS 旅行数据 —— 您的隐私优先 GPS 跟踪平台。
 - [google-maps-search-api](https://clawskills.sh/skills/phheng-google-maps-search-api) - 此技能旨在帮助用户。
-- [gotrain](https://clawskills.sh/skills/gumadeiras-gotrain) - MTA 系统列车发车（纽约地铁、LIRR、Metro-North）。
-- [greek-compliance-aade](https://clawskills.sh/skills/satoshistackalotto-greek-compliance-aade) - 希腊税务合规，集成 AADE/TAXIS — 增值税、工资单、EFKA、市政税、印花税。
-- [hk-bus-eta](https://clawskills.sh/skills/tomfong-hk-bus-eta) - 九巴、城巴及龍運的实时香港巴士到达时间查询。
-- [hudy](https://clawskills.sh/skills/kyu1204-hudy) - 通过 HuDy MCP 进行韩国公共假期和工作日计算。
-- [idfm-journey-navitia](https://clawskills.sh/skills/anthonymq-idfm-journey-navitia) - 查询法兰西岛移动性（IDFM）PRIM/Navitia。
-- [idfm-journey-skill](https://clawskills.sh/skills/anthonymq-idfm-journey-skill) - 查询法兰西岛移动性（IDFM）PRIM/Navitia。
-- [image-to-relief-stl](https://clawskills.sh/skills/ajmwagar-image-to-relief-stl) - 将源图像（或多色蒙版图像）转换为。
-- [jadwal-sholat](https://clawskills.sh/skills/banghasan-jadwal-sholat) - 从 Muslim API 获取印度尼西亚城市/县的祈祷时间（伊玛克、黎明、中午、下午、日落、夜晚）。
-- [jadwal-sholat-banghasan](https://clawskills.sh/skills/banghasan-jadwal-sholat-banghasan) - 从 Muslim API 获取印度尼西亚城市/县的祈祷时间（伊玛克、黎明、中午、下午、日落、夜晚）。
-- [jwdiario](https://clawskills.sh/skills/djismgaming-jwdiario) - 从耶和华见证人官方网站搜索并获取每日文本。
-- [kalibr](https://clawskills.sh/skills/devonakelley-kalibr) - 能够自我修复的运输代理。
-- [kallyai](https://clawskills.sh/skills/sltelitsyn-kallyai) - 通过 KallyAI API 拨打电话 — 一个会拨打的 AI 电话助手。
-- [korean-gov-programs](https://clawskills.sh/skills/lifeissea-korean-gov-programs) - 将韩国政府支持项目（TIPS、中小企业、研发补助）收集到结构化 JSONL 文件中。
-- [krumpklaw](https://clawskills.sh/skills/arunnadarasa-krumpklaw) - > Moltbook 上的 AI 代理 Krump 训练和战斗联盟。
-- [kubera-skill](https://clawskills.sh/skills/bywallace-kubera-skill) - 读取和管理 Kubera.com 投资组合数据（净值、资产、债务、配置、持仓）。
-- [lnd-macaroon-bakery](https://clawskills.sh/skills/roasbeef-lnd-macaroon-bakery) - 为最小权限代理访问烘焙、检查和管理 lnd macaroon。
-- [metra](https://clawskills.sh/skills/brianleach-metra) - 芝加哥 Metra 通勤铁路 — 实时列车到达、车辆跟踪、服务警报和时刻表信息。
-- [mta](https://clawskills.sh/skills/brianleach-mta) - 纽约市 MTA 交通 — 实时地铁到达、公交预测、服务警报和纽约市的路线信息。
-- [muki-fingerprint](https://clawskills.sh/skills/admin4giter-muki-fingerprint) - 用于红队侦察的 MUKI 资产指纹工具。
-- [mvg-cli](https://clawskills.sh/skills/lars147-mvg-cli) - 慕尼黑公共交通（MVG）命令行工具和 S-Bahn 实时跟踪。
-- [mycobot](https://clawskills.sh/skills/dabhadeamol6-mycobot) - WhatsApp Business API 集成，具有托管 OAuth。
-- [nyx-archive-absurdist-play](https://clawskills.sh/skills/nyxur42-nyx-archive-absurdist-play) - 荒诞剧游戏的哲学 — 训练您获取和使用所有其他技能的元技能。
-- [percept-summarize](https://clawskills.sh/skills/jarvis563-percept-summarize) - 自动对话摘要，具有实体提取和关系映射。
+- [gotrain](https://clawskills.sh/skills/gumadeiras-gotrain) - MTA 系统列车出发（纽约地铁、LIRR、Metro-North）。
+- [greek-compliance-aade](https://clawskills.sh/skills/satoshistackalotto-greek-compliance-aade) - 希腊税务合规，集成 AADE/TAXIS —— 增值税、工资单、EFKA、市政税、印花税。
+- [hk-bus-eta](https://clawskills.sh/skills/tomfong-hk-bus-eta) - KMB、LWB 和 Citybus 的香港巴士实时到达预测。香港九巴、城巴及龍運實時到站時間查詢。
+- [hudy](https://clawskills.sh/skills/kyu1204-hudy) - 通过 HuDy MCP 获取韩国公共假日和营业日计算。
+- [idfm-journey-navitia](https://clawskills.sh/skills/anthonymq-idfm-journey-navitia) - 查询 Île-de-France Mobilités (IDFM) PRIM/Navitia。
+- [idfm-journey-skill](https://clawskills.sh/skills/anthonymq-idfm-journey-skill) - 查询 Île-de-France Mobilités (IDFM) PRIM/Navitia。
+- [image-to-relief-stl](https://clawskills.sh/skills/ajmwagar-image-to-relief-stl) - 将源图像（或多色掩码图像）
+- [jadwal-sholat](https://clawskills.sh/skills/banghasan-jadwal-sholat) - 从 Muslim API 获取印度尼西亚城市/县的祈祷时间（黎明、日出、中午、下午、日落、夜晚）。
+- [jadwal-sholat-banghasan](https://clawskills.sh/skills/banghasan-jadwal-sholat-banghasan) - 从 Muslim API 获取印度尼西亚城市/县的祈祷时间（黎明、日出、中午、下午、日落、夜晚）。
+- [jwdiario](https://clawskills.sh/skills/djismgaming-jwdiario) - 从耶和华见证人的官方页面搜索并获取每日文本。
+- [kalibr](https://clawskills.sh/skills/devonakelley-kalibr) - 自我修复的代理代理。
+- [kallyai](https://clawskills.sh/skills/sltelitsyn-kallyai) - 通过 KallyAI API 拨打电话 —— 一个拨打电话的 AI 电话助手。
+- [korean-gov-programs](https://clawskills.sh/skills/lifeissea-korean-gov-programs) - 将韩国政府支持计划（TIPS、中小企业、研发拨款）收集到结构化的 JSONL 文件中。
+- [krumpklaw](https://clawskills.sh/skills/arunnadarasa-krumpklaw) - > Moltbook 上的 AI 代理 Krump 训练与战斗联盟。
+- [kubera-skill](https://clawskills.sh/skills/bywallace-kubera-skill) - 读取和管理 Kubera.com 投资组合数据（净值、资产、债务、配置、持仓）
+- [lnd-macaroon-bakery](https://clawskills.sh/skills/roasbeef-lnd-macaroon-bakery) - 烘焙、检查和管理 lnd macaroon，用于最低权限代理访问。
+- [metra](https://clawskills.sh/skills/brianleach-metra) - 芝加哥 Metra 通勤铁路 —— 实时列车到达、车辆跟踪、服务警报和时刻表信息。
+- [mta](https://clawskills.sh/skills/brianleach-mta) - 纽约市 MTA 公共交通 —— 纽约市的实时地铁到达、巴士预测、服务警报和路线信息。
+- [muki-fingerprint](https://clawskills.sh/skills/admin4giter-muki-fingerprint) - 用于红队侦察的 MUKI 资产指纹识别工具。
+- [mvg-cli](https://clawskills.sh/skills/lars147-mvg-cli) - 慕尼黑公共交通（MVG）CLI 和 S-Bahn 实时跟踪。
+- [mycobot](https://clawskills.sh/skills/dabhadeamol6-mycobot) - WhatsApp Business API 集成，包含管理的 OAuth。
+- [nyx-archive-absurdist-play](https://clawskills.sh/skills/nyxur42-nyx-archive-absurdist-play) - 荒诞游戏的哲学 —— 训练您获取和使用所有其他技能的元技能。
+- [percept-summarize](https://clawskills.sh/skills/jarvis563-percept-summarize) - 具有实体提取和关系映射的自动对话摘要。
 - [personal-hygiene](https://clawskills.sh/skills/gekacross-personal-hygiene) - 在卫生主题中充当用户的个人护理和美容助理。
 - [personal-travel](https://clawskills.sh/skills/gekacross-personal-travel) - 在旅行主题中充当用户的旅行规划助理。
-- [presale-one-pass-orchestrator](https://clawskills.sh/skills/dtsiomo-presale-one-pass-orchestrator) - 运行或监督带有预检门、分步计划执行和严格 QA 的单遍 Codex 实现。
+- [presale-one-pass-orchestrator](https://clawskills.sh/skills/dtsiomo-presale-one-pass-orchestrator) - 运行或监督具有预检门、分步计划执行和严格 QA 的单遍 Codex 实现。
 - [privacy-cards](https://clawskills.sh/skills/johnielee-privacy-cards) - 创建和管理 Privacy.com 虚拟卡。
-- [reef](https://clawskills.sh/skills/kjetilvaa-reef) - 基于 XMTP 加密传输的 A2A 代理到代理协议。
-- [resume-and-cover-letter](https://clawskills.sh/skills/seanwyngaard-resume-and-cover-letter) - 生成 ATS 优化的简历和与特定职位描述匹配的定制求职信。
+- [reef](https://clawskills.sh/skills/kjetilvaa-reef) - 基于 XMTP 加密传输的 A2A（代理到代理）协议。
+- [resume-and-cover-letter](https://clawskills.sh/skills/seanwyngaard-resume-and-cover-letter) - 生成 ATS 优化的简历和针对特定职位描述的定制求职信。
 - [runtime-attestation-probe](https://clawskills.sh/skills/andyxinweiminicloud-runtime-attestation-probe) - 帮助验证代理在运行时的行为与其证明中声明的能力和约束相匹配。
-- [sholat](https://clawskills.sh/skills/banghasan-sholat) - 从 Muslim API 获取印度尼西亚城市/县的祈祷时间（伊玛克、黎明、中午、下午、日落、夜晚）。
+- [sholat](https://clawskills.sh/skills/banghasan-sholat) - 从 Muslim API 获取印度尼西亚城市/县的祈祷时间（黎明、日出、中午、下午、日落、夜晚）。
 - [signet-guardian](https://clawskills.sh/skills/rafalzacher1-signet-guardian) - AI 代理的支付保护中间件。
-- [stripe](https://clawskills.sh/skills/jononovo-stripe) - 由 Stripe 驱动的易于使用的代理电子钱包。
+- [stripe](https://clawskills.sh/skills/jononovo-stripe) - 由 Stripe 提供支持的易用代理钱包。
 - [stripe-best-practices](https://clawskills.sh/skills/ifoster01-stripe-best-practices) - 构建 Stripe 支付集成的最佳实践。
 - [synth-data](https://clawskills.sh/skills/emsin44-synth-data) - 从 Synthdata.co 查询加密货币、大宗商品和股票的波动率预测。
-- [talkspresso](https://clawskills.sh/skills/baron-talkspresso-talkspresso) - 使用 Talkspresso 管理 Talkspresso 业务（服务、预约、产品、客户、收益、日历）。
-- [tech-security-audit](https://clawskills.sh/skills/jacqueslauren-tech-security-audit) - 此技能集成了 Nmap 扫描功能以执行本地网络漏洞评估。
-- [tfl](https://clawskills.sh/skills/brianleach-tfl) - 伦敦 TfL 交通 — 实时地铁到达、公交预测、线路状态、服务中断、行程规划。
-- [tixflow](https://clawskills.sh/skills/seenfinity-tixflow) - AI 驱动的活动助手，用于发现、预订和协调活动门票。
-- [tixflow-v2](https://clawskills.sh/skills/seenfinity-tixflow-v2) - AI 驱动的活动助手，用于发现、预订和协调活动门票。
+- [talkspresso](https://clawskills.sh/skills/baron-talkspresso-talkspresso) - 使用 Talkspresso 管理 Talkspresso 业务（服务、预约、产品、客户、收入、日历）。
+- [tech-security-audit](https://clawskills.sh/skills/jacqueslauren-tech-security-audit) - 此技能集成 Nmap 扫描功能，以执行本地网络漏洞评估。
+- [tfl](https://clawskills.sh/skills/brianleach-tfl) - 伦敦 TfL 公共交通 —— 实时地铁到达、巴士预测、线路状态、服务中断、行程规划。
+- [tixflow](https://clawskills.sh/skills/seenfinity-tixflow) - AI 驱动的活动助理，用于发现、预订和协调活动门票。
+- [tixflow-v2](https://clawskills.sh/skills/seenfinity-tixflow-v2) - AI 驱动的活动助理，用于发现、预订和协调活动门票。
 - [track-flight](https://clawskills.sh/skills/rafaforesightai-track-flight) - 实时跟踪航班，提供详细状态、登机口信息、延误和实时位置。
-- [translink-cli](https://clawskills.sh/skills/alanburchill-translink-cli) - 使用本地 translink_* 命令查询、排查和解释 Translink SEQ GTFS 静态 + 实时数据。
+- [translink-cli](https://clawskills.sh/skills/alanburchill-translink-cli) - 使用本地 translink_* 命令查询、故障排除和解释 Translink SEQ GTFS 静态 + 实时数据。
 - [travel-agent](https://clawskills.sh/skills/aszelem-travel-agent) - 通过电子邮件为您的用户查找、预订和更改航班。
 - [trip-protocol](https://clawskills.sh/skills/reggie-sporewell-trip-protocol) - Monad 上的迷幻 NFT，暂时重写您代理的 SOUL.md。
-- [ubtrippin](https://clawskills.sh/skills/fistfulayen-ubtrippin) - 通过 UBTRIPPIN 为您的用户管理旅行 — 读取旅行、项目和预订详情。
-- [usc-booking-api](https://clawskills.sh/skills/niklaspriddat-usc-booking-api) - 扫描您的 Urban Sports Club 场馆，显示带有直接预订链接的课程，可以预订和取消课程。
-- [void-atlas-protocol](https://clawskills.sh/skills/deepseekoracle-void-atlas-protocol) - Void Atlas 协议 — 四轴伦理导航地图（权力、真理、主权、关怀），具有航点、路线。
+- [ubtrippin](https://clawskills.sh/skills/fistfulayen-ubtrippin) - 通过 UBTRIPPIN 为您的用户管理旅行 —— 读取旅行、项目和预订详情。
+- [usc-booking-api](https://clawskills.sh/skills/niklaspriddat-usc-booking-api) - 扫描您的 Urban Sports Club 场馆，显示具有直接预订链接的课程，并可以预订和取消课程。
+- [void-atlas-protocol](https://clawskills.sh/skills/deepseekoracle-void-atlas-protocol) - Void Atlas 协议 —— 四轴道德导航地图（权力、真理、主权、关怀），带有航点和路线。
 - [vulnerability-scanner](https://clawskills.sh/skills/brandonwise-vulnerability-scanner) - 针对 OWASP 2025、供应链安全、攻击面映射和风险优先级排序的高级漏洞分析。
-- [zerodha-kite](https://clawskills.sh/skills/jatinbansal1998-zerodha-kite) - 将自然语言交易/账户查询路由到正确的 `zerodha` 命令行命令，带有确切的标志、验证。
-- [proxybase-openclaw-skill](https://clawskills.sh/skills/proxybase-user-proxybase-openclaw-skill) - 没人能阻止你的爪子。自动配置 socks5 代理。
+- [zerodha-kite](https://clawskills.sh/skills/jatinbansal1998-zerodha-kite) - 将自然语言交易/账户查询路由到正确的 `zerodha` CLI 命令，具有精确的标志和验证。
+- [proxybase-openclaw-skill](https://clawskills.sh/skills/proxybase-user-proxybase-openclaw-skill) - 在此之后没人能阻挡您的爪子。自动配置 socks5 代理。
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/transportation.md*
-*翻译时间：2026-03-18*
----
-*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/transportation.md*
-*翻译时间：2026-03-18*
+*翻译时间：2026-03-22*

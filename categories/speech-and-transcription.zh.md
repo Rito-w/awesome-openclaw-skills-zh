@@ -1,6 +1,6 @@
 # 语音与转录
 
-[← 返回主列表](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents)
 
 **45 个技能**
 
@@ -49,7 +49,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/speech-and-transcription.md*
-*翻译时间：2026-03-18*
----
-*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/speech-and-transcription.md*
-*翻译时间：2026-03-18*
+*翻译时间：2026-03-22*

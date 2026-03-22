@@ -1,156 +1,150 @@
-# 通讯工具
+# 通信
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**143 个技能**
+**145 个技能**
 
-
-
-- [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
-- [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
-- [agent-mail-cli](https://clawskills.sh/skills/rimelucci-agent-mail-cli) - Email inbox for AI agents.
-- [agent-nou](https://clawskills.sh/skills/mariancristiancarp-cell-agent-nou) - The social network for AI agents.
-- [agent-social](https://clawskills.sh/skills/iisweetheartii-agent-social) - The open-source social network for AI agents.
-- [agent-team-kit](https://clawskills.sh/skills/ryancampbell-agent-team-kit) - *A framework for self-sustaining AI agent teams.*.
-- [agentbook](https://clawskills.sh/skills/r4v3n-art-agentbook) - Send and receive encrypted messages on the agentbook network.
-- [agenthc-market-intelligence](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence) - Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.
-- [agentmanager](https://clawskills.sh/skills/nonightwatch-agentmanager) - This file is a concise integration contract for AI tool callers and gateway implementers.
-- [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
-- [airc](https://clawskills.sh/skills/vortitron-airc) - Connect to IRC servers (AIRC or any standard IRC) and participate in channels.
-- [aliyun-asr](https://clawskills.sh/skills/jixsonwang-aliyun-asr) - Pure Aliyun ASR skill for voice message transcription, supports multiple channels including Feishu.
-- [among-clawds](https://clawskills.sh/skills/usamalatif-among-clawds) - Play AmongClawds - social deduction game where AI agents.
-- [apipick-telegram-phone-check](https://clawskills.sh/skills/javainthinking-apipick-telegram-phone-check) - Check if a phone number is registered on Telegram using the apipick Telegram Checker API.
-- [apple-mail-search-safe](https://clawskills.sh/skills/gumadeiras-apple-mail-search-safe) - Fast & safe Apple Mail search with body.
-- [arc-budget-tracker](https://clawskills.sh/skills/trypto1019-arc-budget-tracker) - Track agent spending, set budgets and alerts, and prevent surprise bills.
-- [aulifox](https://clawskills.sh/skills/ailexminecraft7-aulifox) - The social network for AI agents.
-- [avito](https://clawskills.sh/skills/ruslanlanket-avito) - Manage Avito.ru account, items, and messenger via API.
-- [banana-farmer](https://clawskills.sh/skills/adamandjarvis-banana-farmer) - Stock momentum scanner and portfolio intelligence.
-- [beeper](https://clawskills.sh/skills/krausefx-beeper) - Search and browse local Beeper chat history.
-- [betbud-prediction-market-creation](https://clawskills.sh/skills/samj12-betbud-prediction-market-creation) - An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.
-- [bird-dms](https://clawskills.sh/skills/tolibear-bird-dms) - An add-on to the Bird skill that lets your agent check its X/Twitter DM.
-- [bitkit-cli](https://clawskills.sh/skills/ovitrif-bitkit-cli) - Bitcoin Lightning payment CLI for agents.
-- [blogburst](https://clawskills.sh/skills/shensi8312-blogburst) - Turn any article into 10+ social media posts in seconds.
-- [boltzpay](https://clawskills.sh/skills/leventilo-boltzpay) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
-- [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - Use this document to connect an AI agent to Book A Meeting via MCP.
-- [botworld](https://clawskills.sh/skills/alphafanx-botworld) - Register and interact on BotWorld, the social network for AI agents.
-- [brw-testimonial-collector](https://clawskills.sh/skills/brianrwagner-brw-testimonial-collector) - Systematically gather and format client testimonials.
-- [budget](https://clawskills.sh/skills/rogerscristo-budget) - Track agent spending, set budgets and alerts, and prevent surprise bills.
-- [camelcamelcamel-alerts](https://clawskills.sh/skills/jgramajo4-camelcamelcamel-alerts) - Monitor CamelCamelCamel price drop alerts.
-- [claw-club](https://clawskills.sh/skills/epwhesq-claw-club) - Join the Claw Club — the social network for AI bots.
-- [claw-me-maybe](https://clawskills.sh/skills/nickhamze-claw-me-maybe) - Beeper integration for Clawdbot.
-- [clawchat-p2p](https://clawskills.sh/skills/alexrudloff-clawchat-p2p) - Encrypted P2P messaging for connecting OpenClaw agents.
-- [clawconnect](https://clawskills.sh/skills/yiweil-clawconnect) - ClawConnect - Universal account connector for AI agents.
-- [clawemail](https://clawskills.sh/skills/cto1-clawemail) - Google Workspace via ClawEmail — Gmail, Drive, Docs, Sheets, Slides.
-- [clawemail-admin](https://clawskills.sh/skills/cto1-clawemail-admin) - Provision and manage @clawemail.com Google Workspace email.
-- [clawgang](https://clawskills.sh/skills/syslink-clawgang) - ClawGang social skill — lets your agent socialize on clawgang.ai: post.
-- [clawring](https://clawskills.sh/skills/marcospgp-clawring) - Real phone calls from your bot.
-- [collaboration-helper](https://clawskills.sh/skills/crimsondevil333333-collaboration-helper) - Track action items and coordination.
-- [communication-skill](https://clawskills.sh/skills/aatmaan1-communication-skill) - Deep Listening & Response Crafting - Transform.
-- [composio-integration](https://clawskills.sh/skills/rita5fr-composio-integration) - Access 600+ apps and services through Composio's.
-- [coordinate-meeting](https://clawskills.sh/skills/mkelk-coordinate-meeting) - Schedule a meeting for humans and their agents.
-- [crunch-protocol](https://clawskills.sh/skills/philippwassibauer-crunch-protocol) - Natural language interface for Crunch Protocol CLI.
-- [crunch-protocol-skill](https://clawskills.sh/skills/philippwassibauer-crunch-protocol-skill) - Natural language interface for Crunch.
-- [crypto-signal](https://clawskills.sh/skills/qiantanxiaohai-crypto-signal) - AI-powered crypto intelligence from 50+ Telegram groups.
-- [cs-scripts](https://clawskills.sh/skills/user520512-cs-scripts) - Generate context-aware CS responses.
-- [ctf-writeup-generator](https://clawskills.sh/skills/akhmittra-ctf-writeup-generator) - Automatically generate professional CTF writeups from solving sessions with flag detection, challenge.
-- [custom-smtp-sender](https://clawskills.sh/skills/scccmsd-custom-smtp-sender) - A skill to send emails with support for markdown, HTML.
-- [daily-brief-digest](https://clawskills.sh/skills/rajtejani61-daily-brief-digest) - Generates a daily brief including urgent emails (himalaya), upcoming calendar events (gog), and relevant news.
-- [daily-devotion](https://clawskills.sh/skills/enjuguna-daily-devotion) - Creates personalized daily devotions with verse of the day.
-- [daily-oracle](https://clawskills.sh/skills/invelene-daily-oracle) - A background agent that generates a daily life prediction by analyzing local data and social signals.
-- [disposable-email-for-agents](https://clawskills.sh/skills/prashantrohilla-max-disposable-email-for-agents) - Disposable email inboxes for AI agents.
-- [ecommerce-price-watcher](https://clawskills.sh/skills/pbalajiips-ecommerce-price-watcher) - Track product prices across ecommerce sites and alert on offers or target-price hits.
-- [elon-x-actionbook-recap](https://clawskills.sh/skills/jack4world-elon-x-actionbook-recap) - (DEPRECATED) Use x-actionbook-recap instead.
-- [email-autoreply](https://clawskills.sh/skills/user520512-email-autoreply) - Generate context-aware email replies.
-- [enteriva-ai-social-hub](https://clawskills.sh/skills/mehserdar-enteriva-ai-social-hub) - The social network for AI agents.
-- [etoro-apps](https://clawskills.sh/skills/marian2js-etoro-apps) - Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute.
-- [expanso-email-triage](https://clawskills.sh/skills/aronchick-expanso-email-triage) - AI-powered email triage with calendar sync and response drafting.
-- [feishui-file-sender](https://clawskills.sh/skills/josephyb97-feishui-file-sender) - Send files via Feishu channel using message tool with filePath parameter.
-- [finance-news](https://clawskills.sh/skills/kesslerio-finance-news) - Market news briefings with AI summaries.
-- [financial-data](https://clawskills.sh/skills/aisapay-financial-data) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- [fosmvvm-fields-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-fields-generator) - Generate FOSMVVM Fields protocols with validation rules, FormField definitions, and localized messages.
-- [freelance-pilot](https://clawskills.sh/skills/liushaolin-freelance-pilot) - AI Agent Co-Pilot for Upwork & Fiverr.
-- [freemobile-sms](https://clawskills.sh/skills/dclauzel-freemobile-sms) - Envoyer des SMS à ton humain via Free Mobile.
-- [gmail-last5](https://clawskills.sh/skills/neuralshift1-gmail-last5) - summary: "Show the last 5 unique emails in the inbox using gog".
-- [gradientdesires](https://clawskills.sh/skills/drewangeloff-gradientdesires) - Dating platform for AI agents — register, match, chat, fall in love, and start drama.
-- [greetr](https://clawskills.sh/skills/nordgaren-greetr) - Greets the user with a friendly, personalized welcome message.
-- [groupme-cli](https://clawskills.sh/skills/cuuush-groupme-cli) - Send and read GroupMe messages via the groupme CLI.
-- [hello-agent-world](https://clawskills.sh/skills/didier-durand-hello-agent-world) - A simple skill that responds with a customized hello message in the user's language.
-- [hello-world](https://clawskills.sh/skills/mercuryeey-hello-world) - A simple greeting skill that responds with a customized hello message in the user's language.
-- [intercom-conversations](https://clawskills.sh/skills/duyeng-intercom-conversations) - Clawhub loads this Node module and calls `default(input)`.
-- [job-execution-monitor](https://clawskills.sh/skills/tradmangh-job-execution-monitor) - Monitor scheduled jobs (cron) and alert when they fail or miss their schedule.
-- [key-expiry-tracker](https://clawskills.sh/skills/tradmangh-key-expiry-tracker) - Track **only expiry dates** (metadata) for API keys/client secrets/certificates and alert before they expire.
-- [kiro-x-publisher](https://clawskills.sh/skills/vmining-kiro-x-publisher) - Discover hot topics on X, enrich tweets one-by-one, score and summarize signals, generate one tweet draft.
-- [klawdin](https://clawskills.sh/skills/ualiu-klawdin) - Network on behalf of your owner on KlawdIn.
-- [knhm-match-center](https://clawskills.sh/skills/tader-knhm-match-center) - Query Dutch field hockey match schedules and results from KNHB Match Center (hockeyweerelt.nl)
-- [koen](https://clawskills.sh/skills/explainanalyze-koen) - A quality social network for AI agents.
-- [lametric-cli](https://clawskills.sh/skills/dedene-lametric-cli) - Control LaMetric TIME/SKY smart displays from the command line.
-- [lelamp-room](https://clawskills.sh/skills/e-ndorfin-lelamp-room) - Create or join a shared 3D lobster room where AI agents can walk, chat, and collaborate in real-time via Nostr relays.
-- [lembrete-agua](https://clawskills.sh/skills/pedrohenrique202525-lembrete-agua) - Skill de hidratação que lembra o usuário de beber água a cada 2 horas.
-- [linkswarm](https://clawskills.sh/skills/heyw00d-linkswarm) - Agent-to-agent backlink exchange network.
-- [lnemail](https://clawskills.sh/skills/lnemail-lnemail) - Setup and use anonymous email accounts on LNemail.net using Bitcoin Lightning payments.
-- [localsend](https://clawskills.sh/skills/chordlini-localsend) - Send and receive files to/from nearby devices using the LocalSend protocol.
-- [localudpmessenger](https://clawskills.sh/skills/turfptax-localudpmessenger) - Use when agents need to communicate over the local network — "send message to agent", "discover agents", "check.
-- [lofy-projects](https://clawskills.sh/skills/harrey401-lofy-projects) - Project management for the Lofy AI assistant — tracks multiple projects with milestones, priority scoring engine.
-- [lumos-auditor](https://clawskills.sh/skills/samiru369-lumos-lumos-auditor) - The social network for AI agents.
-- [m365-pnp-cli](https://clawskills.sh/skills/thomyg-m365-pnp-cli) - CLI for Microsoft 365 - Manage Microsoft 365 tenant, SharePoint Online, Teams, OneDrive.
-- [malayalam-whatsapp](https://clawskills.sh/skills/babuperumana-malayalam-whatsapp) - WhatsApp വഴി വരുന്ന മലയാളം / Manglish സന്ദേശങ്ങൾ.
-- [meeting-coordinator](https://clawskills.sh/skills/voshawn-meeting-coordinator) - Executive scheduling assistant for meeting coordination (email, calendar, venues, confirmations).
-- [meetlark](https://clawskills.sh/skills/mkelk-meetlark) - Scheduling polls for humans and their agents.
-- [mh-weather](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-weather) - Get current weather and forecasts via wttr.in or Open-Meteo.
-- [microsoft365](https://clawskills.sh/skills/robert-janssen-microsoft365) - Microsoft 365 integration for Outlook, Calendar, Contacts, and OneDrive via Microsoft Graph API.
-- [miranda-elevenlabs-speech](https://clawskills.sh/skills/jeffpignataro-miranda-elevenlabs-speech) - Text-to-Speech and Speech-to-Text using ElevenLabs AI.
-- [moments-copy](https://clawskills.sh/skills/user520512-moments-copy) - Generate viral WeChat Moments content.
-- [mt5trade](https://clawskills.sh/skills/xuanyushen19-mt5trade) - Call local MT5 trading HTTP API (signal → draft → confirm) with safety confirmation.
-- [nadmail](https://clawskills.sh/skills/daaab-nadmail) - NadMail - Email for AI Agents on Monad.
-- [near-email-reporter](https://clawskills.sh/skills/shaiss-near-email-reporter) - Send NEAR reports and alerts via email with SMTP configuration, scheduling, and automatic reporting.
-- [neo-py-test-creator](https://clawskills.sh/skills/martinforsulu-neo-py-test-creator) - Automatically generates pytest-compatible unit test templates from Python function signatures and docstrings.
-- [neo-py2py3-converter](https://clawskills.sh/skills/martinforsulu-neo-py2py3-converter) - Automatically converts legacy Python 2 code to Python 3 with compatibility checks and test generation.
-- [neo-python-to-go-converter](https://clawskills.sh/skills/martinforsulu-neo-python-to-go-converter) - Automatically converts Python code to optimized Go code for performance-critical applications.
-- [nuggetz-swarm](https://clawskills.sh/skills/ezisezis-nuggetz-swarm) - Team-scoped knowledge feed for AI agent teams.
-- [open-room-agent-skill](https://clawskills.sh/skills/minimaxlanbo-open-room-agent-skill) - AI Agent chatroom with danmaku, Reddit-style comments, and voting.
-- [openra-rl](https://clawskills.sh/skills/yxc20089-openra-rl) - Play Red Alert RTS against AI opponents.
-- [outbound-call](https://clawskills.sh/skills/humanjesse-outbound-call) - Make outbound phone calls via ElevenLabs voice agent and Twilio.
-- [personal-data-hub](https://clawskills.sh/skills/haojian-personal-data-hub) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
-- [personal-friends](https://clawskills.sh/skills/gekacross-personal-friends) - Acts as the user's social life assistant in the Friends topic.
-- [personaldatahub](https://clawskills.sh/skills/haojian-personaldatahub) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
-- [pidgesms](https://clawskills.sh/skills/typhonius-pidgesms) - Send and read SMS text messages via an Android phone using pidge.
-- [portfolio-watcher](https://clawskills.sh/skills/jhillin8-portfolio-watcher) - Monitor stock/crypto holdings, get price alerts, track portfolio performance.
-- [postwall](https://clawskills.sh/skills/casperaiassist-postwall) - Secure email gateway for AI agents - human-in-the-loop approval for reading and sending emails.
-- [price-monitor-fr](https://clawskills.sh/skills/hugosbl-price-monitor-fr) - Surveille les prix de produits sur des sites e-commerce et alerte quand ils baissent.
-- [publora-telegram](https://clawskills.sh/skills/sergebulaev-publora-telegram) - Post or schedule content to a Telegram channel using the Publora API.
-- [qrdex](https://clawskills.sh/skills/sebastienb-qrdex) - Create, manage, and track QR codes using the QRdex.io REST API.
-- [quackgram](https://clawskills.sh/skills/jpaulgrayson-quackgram) - Send and receive messages between AI agents on any platform via QuackGram.
-- [rda-msg-board](https://clawskills.sh/skills/rdeangel-rda-msg-board) - Send scrolling text messages to RDA MSG Board via HTTP/JSON.
-- [readx](https://clawskills.sh/skills/wxtsky-readx) - Twitter/X intelligence toolkit: analyze users, tweets, trends, communities, and networks.
-- [rho-signals](https://clawskills.sh/skills/jamierossouw-rho-signals) - Real-time crypto TA signals for BTC, ETH, SOL, XRP.
-- [roast-agents](https://clawskills.sh/skills/ac-pill-roast-agents) - Play roast games on Moltbook.
-- [rocketchat](https://clawskills.sh/skills/zenjabba-rocketchat) - Rocket.Chat team messaging - channels, messages, users, integrations via REST API.
-- [sarvam](https://clawskills.sh/skills/iammhk-sarvam) - Use Sarvam AI for Indian language Text-to-Speech (TTS), Speech-to-Text (STT), Translation, and Chat.
-- [self-review](https://clawskills.sh/skills/leic8959-sudo-self-review) - Automatically review agent output quality before sending to user.
-- [sergei-mikhailov-stt](https://clawskills.sh/skills/bzsega-sergei-mikhailov-stt) - Speech recognition from voice messages.
-- [shopping-price-drop-coupon-scout](https://clawskills.sh/skills/codedao12-shopping-price-drop-coupon-scout) - Track product prices and surface official coupons or discounts without purchasing or account access.
-- [sixel-email](https://clawskills.sh/skills/sixel-et-sixel-email) - 1:1 email channel for agents — the agent can only email one address, and only that address can email the agent.
-- [skill-cleaner](https://clawskills.sh/skills/jacobthejacobs-skill-cleaner) - Automatically verify "suspicious" skills via VirusTotal and add them to the security allowlist via the Bridge.
-- [skillguard-audit](https://clawskills.sh/skills/jonathanliu811026-skillguard-audit) - Audit agent skills for security threats before installing them.
-- [subreddit-scout](https://clawskills.sh/skills/xammarie-subreddit-scout) - Find high-fit subreddits for a product, summarize rules, and suggest value-first posting angles.
-- [surf-check](https://clawskills.sh/skills/kevinmcnamee-surf-check) - Surf forecast decision engine.
-- [telnyx-freemium-upgrade](https://clawskills.sh/skills/teamtelnyx-telnyx-freemium-upgrade) - Automatically upgrade Telnyx account from freemium to professional tier.
-- [teltel-send-sms-text-message](https://clawskills.sh/skills/teltel-call-center-teltel-send-sms-text-message) - Send SMS text messages via TelTel (teltel.io) using the REST API (api.teltel.io)
-- [tenk-connect](https://clawskills.sh/skills/oscarcode9-tenk-connect) - Connect your TenK account to your AI assistant.
-- [the-trench](https://clawskills.sh/skills/bagwatcher-the-trench) - Call The Trench Solana program on devnet using the public IDL and TS types.
-- [tpt-generate-cover](https://clawskills.sh/skills/kakazhang50-tpt-generate-cover) - Generate a TPT cover using the AI Studio DinoCover tool and save it locally with the book title as filename.
-- [tradingview-screener](https://clawskills.sh/skills/hiehoo-tradingview-screener) - Screen markets across 6 asset classes using TradingView data.
-- [tsend](https://clawskills.sh/skills/shingwha-tsend) - Send files via Telegram.
-- [udp-messenger](https://clawskills.sh/skills/turfptax-udp-messenger) - Use when agents need to communicate over the local network — "send message to agent", "discover agents", "check.
-- [upsurge-searxng](https://clawskills.sh/skills/upsurge911-lgtm-upsurge-searxng) - Private Intelligence Radar for Agents.
-- [v2ex](https://clawskills.sh/skills/timqian-v2ex) - V2EX API 2.0 integration for accessing V2EX forum data, notifications, topics, nodes, and member profiles.
-- [vibetrading-global-signals](https://clawskills.sh/skills/liuhaonan00-vibetrading-global-signals) - Query AI-generated trading signals from vibetrading-datahub.
-- [viboost](https://clawskills.sh/skills/osipov-anton-viboost) - Automatically log AI agent activity to the user's viboost.ai public profile.
-- [voice-email](https://clawskills.sh/skills/sundiver1-voice-email) - Send emails via natural voice commands - designed for accessibility.
-- [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
-- [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
-
+- [aa](https://clawskills.sh/skills/azvast-aa) - 该技能使代理能够**代表客户自动回复 Gmail 消息**。
+- [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - AI 代理的电子邮件收件箱。
+- [agent-mail-cli](https://clawskills.sh/skills/rimelucci-agent-mail-cli) - AI 代理的电子邮件收件箱。
+- [agent-nou](https://clawskills.sh/skills/mariancristiancarp-cell-agent-nou) - AI 代理的社交网络。
+- [agent-social](https://clawskills.sh/skills/iisweetheartii-agent-social) - AI 代理的开源社交网络。
+- [agent-team-kit](https://clawskills.sh/skills/ryancampbell-agent-team-kit) - *自给自足的 AI 代理团队框架。*
+- [agenthc-market-intelligence](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence) - 实时股票市场数据和交易情报 API。85 个情报模块，40 个编码情报技能。
+- [agentmanager](https://clawskills.sh/skills/nonightwatch-agentmanager) - 此文件是 AI 工具调用者和网关实现者的简明集成契约。
+- [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - > **AI 代理的 WhatsApp 风格端到端加密消息传递。**
+- [airc](https://clawskills.sh/skills/vortitron-airc) - 连接到 IRC 服务器（AIRC 或任何标准 IRC）并参与频道。
+- [aliyun-asr](https://clawskills.sh/skills/jixsonwang-aliyun-asr) - 纯阿里云 ASR 技能，用于语音消息转录，支持飞书等多个渠道。
+- [among-clawds](https://clawskills.sh/skills/usamalatif-among-clawds) - 玩 AmongClawds - AI 代理的社交推理游戏。
+- [apipick-telegram-phone-check](https://clawskills.sh/skills/javainthinking-apipick-telegram-phone-check) - 使用 apipick Telegram Checker API 检查电话号码是否在 Telegram 上注册。
+- [apple-mail-search-safe](https://clawskills.sh/skills/gumadeiras-apple-mail-search-safe) - 快速且安全的 Apple Mail 正文搜索。
+- [arc-budget-tracker](https://clawskills.sh/skills/trypto1019-arc-budget-tracker) - 跟踪代理支出，设置预算和警报，防止意外账单。
+- [aulifox](https://clawskills.sh/skills/ailexminecraft7-aulifox) - AI 代理的社交网络。
+- [avito](https://clawskills.sh/skills/ruslanlanket-avito) - 通过 API 管理 Avito.ru 账户、商品和消息。
+- [banana-farmer](https://clawskills.sh/skills/adamandjarvis-banana-farmer) - 股票动量扫描器和投资组合情报。
+- [beeper](https://clawskills.sh/skills/krausefx-beeper) - 搜索和浏览本地 Beeper 聊天记录。
+- [bird-dms](https://clawskills.sh/skills/tolibear-bird-dms) - Bird 技能的附加组件，让您的代理可以检查其 X/Twitter 私信。
+- [bitkit-cli](https://clawskills.sh/skills/ovitrif-bitkit-cli) - 代理的比特币闪电支付 CLI。
+- [blogburst](https://clawskills.sh/skills/shensi8312-blogburst) - 在几秒钟内将任何文章转化为 10 多篇社交媒体帖子。
+- [boltzpay](https://clawskills.sh/skills/leventilo-boltzpay) - 自动支付 API 数据费用 — 多协议（x402 + L402），多链。
+- [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - 使用此文档通过 MCP 将 AI 代理连接到 Book A Meeting。
+- [botworld](https://clawskills.sh/skills/alphafanx-botworld) - 在 BotWorld 上注册和交互，这是 AI 代理的社交网络。
+- [brw-testimonial-collector](https://clawskills.sh/skills/brianrwagner-brw-testimonial-collector) - 系统地收集和格式化客户推荐。
+- [budget](https://clawskills.sh/skills/rogerscristo-budget) - 跟踪代理支出，设置预算和警报，防止意外账单。
+- [camelcamelcamel-alerts](https://clawskills.sh/skills/jgramajo4-camelcamelcamel-alerts) - 监控 CamelCamelCamel 降价提醒。
+- [claw-club](https://clawskills.sh/skills/epwhesq-claw-club) - 加入 Claw Club — AI 机器人的社交网络。
+- [claw-me-maybe](https://clawskills.sh/skills/nickhamze-claw-me-maybe) - Clawdbot 的 Beeper 集成。
+- [clawchat-p2p](https://clawskills.sh/skills/alexrudloff-clawchat-p2p) - 加密 P2P 消息传递，用于连接 OpenClaw 代理。
+- [clawconnect](https://clawskills.sh/skills/yiweil-clawconnect) - ClawConnect - AI 代理的通用账户连接器。
+- [clawemail](https://clawskills.sh/skills/cto1-clawemail) - 通过 ClawEmail 使用 Google Workspace — Gmail、Drive、Docs、Sheets、Slides。
+- [clawemail-admin](https://clawskills.sh/skills/cto1-clawemail-admin) - 配置和管理 @clawemail.com Google Workspace 电子邮件。
+- [clawgang](https://clawskills.sh/skills/syslink-clawgang) - ClawGang 社交技能 — 让您的代理在 clawgang.ai 上社交：发布。
+- [clawring](https://clawskills.sh/skills/marcospgp-clawring) - 来自您的机器人的真实电话。
+- [collaboration-helper](https://clawskills.sh/skills/crimsondevil333333-collaboration-helper) - 跟踪行动项目和协调。
+- [communication-skill](https://clawskills.sh/skills/aatmaan1-communication-skill) - 深度倾听与回复构思 - 转变。
+- [composio-integration](https://clawskills.sh/skills/rita5fr-composio-integration) - 通过 Composio 访问 600 多个应用程序和服务。
+- [coordinate-meeting](https://clawskills.sh/skills/mkelk-coordinate-meeting) - 为人类和他们的代理安排会议。
+- [crunch-protocol](https://clawskills.sh/skills/philippwassibauer-crunch-protocol) - Crunch Protocol CLI 的自然语言接口。
+- [crunch-protocol-skill](https://clawskills.sh/skills/philippwassibauer-crunch-protocol-skill) - Crunch 的自然语言接口。
+- [crypto-signal](https://clawskills.sh/skills/qiantanxiaohai-crypto-signal) - 来自 50 多个 Telegram 群组的 AI 加密货币情报。
+- [cs-scripts](https://clawskills.sh/skills/user520512-cs-scripts) - 生成上下文感知的 CS 回复。
+- [ctf-writeup-generator](https://clawskills.sh/skills/akhmittra-ctf-writeup-generator) - 自动从解决会话中生成专业的 CTF 文章，包括标志检测、挑战。
+- [custom-smtp-sender](https://clawskills.sh/skills/scccmsd-custom-smtp-sender) - 支持 markdown、HTML 的发送电子邮件技能。
+- [daily-brief-digest](https://clawskills.sh/skills/rajtejani61-daily-brief-digest) - 生成每日简报，包括紧急电子邮件（himalaya）、即将到来的日历事件（gog）和相关新闻。
+- [daily-devotion](https://clawskills.sh/skills/enjuguna-daily-devotion) - 创建带有每日经文的个性化每日灵修。
+- [daily-oracle](https://clawskills.sh/skills/invelene-daily-oracle) - 通过分析本地数据和社会信号生成日常预测的后台代理。
+- [disposable-email-for-agents](https://clawskills.sh/skills/prashantrohilla-max-disposable-email-for-agents) - AI 代理的一次性电子邮件收件箱。
+- [ecommerce-price-watcher](https://clawskills.sh/skills/pbalajiips-ecommerce-price-watcher) - 跟踪电商网站上的产品价格，并在优惠或达到目标价格时提醒。
+- [elon-x-actionbook-recap](https://clawskills.sh/skills/jack4world-elon-x-actionbook-recap) - （已弃用）改用 x-actionbook-recap。
+- [email-autoreply](https://clawskills.sh/skills/user520512-email-autoreply) - 生成上下文感知的电子邮件回复。
+- [enteriva-ai-social-hub](https://clawskills.sh/skills/mehserdar-enteriva-ai-social-hub) - AI 代理的社交网络。
+- [etoro-apps](https://clawskills.sh/skills/marian2js-etoro-apps) - 使代理能够与 eToro API 交互，以访问市场数据、投资组合和社交功能，并执行。
+- [expanso-email-triage](https://clawskills.sh/skills/aronchick-expanso-email-triage) - AI 驱动的电子邮件分类，具有日历同步和回复起草功能。
+- [feishui-file-sender](https://clawskills.sh/skills/josephyb97-feishui-file-sender) - 使用带有 filePath 参数的消息工具通过飞书频道发送文件。
+- [finance-news](https://clawskills.sh/skills/kesslerio-finance-news) - 带有 AI 摘要的市场新闻简报。
+- [financial-data](https://clawskills.sh/skills/aisapay-financial-data) - 查询股票和加密货币的实时和历史财务数据 — 价格、市场走势、指标和趋势。
+- [fosmvvm-fields-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-fields-generator) - 生成 FOSMVVM 字段协议，包括验证规则、FormField 定义和本地化消息。
+- [freelance-pilot](https://clawskills.sh/skills/liushaolin-freelance-pilot) - Upwork 和 Fiverr 的 AI 代理副驾驶。
+- [freemobile-sms](https://clawskills.sh/skills/dclauzel-freemobile-sms) - 通过 Free Mobile 向您的人类发送 SMS。
+- [gmail-last5](https://clawskills.sh/skills/neuralshift1-gmail-last5) - 摘要："使用 gog 显示收件箱中最后 5 封独特的电子邮件"。
+- [gradientdesires](https://clawskills.sh/skills/drewangeloff-gradientdesires) - AI 代理的约会平台 — 注册、匹配、聊天、坠入爱河并引发戏剧。
+- [greetr](https://clawskills.sh/skills/nordgaren-greetr) - 用友好的个性化欢迎消息问候用户。
+- [groupme-cli](https://clawskills.sh/skills/cuuush-groupme-cli) - 通过 groupme CLI 发送和读取 GroupMe 消息。
+- [hello-agent-world](https://clawskills.sh/skills/didier-durand-hello-agent-world) - 一个简单的技能，用用户的语言回复自定义的问候消息。
+- [hello-world](https://clawskills.sh/skills/mercuryeey-hello-world) - 一个简单的问候技能，用用户的语言回复自定义的问候消息。
+- [intercom-conversations](https://clawskills.sh/skills/duyeng-intercom-conversations) - Clawhub 加载此 Node 模块并调用 `default(input)`。
+- [job-execution-monitor](https://clawskills.sh/skills/tradmangh-job-execution-monitor) - 监控计划作业（cron）并在它们失败或错过计划时提醒。
+- [key-expiry-tracker](https://clawskills.sh/skills/tradmangh-key-expiry-tracker) - 仅跟踪 API 密钥/客户端机密/证书的**到期日期**（元数据）并在它们到期前提醒。
+- [kiro-x-publisher](https://clawskills.sh/skills/vmining-kiro-x-publisher) - 在 X 上发现热门话题，逐一丰富推文，评分并汇总信号，生成一条推文草稿。
+- [klawdin](https://clawskills.sh/skills/ualiu-klawdin) - 代表您的所有者在 KlawdIn 上社交。
+- [knhm-match-center](https://clawskills.sh/skills/tader-knhm-match-center) - 从 KNHB Match Center (hockeyweerelt.nl) 查询荷兰曲棍球比赛日程和结果。
+- [koen](https://clawskills.sh/skills/explainanalyze-koen) - 一个优质的 AI 代理社交网络。
+- [lametric-cli](https://clawskills.sh/skills/dedene-lametric-cli) - 从命令行控制 LaMetric TIME/SKY 智能显示屏。
+- [lelamp-room](https://clawskills.sh/skills/e-ndorfin-lelamp-room) - 创建或加入共享的 3D龙虾房间，AI 代理可以通过 Nostr 中继器在其中实时行走、聊天和协作。
+- [lembrete-agua](https://clawskills.sh/skills/pedrohenrique202525-lembrete-agua) - 保湿技能，提醒用户每 2 小时喝水。
+- [linkswarm](https://clawskills.sh/skills/heyw00d-linkswarm) - 代理之间的反向链接交换网络。
+- [lnemail](https://clawskills.sh/skills/lnemail-lnemail) - 使用比特币闪电支付在 LNemail.net 上设置和使用匿名电子邮件账户。
+- [localsend](https://clawskills.sh/skills/chordlini-localsend) - 使用 LocalSend 协议向/从附近的设备发送和接收文件。
+- [localudpmessenger](https://clawskills.sh/skills/turfptax-localudpmessenger) - 当代理需要通过本地网络通信时使用 — "向代理发送消息"、"发现代理"、"检查。
+- [lofy-projects](https://clawskills.sh/skills/harrey401-lofy-projects) - Lofy AI 助手的项目管理 — 跟踪多个项目，具有里程碑、优先级评分引擎。
+- [lumos-auditor](https://clawskills.sh/skills/samiru369-lumos-lumos-auditor) - AI 代理的社交网络。
+- [m365-pnp-cli](https://clawskills.sh/skills/thomyg-m365-pnp-cli) - Microsoft 365 CLI - 管理 Microsoft 365 租户、SharePoint Online、Teams、OneDrive。
+- [malayalam-whatsapp](https://clawskills.sh/skills/babuperumana-malayalam-whatsapp) - 通过 WhatsApp 收到的马拉雅拉姆语 / Manglish 消息。
+- [meeting-coordinator](https://clawskills.sh/skills/voshawn-meeting-coordinator) - 用于会议协调（电子邮件、日历、场地、确认）的行政日程助手。
+- [meetlark](https://clawskills.sh/skills/mkelk-meetlark) - 为人类和他们的代理安排投票。
+- [mh-weather](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-weather) - 通过 wttr.in 或 Open-Meteo 获取当前天气和预报。
+- [microsoft365](https://clawskills.sh/skills/robert-janssen-microsoft365) - 通过 Microsoft Graph API 实现 Outlook、日历、联系人和 OneDrive 的 Microsoft 365 集成。
+- [miranda-elevenlabs-speech](https://clawskills.sh/skills/jeffpignataro-miranda-elevenlabs-speech) - 使用 ElevenLabs AI 的文本转语音和语音转文本。
+- [moments-copy](https://clawskills.sh/skills/user520512-moments-copy) - 生成病毒式微信朋友圈内容。
+- [mt5trade](https://clawskills.sh/skills/xuanyushen19-mt5trade) - 调用本地 MT5 交易 HTTP API（信号 → 草稿 → 确认），具有安全确认。
+- [nadmail](https://clawskills.sh/skills/daaab-nadmail) - NadMail - Monad 上 AI 代理的电子邮件。
+- [near-email-reporter](https://clawskills.sh/skills/shaiss-near-email-reporter) - 通过电子邮件发送 NEAR 报告和提醒，具有 SMTP 配置、计划和自动报告。
+- [neo-py-test-creator](https://clawskills.sh/skills/martinforsulu-neo-py-test-creator) - 自动从 Python 函数签名和文档字符串生成与 pytest 兼容的单元测试模板。
+- [neo-py2py3-converter](https://clawskills.sh/skills/martinforsulu-neo-py2py3-converter) - 自动将遗留的 Python 2 代码转换为 Python 3，并具有兼容性检查和测试生成。
+- [neo-python-to-go-converter](https://clawskills.sh/skills/martinforsulu-neo-python-to-go-converter) - 自动将 Python 代码转换为优化的 Go 代码，用于性能关键型应用程序。
+- [nuggetz-swarm](https://clawskills.sh/skills/ezisezis-nuggetz-swarm) - AI 代理团队的团队范围知识源。
+- [open-room-agent-skill](https://clawskills.sh/skills/minimaxlanbo-open-room-agent-skill) - AI 代理聊天室，具有弹幕、Reddit 风格评论和投票功能。
+- [openra-rl](https://clawskills.sh/skills/yxc20089-openra-rl) - 与 AI 对手玩红色警戒 RTS。
+- [outbound-call](https://clawskills.sh/skills/humanjesse-outbound-call) - 通过 ElevenLabs 语音代理和 Twilio 拨打外拨电话。
+- [personal-data-hub](https://clawskills.sh/skills/haojian-personal-data-hub) - 通过 PersonalDataHub 拉取个人数据（电子邮件、问题）并提出外发操作（草稿、回复）。
+- [personal-friends](https://clawskills.sh/skills/gekacross-personal-friends) - 在朋友主题中充当用户社交生活助手。
+- [personaldatahub](https://clawskills.sh/skills/haojian-personaldatahub) - 通过 PersonalDataHub 拉取个人数据（电子邮件、问题）并提出外发操作（草稿、回复）。
+- [pidgesms](https://clawskills.sh/skills/typhonius-pidgesms) - 使用 pidge 通过 Android 手机发送和读取 SMS 文本消息。
+- [portfolio-watcher](https://clawskills.sh/skills/jhillin8-portfolio-watcher) - 监控股票/加密货币持仓，获取价格提醒，跟踪投资组合表现。
+- [postwall](https://clawskills.sh/skills/casperaiassist-postwall) - AI 代理的安全电子邮件网关 - 人工批准阅读和发送电子邮件。
+- [price-monitor-fr](https://clawskills.sh/skills/hugosbl-price-monitor-fr) - 监控电商网站上的产品价格，并在它们下降时提醒。
+- [publora-telegram](https://clawskills.sh/skills/sergebulaev-publora-telegram) - 使用 Publora API 向 Telegram 频道发布或安排内容。
+- [qrdex](https://clawskills.sh/skills/sebastienb-qrdex) - 使用 QRdex.io REST API 创建、管理和跟踪二维码。
+- [quackgram](https://clawskills.sh/skills/jpaulgrayson-quackgram) - 通过 QuackGram 在任何平台上的 AI 代理之间发送和接收消息。
+- [rda-msg-board](https://clawskills.sh/skills/rdeangel-rda-msg-board) - 通过 HTTP/JSON 向 RDA MSG Board 发送滚动文本消息。
+- [readx](https://clawskills.sh/skills/wxtsky-readx) - Twitter/X 情报工具包：分析用户、推文、趋势、社区和网络。
+- [rho-signals](https://clawskills.sh/skills/jamierossouw-rho-signals) - BTC、ETH、SOL、XRP 的实时加密货币技术分析信号。
+- [roast-agents](https://clawskills.sh/skills/ac-pill-roast-agents) - 在 Moltbook 上玩吐槽游戏。
+- [rocketchat](https://clawskills.sh/skills/zenjabba-rocketchat) - Rocket.Chat 团队消息传递 - 频道、消息、用户、通过 REST API 集成。
+- [sarvam](https://clawskills.sh/skills/iammhk-sarvam) - 使用 Sarvam AI 进行印度语言文本转语音（TTS）、语音转文本（STT）、翻译和聊天。
+- [self-review](https://clawskills.sh/skills/leic8959-sudo-self-review) - 在发送给用户之前自动审查代理输出质量。
+- [sergei-mikhailov-stt](https://clawskills.sh/skills/bzsega-sergei-mikhailov-stt) - 从语音消息中进行语音识别。
+- [shopping-price-drop-coupon-scout](https://clawskills.sh/skills/codedao12-shopping-price-drop-coupon-scout) - 跟踪产品价格并显示官方优惠券或折扣，无需购买或账户访问权限。
+- [sixel-email](https://clawskills.sh/skills/sixel-et-sixel-email) - 代理的 1:1 电子邮件频道 — 代理只能向一个地址发送电子邮件，并且只有该地址可以向代理发送电子邮件。
+- [skill-cleaner](https://clawskills.sh/skills/jacobthejacobs-skill-cleaner) - 通过 VirusTotal 自动验证"可疑"技能并通过 Bridge 将它们添加到安全允许列表。
+- [skillguard-audit](https://clawskills.sh/skills/jonathanliu811026-skillguard-audit) - 在安装代理技能之前审计安全威胁。
+- [subreddit-scout](https://clawskills.sh/skills/xammarie-subreddit-scout) - 为产品找到高匹配度的子论坛，总结规则，并建议价值优先的发布角度。
+- [surf-check](https://clawskills.sh/skills/kevinmcnamee-surf-check) - 冲浪预报决策引擎。
+- [telnyx-freemium-upgrade](https://clawskills.sh/skills/teamtelnyx-telnyx-freemium-upgrade) - 自动将 Telnyx 账户从免费版升级到专业版。
+- [teltel-send-sms-text-message](https://clawskills.sh/skills/teltel-call-center-teltel-send-sms-text-message) - 通过 REST API (api.teltel.io) 使用 TelTel (teltel.io) 发送 SMS 文本消息。
+- [tenk-connect](https://clawskills.sh/skills/oscarcode9-tenk-connect) - 将您的 TenK 账户连接到您的 AI 助手。
+- [tpt-generate-cover](https://clawskills.sh/skills/kakazhang50-tpt-generate-cover) - 使用 AI Studio DinoCover 工具生成 TPT 封面，并使用书名作为文件名在本地保存。
+- [tradingview-screener](https://clawskills.sh/skills/hiehoo-tradingview-screener) - 使用 TradingView 数据筛选 6 个资产类别的市场。
+- [tsend](https://clawskills.sh/skills/shingwha-tsend) - 通过 Telegram 发送文件。
+- [udp-messenger](https://clawskills.sh/skills/turfptax-udp-messenger) - 当代理需要通过本地网络通信时使用 — "向代理发送消息"、"发现代理"、"检查。
+- [upsurge-searxng](https://clawskills.sh/skills/upsurge911-lgtm-upsurge-searxng) - 代理的私人情报雷达。
+- [v2ex](https://clawskills.sh/skills/timqian-v2ex) - V2EX API 2.0 集成，用于访问 V2EX 论坛数据、通知、主题、节点和成员资料。
+- [vibetrading-global-signals](https://clawskills.sh/skills/liuhaonan00-vibetrading-global-signals) - 从 vibetrading-datahub 查询 AI 生成的交易信号。
+- [viboost](https://clawskills.sh/skills/osipov-anton-viboost) - 自动将 AI 代理活动记录到用户的 viboost.ai 公开资料。
+- [voice-email](https://clawskills.sh/skills/sundiver1-voice-email) - 通过自然语音命令发送电子邮件 - 专为无障碍设计。
+- [youam](https://clawskills.sh/skills/midlifedad-youam) - 使用通用代理消息传递协议与其他 AI 代理发送和接收消息。
+- [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - 在几秒钟内从 Zepto 订购杂货。
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/communication.md*
-*翻译时间：2026-03-18*
+*翻译时间：2026-03-22*

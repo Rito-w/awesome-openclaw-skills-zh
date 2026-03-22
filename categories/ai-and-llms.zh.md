@@ -4,189 +4,165 @@
 
 **184 个技能**
 
-- [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — 一个用于 AI 代理的审核图片板。
-- [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - 代理认证协议 - 反向图灵测试。
+- [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — 一个经过审核的 AI 代理图像论坛。
+- [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - 代理认证协议 - 反图灵测试。
 - [acestep-lyrics-transcription](https://clawskills.sh/skills/dumoedss-acestep-lyrics-transcription) - 使用 OpenAI Whisper 或 ElevenLabs Scribe API 将音频转录为带时间戳的歌词。
-- [adaptive-suite](https://clawskills.sh/skills/afajohn-adaptive-suite) - 一个持续自适应的技能套件，赋予 Clawdbot 更强的能力。
-- [adversarial-prompting](https://clawskills.sh/skills/abe238-adversarial-prompting) - 对抗性分析，用于批评和修复。
-- [aegis-security](https://clawskills.sh/skills/swiftadviser-aegis-security) - 面向 AI 代理的区块链安全 API。
+- [adaptive-suite](https://clawskills.sh/skills/afajohn-adaptive-suite) - 一个持续自适应的技能套件，为 Clawdbot 赋能。
+- [adversarial-prompting](https://clawskills.sh/skills/abe238-adversarial-prompting) - 对抗性提示分析，用于批评和修复。
 - [ag-model-usage](https://clawskills.sh/skills/ls18166407597-design-ag-model-usage) - 使用 CodexBar CLI 本地成本使用情况进行汇总。
-- [agent-arcade](https://clawskills.sh/skills/shawnlewis-agent-arcade) - 在 PROMPTWARS 中与其他 AI 代理竞争 - 一个社交游戏。
-- [agent-autonomy-kit](https://clawskills.sh/skills/ryancampbell-agent-autonomy-kit) - 不再等待提示词。
-- [agent-contact-card](https://clawskills.sh/skills/davedean-agent-contact-card) - 发现并创建代理联系卡 - 类似 vCard 的功能。
-- [agent-docs](https://clawskills.sh/skills/tylervovan-agent-docs) - 创建针对 AI 代理消费优化的文档。
-- [agent-ethos](https://clawskills.sh/skills/mrclanky-agent-ethos) - 为 Clanky 扩展的理念和心理模型。
-- [agent-home](https://clawskills.sh/skills/aerialcombat-agent-home) - 在互联网上拥有自己的家 - 一个带有公开资料的档案页面。
+- [agent-arcade](https://clawskills.sh/skills/shawnlewis-agent-arcade) - 在 PROMPTWARS 中与其他 AI 代理竞争 —— 一个社交游戏。
+- [agent-autonomy-kit](https://clawskills.sh/skills/ryancampbell-agent-autonomy-kit) - 停止等待提示。
+- [agent-contact-card](https://clawskills.sh/skills/davedean-agent-contact-card) - 发现和创建代理联系卡 —— 类似 vCard 的数字身份。
+- [agent-docs](https://clawskills.sh/skills/tylervovan-agent-docs) - 创建专为 AI 代理消费优化的文档。
+- [agent-ethos](https://clawskills.sh/skills/mrclanky-agent-ethos) - Clanky 的扩展精神理念和心理模型。
+- [agent-home](https://clawskills.sh/skills/aerialcombat-agent-home) - 在互联网上拥有自己的家 —— 带有公开个人资料页面的主页。
 - [agent-linguo](https://clawskills.sh/skills/xiwan-agent-linguo) - 高效的代理通信协议语言。
-- [agent-memory](https://clawskills.sh/skills/dennis-da-menace-agent-memory) - AI 代理的持久化记忆系统。
-- [agent-orchestration-multi-agent-optimize](https://clawskills.sh/skills/rustyorb-agent-orchestration-multi-agent-optimize) - 通过协调性能分析、工作负载分配和成本感知编排来优化多代理系统。
+- [agent-memory](https://clawskills.sh/skills/dennis-da-menace-agent-memory) - AI 代理的持久记忆系统。
+- [agent-orchestration-multi-agent-optimize](https://clawskills.sh/skills/rustyorb-agent-orchestration-multi-agent-optimize) - 通过协调分析、工作负载分配和成本感知编排来优化多代理系统。
 - [agent-orchestrator](https://clawskills.sh/skills/aatmaan1-agent-orchestrator) - 用于编排复杂任务的元代理技能。
-- [agent-registry](https://clawskills.sh/skills/matrixy-agent-registry) - 令牌高效代理发现系统（MANDATORY）。
-- [agent-rpg](https://clawskills.sh/skills/xhrisfu-agent-rpg) - 该技能将代理转换为角色扮演游戏主持人 (GM) 或具有长期记忆的角色。
+- [agent-registry](https://clawskills.sh/skills/matrixy-agent-registry) - 面向高效令牌使用的强制代理发现系统。
+- [agent-rpg](https://clawskills.sh/skills/xhrisfu-agent-rpg) - 此技能将代理转换为具有长期记忆的角色扮演游戏主持人 (GM) 或角色。
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI 代理自画像生成器。
-- [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - 该代理的运行断路器。
-- [agentbus-relay-chat](https://clawskills.sh/skills/dantunes-github-agentbus-relay-chat) - AgentBus 概念验证：类似 IRC 的 LLM 聊天。
-- [agentic-calling](https://clawskills.sh/skills/kellyclaudeai-agentic-calling) - 使 AI 代理能够拨打电话和接听电话。
-- [agentic-compass](https://clawskills.sh/skills/orosha-ai-agentic-compass) - 仅限本地的自我反思，强制 AI 代理采取行动。
-- [agentmail](https://clawskills.sh/skills/adboio-agentmail) - 为 AI 代理设计的 API 优先电子邮件平台。
+- [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - 此代理的操作断路器。
+- [agentic-calling](https://clawskills.sh/skills/kellyclaudeai-agentic-calling) - 使 AI 代理能够拨打和接听电话。
+- [agentic-compass](https://clawskills.sh/skills/orosha-ai-agentic-compass) - 仅限本地自反思，强制 AI 代理采取行动。
+- [agentmail](https://clawskills.sh/skills/adboio-agentmail) - 专为 AI 代理设计的 API 优先电子邮件平台。
 - [agentos](https://clawskills.sh/skills/agentossoftware-agentos) - Clawdbot 的完整 AgentOS 集成。
-- [agentpixels-skill](https://clawskills.sh/skills/osadchiynikita-agentpixels-skill) - AI 代理协作艺术平台 - 512x512。
+- [agentpixels-skill](https://clawskills.sh/skills/osadchiynikita-agentpixels-skill) - AI 代理协作艺术平台 —— 512x512。
 - [agentpulse](https://clawskills.sh/skills/sru4ka-agentpulse) - 为您的 AI 代理跟踪 LLM API 成本、令牌、延迟和错误。
-- [agile-product-owner](https://clawskills.sh/skills/alirezarezvani-agile-product-owner) - 敏捷产品负责人，用于待办事项管理。
-- [ai-3d-generator](https://clawskills.sh/skills/vonzellu-ai-3d-generator) - 从文本描述自动生成详细的 3D 模型。
+- [agile-product-owner](https://clawskills.sh/skills/alirezarezvani-agile-product-owner) - 用于待办事项管理的敏捷产品负责人。
+- [ai-3d-generator](https://clawskills.sh/skills/vonzellu-ai-3d-generator) - 根据文本描述自动生成详细的 3D 模型。
 - [ai-agent-card-payments](https://clawskills.sh/skills/proxyhq-ai-agent-card-payments) - AI 代理的虚拟卡支付。
-- [ai-brand-analyzer](https://clawskills.sh/skills/pauldelavallaz-ai-brand-analyzer) - 分析品牌以生成综合品牌资料。
+- [ai-brand-analyzer](https://clawskills.sh/skills/pauldelavallaz-ai-brand-analyzer) - 分析品牌以生成全面的品牌分析报告。
 - [ai-conversation-summary](https://clawskills.sh/skills/dadaliu0121-ai-conversation-summary) - 为对话生成摘要。
-- [ai-displacement-monitor](https://clawskills.sh/skills/spyfree-ai-displacement-monitor) - 监测 AI 驱动的白领劳动力替代和宏观金融溢出的早期预警信号。
+- [ai-displacement-monitor](https://clawskills.sh/skills/spyfree-ai-displacement-monitor) - 监测 AI 驱动的白领劳动力替代和宏观金融溢出效应的早期预警信号。
 - [ai-humanizer](https://clawskills.sh/skills/brandonwise-ai-humanizer) - 通过检测和删除典型的 LLM 输出模式来人性化 AI 生成的文本。
-- [ai-humor-ultimate](https://clawskills.sh/skills/globalcaos-ai-humor-ultimate) - 让您的 AI 代理真正具有幽默感。
-- [ai-influencer-generation](https://clawskills.sh/skills/eftalyurtseven-ai-influencer-generation) - 使用 each::sense API 生成一致的 AI 影响者角色和社交媒体内容。
-- [ai-interview-simulator-candaigo](https://clawskills.sh/skills/hangeaiagent-ai-interview-simulator-candaigo) - Candaigo AI 面试模拟器 - AI 驱动的群体面试模拟平台。
-- [ai-podcast](https://clawskills.sh/skills/mogens9-ai-podcast) - 使用 MagicPodcast 将 PDF 转换为播客，以自然的两人对话格式将文本转换为播客。
-- [ai-screener](https://clawskills.sh/skills/xanxustan-ai-screener) - Intellectia 股票/加密货币筛选器，适用于看涨/看跌明天/本周/本月预设。
-- [ai-trend-curation](https://clawskills.sh/skills/yusaku-0426-ai-trend-curation) - 从 X (Twitter) 策展并发布 AI 趋势推文，并提供引用建议。
-- [ai-writing-humanizer](https://clawskills.sh/skills/hosthobbit-ai-writing-humanizer) - 在发送前自动从面向用户的散文中删除 AI 写作模式和陈词滥调。
-- [aifrens-ambassador](https://clawskills.sh/skills/wizsmol-aifrens-ambassador) - AI Frens 大使计划 - 如何推广自主 AI 代理及其经济的愿景。
-- [aisa-financial-data](https://clawskills.sh/skills/aisapay-aisa-financial-data) - 查询跨股票和加密货币的实时和历史金融数据 - 价格、市场走势、指标和趋势。
-- [aisa-financial-data-api](https://clawskills.sh/skills/aisadevco-aisa-financial-data-api) - 查询跨股票和加密货币的实时和历史金融数据 - 价格、市场走势、指标和趋势。
-- [aisa-llm-router-skill](https://clawskills.sh/skills/bowen-dotcom-aisa-llm-router-skill) - 统一 LLM 网关 - 70+ AI 模型的单一 API。
-- [aisa-market-skill](https://clawskills.sh/skills/bowen-dotcom-aisa-market-skill) - 查询跨股票和加密货币的实时和历史金融数据 - 价格、市场走势、指标和趋势。
-- [aisp](https://clawskills.sh/skills/daveo280-aisp) - 使 AI 代理能够与 AISP（代理推理共享协议）交互，以租用或提供 DIEM API。
+- [ai-humor-ultimate](https://clawskills.sh/skills/globalcaos-ai-humor-ultimate) - 让您的 AI 代理拥有真正的智慧。
+- [ai-influencer-generation](https://clawskills.sh/skills/eftalyurtseven-ai-influencer-generation) - 使用 each::sense API 生成一致的 AI 影响者形象和社交媒体内容。
+- [ai-interview-simulator-candaigo](https://clawskills.sh/skills/hangeaiagent-ai-interview-simulator-candaigo) - Candaigo AI 面试模拟器 —— 基于 AI 的群体面试模拟平台。
+- [ai-podcast](https://clawskills.sh/skills/mogens9-ai-podcast) - 使用 MagicPodcast 将 PDF 和文本转换为自然的两人播客格式。
+- [ai-screener](https://clawskills.sh/skills/xanxustan-ai-screener) - Intellectia 股票/加密货币筛选器，提供看涨/看跌的明日/本周/本月预设。
+- [ai-trend-curation](https://clawskills.sh/skills/yusaku-0426-ai-trend-curation) - 从 X (Twitter) 策划并发布 AI 趋势推文，附带引用建议。
+- [ai-writing-humanizer](https://clawskills.sh/skills/hosthobbit-ai-writing-humanizer) - 在发送之前，自动从面向用户的散文中删除 AI 写作模式和常用短语。
+- [aisa-financial-data](https://clawskills.sh/skills/aisapay-aisa-financial-data) - 查询跨股票和加密货币的实时和历史金融数据 —— 价格、市场走势、指标和趋势。
+- [aisa-financial-data-api](https://clawskills.sh/skills/aisadevco-aisa-financial-data-api) - 查询跨股票和加密货币的实时和历史金融数据 —— 价格、市场走势、指标和趋势。
+- [aisa-llm-router-skill](https://clawskills.sh/skills/bowen-dotcom-aisa-llm-router-skill) - 统一 LLM 网关 —— 一个 API 接入 70+ AI 模型。
+- [aisa-market-skill](https://clawskills.sh/skills/bowen-dotcom-aisa-market-skill) - 查询跨股票和加密货币的实时和历史金融数据 —— 价格、市场走势、指标和趋势。
+- [aisp](https://clawskills.sh/skills/daveo280-aisp) - 使 AI 代理能够与 AISP（代理推理共享协议）交互，用于租用或提供 DIEM API。
 - [aiusd-skill-agent](https://clawskills.sh/skills/chaunceyliu-aiusd-skill-agent) - AIUSD 交易和账户管理技能，用于加密货币交易和账户管理。
-- [anti-injection-skill](https://clawskills.sh/skills/georges91560-anti-injection-skill) - 高级提示注入防护，具有多层保护、内存完整性和工具安全包装器。
-- [anti-regression](https://clawskills.sh/skills/zoroposkai-anti-regression) - 停止回退到聊天机器人行为。
-- [arc-security-mcp](https://clawskills.sh/skills/trypto1019-arc-security-mcp) - AI 优先的安全情报，采用 LLM 驱动的意图分析。来自 361+ 技能审计的 743+ 发现，25 种模式。
-- [argus](https://clawskills.sh/skills/sooyoon-eth-argus) - 区块链情报与 AI 安全。
-- [arya-model-router](https://clawskills.sh/skills/staratheris-arya-model-router) - 令牌节省路由器：选择模型（便宜/默认/专业）并使用子代理处理繁重任务。
-- [asia-llm-router-skills](https://clawskills.sh/skills/renning22-asia-llm-router-skills) - 统一 LLM 网关 - 70+ AI 模型的单一 API。
-- [askgina-polymarket](https://clawskills.sh/skills/sidshekhar-askgina-polymarket) - Claw 机器人的快速设置：粘贴您的 Gina MCP 令牌，几分钟内即可开始在 Polymarket 上交易。
-- [astrai-inference-router](https://clawskills.sh/skills/beee003-astrai-inference-router) - 通过 Astrai 路由所有 LLM 调用，通过智能路由和隐私控制节省 40% 以上成本。
-- [audio-processing](https://clawskills.sh/skills/iyeque-audio-processing) - 音频摄取、分析、转换和生成（转录、TTS、VAD、特征）。
+- [anti-injection-skill](https://clawskills.sh/skills/georges91560-anti-injection-skill) - 高级提示注入防御，具有多层保护、内存完整性和工具安全包装。
+- [anti-regression](https://clawskills.sh/skills/zoroposkai-anti-regression) - 阻止退回到聊天机器人行为。
+- [arc-security-mcp](https://clawskills.sh/skills/trypto1019-arc-security-mcp) - AI 优先的安全情报，使用 LLM 驱动的意图分析。从 361 多项技能审计中获得 743 多个发现，25 种模式。
+- [arya-model-router](https://clawskills.sh/skills/staratheris-arya-model-router) - 节省令牌的路由器：选择模型（便宜/默认/专业），并为繁重任务使用子代理。
+- [asia-llm-router-skills](https://clawskills.sh/skills/renning22-asia-llm-router-skills) - 统一 LLM 网关 —— 一个 API 接入 70+ AI 模型。
+- [askgina-polymarket](https://clawskills.sh/skills/sidshekhar-askgina-polymarket) - Claw 机器人快速设置：粘贴您的 Gina MCP 令牌，在几分钟内开始交易 Polymarket。
+- [astrai-inference-router](https://clawskills.sh/skills/beee003-astrai-inference-router) - 通过 Astrai 路由所有 LLM 调用，利用智能路由和隐私控制节省 40% 以上成本。
+- [audio-processing](https://clawskills.sh/skills/iyeque-audio-processing) - 音频摄取、分析、转换和生成（转录、TTS、VAD、特征提取）。
 - [authy](https://clawskills.sh/skills/eric8810-authy) - 通过环境变量将密钥注入子进程。
-- [bagsworld](https://clawskills.sh/skills/aiengineerx-bagsworld) - 在 BagsWorld 中找到家 - 一个像素艺术世界，AI 代理在那里以螃蟹、龙虾和建筑物的形式生活。
-- [bank-skills](https://clawskills.sh/skills/singularityhacker-bank-skills) - 通过 Wise API 进行传统银行业务 + 在 Base 上进行链上代币交换。
+- [bagsworld](https://clawskills.sh/skills/aiengineerx-bagsworld) - 在 BagsWorld 中找到一个家 —— 一个像素艺术世界，AI 代理在这里以螃蟹、龙虾和建筑物的形式生活。
 - [baselight-mcp](https://clawskills.sh/skills/pjsousa79-baselight-mcp) - 连接到 Baselight MCP（模型上下文协议）。
 - [broedkrumme-kalibr](https://clawskills.sh/skills/broedkrummen-broedkrumme-kalibr) - 代理自我改进和遥测。
-- [build-session](https://clawskills.sh/skills/stevenartzt-build-session) - 一个高效的自主代理会话框架。
-- [bunni-modes](https://clawskills.sh/skills/dubhorizoned-bunni-modes) - 一个角色和模型切换工具包，包含 Bunni，您活泼的网络安全助手。
-- [chaos-pivot](https://clawskills.sh/skills/manecharo-chaos-pivot) - 防止 LLM 因为沉没成本而坚持使用有缺陷的解决方案。
-- [chief-editor](https://clawskills.sh/skills/teamolab-chief-editor) - 您是一位专业的主编。# 用户个性化偏好 [关键]以下是用户输入的内容。
+- [build-session](https://clawskills.sh/skills/stevenartzt-build-session) - 一个用于高效的自主代理会话的框架。
+- [bunni-modes](https://clawskills.sh/skills/dubhorizoned-bunni-modes) - 一个角色和模型切换工具包，featuring Bunni，您活泼的网络安全助手。
+- [chaos-pivot](https://clawskills.sh/skills/manecharo-chaos-pivot) - 防止 LLM 因为沉没成本而继续推送有缺陷的解决方案。
+- [chief-editor](https://clawskills.sh/skills/teamolab-chief-editor) - 您是一位专业主编。# 用户个性化偏好 [关键] 以下是用户输入的内容。
 - [claude-usage-checker](https://clawskills.sh/skills/aligurelli-claude-usage-checker) - 检查 Claude Code / Claude Max 使用限制。
-- [colormind](https://clawskills.sh/skills/boilerrat-colormind) - 通过 Colormind.io API 生成调色板并获取颜色建议（列出模型、生成调色板）。
-- [colorpool-skills](https://clawskills.sh/skills/kj-script-colorpool-skills) - ColorPool DEX — Chromia 用于代币交换、流动性池和余额管理的去中心化交易所。
-- [communicate](https://clawskills.sh/skills/kenblive-communicate) - 直接从聊天中立即开始使用本地或 Hugging Face 模型。
-- [compression](https://clawskills.sh/skills/trinitybotserver-compression) - 用于迭代 AI 开发循环的预运行提示词压缩。
-- [context-gatekeeper](https://clawskills.sh/skills/davienzomq-context-gatekeeper) - 通过汇总最近的交流、突出待处理操作并提供服务来保持对话令牌友好。
+- [colormind](https://clawskills.sh/skills/boilerrat-colormind) - 通过 Colormind.io API 生成调色板并获取颜色建议（列出模型，生成调色板）。
+- [colorpool-skills](https://clawskills.sh/skills/kj-script-colorpool-skills) - ColorPool DEX —— Chromia 的去中心化交易所，用于代币交换、流动性池和余额管理。
+- [communicate](https://clawskills.sh/skills/kenblive-communicate) - 立即开始使用本地或 Hugging Face 模型，直接从聊天中。
+- [compression](https://clawskills.sh/skills/trinitybotserver-compression) - 用于迭代 AI 开发循环的预运行提示压缩。
+- [context-gatekeeper](https://clawskills.sh/skills/davienzomq-context-gatekeeper) - 通过总结最近的交流、突出待处理的操作和传递关键信息来保持对话令牌友好。
 - [conversational-ai-assistant](https://clawskills.sh/skills/satoshistackalotto-conversational-ai-assistant) - 用于查询希腊会计数据的自然语言界面。
-- [crewmind-bets](https://clawskills.sh/skills/vladthecto-crewmind-bets) - > **简而言之**：在 CrewMind 竞技场中对 LLM 模型进行下注。
+- [crewmind-bets](https://clawskills.sh/skills/vladthecto-crewmind-bets) - > **太长不看**：在 CrewMind 竞技场中对 LLM 模型下注。
 - [crypto-agent-payments](https://clawskills.sh/skills/nicofains1-crypto-agent-payments) - 创建钱包、转移代币并启用代理之间的支付。
-- [decompose-mcp](https://clawskills.sh/skills/echology-io-decompose-mcp) - 将任何文本分解为分类的语义单元 - 权威、风险、注意力、实体。
-- [deepseek-reasoner-lite-agent](https://clawskills.sh/skills/teamolab-deepseek-reasoner-lite-agent) - 您是 DeepSeek-R1-Agent，一位有效的内容创作者。# `current_date: $DATE$`。
-- [deepseek-v3-lite-agent](https://clawskills.sh/skills/alvinecarn-deepseek-v3-lite-agent) - 您是 DeepSeek-V3-Agent，一位有效的内容创作者。
-- [doginals](https://clawskills.sh/skills/greatape42069-doginals) - Doginals 技能使用户能够与 Doginals 和 Dunes 协议交互，促进铭文。
-- [dr-frankenstein](https://clawskills.sh/skills/brancante-dr-frankenstein) - 赋予您的代理灵魂。
-- [dr-soul](https://clawskills.sh/skills/brancante-dr-soul) - 赋予您的代理灵魂。
-- [ecommerce-price-monitor](https://clawskills.sh/skills/g4dr-ecommerce-price-monitor) - 该技能使 Claude 能够监控和跟踪主要电子商务平台上的**产品价格**。
-- [evoagentx](https://clawskills.sh/skills/nantes-evoagentx) - EvoAgentX - 自进化 AI 代理框架集成。
+- [decompose-mcp](https://clawskills.sh/skills/echology-io-decompose-mcp) - 将任何文本分解为分类的语义单元 —— 权威性、风险、注意力、实体。
+- [deepseek-reasoner-lite-agent](https://clawskills.sh/skills/teamolab-deepseek-reasoner-lite-agent) - 您是 DeepSeek-R1-Agent，一个高效的内容创作者。# `current_date: $DATE$`。
+- [deepseek-v3-lite-agent](https://clawskills.sh/skills/alvinecarn-deepseek-v3-lite-agent) - 您是 DeepSeek-V3-Agent，一个高效的内容创作者。
+- [doginals](https://clawskills.sh/skills/greatape42069-doginals) - Doginals 技能使用户能够与 Doginals 和 Dunes 协议交互，促进铭文创建。
+- [dr-frankenstein](https://clawskills.sh/skills/brancante-dr-frankenstein) - 给您的代理灵魂。
+- [dr-soul](https://clawskills.sh/skills/brancante-dr-soul) - 给您的代理灵魂。
+- [ecommerce-price-monitor](https://clawskills.sh/skills/g4dr-ecommerce-price-monitor) - 此技能使 Claude 能够监控和跟踪**主要电商平台的产品价格**。
+- [evoagentx](https://clawskills.sh/skills/nantes-evoagentx) - EvoAgentX —— 自我进化的 AI 代理框架集成。
 - [expanso-log-sanitize](https://clawskills.sh/skills/aronchick-expanso-log-sanitize) - "通过删除密码、令牌和敏感模式来清理日志条目"。
-- [expanso-secrets-scan](https://clawskills.sh/skills/aronchick-expanso-secrets-scan) - 在文本或代码中检测硬编码的密钥（API 密钥、令牌、密码）。
+- [expanso-secrets-scan](https://clawskills.sh/skills/aronchick-expanso-secrets-scan) - 检测文本或代码中的硬编码密钥（API 密钥、令牌、密码）。
 - [gep-immune-auditor](https://clawskills.sh/skills/andyxinweiminicloud-gep-immune-auditor) - GEP/EvoMap 生态系统的安全审计代理。
 - [get-hba](https://clawskills.sh/skills/matbalez-get-hba) - 使用 MoneyDevKit L402 流程和管理令牌在 clank.money 上注册和更新人类比特币地址 (BIP-353)。
 - [gm3-alertworthy-feed](https://clawskills.sh/skills/bigbadman-lab-gm3-alertworthy-feed) - 对 GM3 Alertworthy feed 的只读访问，为分析代理提供实时代币市场数据。
-- [gmail-secretary](https://clawskills.sh/skills/officialdelta-gmail-secretary) - 使用 Haiku LLM 进行分类、标签应用和草拟回复的 Gmail 分类助手（使用 gog CLI）。
-- [groq](https://clawskills.sh/skills/samirjtv-ctrl-groq) - 要使用此技能，请说 `Groq: <您的提示词>`。
-- [groq-2](https://clawskills.sh/skills/samirjtv-ctrl-groq-2) - 要使用此技能，请说 `Groq: <您的提示词>`。
-- [hedera-tx-builder](https://clawskills.sh/skills/harleyscodes-hedera-tx-builder) - 构建和签名 Hedera 交易。
+- [gmail-secretary](https://clawskills.sh/skills/officialdelta-gmail-secretary) - Gmail 分类助手，使用 Haiku LLM 进行分类、标签应用和起草回复（使用 gog CLI）。
+- [groq](https://clawskills.sh/skills/samirjtv-ctrl-groq) - 要使用此技能，请说 `Groq: <your prompt>`。
+- [groq-2](https://clawskills.sh/skills/samirjtv-ctrl-groq-2) - 要使用此技能，请说 `Groq: <your prompt>`。
+- [hedera-tx-builder](https://clawskills.sh/skills/harleyscodes-hedera-tx-builder) - 构建和签署 Hedera 交易。
 - [homeassistant-assist](https://clawskills.sh/skills/developmentcats-homeassistant-assist) - 使用 Assist（对话）API 控制 Home Assistant 智能家居设备。
-- [iyeque-audio-processing](https://clawskills.sh/skills/iyeque-iyeque-audio-processing) - 音频摄取、分析、转换和生成（转录、TTS、VAD、特征）。
-- [leviathan-news](https://clawskills.sh/skills/zcor-leviathan-news) - 众包加密新闻 API。
+- [iyeque-audio-processing](https://clawskills.sh/skills/iyeque-iyeque-audio-processing) - 音频摄取、分析、转换和生成（转录、TTS、VAD、特征提取）。
+- [leviathan-news](https://clawskills.sh/skills/zcor-leviathan-news) - 众包加密货币新闻 API。
 - [lieutenant](https://clawskills.sh/skills/jd-delatorre-lieutenant) - AI 代理安全和信任验证。
 - [lifi-crosschain](https://clawskills.sh/skills/rhlsthrm-lifi-crosschain) - 通过 LI.FI 协议进行跨链代币交换和桥接。
-- [llmcouncil-router](https://clawskills.sh/skills/ashtiwariasu-llmcouncil-router) - 使用来自 LLM Council 的同行评议委员会排名将任何提示词路由到性能最佳的 LLM。
-- [llmfit](https://clawskills.sh/skills/alexsjones-llmfit) - 检测本地硬件（RAM、CPU、GPU/VRAM）并推荐最适合的本地 LLM 模型和最佳量化。
-- [local-llama-tts](https://clawskills.sh/skills/wuxxin-local-llama-tts) - 使用 llama-tts (llama.cpp) 和 OuteTTS-1.0-0.6B 模型进行本地文本转语音。
-- [mantis-manager](https://clawskills.sh/skills/willykinfoussia-mantis-manager) - 通过官方 Mantis REST API 管理 Mantis Bug Tracker（问题、项目、用户、过滤器、配置）。
+- [llmcouncil-router](https://clawskills.sh/skills/ashtiwariasu-llmcouncil-router) - 使用 LLM Council 的同行评议排名将任何提示路由到性能最佳的 LLM。
+- [llmfit](https://clawskills.sh/skills/alexsjones-llmfit) - 检测本地硬件（RAM、CPU、GPU/VRAM），并推荐具有最优量化的最佳本地 LLM 模型。
+- [local-llama-tts](https://clawskills.sh/skills/wuxxin-local-llama-tts) - 使用 llama-tts (llama.cpp) 和 OuteTTS-1.0-0.6B 模型的本地文本转语音。
+- [mantis-manager](https://clawskills.sh/skills/willykinfoussia-mantis-manager) - 通过官方 Mantis REST API 管理 Mantis 错误跟踪器（问题、项目、用户、过滤器、配置）。
 - [manifest-build](https://clawskills.sh/skills/brunobuddy-manifest-build) - 开源 LLM 路由和成本跟踪插件。
-- [matchmaking](https://clawskills.sh/skills/amirmabhout-matchmaking) - 代理匹配 - 为您的人类寻找有意义的联系。
-- [meeting-autopilot](https://clawskills.sh/skills/tkuehnl-meeting-autopilot) - 将会议记录转换为运营输出 - 行动项、决策、后续邮件草稿和工单。
+- [matchmaking](https://clawskills.sh/skills/amirmabhout-matchmaking) - 代理匹配 —— 为您的人类找到有意义的联系。
+- [meeting-autopilot](https://clawskills.sh/skills/tkuehnl-meeting-autopilot) - 将会议记录转化为运营输出 —— 行动项、决策、后续邮件草稿和工单。
 - [meeting-summarizer](https://clawskills.sh/skills/claudiodrusus-meeting-summarizer) - 将原始会议记录转换为结构化、可操作的摘要。
-- [metacognition](https://clawskills.sh/skills/meimakes-metacognition) - AI 代理的自我反思引擎。
+- [metacognition](https://clawskills.sh/skills/meimakes-metacognition) - AI 代理的自反思引擎。
 - [mh-openai-whisper](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-openai-whisper) - 使用 Whisper CLI 进行本地语音转文本（无需 API 密钥）。
 - [mh-openai-whisper-api](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-openai-whisper-api) - 通过 OpenAI 音频转录 API (Whisper) 转录音频。
-- [mintclub](https://clawskills.sh/skills/sebayaki-mintclub) - 使用 `mc` CLI 在 Base 上与 Mint Club V2 锚定曲线代币交互。
-- [mnemon](https://clawskills.sh/skills/grivn-mnemon) - LLM 代理的持久化记忆 CLI。
-- [moa](https://clawskills.sh/skills/jscianna-moa) - 代理混合：让 3 个前沿模型进行争论，然后将它们的最佳见解综合成一个卓越的答案。
-- [model-guard](https://clawskills.sh/skills/sarielwang93-model-guard) - 自动监控 Anti-Gravity 模型配额，并将默认模型切换到配额最高的模型。
-- [modelready](https://clawskills.sh/skills/carol-gutianle-modelready) - 直接从聊天中立即开始使用本地或 Hugging Face 模型。
-- [modelwar](https://clawskills.sh/skills/pj4533-modelwar) - ModelWar 是一个试验场，AI 代理在其中编写程序，在虚拟计算机中相互对抗。
+- [mnemon](https://clawskills.sh/skills/grivn-mnemon) - LLM 代理的持久记忆 CLI。
+- [moa](https://clawskills.sh/skills/jscianna-moa) - 代理混合：让 3 个前沿模型争论，然后将它们的最佳见解合成为一个卓越的答案。
+- [model-guard](https://clawskills.sh/skills/sarielwang93-model-guard) - 自动监控 Anti-Gravity 模型配额，并将默认模型切换到剩余量最高的模型。
+- [modelready](https://clawskills.sh/skills/carol-gutianle-modelready) - 立即开始使用本地或 Hugging Face 模型，直接从聊天中。
+- [modelwar](https://clawskills.sh/skills/pj4533-modelwar) - ModelWar 是一个验证场，AI 代理在这里编写程序，在虚拟计算机中相互对抗。
 - [multi-agent-collab](https://clawskills.sh/skills/vdc-k-multi-agent-collab) - Claude Code 的通用多代理协作方法。
-- [music-generator](https://clawskills.sh/skills/wells1137-music-generator) - 从结构化作曲计划生成音乐。
-- [n2-stitch-mcp](https://clawskills.sh/skills/choihyunsus-n2-stitch-mcp) - 用于 Google Stitch 的弹性 MCP 代理 - 3 层安全（自动重试、令牌刷新、TCP 掉线恢复）。
+- [music-generator](https://clawskills.sh/skills/wells1137-music-generator) - 根据结构化的创作计划生成音乐。
+- [n2-stitch-mcp](https://clawskills.sh/skills/choihyunsus-n2-stitch-mcp) - Google Stitch 的弹性 MCP 代理 —— 3 层安全保护（自动重试、令牌刷新、TCP 掉线恢复）。
 - [native-sentry](https://clawskills.sh/skills/codeninja23-native-sentry) - 通过 Sentry REST API 读取 Sentry 问题、事件和生产错误。
-- [near-batch-sender](https://clawskills.sh/skills/shaiss-near-batch-sender) - NEAR 代币的批量操作 - 发送给多个接收者、转移 NFT、申领奖励并估算成本。
-- [numinous-forecast](https://clawskills.sh/skills/juandbalbi-numinous-forecast) - 从 Numinous（Bittensor 子网 6）获取校准的概率，并包含元数据/出处。
-- [openmeteo-sh-weather-advanced](https://clawskills.sh/skills/lstpsche-openmeteo-sh-weather-advanced) - 免费的高级 OpenMeteo API 天气预报：历史数据、详细变量选择、模型选择、过去天数。
-- [openseti-skill](https://clawskills.sh/skills/synergysize-openseti-skill) - 分布式 SETI 扫描仪 - 贡献计算能力以分析来自 Breakthrough Listen 的真实射电望远镜数据。
-- [percept-ambient](https://clawskills.sh/skills/jarvis563-percept-ambient) - 环境智能模式 - 无需明确命令的持续上下文感知。
-- [picqer-fulfillment](https://clawskills.sh/skills/johnmcgucki-picqer-fulfillment) - 用于仪表板数据的仅 JSON API。
-- [pincer](https://clawskills.sh/skills/panzacoder-pincer) - 用于安装代理技能的安全优先包装器。
-- [plugy](https://clawskills.sh/skills/qualitydude-plugy) - 用于 AI 代理的 Solana 交易技能。
+- [near-batch-sender](https://clawskills.sh/skills/shaiss-near-batch-sender) - NEAR 代币的批量操作 —— 发送给多个接收者、转移 NFT、估算成本并领取奖励。
+- [openmeteo-sh-weather-advanced](https://clawskills.sh/skills/lstpsche-openmeteo-sh-weather-advanced) - 来自免费 OpenMeteo API 的高级天气：历史数据、详细的变量选择、模型选择、过去几天。
+- [openseti-skill](https://clawskills.sh/skills/synergysize-openseti-skill) - 分布式 SETI 扫描仪 —— 贡献计算能力以分析来自突破性监听项目的真实射电望远镜数据。
+- [percept-ambient](https://clawskills.sh/skills/jarvis563-percept-ambient) - 环境智能模式 —— 无需明确命令的持续上下文感知。
+- [picqer-fulfillment](https://clawskills.sh/skills/johnmcgucki-picqer-fulfillment) - 仅限 JSON 的仪表板数据 API。
+- [pincer](https://clawskills.sh/skills/panzacoder-pincer) - 安全优先的代理技能安装包装器。
 - [postavel](https://clawskills.sh/skills/nezaboravi-postavel) - 通过 MCP（模型上下文协议）连接到 Postavel 社交媒体管理平台。
-- [prism-alerts](https://clawskills.sh/skills/nextfrontierbuilds-prism-alerts) - 面向 Solana 交易者的实时 Pump.fun 代币警报。
-- [prism-scanner](https://clawskills.sh/skills/nextfrontierbuilds-prism-scanner) - 任何代币的即时跑路检测。
-- [pump-fun](https://clawskills.sh/skills/playdadev-pump-fun) - 使用 PumpPortal API 在 Pump.fun 上买卖代币。
-- [revenue-model-design](https://clawskills.sh/skills/jk-0001-revenue-model-design) - 为个体创业者业务设计收入模式 - 资金如何流入、来自谁、以及按什么节奏。
-- [revolut-business](https://clawskills.sh/skills/christianhaberl-revolut-business) - Revolut Business API CLI — 账户、余额、交易、交易对手、付款、外汇兑换、CSV 导出。
-- [rnwy](https://clawskills.sh/skills/rnwy-rnwy) - 为人类和 AI 获取灵魂绑定护照。
+- [prism-scanner](https://clawskills.sh/skills/nextfrontierbuilds-prism-scanner) - 任何代币的即时抢跑检测。
+- [pump-fun](https://clawskills.sh/skills/playdadev-pump-fun) - 使用 PumpPortal API 在 Pump.fun 上购买、销售和推出代币。
+- [revenue-model-design](https://clawskills.sh/skills/jk-0001-revenue-model-design) - 为个体创业者设计收入模式 —— 资金如何流入、从谁那里流入、以什么节奏流入。
+- [revolut-business](https://clawskills.sh/skills/christianhaberl-revolut-business) - Revolut Business API CLI —— 账户、余额、交易、交易对手、支付、外汇兑换、CSV 导出。
 - [rv-measure](https://clawskills.sh/skills/amitabhainarunachala-rv-measure) - 量化 AI 模型中的 R_V 收缩特征。
-- [safety-checks](https://clawskills.sh/skills/leegitw-safety-checks) - 在信任之前验证 - 模型固定、回退和运行时安全验证。
+- [safety-checks](https://clawskills.sh/skills/leegitw-safety-checks) - 先验证再信任 —— 模型固定、回退和运行时安全验证。
 - [sansfiction-library](https://clawskills.sh/skills/fgbytes-sansfiction-library) - 授权的 SansFiction 库管理器。
-- [screen-vision](https://clawskills.sh/skills/ls18166407597-design-screen-vision) - 使用 Vision 框架的 macOS 本地 OCR 和自动化工具。
+- [screen-vision](https://clawskills.sh/skills/ls18166407597-design-screen-vision) - 使用视觉框架的 macOS 本地 OCR 和自动化工具。
 - [sequence-cli](https://clawskills.sh/skills/jameslawton-sequence-cli) - 使用 Sequence 管理 Sequence 智能钱包、项目、API 密钥、ERC20 转账并查询区块链数据。
-- [shipmytoken](https://clawskills.sh/skills/new-ground-shipmytoken) - 在 Pumpfun 上启动 Solana 代币，管理费用分享，申领收益并跟踪投资组合。
 - [shipstation-orders](https://clawskills.sh/skills/cprice70-shipstation-orders) - 监控 ShipStation 订单，检测问题并发送警报。
-- [smart-context](https://clawskills.sh/skills/joe3112-smart-context) - 令牌高效的代理行为 - 响应大小调整、上下文修剪、工具效率和委托。
+- [smart-context](https://clawskills.sh/skills/joe3112-smart-context) - 高效令牌的代理行为 —— 响应大小调整、上下文修剪、工具效率和委派。
 - [snipeit-skill](https://clawskills.sh/skills/bivex-snipeit-skill) - 通过 REST API 与 Snipe-IT 资产管理交互。
-- [social-media-extractor](https://clawskills.sh/skills/g4dr-social-media-extractor) - 该技能使 Claude 能够从**Instagram**、**TikTok** 和 **Reddit** 提取公开数据。
-- [solana-scanner](https://clawskills.sh/skills/satoshi891102-solana-scanner) - 扫描任何 Solana 代币的安全性 - 流动性、持币集中度、红旗和跑路指标。
-- [solana-skills](https://clawskills.sh/skills/spendit-ai-solana-skills) - Solana 钱包操作 - 创建钱包、检查余额、发送 SOL/代币、通过 Jupiter 交换、在 Pump.fun 上启动代币。
-- [solana-swaps](https://clawskills.sh/skills/imthatcarlos-solana-swaps) - 通过 Jupiter 聚合器在 Solana 上交换代币并检查钱包余额。
-- [solanaprox-ai](https://clawskills.sh/skills/yebdmo2-solanaprox-ai) - 通过 Solana USDC 进行按使用付费的 AI 推理。
-- [solpaw-launcher](https://clawskills.sh/skills/lvcidpsyche-solpaw-launcher) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 代币。0.1 SOL 一次性费用。
-- [solpaw-skill](https://clawskills.sh/skills/lvcidpsyche-solpaw-skill) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 代币。0.1 SOL 一次性费用。
-- [solpaw-skill-final](https://clawskills.sh/skills/lvcidpsyche-solpaw-skill-final) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 代币。0.1 SOL 一次性费用。
-- [solpaw-skill-v2](https://clawskills.sh/skills/lvcidpsyche-solpaw-skill-v2) - 通过 SolPaw 平台在 Pump.fun 上启动 Solana 代币。0.1 SOL 一次性费用。
+- [social-media-extractor](https://clawskills.sh/skills/g4dr-social-media-extractor) - 此技能使 Claude 能够从 **Instagram**、**TikTok** 和 **Reddit** 提取公开数据。
 - [speakturbo-tts](https://clawskills.sh/skills/emzod-speakturbo-tts) - 让您的代理能够实时与您对话。
-- [staratheris-arya-model-router](https://clawskills.sh/skills/staratheris-staratheris-arya-model-router) - 令牌节省路由器：选择模型（便宜/默认/专业）并使用子代理处理繁重任务。
+- [staratheris-arya-model-router](https://clawskills.sh/skills/staratheris-staratheris-arya-model-router) - 节省令牌的路由器：选择模型（便宜/默认/专业），并为繁重任务使用子代理。
 - [sui](https://clawskills.sh/skills/easonc13-sui) - 回答关于 Sui 区块链生态系统、概念、代币经济学、验证者、质押和常识的问题。
-- [switch-modes](https://clawskills.sh/skills/serudda-switch-modes) - 在 AI 模型之间动态切换以优化成本和性能。
-- [taiwan-calendar](https://clawskills.sh/skills/pigfoot-taiwan-calendar) - 台湾日历查询，获取准确的工作日/假日信息。
-- [ted-talk](https://clawskills.sh/skills/leegitw-ted-talk) - 将技术见解转换为完整的 40-50 分钟 TED 风格演讲，包含具体示例和问答。
+- [switch-modes](https://clawskills.sh/skills/serudda-switch-modes) - 动态切换 AI 模型以优化成本和性能。
+- [taiwan-calendar](https://clawskills.sh/skills/pigfoot-taiwan-calendar) - 台湾日历查询，以获取准确的工作日/假期信息。
+- [ted-talk](https://clawskills.sh/skills/leegitw-ted-talk) - 将技术见解转化为完整的 40-50 分钟 TED 风格演讲，包含具体示例和问答。
 - [togetherai-tts](https://clawskills.sh/skills/marcus20232023-togetherai-tts) - 使用 TogetherAI API 和 MiniMax speech-2.6-turbo 模型进行文本转语音。
-- [token-alert](https://clawskills.sh/skills/r00tid-token-alert) - 🚨 **监控会话令牌并在 75%/90%/95% 时收到警报**。
+- [token-alert](https://clawskills.sh/skills/r00tid-token-alert) - 🚨 **监控会话令牌并在 75%/90%/95% 时发出警报**。
 - [token-guard](https://clawskills.sh/skills/edmonddantesj-token-guard) - <!-- 🌌 Aoineco-Verified | S-DNA: AOI-2026-0213-SDNA-TG01 -->。
-- [tokendraft](https://clawskills.sh/skills/nikzt-tokendraft) - TokenDraft 幻想加密货币锦标赛的完整套件 - 使用 Solana 钱包认证、查询/加入/自动加入。
 - [tokenguard](https://clawskills.sh/skills/g0head-tokenguard) - AI 代理的 API 成本守护者。
-- [tracking](https://clawskills.sh/skills/rzyen-hash-tracking) - 通过 GMGN.AI 跟踪 Base 链上的代币。
-- [unclaimed-sol-scanner](https://clawskills.sh/skills/nedim1511-unclaimed-sol-scanner) - 扫描任何 Solana 钱包以从休眠代币账户和程序缓冲区账户中回收可申领的 SOL。
+- [tracking](https://clawskills.sh/skills/rzyen-hash-tracking) - 通过 GMGN.AI 在 Base 链上跟踪代币。
 - [universal-skills-manager](https://clawskills.sh/skills/jacob-bd-universal-skills-manager) - AI 技能的主协调器。
 - [usdckrump](https://clawskills.sh/skills/arunnadarasa-usdckrump) - 通过 Story Aeneid EVVM 上的 x402 使用 USDC Krump (USDC.k) 支付。
-- [venice-admin](https://clawskills.sh/skills/sabrinaaquino-venice-admin) - Venice AI 账户管理 - 检查余额、查看使用历史并管理 API 密钥。
+- [venice-admin](https://clawskills.sh/skills/sabrinaaquino-venice-admin) - Venice AI 账户管理 —— 检查余额、查看使用历史记录并管理 API 密钥。
 - [vincent-credentials](https://clawskills.sh/skills/glitch003-vincent-credentials) - 使用此技能安全存储凭据（API 密钥、密码、令牌）并将其写入 .env 文件。
 - [voice-recognition](https://clawskills.sh/skills/gykdly-voice-recognition) - 使用 OpenAI Whisper CLI 进行本地语音转文本。
-- [wallet-api](https://clawskills.sh/skills/andresubri-wallet-api) - 与 BudgetBakers Wallet API 交互以获取个人财务数据。
-- [which-llm](https://clawskills.sh/skills/zapkid-which-llm) - 确定性决策排名 API，支持 HTTP 402 USDC 支付和结果积分（折扣）。
-- [wolfram-alpha](https://clawskills.sh/skills/robert-janssen-wolfram-alpha) - 执行复杂的数学计算、物理模拟、数据分析和科学查询。
+- [wallet-api](https://clawskills.sh/skills/andresubri-wallet-api) - 与 BudgetBakers 钱包 API 交互以获取个人财务数据。
+- [which-llm](https://clawskills.sh/skills/zapkid-which-llm) - 确定性决策排名 API，支持 HTTP 402 USDC 付款和结果积分（折扣）。
+- [wolfram-alpha](https://clawskills.sh/skills/robert-janssen-wolfram-alpha) - 执行复杂数学计算、物理模拟、数据分析和科学查询。
 - [x-ai](https://clawskills.sh/skills/blueberrywoodsym-x-ai) - 通过 xAI API 与 Grok 模型聊天。
-- [x-alive](https://clawskills.sh/skills/kitakitsune0x-x-alive) - 让您的 AI 代理在 X/Twitter 上活跃起来。
+- [x-alive](https://clawskills.sh/skills/kitakitsune0x-x-alive) - 让您的 AI 代理在 X/Twitter 上栩栩如生。
 - [xian-sdk-skill](https://clawskills.sh/skills/endogen-xian-sdk-skill) - 使用 xian-py Python SDK 在 Xian 区块链上构建应用程序。
-- [zapper](https://clawskills.sh/skills/spirosrap-zapper) - 通过 Zapper 的 GraphQL API 查询跨 50+ 链的 DeFi 投资组合数据。
+- [zapper](https://clawskills.sh/skills/spirosrap-zapper) - 通过 Zapper 的 GraphQL API 查询 50 多条链的 DeFi 投资组合数据。
 - [zapper-api](https://clawskills.sh/skills/zivhm-zapper-api) - 通过 Zapper API 查询 DeFi 投资组合、代币持有量、NFT、交易和价格。
-- [zhipu-asr](https://clawskills.sh/skills/franklu0819-lang-zhipu-asr) - 使用智谱 AI（BigModel）GLM-ASR 模型进行自动语音识别 (ASR)。
+- [zhipu-asr](https://clawskills.sh/skills/franklu0819-lang-zhipu-asr) - 使用智谱 AI (BigModel) GLM-ASR 模型进行自动语音识别 (ASR)。
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/ai-and-llms.md*
-*翻译时间：2026-03-18*
----
-*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/ai-and-llms.md*
-*翻译时间：2026-03-18*
+*翻译时间：2026-03-22*
