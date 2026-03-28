@@ -108,4 +108,4 @@
 - [bluente-translate](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md) - 在 2 分钟内保持格式完整地翻译您的文档。
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/pdf-and-documents.md*
-*翻译时间：2026-03-22*
+*翻译时间：2026-03-28*

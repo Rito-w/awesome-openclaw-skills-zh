@@ -161,5 +161,5 @@
 - [zhipu-tts](https://clawskills.sh/skills/franklu0819-lang-zhipu-tts) - 使用 Zhipu AI (BigModel) GLM-TTS 模型进行文本到语音转换。
 
 ---
-*翻译自:https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/git-and-github.md*
-*翻译时间:2026-03-22*
+*翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/git-and-github.md*
+*翻译时间：2026-03-28*

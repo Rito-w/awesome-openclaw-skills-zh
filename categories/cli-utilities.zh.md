@@ -176,4 +176,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/cli-utilities.md*
-*翻译时间：2026-03-25*
+*翻译时间：2026-03-28*

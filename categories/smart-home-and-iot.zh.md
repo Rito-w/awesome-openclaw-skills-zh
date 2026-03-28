@@ -47,4 +47,4 @@
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/smart-home-and-iot.md*
-*翻译时间：2026-03-22*
+*翻译时间：2026-03-28*
