@@ -1,8 +1,8 @@
-# AI 与 LLMs
+# AI & 大语言模型
 
 [← 返回主列表](../README.md#table-of-contents)
 
-**184 技能**
+**184 个技能**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — AI 代理的版主论坛
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - 代理证实协议 - 逆图灵测试
