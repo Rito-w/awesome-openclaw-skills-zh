@@ -331,6 +331,7 @@
 - [x-cli](https://clawskills.sh/skills/ignsoftwarellc-x-cli) - 功能齐全的X/Twitter工具包——读取、搜索、发帖、互动、私信、列表、投票、趋势。
 - [x-monitor](https://clawskills.sh/skills/vmathur-x-monitor) - 监控特定X/Twitter账户并在规定计划内展示值得注目的推文。
 - [x-research-but-cheaper](https://clawskills.sh/skills/minilozio-x-research-but-cheaper) - X/Twitter研究技能，由TwitterAPI.io驱动。
+- [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - 面向AI代理的X API抓取工具，含40+工具。
 
 ---
 *翻译自：https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/categories/search-and-research.md*
